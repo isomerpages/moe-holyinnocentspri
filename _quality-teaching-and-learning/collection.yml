@@ -1,4 +1,5 @@
 collections:
   quality-teaching-and-learning:
     output: true
-    order: []
+    order:
+      - English Language Department.md
