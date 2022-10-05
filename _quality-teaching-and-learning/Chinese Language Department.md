@@ -36,4 +36,21 @@ Innovative and creative pedagogies combined with use of ICT to engage our studen
 
 写作：6要素、F.A.S.T 写作策略、思维导图
 
+
 <img style="width: 60%;" src="/images/CL1.jpeg" align = "center" />
+
+<center>写作训练</center>
+
+<img style="width: 60%;" src="/images/CL2.jpeg" align = "center" />
+
+<center>利用科技进行学习</center>
+
+#### Department Programme 部门活动
+
+
+**母语双周**
+
+\-          乐学善用华文、华语
+
+扎根传统文化，发扬本土华族文化
+
