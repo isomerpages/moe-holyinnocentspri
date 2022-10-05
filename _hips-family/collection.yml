@@ -1,4 +1,5 @@
 collections:
   hips-family:
     output: true
-    order: []
+    order:
+      - School Crest.md
