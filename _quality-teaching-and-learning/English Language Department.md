@@ -43,3 +43,15 @@ Our students learn to appreciate the English language and develop their creative
 | -------- | -------- | -------- |
 |   ![](/images/EL6.jpeg)   | ![](/images/EL7.png)     |     |
 
+<br>
+
+<img style="width: 50%;" src="/images/EL8.jpeg" align = "center" />
+
+*<center>NLB reading activities<center>*
+	
+	
+<img style="width: 60%;" src="/images/el16.jpeg" align = "center" />
+	
+*<center>I am a reader card</center>*
+	
+	
