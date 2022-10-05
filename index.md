@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Holy Innocent's
+      title: Holy Innocents' Primary School
       background: /images/banner.gif
       key_highlights:
         - title: Highlight A
