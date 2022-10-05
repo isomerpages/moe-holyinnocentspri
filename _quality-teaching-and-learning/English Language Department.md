@@ -47,7 +47,7 @@ Our students learn to appreciate the English language and develop their creative
 
 <img style="width: 50%;" src="/images/EL8.jpeg" align = "center" />
 
-*<center>NLB reading activities<center>*
+*<center>NLB reading activities</center>*
 	
 	
 <img style="width: 60%;" src="/images/el16.jpeg" align = "center" />
@@ -55,3 +55,33 @@ Our students learn to appreciate the English language and develop their creative
 *<center>I am a reader card</center>*
 	
 	
+#### Speaking Programme
+
+Story telling sessions
+
+Ted Talks
+
+Reader’s Theatre  
+
+P1 Drama Enrichment 
+
+Let’s talk cards
+
+
+
+|  | | 
+| -------- | -------- | 
+|   ![](/images/EL11.jpeg)   | ![](/images/EL13.jpeg)    | 
+
+<img style="width: 60%;" src="/images/EL14.png" align = "center" />
+
+#### Writing Programme
+
+
+Our writing programme equips our students with various writing techniques that they deploy when writing their compositions. Our students’ writing and creative pieces are showcased in our annual publication, Our Voices.
+
+<img style="width: 60%;" src="/images/EL15.jpeg" align = "center" />
+
+
+
+
