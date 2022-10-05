@@ -21,7 +21,7 @@ We are committed to nurture the potential in each child to the fullest and devel
 | -------- | -------- | -------- |
 | **Nurture Potential**    | **God-Centred Environment**   | **Prepared for Challenges**     |
 
-<br><br><br>
+<br>
 
 
 |  **Core Values** | |  |
