@@ -36,4 +36,4 @@ Innovative and creative pedagogies combined with use of ICT to engage our studen
 
 写作：6要素、F.A.S.T 写作策略、思维导图
 
-
+<img style="width: 60%;" src="/images/CL1.jpeg" align = "center" />
