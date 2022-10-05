@@ -2,7 +2,6 @@ collections:
   hips-family:
     output: true
     order:
-      - Contact Us.md
       - School Crest.md
       - School History.md
       - Vision Mission Core Values.md
@@ -10,3 +9,4 @@ collections:
       - Strategic Thrusts.md
       - School Management Committee.md
       - General School Information.md
+      - Contact Us.md
