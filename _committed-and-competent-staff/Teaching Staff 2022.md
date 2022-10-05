@@ -85,9 +85,10 @@ _Updated on 7/4/2022_
 | 6 Resilience 6 | Mdm Ang Jingyi (洪老师）        | Miss Lim Soo Ee                |
 | 6 Resilience 7 | Ms Kan Hui Li Audrey            | Mdm Chua Sze Yi Kerin          |
 
+
 | <center>Lead Teacher (Chinese Language)</center> |
 |:-------------------------------:|
-|     <center>Mdm Dong Yan  (董老师)</center>     |
+|    Mdm Dong Yan  (董老师)     |
 
  
  
