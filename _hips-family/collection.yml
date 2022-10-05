@@ -2,5 +2,5 @@ collections:
   hips-family:
     output: true
     order:
-      - School History.md
       - School Crest.md
+      - School History.md
