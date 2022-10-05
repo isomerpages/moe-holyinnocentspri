@@ -35,6 +35,14 @@ Our students learn to appreciate the English language and develop their creative
 
 |  *Subscription of newspaper* | |  
 | -------- | -------- | 
-| ![](/images/EL4.jpeg)     |   ![](/images/EL5.jpeg)  | 
+| ![](/images/EL4.jpeg)     |   ![](/images/EL5.jpeg)  |
+
+
+
+| *Mobile Library / Library Visits* | |  |
+| -------- | -------- | -------- |
+|   ![](/images/EL6.jpeg)   | ![](/images/EL7.png)     |     |
+
+
 
 
