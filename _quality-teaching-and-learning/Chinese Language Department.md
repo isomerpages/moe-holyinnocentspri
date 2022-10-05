@@ -20,3 +20,19 @@ description: ""
 
 * 营造优良的学习环境，让每个学生乐学华文华语。
 
+
+#### Our Pedagogies and Approach 教学法与教学途径
+
+
+Innovative and creative pedagogies combined with use of ICT to engage our students.
+
+以创意及创新的教学法结合资讯科技，提升学生对华文的学习兴趣。
+
+教学策略：
+
+听说：6何法、口语表达5步法
+
+阅读：5读法、 SQ3R、6何法
+
+写作：6要素、F.A.S.T 写作策略、思维导图
+
