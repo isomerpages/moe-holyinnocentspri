@@ -23,3 +23,4 @@ Each child an effective and confident problem solver and a dynamic independent l
 A key Maths pedagogy at HIPS is the Concrete-Pictorial-Abstract (C-P-A) approach, which enables students to encounter Maths in a meaningful way and translate concepts from the concrete to the abstract. The CPA approach helps children learn new ideas and build on their existing knowledge by introducing abstract concepts in a more familiar way through concrete and pictorial modes.
 
 As such, hands-on activities and learning experiences are conducted to help students learn concepts through self-exploration, discussions, and collaborative learning.
+
