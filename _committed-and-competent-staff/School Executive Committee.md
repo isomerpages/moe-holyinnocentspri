@@ -8,4 +8,3 @@ description: ""
 **<center>[Miss Lena Seet](mailto:holyinnocentspri@moe.edu.sg)</center>**
 
 **<center>Principal</center>**
-
