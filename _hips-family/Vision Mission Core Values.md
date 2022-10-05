@@ -23,10 +23,8 @@ We are committed to nurture the potential in each child to the fullest and devel
 
 <br><br><br>
 
-**Core Values**
 
-|  | |  |
+|  **Core Values** | |  |
 | -------- | -------- | -------- |
 |    ![](/images/Sincerity.jpg)  |  ![](/images/Charity.jpg)    | ![](/images/Graciousness.jpg)     |
 |    ![](/images/Integrity.jpg)  | ![](/images/Self-Discipline.jpg)     |   ![](/images/Resilience.jpg)   |
-
