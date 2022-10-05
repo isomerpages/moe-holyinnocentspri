@@ -14,7 +14,7 @@ description: ""
   
 **Mission**  
 We are committed to nurture the potential in each child to the fullest and develop his character in a God-centred environment so as to prepare him for the challenges of the future and to serve the nation.
-
+<br>
 
 
 | ![](/images/Nurture%20Potential.jpeg) | ![](/images/God-Centred%20Environment.jpeg)| ![](/images/Prepared%20for%20Challenges.jpeg) |
