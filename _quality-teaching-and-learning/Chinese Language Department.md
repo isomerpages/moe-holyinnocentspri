@@ -54,3 +54,18 @@ Innovative and creative pedagogies combined with use of ICT to engage our studen
 
 扎根传统文化，发扬本土华族文化
 
+<img style="width: 60%;" src="/images/CL3.jpeg" align = "center" />
+
+<center>活动作品展</center>
+
+<img style="width: 60%;" src="/images/CL4.jpeg" align = "center" />
+
+<center>认识四大名著 -《西游记》</center>
+
+<img style="width: 60%;" src="/images/CL5.jpeg" align = "center" />
+
+<center>认识本土文化</center>
+
+
+
+
