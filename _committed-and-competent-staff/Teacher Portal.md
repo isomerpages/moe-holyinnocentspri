@@ -14,7 +14,7 @@ description: ""
 [Click here](https://drive.google.com/file/d/1vdygqwFRX-i99LJGhRtfDyVmUGoIhd1E/view?usp=sharing) for Logo Design
 
 <br> <br>
-***
+
 
 <a href="https://ogp-admiraltypri-staging.netlify.app/about-us/25th-anniversary-commemoration/booth-showcase/"></a>
 <img src="/images/Test2.jpeg" style="width:300px;height:200px;margin-left:-50px;" align = "left"> 
