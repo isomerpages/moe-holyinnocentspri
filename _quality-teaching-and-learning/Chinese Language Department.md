@@ -68,4 +68,7 @@ Innovative and creative pedagogies combined with use of ICT to engage our studen
 
 
 
+|  |  |
+| -------- | -------- | 
+|   ![](/images/CL6.jpeg)   |   ![](/images/CL7.jpeg)<br>ICLC国际创意写作比赛   | 
 
