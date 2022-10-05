@@ -24,3 +24,4 @@ A key Maths pedagogy at HIPS is the Concrete-Pictorial-Abstract (C-P-A) approach
 
 As such, hands-on activities and learning experiences are conducted to help students learn concepts through self-exploration, discussions, and collaborative learning.
 
+<img style="width: 60%;" src="/images/MA1.jpeg" align = "center" />
