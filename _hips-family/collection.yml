@@ -2,9 +2,9 @@ collections:
   hips-family:
     output: true
     order:
-      - School Management Committee.md
       - School Crest.md
       - School History.md
       - Vision Mission Core Values.md
       - School Song.md
       - Strategic Thrusts.md
+      - School Management Committee.md
