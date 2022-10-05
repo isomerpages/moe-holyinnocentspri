@@ -2,10 +2,10 @@ collections:
   hips-family:
     output: true
     order:
-      - General School Information.md
       - School Crest.md
       - School History.md
       - Vision Mission Core Values.md
       - School Song.md
       - Strategic Thrusts.md
       - School Management Committee.md
+      - General School Information.md
