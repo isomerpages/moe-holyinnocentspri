@@ -1,4 +1,5 @@
 collections:
   committed-and-competent-staff:
     output: true
-    order: []
+    order:
+      - Committed And Competent Staff.md
