@@ -12,3 +12,5 @@ description: ""
 | E-mail:                             | holyinnocentspri@moe.edu.sg |
 | Bus services:                       | Please refer to image       |
 | Nearest MRT Station:                | Hougang Station             |
+
+![](/images/Arrival%20by%20Public%20Bus.jpeg)
