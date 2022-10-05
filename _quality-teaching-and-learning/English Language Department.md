@@ -33,4 +33,8 @@ Our students learn to appreciate the English language and develop their creative
 
 ### Reading Programme
 
+|  *Subscription of newspaper* | |  
+| -------- | -------- | 
+| ![](/images/EL4.jpeg)     |   ![](/images/EL5.jpeg)  | 
+
 
