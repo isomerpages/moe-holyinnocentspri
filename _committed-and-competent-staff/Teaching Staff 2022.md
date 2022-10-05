@@ -92,7 +92,9 @@ _Updated on 7/4/2022_
 
  
  
- |  Senior Teachers                                          |                                        | 
-|:---------------------------------------:|:---------------------------------------------:|
-| Mrs Helena Baldwin  (English Language)  | Mdm Sun Xueying  (孙老师） (Chinese Language) |
-|    Mdm Tan Ying Fong Irene  (Science)   | Mr Low Tin Hock (刘老师） (Chinese Language)  |
+ **<center>Senior Teachers</center>**
+ |                                       |                                              |
+|:-------------------------------------:|:--------------------------------------------:|
+| Mrs Helena Baldwin (English Language) | Mdm Sun Xueying (孙老师） (Chinese Language) |
+|   Mdm Tan Ying Fong Irene (Science)   | Mr Low Tin Hock (刘老师） (Chinese Language) |
+ 
