@@ -14,8 +14,8 @@ The English Language department strives to nurture students who are :
 |                    |
 |--------------------|
 | Critical Readers   |
-| ![](/images/EL1.png)          |
+| <img style="width: 10%;" src="/images/EL1.png" align = "left" />          |
 | Confident Speakers |
-| ![](/images/EL2.png)          |
+| <img style="width: 10%;" src="/images/EL2.png" align = "left" />          |
 | Creative Writers   |
-| ![](/images/EL3.png)            |
+| <img style="width: 10%;" src="/images/EL3.png" align = "left" />            |
