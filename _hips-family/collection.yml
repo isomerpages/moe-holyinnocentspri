@@ -2,7 +2,6 @@ collections:
   hips-family:
     output: true
     order:
-      - Privacy Policy.md
       - School Crest.md
       - School History.md
       - Vision Mission Core Values.md
@@ -12,3 +11,4 @@ collections:
       - General School Information.md
       - Contact Us.md
       - Enquiry.md
+      - Privacy Policy.md
