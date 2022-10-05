@@ -2,8 +2,8 @@ collections:
   hips-family:
     output: true
     order:
-      - STRATEGIC THRUSTS.md
       - School Crest.md
       - School History.md
       - Vision Mission Core Values.md
       - School Song.md
+      - STRATEGIC THRUSTS.md
