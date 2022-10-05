@@ -2,6 +2,6 @@ collections:
   hips-family:
     output: true
     order:
-      - VISION MISSION CORE VALUES.md
       - School Crest.md
       - School History.md
+      - VISION MISSION CORE VALUES.md
