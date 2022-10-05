@@ -43,6 +43,3 @@ Our students learn to appreciate the English language and develop their creative
 | -------- | -------- | -------- |
 |   ![](/images/EL6.jpeg)   | ![](/images/EL7.png)     |     |
 
-
-
-
