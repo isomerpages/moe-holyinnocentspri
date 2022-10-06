@@ -35,29 +35,35 @@ The school adopts the Live it, Act on it, Pass it on (L.A.P) approach to realise
 <img style="width: 60%;" src="/images/CCE1.png" align = "center" /> 
 
 <br>
+<br>
 
 <img style="width: 60%;" src="/images/CCE2.png" align = "center" /> 
 
+**<center>Form Teacher Guidance Period (FTGP)</center>**
+
+<br>
 <br>
 
 <img style="width: 60%;" src="/images/CCE3.png" align = "center" /> 
 
 <br>
+<br>
 
 <img style="width: 60%;" src="/images/CCE4.png" align = "center" /> 
 
 <br>
+<br>
 
 <img style="width: 60%;" src="/images/CCE5.png" align = "center" /> 
 
+**<center>HIPS Hurray! Programme</center>**
+
+<br>
 <br>
 
 <img style="width: 60%;" src="/images/CCE6.png" align = "center" /> 
 
 <br>
+<br>
 
-<img style="width: 60%;" src="/images/CCE7.png" align = "center" /> 
-
-
-
-
+<img style="width: 60%;" src="/images/CCE7.png" align = "center" />
