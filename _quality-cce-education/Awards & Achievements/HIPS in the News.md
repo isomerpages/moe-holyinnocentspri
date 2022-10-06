@@ -17,7 +17,8 @@ Source:\[The Straits Times\] © SPH Media Limited. Permission required for rep
   
 **2021**
 
-[MyActiveSG, Circle News: NSG 2021 What Does Sport Mean to You?](https://circle.myactivesg.com/circle-news/articles/nsg-2021-what-does-sport-mean-to-you?type=all-articles)  **25 May 2021**
+[MyActiveSG, Circle News: NSG 2021 What Does Sport Mean to You?](https://circle.myactivesg.com/circle-news/articles/nsg-2021-what-does-sport-mean-to-you?type=all-articles)  
+**25 May 2021**
 
 **2020**
 
