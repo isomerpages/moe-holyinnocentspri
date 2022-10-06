@@ -63,3 +63,4 @@ The E2K Science Programme organised by the Gifted Education Branch (GEB, MOE) of
 *   Gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills. 
 *   Develop the habits, attitudes and dispositions scientists possess.
 
+
