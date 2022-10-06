@@ -16,4 +16,8 @@ sections:
       title: HIPS E-Open House
       button: Click
       url: https://staging.d2b4at95lsu703.amplifyapp.com/hips-family/HIPS-Partners/HIPS-Partners/
+  - infobar:
+      title: OUR FACEBOOK
+      button: Follow us
+      url: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fholyinnocentspri%2F
 ---
