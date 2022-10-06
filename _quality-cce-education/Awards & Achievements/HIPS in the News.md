@@ -35,7 +35,9 @@ Source:\[The Straits Times\] © SPH Media Limited. Permission required for rep
 [The Straits Times 26 March 2013](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/Straits%20Times%20(Mar%202013).pdf)  
   
 **2012**  
-[Zaobao 8 May 2012](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/Zaobao%20(May%202012).pdf)  
+
+[Zaobao 8 May 2012](/files/Zaobao%20(May%202012).pdf)
+
   
 **2011**  
 
