@@ -77,7 +77,7 @@ _Students using Explain Everything app to present their solutions to word proble
 
 _Use of Talk Moves cards to support mathematical reasoning and problem solving_
  
- #### Highlight of Mathematics program & activities
+#### Highlight of Mathematics program & activities
 
 
 **1.       3D Game Programming (P6)**
@@ -90,7 +90,7 @@ _<center>Use of coding blocks to create a 3D game</center>_
  
  <img style="width: 50%;" src="/images/MA13.jpeg" align = "center" />
  
- _<center>_Collaboration between classmates to create a 3D game_</center>_
+ _<center>Collaboration between classmates to create a 3D game</center>_
  
  **2.       Jumble Sale (P1 & P2)**
 
@@ -99,5 +99,3 @@ Unique learning experiences are designed to provide an opportunity for all stude
  <img style="width: 70%;" src="/images/MA14.jpeg" align = "center" />
  
 <center>Jumble Sale: Use of sticker money to make spending plans</center>
-
- 
