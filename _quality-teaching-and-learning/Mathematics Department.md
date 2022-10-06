@@ -53,9 +53,22 @@ _Use of interlocking cubes and number bond charts to make connections and establ
 
 
 
+|  | | 
+| -------- | -------- |
+| ![](/images/MA8.jpeg)<br>_Joy in learning Math through a game of Bingo_ |   ![](/images/MA9.jpeg)<br>_Formative Assessment: demonstrating understanding as a class using mini whiteboards_   | 
 
+Strategies
+----------
 
+**2\. Polya’s 4-Step Problem Solving approach**
 
+Another key Maths pedagogy at HIPS is the use of Polya’s 4-Step Problem Solving approach, which is a structured method that guides students in effective problem-solving. Teachers enhance classroom discourse through effective questioning and routines in visible thinking such as Talk Moves.
 
+ In class, these talk moves are used to support mathematical thinking and reasoning and drive student discussions. This is especially important when students are trying to clarify their own thinking and share ideas with each other.
 
+ A Process Thinking Skills (PTS) Package is also designed to provide a structured approach to enhance the students’ problem-solving skills through the use of heuristics.
+ 
+<img style="width: 65%;" src="/images/MA10.jpeg" align = "center" />
+ 
+ 
 
