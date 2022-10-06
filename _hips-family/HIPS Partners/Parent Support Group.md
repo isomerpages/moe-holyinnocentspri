@@ -22,3 +22,6 @@ To encourage more parents to be involved in their children's education at school
 
 #### Logo
 
+<br>
+
+<img style="width: 55%;" src="/images/PSG Logo.jpeg" align = "center" /> 
