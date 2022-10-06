@@ -80,7 +80,7 @@ _Use of Talk Moves cards to support mathematical reasoning and problem solving_
 #### Highlight of Mathematics program & activities
 
 
-**1.       3D Game Programming (P6)**
+**1. 3D Game Programming (P6)**
 
 Gearing towards the Science, Technology, Engineering and Mathematics (STEM) education in Singapore, students are introduced to the basics of coding through the 3D Game Programming at Primary 6. The programme aims to promote innovation, creativity, problem solving skills, logic, systematic thinking and collaboration among students. Students are meaningfully engaged and challenged to apply their knowledge and skills in Mathematics, especially in spatial awareness and visualisation to design and program a 3D game that incorporates the application of mathematical concepts.
 
