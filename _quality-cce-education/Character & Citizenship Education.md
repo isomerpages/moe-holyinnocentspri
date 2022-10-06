@@ -18,4 +18,3 @@ The CCE department’s vision of Caring Hearts is fleshed out from our school�
 To nurture our pupils into caring individuals with a strong moral compass 
 
 #### HIPS CCE Framework
-
