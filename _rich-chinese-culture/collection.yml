@@ -1,4 +1,5 @@
 collections:
   rich-chinese-culture:
     output: true
-    order: []
+    order:
+      - SAP (Chinese Culture).md
