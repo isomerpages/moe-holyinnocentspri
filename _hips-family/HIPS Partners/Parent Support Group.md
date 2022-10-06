@@ -24,4 +24,54 @@ To encourage more parents to be involved in their children's education at school
 
 <br>
 
-<img style="width: 55%;" src="/images/PSG Logo.jpeg" align = "center" /> 
+<img style="width: 30%;" src="/images/PSG Logo.jpeg" align = "center" />
+
+Our logo is the brainchild of the first executive committee. It symbolizes the link between the school and the parents working together to provide quality education, love and care for our children. 
+
+#### Advisory and Committee Members
+
+
+**Advisors**
+
+Miss Lena Seet
+
+Principal
+
+Mrs Sharon Tobias
+
+(VP Academic)
+
+**Chairperson:** Ms Luwen Loo
+
+**Vice- Chairperson:** Ms Lee Xiufen
+
+**Secretary:** Ms Karen Law
+
+**Assistant Secretary:** Ms Adeline Chang
+
+**Treasurer: Ms** Yang Yan
+
+**Assistant Treasurer:** Ms Jeslyn Theng 
+
+  
+
+**Committee Members**
+
+Ms Kory Joesman  
+
+Mr Roger Quek  
+
+Mr Jeffrey Pang
+
+Mr Vik Riar
+
+Ms Jenny Ong
+
+Ms Joyce Tan 
+
+Ms Candice Yang  
+
+  
+
+#### Activities
+
