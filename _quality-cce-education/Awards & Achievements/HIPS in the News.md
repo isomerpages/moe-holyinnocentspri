@@ -38,10 +38,11 @@ Source:\[The Straits Times\] © SPH Media Limited. Permission required for rep
 [Zaobao 8 May 2012](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/Zaobao%20(May%202012).pdf)  
   
 **2011**  
-[Thumbs Up 14 February 2011](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/Thumbs%20Up%20(Feb%202011).pdf)  
+
+[Thumbs Up 14 February 2011](/files/Thumbs%20Up%20(Feb%202011).pdf)
   
 **2010**  
 
-[Zaobao 28 November 2010](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/Zaobao%20(Nov%202010).pdf)  
+[Zaobao 28 November 2010](/files/Zaobao%20(Nov%202010).pdf)
 
 [Zaobao 9 December 2010](/files/Zaobao%20(Dec%202010).pdf)
