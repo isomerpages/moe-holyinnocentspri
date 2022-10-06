@@ -75,3 +75,21 @@ Ms Candice Yang
 
 #### Activities
 
+<br>
+
+<img style="width: 60%;" src="/images/PSG activity.jpeg" align = "center" />
+
+**GIFT - Growing in Faith Together**  
+Led by our Chaplain, the GIFT volunteers and teachers have developed programmes for students at the different levels. Topics such as the lives of Saints and the Gift of the Holy Spirit are shared during these sessions.  The GIFT programme is not a substitute for the Catechism programme conducted in the parishes.   
+Since the pandemic, GIFT lessons are online via the Student Learning Space, and are interactive using videos, activities and songs.  Regular prayers such as the daily Guardian Angel Prayer and student-led Rosary prayer in May and October anchor our students in faith.  
+  
+**PSG Commitee - Potluck Gathering**  
+The objective of this event is to provide an opportunity for all members to get together to build stronger bonds and also to get to know the teachers and staff better at informal events.We look forward to your support and hearing from you.Thank you.
+
+### Join Us!
+
+
+[**PSG@HIPS**](https://tinyurl.com/PSGatHIPS)
+
+
+
