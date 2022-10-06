@@ -53,7 +53,13 @@ Students actively participate in  hands-on investigative activities to develop 
 
 <img style="width: 60%;" src="/images/pic 4.jpeg" align = "center" />
 
+#### E2K Enrichment Programme
 
 
+The E2K Science Programme organised by the Gifted Education Branch (GEB, MOE) offers opportunities for students to engage in scientific investigations to discover and deepen their understanding of advanced science concepts through an inquiry approach. The rich learning experiences offered by the programme serve to help students to:
 
+  
+
+*   Gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills. 
+*   Develop the habits, attitudes and dispositions scientists possess.
 
