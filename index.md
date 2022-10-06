@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/banner.gif
-      key_highlights:
-        - title: "Announcement "
-          description: ""
-          url: ""
   - infobar:
       title: HIPS E-Open House
       button: Click
