@@ -42,7 +42,6 @@ The school adopts the Live it, Act on it, Pass it on (L.A.P) approach to realise
 **<center>Form Teacher Guidance Period (FTGP)</center>**
 
 <br>
-<br>
 
 <img style="width: 60%;" src="/images/CCE3.png" align = "center" /> 
 
@@ -58,7 +57,6 @@ The school adopts the Live it, Act on it, Pass it on (L.A.P) approach to realise
 
 **<center>HIPS Hurray! Programme</center>**
 
-<br>
 <br>
 
 <img style="width: 60%;" src="/images/CCE6.png" align = "center" /> 
