@@ -8,12 +8,11 @@ third_nav_title: Awards & Achievements
 
 **2022**
 
-[The Sunday Times 11 September 2022](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/SPH%202022%20article.PNG) 
-
+[The Sunday Times 11 September 2022](/images/SPH%202022%20article.png)<br>
 Source:\[The Sunday Times\] © SPH Media Limited. Permission required for reproduction.
 
-[The Straits Times 28 September 2022](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/2022/zubaidah%20caring%20teachers%20award%202022.PNG)  
-Source:\[The Straits Times\] © SPH Media Limited. Permission required for reproduction.**  
+[The Straits Times 28 September 2022](/images/zubaidah%20caring%20teachers%20award%202022.png)  
+Source:\[The Straits Times\] © SPH Media Limited. Permission required for reproduction.
   
 **2021**
 
