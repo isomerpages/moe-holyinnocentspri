@@ -14,11 +14,6 @@ sections:
           url: ""
   - infobar:
       title: HIPS E-Open House
-      description: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/I10bfz4U4CU" title="YouTube video
-        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
       button: Click
       url: https://staging.d2b4at95lsu703.amplifyapp.com/hips-family/HIPS-Partners/HIPS-Partners/
 ---
