@@ -55,5 +55,5 @@ Unsuccessful applicants will be notified via email by the end of May.
 
 Do complete the application form, during the PV application period, via this FormSG [link](https://go.gov.sg/parent-volunteer-scheme-2022) or the QR code below if you are keen to apply.
 
-
+<img style="width: 30%;" src="/images/pvQR.png" align = "left" />
 
