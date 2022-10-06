@@ -78,5 +78,7 @@ The E2K Science Programme organised by the Gifted Education Branch (GEB, MOE) of
 
 **<center>E2K Science weekly investigative activities</center>**
 
+#### P3 Maths and Science Trail
+
 
 
