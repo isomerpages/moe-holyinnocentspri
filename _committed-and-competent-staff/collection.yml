@@ -2,7 +2,7 @@ collections:
   committed-and-competent-staff:
     output: true
     order:
-      - Teaching Staff 2022 2.md
+      - Teaching Staff 2022.md
       - Executive & Administrative Staff 2.md
       - Support Staff 2.md
       - School Executive Committee.md
