@@ -66,12 +66,17 @@ The E2K Science Programme organised by the Gifted Education Branch (GEB, MOE) of
 
 | |  | 
 | -------- | -------- | 
-| ![](/images/E2K-1.jpeg)    | ![](/images/E2K-2.jpeg)     | 
+| ![](/images/E2K-1.jpeg)    | ![](/images/E2K-2.jpeg)     |
 
+<center>Young "researchers" at work - Mini science carnival at school canteen</center>
 
+<img style="width: 60%;" src="/images/E2K-3.jpeg" align = "center" />
 
+<br>
 
+<img style="width: 60%;" src="/images/E2K-4.jpeg" align = "center" />
 
+**<center>E2K Science weekly investigative activities</center>**
 
 
 
