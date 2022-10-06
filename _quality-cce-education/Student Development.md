@@ -19,4 +19,16 @@ Every child is a leader.
 
 The school adopts a **Win-Win Discipline** approach towards classroom management where we handle discipline challenges at the moment of the disruption with powerful and proven discipline strategies; but more importantly, it targets the root of discipline challenges—students' unfulfilled needs. We also adopt **Restorative Practices (RP)** and have worked towards establishing a restorative culture within the school setting, where positive relationships are developed among all stakeholders of the school. Therefore, the department strives to create a **safe** and **caring** school environment where positive **teacher-student relationship (TSR)** and **peer relationship (PR)** are built.
 
+<img style="width: 60%;" src="/images/SDT1.png" align = "center" /> 
 
+#### Student Development
+
+Based on the core department beliefs, the department strives to provide leadership opportunities for all students and help realise their fullest potential as leaders.
+
+<br>
+
+<img style="width: 70%;" src="/images/SDT2.png" align = "center" /> 
+
+<br>
+
+<img style="width: 70%;" src="/images/SDT3.png" align = "center" /> 
