@@ -2,6 +2,7 @@ collections:
   hips-family:
     output: true
     order:
+      - HIPS Partners/.keep
       - School Crest.md
       - School History.md
       - Vision Mission Core Values.md
