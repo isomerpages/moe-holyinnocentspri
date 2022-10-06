@@ -118,3 +118,13 @@ Hydroponics is a method of growing plants without the use of soil. At HIPS, hydr
 <img style="width: 60%;" src="/images/Sustainability_Education6.jpeg" align = "center" />
 
 #### Assembly & Recess Evironmental Education Programmes
+
+<img style="width: 60%;" src="/images/Assembly.jpeg" align = "center" />
+
+<br>
+
+<img style="width: 60%;" src="/images/Assembly2.jpeg" align = "center" />
+
+<br>
+
+<img style="width: 60%;" src="/images/Assembly3.jpeg" align = "center" />
