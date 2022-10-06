@@ -45,4 +45,6 @@ Developing pupils with confidence in expression of Performing and Visual Arts
 |    CL Speech & Drama (Elite Programme)   | Primary 3 - 5 |
 |            Theatre Experience            |   Primary 3   |
 
+#### Photos
+
 
