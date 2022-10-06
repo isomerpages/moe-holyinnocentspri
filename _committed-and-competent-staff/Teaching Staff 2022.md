@@ -11,9 +11,9 @@ _Updated on 7/4/2022_
 
 |      CLASS     |          FORM TEACHERS         |                                    |
 |:--------------:|:------------------------------:|:----------------------------------:|
-|  1 Sincerity 1 | Mr Tay En Huang Ryan           | Miss Seet Ping Ping, Esther        |
-|  1 Sincerity 2 | Ms Soh Li Hui (苏老师）        | Miss Kwek Jin Foon                 |
-|  1 Sincerity 3 | Miss Vanessa Chiam Yunn Syuan  | Mdm Luo Jing (罗老师）             |
+|  1 Sincerity 1 | [Mr Tay En Huang Ryan](mailto:ryan_tay_en_huang@moe.edu.sg)           | [Miss Seet Ping Ping, Esther](mailto:seet_ping_ping_esther@moe.edu.sg)       |
+|  1 Sincerity 2 | [Ms Soh Li Hui](mailto:soh_li_hui@moe.edu.sg) <br>(苏老师）        | [Miss Kwek Jin Foon](mailto:kwek_jin_foon@moe.edu.sg)                 |
+|  1 Sincerity 3 | [Miss Vanessa Chiam Yunn Syuan](mailto:vanessa_chiam_yunn_shyuan@moe.edu.sg)  | [Mdm Luo Jing](mailto:luo_jing@moe.edu.sg)<br> (罗老师）        |
 |  1 Sincerity 4 | Mdm Koh Jia Shan (许老师）     | Miss Shobana d/o Sreetharan        |
 |  1 Sincerity 5 | Mr Lee Soong Yang Ray          | Mdm Farah Nurhuda Binte Modmad Isa |
 | 1 Sincerity 6  | Mdm Lin Lin （林老师）         | Miss Siti Hajjar Hasan             |
