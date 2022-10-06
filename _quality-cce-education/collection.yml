@@ -1,4 +1,5 @@
 collections:
   quality-cce-education:
     output: true
-    order: []
+    order:
+      - CHARACTER & CITIZENSHIP EDUCATION.md
