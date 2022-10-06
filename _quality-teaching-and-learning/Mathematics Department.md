@@ -68,7 +68,36 @@ Another key Maths pedagogy at HIPS is the use of Polya’s 4-Step Problem Solvin
 
  A Process Thinking Skills (PTS) Package is also designed to provide a structured approach to enhance the students’ problem-solving skills through the use of heuristics.
  
+ 
 <img style="width: 65%;" src="/images/MA10.jpeg" align = "center" />
- 
- 
 
+_Students using Explain Everything app to present their solutions to word problems in class._
+
+<img style="width: 60%;" src="/images/MA11.png" align = "center" />
+
+_Use of Talk Moves cards to support mathematical reasoning and problem solving_
+ 
+ #### Highlight of Mathematics program & activities
+
+
+**1.       3D Game Programming (P6)**
+
+Gearing towards the Science, Technology, Engineering and Mathematics (STEM) education in Singapore, students are introduced to the basics of coding through the 3D Game Programming at Primary 6. The programme aims to promote innovation, creativity, problem solving skills, logic, systematic thinking and collaboration among students. Students are meaningfully engaged and challenged to apply their knowledge and skills in Mathematics, especially in spatial awareness and visualisation to design and program a 3D game that incorporates the application of mathematical concepts.
+
+<img style="width: 50%;" src="/images/MA12.jpeg" align = "center" />
+
+_<center>Use of coding blocks to create a 3D game</center>_
+ 
+ <img style="width: 50%;" src="/images/MA13.jpeg" align = "center" />
+ 
+ _<center>_Collaboration between classmates to create a 3D game_</center>_
+ 
+ **2.       Jumble Sale (P1 & P2)**
+
+Unique learning experiences are designed to provide an opportunity for all students to apply mathematical concepts in authentic situations and help them to appreciate the relevance of Maths in everyday life. One such example is the Jumble Sale experience that all Primary 1 students go through to apply what they have learnt from the topic of Money and are introduced to financial literacy concepts such as making spending plans, comparison shopping and money responsibility.
+
+ <img style="width: 70%;" src="/images/MA14.jpeg" align = "center" />
+ 
+<center>Jumble Sale: Use of sticker money to make spending plans</center>
+
+ 
