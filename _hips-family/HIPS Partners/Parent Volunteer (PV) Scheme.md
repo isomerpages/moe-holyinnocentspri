@@ -57,3 +57,10 @@ Do complete the application form, during the PV application period, via this For
 
 <img style="width: 30%;" src="/images/pvQR.png" align = "left" />
 
+<br><br><br>
+
+For any queries, you may email [holyinnocentspri@moe.edu.sg](mailto:holyinnocentspri@moe.edu.sg).  
+
+Thank you.
+
+MOE website on Primary School education: [https://beta.moe.gov.sg/primary/](https://beta.moe.gov.sg/primary/).
