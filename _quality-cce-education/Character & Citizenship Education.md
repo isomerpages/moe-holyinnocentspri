@@ -18,3 +18,46 @@ The CCE department’s vision of Caring Hearts is fleshed out from our school�
 To nurture our pupils into caring individuals with a strong moral compass 
 
 #### HIPS CCE Framework
+
+<img style="width: 60%;" src="/images/cce pic.png" align = "center" /> 
+
+<br>
+
+<img style="width: 60%;" src="/images/CCE 2.png" align = "center" /> 
+
+#### Approach
+
+
+The school adopts the Live it, Act on it, Pass it on (L.A.P) approach to realise the CCE outcomes. Explicit teaching of the values and competencies is woven into the formal and informal curriculum and integrated into every aspect of the pupils’ school experience. Authentic learning platforms and opportunities are created for pupils to internalise the learning through application and reflection on what has been taught. We want our pupils to progress from personal mastery (Live it) to application (Act on it) of these life skills and eventually impacting the wider community (Pass it on).
+
+#### Department Programmes
+
+<img style="width: 60%;" src="/images/CCE1.png" align = "center" /> 
+
+<br>
+
+<img style="width: 60%;" src="/images/CCE2.png" align = "center" /> 
+
+<br>
+
+<img style="width: 60%;" src="/images/CCE3.png" align = "center" /> 
+
+<br>
+
+<img style="width: 60%;" src="/images/CCE4.png" align = "center" /> 
+
+<br>
+
+<img style="width: 60%;" src="/images/CCE5.png" align = "center" /> 
+
+<br>
+
+<img style="width: 60%;" src="/images/CCE6.png" align = "center" /> 
+
+<br>
+
+<img style="width: 60%;" src="/images/CCE7.png" align = "center" /> 
+
+
+
+
