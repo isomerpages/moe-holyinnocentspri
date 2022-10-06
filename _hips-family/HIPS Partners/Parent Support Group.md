@@ -21,3 +21,4 @@ Partnering the school in the pursuit of school excellence and home-school and co
 To encourage more parents to be involved in their children's education at school and help to promote a loving and conducive learning environment for our children to learn and grow holistically
 
 #### Logo
+
