@@ -29,3 +29,28 @@ National Education will be anchored on the following citizenship dispositions, w
 *   A Sense of Hope
 *   The Will to Act
 
+
+<img style="width: 70%;" src="/images/NE1.png" align = "center" /> 
+
+#### Highlight of programmes/ activities
+
+<img style="width: 70%;" src="/images/NE2.png" align = "center" /> 
+
+<br>
+
+<img style="width: 70%;" src="/images/NE3.png" align = "center" /> 
+
+<br>
+
+<img style="width: 70%;" src="/images/NE4.png" align = "center" /> 
+
+
+<img style="width: 70%;" src="/images/NE8.png" align = "center" /> 
+
+<br>
+
+<img style="width: 70%;" src="/images/NE6.png" align = "center" /> 
+
+
+
+
