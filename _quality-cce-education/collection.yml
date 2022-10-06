@@ -2,11 +2,11 @@ collections:
   quality-cce-education:
     output: true
     order:
-      - Awards & Achievements/Staff Achievements.md
-      - Awards & Achievements/.keep
       - Character & Citizenship Education.md
       - Student Development.md
       - Citizenship (National Education).md
       - Catholic Programme.md
       - Co Curricular Activities (CCA).md
       - Values in Action (VIA).md
+      - Awards & Achievements/.keep
+      - Awards & Achievements/Staff Achievements.md
