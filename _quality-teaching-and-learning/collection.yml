@@ -2,7 +2,7 @@ collections:
   quality-teaching-and-learning:
     output: true
     order:
-      - Science Department.md
       - English Language Department.md
       - Chinese Language Department.md
       - Mathematics Department.md
+      - Science Department.md
