@@ -25,3 +25,33 @@ A key Maths pedagogy at HIPS is the Concrete-Pictorial-Abstract (C-P-A) approach
 As such, hands-on activities and learning experiences are conducted to help students learn concepts through self-exploration, discussions, and collaborative learning.
 
 <img style="width: 60%;" src="/images/MA1.jpeg" align = "center" />
+
+_<center>Students comparing collections of 10, 100 and 1000 red bean seeds</center>_
+
+<img style="width: 60%;" src="/images/MA2.jpeg" align = "center" />
+
+_<center>Using Base-ten sets to count numbers._</center>
+
+
+
+|  |  | 
+| -------- | -------- | 
+|  ![](/images/MA3.jpeg)    |  ![](/images/MA4.jpeg)    | 
+
+_Collaborative learning in understanding numbers and its place value_
+
+
+<img style="width: 60%;" src="/images/MA5.jpeg" align = "center" />
+
+_Use of Learning Centres with multi-link cubes to understand numbers_
+
+|  |  | 
+| -------- | -------- | 
+|  ![](/images/MA6.jpeg)    |  ![](/images/MA7.jpeg)    | 
+
+
+
+
+
+
+
