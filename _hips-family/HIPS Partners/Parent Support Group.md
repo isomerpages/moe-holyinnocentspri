@@ -91,5 +91,6 @@ The objective of this event is to provide an opportunity for all members to get 
 
 [**PSG@HIPS**](https://tinyurl.com/PSGatHIPS)
 
+<br>
 
-
+<img style="width: 30%;" src="/images/PSG QR.png" align = "left" />
