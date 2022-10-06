@@ -37,6 +37,30 @@ The framework is anchored on the school’s Applied Learning Programme (ALP) Des
 
 2.     Test – Students will share, test and implement their proposed solutions, to the proposed target group, for feedback.
 
+#### Segmenting Learning Experiences
 
+**Age-appropriate VIA experiences**
+
+As students develop over their six years in primary school, their sphere of influence widens. In order to ensure VIA experiences are age appropriate, we start our lower primary students with service learning initiatives which focus on the most immediate and fundamental domain of family, where children are able to “Live” out the values. With students expanding their influence at the middle primary level,  service learning initiatives will be designed to allow students to “Act” on the values in the next most immediate domain of the school. As students reach the pinnacle levels of development in upper primary, students will be given the opportunities to lead and “Pass” on the values through service learning projects that impact the school and the community beyond.
+
+<img style="width: 80%;" src="/images/VIA3.jpeg" align = "center" />
+
+<br>
+
+**Catering to Students’ Voice and Choice**
+
+Aligned with the 3E approach (Experience, Enrich, Excel), beyond broad-based VIA initiatives that engage all students, the school also provides targeted programmes to cater to specific student needs and profiles.
+
+At the “Experience” level, school-wide initiatives such as our Sincerity and Charity Donation Drives and Use Your Hand Campaigns encourage all our students to lend a helping hand to our community. Level-wide initiatives such as our Design Thinking Projects develop all students at every level to bring about a positive impact to others through design thinking processes. For example, the P2 Helping Hands project encourages students to perform acts of kindness to others through a ‘Be Kind’ Bingo card which is co-constructed by students and teachers.
+
+<img style="width: 80%;" src="/images/VIA4.jpeg" align = "center" />
+
+At the “Enrich” level, VIA opportunities are designed for targeted student groups. These initiatives often cater to students’ specific interests and learning needs, for example, students from Brownies CCA  are given the opportunity to participate in a Plogathon organised by the Girl Guides to take a step towards combating climate change.
+
+At the “Excel” level, opportunities will be provided for students who have done well in their respective projects, to showcase their achievements and learning experiences, through sharing sessions within their class, school or even the community beyond school. Students who have demonstrated an aptitude and passion for service learning may also be identified to represent the school in competitions, such as the Design For Change, Singapore Challenge.
+
+<br>
+
+<img style="width: 80%;" src="/images/VIA5.png" align = "center" />
 
 
