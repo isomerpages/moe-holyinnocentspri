@@ -28,11 +28,16 @@ Source:\[The Straits Times\] © SPH Media Limited. Permission required for rep
 [NE Forte - 13 January 2014](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/NE%20Forte%20(Jan%202014).pdf)  
   
 **2013**  
-[Wanbao 5 January 2013](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/Wanbao%20(Jan%202013).pdf)  
+
+[Wanbao 5 January 2013](/files/Wanbao%20(Jan%202013).pdf)
+
 [The Straits Times 26 January 2013](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/Straits%20Times%20(Jan%202013).pdf)  
-[Zaobao 26 January 2013](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/Zaobao%20(Jan%202013).pdf)  
-[Thumbs Up 18 February 2013](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/Thumbs%20Up%20(Feb%202013)-Pg%202.pdf) (Page 2)  
-[The Straits Times 26 March 2013](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/Straits%20Times%20(Mar%202013).pdf)  
+
+[Zaobao 26 January 2013](/files/Zaobao%20(Jan%202013).pdf)
+
+[Thumbs Up 18 February 2013](/files/Thumbs%20Up%20(Feb%202013)-Pg%202.pdf)
+
+[The Straits Times 26 March 2013](/files/Straits%20Times%20(Mar%202013).pdf)
   
 **2012**  
 
