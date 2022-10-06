@@ -171,68 +171,49 @@ description: ""
 
 **<center>Primary 4 Form Teachers</center>**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-g1y6{background-color:#F5F5F5;color:#858585;text-align:center;vertical-align:top}
-.tg .tg-2k0m{background-color:#F5F5F5;color:#B00010;text-align:left;vertical-align:top}
-.tg .tg-169u{background-color:#F5F5F5;color:#858585;text-align:center;vertical-align:middle}
-.tg .tg-d68u{background-color:#0E2281;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-6zd7{background-color:#F5F5F5;border-color:inherit;color:#858585;text-align:center;vertical-align:top}
-.tg .tg-11q6{background-color:#0E2281;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-3ps9{background-color:#0E2281;border-color:inherit;color:#FFF;font-weight:bold;text-align:right;vertical-align:middle}
-.tg .tg-0fyj{background-color:#F5F5F5;border-color:inherit;color:#858585;text-align:center;vertical-align:middle}
-.tg .tg-j3yj{background-color:#F5F5F5;border-color:inherit;color:#B00010;text-align:left;text-decoration:underline;
-  vertical-align:top}
-.tg .tg-dtu9{background-color:#F5F5F5;border-color:inherit;color:#B00010;text-align:left;vertical-align:top}
-.tg .tg-1pps{background-color:#F5F5F5;color:#B00010;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-11q6"><span style="color:#FFF;background-color:#0E2281">CLASS</span></th>
-    <th class="tg-3ps9"><span style="color:#FFF;background-color:#0E2281">FORM TEACHERS</span></th>
-    <th class="tg-d68u"></th>
+    <th>CLASS</th>
+    <th>FORM TEACHERS</th>
+    <th></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0fyj"><span style="color:#858585;background-color:#F5F5F5">4 Integrity 1</span><br></td>
-    <td class="tg-j3yj"><a href="mailto:lim_jia_hui@moe.edu.sg"><span style="text-decoration:underline;color:#B00010">Mdm Lim Jia Hui Irene</span></a><br></td>
-    <td class="tg-dtu9"><a href="mailto:tan_chuyan@moe.edu.sg"><span style="text-decoration:none;color:#B00010">Mdm Tan Chuyan</span></a></td>
+    <td>4 Integrity 1<br></td>
+    <td><a href="mailto:lim_jia_hui@moe.edu.sg">Mdm Lim Jia Hui Irene</a><br></td>
+    <td><a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan</a></td>
   </tr>
   <tr>
-    <td class="tg-6zd7">4 Integrity 2</td>
-    <td class="tg-j3yj"><a href="mailto:wat_wai_fung@moe.edu.sg"><span style="text-decoration:underline;color:#B00010">Mdm Wendy Wat Wai Fung</span></a><br><span style="color:#858585;background-color:#F5F5F5">(Mrs  Teo)</span><br></td>
-    <td class="tg-j3yj"><a href="mailto:toh_siew_khim@moe.edu.sg"><span style="text-decoration:underline;color:#B00010">Mdm Toh Siew Khim Linda</span></a><br><span style="color:#858585;background-color:#F5F5F5">(Mrs Poh)</span></td>
+    <td>4 Integrity 2</td>
+    <td><a href="mailto:wat_wai_fung@moe.edu.sg">Mdm Wendy Wat Wai Fung</a><br>(Mrs  Teo)<br></td>
+    <td><a href="mailto:toh_siew_khim@moe.edu.sg">Mdm Toh Siew Khim Linda</a><br>(Mrs Poh)</td>
   </tr>
   <tr>
-    <td class="tg-6zd7">4 Integrity 3</td>
-    <td class="tg-j3yj"><a href="mailto:shamsudin_kanchil@moe.edu.sg"><span style="text-decoration:underline;color:#B00010">Mr Shamsudin bin Kanchil</span></a><br></td>
-    <td class="tg-j3yj"><a href="mailto:lim_lily_a@moe.edu.sg"><span style="text-decoration:underline;color:#B00010">Mdm Lily Lim</span></a><br><span style="color:#858585;background-color:#F5F5F5">(林老师）</span></td>
+    <td>4 Integrity 3</td>
+    <td><a href="mailto:shamsudin_kanchil@moe.edu.sg">Mr Shamsudin bin Kanchil</a><br></td>
+    <td><a href="mailto:lim_lily_a@moe.edu.sg">Mdm Lily Lim</a><br>(林老师）</td>
   </tr>
   <tr>
-    <td class="tg-g1y6">4 Integrity 4</td>
-    <td class="tg-1pps"><a href="mailto:sarah_ahmad_subor@moe.edu.sg"><span style="text-decoration:underline;color:#B00010">Mdm Sarah Ahmad Subor</span></a><br></td>
-    <td class="tg-1pps"><a href="mailto:dawn_ng_li_jun@moe.edu.sg"><span style="text-decoration:underline;color:#B00010">Mdm Dawn Janner Ng Li Jun</span></a><br><span style="color:#858585;background-color:#F5F5F5">(Mrs Lim)</span><br></td>
+    <td>4 Integrity 4</td>
+    <td><a href="mailto:sarah_ahmad_subor@moe.edu.sg">Mdm Sarah Ahmad Subor</a><br></td>
+    <td><a href="mailto:dawn_ng_li_jun@moe.edu.sg">Mdm Dawn Janner Ng Li Jun</a><br>(Mrs Lim)<br></td>
   </tr>
   <tr>
-    <td class="tg-g1y6">4 Integrity 5</td>
-    <td class="tg-1pps"><a href="mailto:mohammed_aqil_mohd_mislan@moe.edu.sg"><span style="text-decoration:underline;color:#B00010">Mr Mohammed Aqil Mohd Mislan</span></a><br></td>
-    <td class="tg-1pps"><a href="mailto:allison_foo_wei_qian@moe.edu.sg"><span style="text-decoration:underline;color:#B00010">Mdm Foo Wei Qian Allison (Mrs Lim)</span></a><br></td>
+    <td>4 Integrity 5</td>
+    <td><a href="mailto:mohammed_aqil_mohd_mislan@moe.edu.sg">Mr Mohammed Aqil Mohd Mislan</a><br></td>
+    <td><a href="mailto:allison_foo_wei_qian@moe.edu.sg">Mdm Foo Wei Qian Allison (Mrs Lim)</a><br></td>
   </tr>
   <tr>
-    <td class="tg-g1y6">4 Integrity 6</td>
-    <td class="tg-1pps"><a href="mailto:technamoorthy_ashwary@moe.edu.sg"><span style="text-decoration:underline;color:#B00010">Ms Ashwary</span></a>/ <a href="mailto:lee_siew_kian_joyce@moe.edu.sg"><span style="text-decoration:underline;color:#B00010">Mdm Lee Siew K</span></a><a href="mailto:lee_siew_kian_joyce@moe.edu.sg"><span style="text-decoration:none;color:#B00010">i</span></a><a href="mailto:lee_siew_kian_joyce@moe.edu.sg">a</a><a href="mailto:lee_siew_kian_joyce@moe.edu.sg"><span style="text-decoration:none;color:#B00010">n</span></a> Joyce<br></td>
-    <td class="tg-1pps"><a href="mailto:png_yong_han@moe.edu.sg"><span style="text-decoration:underline;color:#B00010">Mr Png Yong Han</span></a><br></td>
+    <td>4 Integrity 6</td>
+    <td><a href="mailto:technamoorthy_ashwary@moe.edu.sg">Ms Ashwary</a>/ <a href="mailto:lee_siew_kian_joyce@moe.edu.sg">Mdm Lee Siew K</a><a href="mailto:lee_siew_kian_joyce@moe.edu.sg">i</a><a href="mailto:lee_siew_kian_joyce@moe.edu.sg">a</a><a href="mailto:lee_siew_kian_joyce@moe.edu.sg">n</a> Joyce<br></td>
+    <td><a href="mailto:png_yong_han@moe.edu.sg">Mr Png Yong Han</a><br></td>
   </tr>
   <tr>
-    <td class="tg-169u"><span style="color:#858585;background-color:#F5F5F5"> 4 Integrity 7</span></td>
-    <td class="tg-1pps"><a href="mailto:koh_siew_ping@moe.edu.sg"><span style="text-decoration:underline;color:#B00010">Mdm Koh Siew Ping</span></a><br><span style="color:#858585;background-color:#F5F5F5">(许老师）</span><br></td>
-    <td class="tg-2k0m"><a href="mailto:yunus_b_yusof@schools.gov.sg"><span style="text-decoration:none;color:#B00010">Mr Yunus Bin Yusof</span></a></td>
+    <td> 4 Integrity 7</td>
+    <td><a href="mailto:koh_siew_ping@moe.edu.sg">Mdm Koh Siew Ping</a><br>(许老师）<br></td>
+    <td><a href="mailto:yunus_b_yusof@schools.gov.sg">Mr Yunus Bin Yusof</a></td>
   </tr>
 </tbody>
 </table>
