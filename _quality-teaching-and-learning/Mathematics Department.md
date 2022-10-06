@@ -49,6 +49,10 @@ _Use of Learning Centres with multi-link cubes to understand numbers_
 | -------- | -------- | 
 |  ![](/images/MA6.jpeg)    |  ![](/images/MA7.jpeg)    | 
 
+_Use of interlocking cubes and number bond charts to make connections and establish understanding_
+
+
+
 
 
 
