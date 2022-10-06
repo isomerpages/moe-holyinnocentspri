@@ -2,4 +2,5 @@ collections:
   quality-cce-education:
     output: true
     order:
+      - Student Development.md
       - Character & Citizenship Education.md
