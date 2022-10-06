@@ -27,6 +27,43 @@ Physical Education is an important part of the school’s instructional program
 
 #### Highlight of programme/activities:
 
+<br>
+
+<img style="width: 70%;" src="/images/PE1.png" align = "center" />
+
+<img style="width: 70%;" src="/images/PE2.png" align = "center" />
+
+**Experience**
+
+PE lessons, Sports Carnival, Junior Games Day, P5 Cohort Camp
+
+**Enrich**
+
+P5 Camp
+
+**Excel**
+
+Competitions at Zonal /National Levels
+
+#### Experience: PE lessons, Sports Carnival, Junior Games Day
+
+<br>
+
+<img style="width: 70%;" src="/images/PE3.png" align = "center" />
+
+<br>
+
+<img style="width: 70%;" src="/images/PE4.png" align = "center" />
+
+<br>
+
+<img style="width: 70%;" src="/images/PE5.png" align = "center" />
+
+#### Enrich: P5 Camp
+
+<br>
+
+<img style="width: 70%;" src="/images/PE6.png" align = "center" />
 
 
 
