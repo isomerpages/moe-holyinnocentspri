@@ -8,7 +8,8 @@ third_nav_title: Awards & Achievements
 
 **2022**
 
-[The Sunday Times 11 September 2022](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/SPH%202022%20article.PNG)  
+[The Sunday Times 11 September 2022](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/SPH%202022%20article.PNG) 
+
 Source:\[The Sunday Times\] © SPH Media Limited. Permission required for reproduction.
 
 [The Straits Times 28 September 2022](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/2022/zubaidah%20caring%20teachers%20award%202022.PNG)  
@@ -40,6 +41,7 @@ Source:\[The Straits Times\] © SPH Media Limited. Permission required for rep
 [Thumbs Up 14 February 2011](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/Thumbs%20Up%20(Feb%202011).pdf)  
   
 **2010**  
+
 [Zaobao 28 November 2010](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/Zaobao%20(Nov%202010).pdf)  
 
-[Zaobao 9 December 2010](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/Zaobao%20(Dec%202010).pdf)
+[Zaobao 9 December 2010](/files/Zaobao%20(Dec%202010).pdf)
