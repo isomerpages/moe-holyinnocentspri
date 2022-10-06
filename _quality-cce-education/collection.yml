@@ -2,8 +2,8 @@ collections:
   quality-cce-education:
     output: true
     order:
-      - CO CURRICULAR ACTIVITIES (CCA).md
       - Character & Citizenship Education.md
       - Student Development.md
       - Citizenship (National Education).md
       - Catholic Programme.md
+      - CO CURRICULAR ACTIVITIES (CCA).md
