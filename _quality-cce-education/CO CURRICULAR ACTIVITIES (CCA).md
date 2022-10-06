@@ -21,4 +21,8 @@ CCA Schedule 2022
 
 [CCA Schedule 2022.xlsx](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/2022/FOR%20WEBSITE/CCA%20Schedule%202022.xlsx)
 
+<img style="width: 80%;" src="/images/CAT12.jpeg" align = "center" />
 
+<img style="width: 80%;" src="/images/CAT12.jpeg" align = "center" />
+
+<img style="width: 80%;" src="/images/CAT12.jpeg" align = "center" />
