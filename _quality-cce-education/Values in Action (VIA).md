@@ -62,5 +62,3 @@ At the “Excel” level, opportunities will be provided for students who have d
 <br>
 
 <img style="width: 80%;" src="/images/VIA5.png" align = "center" />
-
-
