@@ -56,7 +56,7 @@ Corporate Support Officer
 </thead>
 <tbody>
   <tr>
-		<td colspan="4"><center>Operations Support Staff</centrer></td>
+		<td colspan="4"><center>Operations Support Staff</center></td></center>
   </tr>
 </tbody>
 </table>
