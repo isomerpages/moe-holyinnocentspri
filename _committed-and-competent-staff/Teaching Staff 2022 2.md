@@ -316,3 +316,32 @@ description: ""
 </tbody>
 </table>
 
+<table>
+<thead>
+  <tr>
+    <th>Lead Teacher (Chinese Language)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="mailto:dong_yan@moe.edu.sg">Mdm Dong Yan</a>  (董老师）</td>
+  </tr>
+</tbody>
+</table>
+
+**<center>Senior Teachers</center>**
+
+<table>
+<thead>
+  <tr>
+    <th><a href="mailto:helena_baldwin@moe.edu.sg">Mrs Helena Baldwin</a> <br>(English Language) </th>
+    <th><a href="mailto:sun_xueying@moe.edu.sg">Mdm Sun Xueying</a>  (孙老师）<br>(Chinese Language)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="mailto:tan_ying_fong@moe.edu.sg">Mdm Tan Ying Fong Irene</a> <br>(Science)</td>
+    <td><a href="mailto:low_tin_hock@moe.edu.sg">Mr Low Tin Hock</a> (刘老师）<br>(Chinese Language)</td>
+  </tr>
+</tbody>
+</table>
