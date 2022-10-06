@@ -89,14 +89,32 @@ The E2K Science Programme organised by the Gifted Education Branch (GEB, MOE) of
 
 #### Sustainability Education
 
-<img style="width: 60%;" src="/images/Sustainability_Educaiton.png" align = "center" />
+<img style="width: 60%;" src="/images/Sustainability_Education.png" align = "center" />
 
-<img style="width: 60%;" src="/images/Sustainability_Educaiton2.jpeg" align = "center" />
+<br>
 
-<img style="width: 60%;" src="/images/Sustainability_Educaiton.png" align = "center" />
+<img style="width: 60%;" src="/images/Sustainability_Education2.png" align = "center" />
 
-<img style="width: 60%;" src="/images/Sustainability_Educaiton.png" align = "center" />
+**Students getting their hands dirty with compost and soil to plant edibles in the Science garden**
 
-<img style="width: 60%;" src="/images/Sustainability_Educaiton.png" align = "center" />
 
-<img style="width: 60%;" src="/images/Sustainability_Educaiton.png" align = "center" />
+
+<img style="width: 60%;" src="/images/Sustainability_Education3.png" align = "center" />
+
+**Students making use of collected recycled materials to design and make toy cars**
+
+#### Using hydroponics to support inquiy-based Primary Science teaching and learning
+
+Hydroponics is a method of growing plants without the use of soil. At HIPS, hydroponics systems are set up with the possibilities for innovative scientific investigations and application across other disciplines. Nowadays, as our children are exposed to processed food in the supermarkets, one of the most important aspects that children need to deepen is food education. The objective of growing plants using hydroponics is to encourage students to have an appetite and love for learning and to instill in them a sense of responsibility in caring for the environment and how their actions can impact the environment.
+
+<img style="width: 60%;" src="/images/Sustainability_Educaiton4.jpeg" align = "center" />
+
+<br>
+
+<img style="width: 60%;" src="/images/Sustainability_Education5.jpeg" align = "center" />
+
+<br>
+
+<img style="width: 60%;" src="/images/Sustainability_Education6.jpeg" align = "center" />
+
+
