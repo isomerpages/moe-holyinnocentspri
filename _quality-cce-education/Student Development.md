@@ -19,3 +19,4 @@ Every child is a leader.
 
 The school adopts a **Win-Win Discipline** approach towards classroom management where we handle discipline challenges at the moment of the disruption with powerful and proven discipline strategies; but more importantly, it targets the root of discipline challenges—students' unfulfilled needs. We also adopt **Restorative Practices (RP)** and have worked towards establishing a restorative culture within the school setting, where positive relationships are developed among all stakeholders of the school. Therefore, the department strives to create a **safe** and **caring** school environment where positive **teacher-student relationship (TSR)** and **peer relationship (PR)** are built.
 
+
