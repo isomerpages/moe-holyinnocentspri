@@ -43,7 +43,7 @@ Corporate Support Officer
 
 **<center><u>OPERATIONS</u></center>**
 
-**<center>Mr Samuel Lim <br>Operations Manager**</center>
+**<center>Mr Samuel Lim <br>Operations Manager</center>**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -68,8 +68,3 @@ Corporate Support Officer
   </tr>
 </tbody>
 </table>
-
-
-
-
-
