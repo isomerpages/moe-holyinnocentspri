@@ -60,4 +60,3 @@ Developing pupils with confidence in expression of Performing and Visual Arts
 <br>
 
 <img style="width: 70%;" src="/images/aesthetics4.png" align = "center" />
-
