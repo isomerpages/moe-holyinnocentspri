@@ -3,7 +3,6 @@ title: Co Curricular Activities (CCA)
 permalink: /quality-cce-education/CCA/
 description: ""
 ---
-
 ## CO-CURRICULAR ACTIVITIES (CCA)
 
 #### Co-curricular Activities
@@ -22,8 +21,13 @@ CCA Schedule 2022
 
 [CCA Schedule 2022.xlsx](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/2022/FOR%20WEBSITE/CCA%20Schedule%202022.xlsx)
 
-<img style="width: 80%;" src="/images/CAT12.jpeg" align = "center" />
+<img style="width: 90%;" src="/images/CCA1.png" align = "center" />
 
-<img style="width: 80%;" src="/images/CAT12.jpeg" align = "center" />
+<br>
 
-<img style="width: 80%;" src="/images/CAT12.jpeg" align = "center" />
+<img style="width: 80%;" src="/images/CCA2.png" align = "center" />
+
+<br>
+
+<img style="width: 80%;" src="/images/CCA3.png" align = "center" />
+
