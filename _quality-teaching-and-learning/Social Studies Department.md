@@ -60,5 +60,6 @@ The inquiry process can be characterised by four aspects:
 Social Studies ignites curiosity about real-world issues. It helps students to understand and developments that are taking place in society and the world as well as their roles in shaping the future of the nation.
 
 **Highlight of programme/ activities :**
+<br>
 
 <img style="width: 70%;" src="/images/SS4.png" align = "center" />
