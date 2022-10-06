@@ -26,5 +26,5 @@ sections:
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
       button: Click
-      url: /faq/
+      url: https://staging.d2b4at95lsu703.amplifyapp.com/hips-family/HIPS-Partners/HIPS-Partners/
 ---
