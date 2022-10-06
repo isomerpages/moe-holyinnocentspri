@@ -34,9 +34,11 @@ Prior to the pandemic, the Holy Eucharist was celebrated termly and faith was de
 
 #### Lighting of candles at the Holy Family Garden for prayer intention.
 
+|  | |
+| -------- | -------- |
+| ![](/images/CAT6.jpeg)     | ![](/images/CAT7.jpeg)     | 
 
-
-
+<img style="width: 70%;" src="/images/CAT8.jpeg" align = "center" /> 
 
 
 
