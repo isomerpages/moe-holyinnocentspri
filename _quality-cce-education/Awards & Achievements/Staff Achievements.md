@@ -46,7 +46,8 @@ Mdm Sun Xueying
 Mrs Sarah Lee-Koh Hui Khoon
 Head of Department SAP/Aesthetics  
   
-**Listening Educator for Advancement and Progress (LEAP) Award**<br>
+**Listening Educator for Advancement and Progress (LEAP) Award**
+<br>
 Mdm Toh Siew Khim  
   
 	
