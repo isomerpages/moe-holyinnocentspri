@@ -86,9 +86,9 @@ _Updated on 7/4/2022_
 | 6 Resilience 7 | Ms Kan Hui Li Audrey            | Mdm Chua Sze Yi Kerin          |
 
 
-|   | <center>Lead Teacher (Chinese Language)</centet> |   |
+|   | <center>Lead Teacher (Chinese Language)</center> |   |
 |---|---------------------------------|---|
-|   | <center>Mdm Dong Yan (董老师)</cente>           |   |
+|   | <center>Mdm Dong Yan (董老师)</center>           |   |
 
  
  
@@ -97,4 +97,3 @@ _Updated on 7/4/2022_
 |:-------------------------------------:|:--------------------------------------------:|
 | Mrs Helena Baldwin (English Language) | Mdm Sun Xueying (孙老师） (Chinese Language) |
 |   Mdm Tan Ying Fong Irene (Science)   | Mr Low Tin Hock (刘老师） (Chinese Language) |
- 
