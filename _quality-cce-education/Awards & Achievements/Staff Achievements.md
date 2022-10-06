@@ -10,15 +10,12 @@ third_nav_title: Awards & Achievements
 
 
 **National Day Award 2022 - The Commendation Medal**  
-
-**Mdm Kerin Chua Sze Yi** 
-
+Mdm Kerin Chua Sze Yi
 Head of Department Science   
   
 
 **Caring Teacher Award 2022 - National Level Award Winner**  
-
-**Mdm Zubaidah Binte Ahmat**
+Mdm Zubaidah Binte Ahmat
 
   
   
@@ -26,13 +23,12 @@ Head of Department Science 
 #### 2021
 
 
-**National Day Award 2021 - The Commendation Medal**
-
-**Mdm Chu Sing Ee**
-
+**National Day Award 2021 - The Commendation Medal**<br>
+Mdm Chu Sing Ee<br>
 Head of Department Chinese Language  
-Distinguished Chinese Language Teachers Award   
-**Mdm Lim Lily**
+
+**Distinguished Chinese Language Teachers Award**<br>
+Mdm Lim Lily
   
 **Listening Educator for Advancement and Progress Award (LEAP Award)**  
 Mrs Patricia Lee  
@@ -46,57 +42,47 @@ Ms Tan Chuyan
 **Distinguished Chinese Language Teachers Award**<br>
 Mdm Sun Xueying
 
-**National Day Award 2020 - The Commendation Medal**
-
-**Mrs Sarah Lee-Koh Hui Khoon**
-
+**National Day Award 2020 - The Commendation Medal**<br>
+Mrs Sarah Lee-Koh Hui Khoon
 Head of Department SAP/Aesthetics  
   
-Listening Educator for Advancement and Progress (LEAP) Award  
-**Mdm Toh Siew Khim  
+**Listening Educator for Advancement and Progress (LEAP) Award**<br>
+Mdm Toh Siew Khim  
   
-**
+	
 
 #### 2019
 
 
-**National Day Award 2019 - The Public Administration Medal (Bronze)**
-
-**Mrs Sharon Tobias**
-
+**National Day Award 2019 - The Public Administration Medal (Bronze)**<br>
+Mrs Sharon Tobias<br>
 Vice-Principal (Academic)
 
-**National Day Award 2019 - The Commendation Medal**
 
-**Mrs Theresa Chua**
-
+**National Day Award 2019 - The Commendation Medal**<br>
+Mrs Theresa Chua<br>
 Vice-Principal (Academic)
 
-  
-
-**Mrs Wang-Lim Ai Lian**
-
+**Mrs Wang-Lim Ai Lian**<br>
 HOD CCE
 
   
 
 **National Day Award 2019 - The Long Service Medal**
 
-**Ms Ng Poh Li Theresa**
-
+**Ms Ng Poh Li Theresa**<br>
 School Staff Developer
 
-  
 
-**Mrs Wang-Lim Ai Lian**
-
+**Mrs Wang-Lim Ai Lian**<br>
 HOD CCE
+
 
 **President's Award for Teachers 2019 Recipient**
 
-**Mrs Sarah Lee-Koh Hui Khoon**
-
+**Mrs Sarah Lee-Koh Hui Khoon**<br>
 Head of Department SAP/Aesthetics
+
 
 [卓越教师总统奖](https://holyinnocentspri.moe.edu.sg/qql/slot/u782/2019%20Uploads/ZB20190905-ZAO-005-00.pdf)   
 \-Lianhe Zaobao, 5 September 2019  
@@ -110,12 +96,10 @@ HOD Science
 
   
 
-**Mrs Sarah Lee-Koh Hui Khoon**
-
+**Mrs Sarah Lee-Koh Hui Khoon**<br>
 Head of Department SAP/Aesthetics
 
   
 
-**Mdm Irene Tan**
-
+**Mdm Irene Tan**<br>
 Senior Teacher
