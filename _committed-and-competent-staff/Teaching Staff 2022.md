@@ -86,13 +86,18 @@ _Updated on 7/4/2022_
 | 6 Resilience 7 | Ms Kan Hui Li Audrey            | Mdm Chua Sze Yi Kerin          |
 
 
-|   | <center>Lead Teacher (Chinese Language)</center> |   |
-|---|---------------------------------|---|
-|   | <center>Mdm Dong Yan (董老师)</center>           |   |
+
+
+| Lead Teacher (Chinese Language)| |  |
+| -------- | -------- | -------- |
+|  [Mdm Dong Yan](mailto:dong_yan@moe.edu.sg)  (董老师）   |      |      |
+
+
 
  
  
  **<center>Senior Teachers</center>**
+ 
  |                                       |                                              |
 |:-------------------------------------:|:--------------------------------------------:|
 | Mrs Helena Baldwin (English Language) | Mdm Sun Xueying (孙老师） (Chinese Language) |
