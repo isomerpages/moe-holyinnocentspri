@@ -47,4 +47,17 @@ Developing pupils with confidence in expression of Performing and Visual Arts
 
 #### Photos
 
+<img style="width: 70%;" src="/images/aesthetics1.png" align = "center" />
+
+<br>
+
+<img style="width: 70%;" src="/images/aesthetics2.png" align = "center" />
+
+<br>
+
+<img style="width: 70%;" src="/images/aesthetics3.png" align = "center" />
+
+<br>
+
+<img style="width: 70%;" src="/images/aesthetics4.png" align = "center" />
 
