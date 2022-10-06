@@ -43,4 +43,17 @@ Students actively participate in  hands-on investigative activities to develop 
 
 #### Hands-on investigative and explorative activities to develop students' Science process skills and ignite curiosity.
 
+<img style="width: 60%;" src="/images/sci1.jpeg" align = "center" />
+
+<br>
+
+<img style="width: 60%;" src="/images/sci2.jpeg" align = "center" />
+
+<br>
+
+<img style="width: 60%;" src="/images/pic 4.jpeg" align = "center" />
+
+
+
+
 
