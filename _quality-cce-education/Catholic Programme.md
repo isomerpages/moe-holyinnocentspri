@@ -13,5 +13,32 @@ Prior to the pandemic, the Holy Eucharist was celebrated termly and faith was de
 
 #### Our Catholic Environment
 
+<img style="width: 70%;" src="/images/CAT1.png" align = "center" /> 
+
+<br>
+
+<img style="width: 70%;" src="/images/CAT2.png" align = "center" /> 
+
+<br>
+
+<img style="width: 70%;" src="/images/CAT3.png" align = "center" /> 
+
+#### Christmas at HIPS
+
+
+
+|  |  | 
+| -------- | -------- |
+| ![](/images/CAT5.jpeg)     | ![](/images/CAT4.jpeg)    | 
+
+
+#### Lighting of candles at the Holy Family Garden for prayer intention.
+
+
+
+
+
+
+
 
 
