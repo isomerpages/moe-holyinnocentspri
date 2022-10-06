@@ -38,7 +38,22 @@ Prior to the pandemic, the Holy Eucharist was celebrated termly and faith was de
 | -------- | -------- |
 | ![](/images/CAT6.jpeg)     | ![](/images/CAT7.jpeg)     | 
 
-<img style="width: 70%;" src="/images/CAT8.jpeg" align = "center" /> 
+<img style="width: 70%;" src="/images/CAT8.jpeg" align = "center" />
+
+#### A visit to the Holy Innocents’ Prayer Room to give a prayer of thanks.
+
+|  | | 
+| -------- | -------- | 
+| ![](/images/CAT9.jpeg)     | ![](/images/CAT10.jpeg)     | 
+
+
+#### Our team of dedicated Parent Cathecists
+
+<br>
+
+<img style="width: 80%;" src="/images/CAT12.jpeg" align = "center" />
+
+
 
 
 
