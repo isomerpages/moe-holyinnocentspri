@@ -2,9 +2,9 @@ collections:
   quality-teaching-and-learning:
     output: true
     order:
-      - Aesthetics Department.md
       - English Language Department.md
       - Chinese Language Department.md
       - Mathematics Department.md
       - Science Department.md
       - Physical Education Department.md
+      - Aesthetics Department.md
