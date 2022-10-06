@@ -25,7 +25,8 @@ Source:\[The Straits Times\] © SPH Media Limited. Permission required for rep
 **[Zaobao 13 November 2020](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/Zaobao_2020.pdf)  
   
 **2014**  
-[NE Forte - 13 January 2014](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/NE%20Forte%20(Jan%202014).pdf)  
+
+[NE Forte - 13 January 2014](/files/NE%20Forte%20(Jan%202014).pdf)
   
 **2013**  
 
