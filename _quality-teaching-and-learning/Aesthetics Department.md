@@ -35,5 +35,14 @@ Developing pupils with confidence in expression of Performing and Visual Arts
 |  Primary 5 | Handbells & Bellplates                                                                              | Batik Painting     |
 |  Primary 6 | Ukelele                                                                                             | Glass Mosiac       |
 
-Learning for Life Programme (LLP) - Artistry@HIPS
--------------------------------------------------
+#### Learning for Life Programme (LLP) - Artistry@HIPS
+
+|                 Programme                |     Level     |
+|:----------------------------------------:|:-------------:|
+|               Music Therapy              | Primary 1 - 3 |
+|            Erhu (NUS-CFA Exam)           |   Primary 3   |
+| EL Speech & Drama (Broadbased Programme) | Primary 1 - 3 |
+|    CL Speech & Drama (Elite Programme)   | Primary 3 - 5 |
+|            Theatre Experience            |   Primary 3   |
+
+
