@@ -43,7 +43,7 @@ Corporate Support Officer
 
 **<u><center>OPERATIONS</center></u>**
 
-**<center>Mr Samuel Lim <br>Operations Manager</center>**
+**<center>Mr Samuel Lim<br>Operations Manager</center>**
 
 <table>
 <thead>
