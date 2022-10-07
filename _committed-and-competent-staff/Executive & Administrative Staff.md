@@ -41,9 +41,8 @@ Corporate Support Officer
 
 Corporate Support Officer
 
-**<u><center>OPERATIONS</center></u>**
+**<u><center>OPERATIONS</u><br><br>Mr Samuel Lim<br>Operations Manager</center>**
 
-**<center>Mr Samuel Lim<br>Operations Manager</center>**
 
 <table>
 <thead>
