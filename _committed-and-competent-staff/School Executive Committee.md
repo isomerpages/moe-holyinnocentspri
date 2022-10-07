@@ -5,9 +5,7 @@ description: ""
 ---
 ## SCHOOL EXECUTIVE COMMITTEE
 
-**<center><a href="mailto:chu_sing_ee@moe.edu.sg">Miss Lena Seet</a></center>** 
-
-**<center>Principal</center>**
+**<center><a href="mailto:chu_sing_ee@moe.edu.sg">Miss Lena See</a><br>Principal</center>**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
