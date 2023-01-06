@@ -276,7 +276,6 @@ description: ""
 
 <table>
 <thead>
-  <tr>
     <th>Lead Teachers</th>
       <th></th>
   </tr>
@@ -287,12 +286,9 @@ description: ""
   </tr>
 </tbody>
 </table>
-
 <br>
-
 <table>
 <thead>
-  <tr>
     <th>Senior Teachers</th>
     <th></th>
   </tr>
