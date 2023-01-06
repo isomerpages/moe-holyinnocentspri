@@ -9,13 +9,13 @@ description: ""
 
 **Mdm Chua Quee Hong**
 
-Administration Manager
+Administration Manager 1
 
   
 
 **Mr Muhammad Raimi Bin Rawi**
 
-Administrative Executive
+Administrative Manager 2
 
   
 
@@ -43,7 +43,7 @@ Corporate Support Officer
 
 **<u><center>OPERATIONS<br></center></u>**
 
-**<center>Mr Samuel Lim<br>Operations Manager</center>**
+**<center>Mr Ang Chee Siong<br>Operations Manager</center>**
 
 <table>
 <thead>
