@@ -1,9 +1,0 @@
----
-title: Primary 1 Parent Portal
-permalink: /hips-family/HIPS-Partners/Primary-1-Parent-Portal/
-description: ""
-third_nav_title: HIPS Partners
----
-## Primary 1 Parent Portal
-
-### Private Page
