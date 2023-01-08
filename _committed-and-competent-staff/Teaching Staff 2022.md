@@ -93,5 +93,3 @@ description: ""
 | -------- | -------- | 
 | <a href="mailto:low_tin_hock@moe.edu.sg">Mr Low Tin Hock</a> (刘老师）<br>(Chinese Language) | <a href="mailto:sun_xueying@moe.edu.sg">Mdm Sun Xueying</a>  (孙老师）<br>(Chinese Language) |
 |<a href="mailto:helena_baldwin@moe.edu.sg">Mrs Helena Baldwin</a> <br>(English Language)||
-
-
