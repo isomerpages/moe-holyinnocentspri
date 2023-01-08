@@ -5,7 +5,7 @@ description: ""
 ---
 ## Teaching Staff 2022
 
-**<center>Primary 1 Form Teachers</center>**
+**<center>**Primary 1 Form Teachers**</center>**
 
 | CLASS  | FORM TEACHERS ||
 | -------- | -------- | -------- |
@@ -19,7 +19,7 @@ description: ""
 | 1 Sincerity 8 | <a href="mailto:ow_ai_khim@moe.edu.sg">Ms Ow Ai Khim </a><br>(欧老师) | <a href="mailto:chan_gan_siu@moe.edu.sg">Mrs Chan Gan Siu Betty|
 | 1 Sincerity 9 | <a href="mailto:xu_jie@moe.edu.sg">Mdm Xu Jie</a><br>(胥老师) | <a href="mailto: neo_wei_lin_gwendolyn@moe.edu.sg">Mdm Neo Wei Lin Gwendolyn|
 
-**<center>Primary 2 Form Teachers</center>**
+**<center>**Primary 2 Form Teachers**</center>**
 
 | CLASS  | FORM TEACHERS ||
 | -------- | -------- | -------- |
@@ -35,7 +35,7 @@ description: ""
 	
 	
 
-**<center>Primary 3 Form Teachers</center>**
+**<center>**Primary 3 Form Teachers**</center>**
 
 | CLASS  | FORM TEACHERS ||
 | -------- | -------- | -------- |
@@ -48,7 +48,7 @@ description: ""
 | 3 Graciousness 7 | <a href="mailto:chia_hui_tian@moe.edu.sg">Mrs Seet-Chia Hui Tian | <a href="mailto:mohamad_zaki_ali@moe.edu.sg">Mr Mohamad Zaki bin Ali |
 
 
-**<center>Primary 4 Form Teachers</center>**
+**<center>**Primary 4 Form Teachers**</center>**
 
 | CLASS  | FORM TEACHERS ||
 | -------- | -------- | -------- |
@@ -60,7 +60,7 @@ description: ""
 | 4 Integrity 6 | <a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan| <a href="mailto:karyn_gunawan@moe.edu.sg">Miss Karyn Gunawan|
 | 4 Integrity 7 | <a href="mailto:kwang_yu_fung@moe.edu.sg">Mr Kwang Yu Fung </a><br>(关老师)| <a href="mailto:muhammad_khairi_hanafi@moe.edu.sg">Mr Muhammad Khairi bin Hanafi |
 
-**<center>Primary 5 Form Teachers</center>**
+**<center>**Primary 5 Form Teachers**</center>**
 
 | CLASS  | FORM TEACHERS ||
 | -------- | -------- | -------- |
@@ -73,7 +73,7 @@ description: ""
 | 5 Self-Discipline 7 | <a href="mailto:low_tin_hock@moe.edu.sg"> Mr Low Tin Hock </a><br>(刘老师)| <a href="mailto:ng_ting_ting_2@moe.edu.sg">Ms Ng Ting Ting|
 
 
-**<center>Primary 6 Form Teachers</center>**
+**<center>**Primary 6 Form Teachers**</center>**
 | CLASS  | FORM TEACHERS ||
 | -------- | -------- | -------- |
 | 6 Resilience 1 | <a href="mailto:tang_di_ya@moe.edu.sg">Mdm Tang Di Ya| <a href="mailto:goh_lee_chuan@moe.edu.sg">Miss Goh Lee Chuan |
@@ -83,4 +83,15 @@ description: ""
 | 6 Resilience 5 | <a href="mailto:samantha_s_tan@moe.edu.sg">Miss Tan Sin Guan Samantha| <a href="mailto:foong_wenfang@moe.edu.sg">Ms Foong Wenfang </a><br>(冯老师)|
 | 6 Resilience 6 | <a href="mailto:tay_kai_yi_kathy@moe.edu.sg">Mdm Tay Kai Yi Kathy| <a href="mailto:li_shu_lan@moe.edu.sg">Mdm Li Shu Lan </a><br>(李老师）|
 | 6 Resilience 7 | <a href="mailto:zhong_wan_ying@moe.edu.sg">Mdm Zhong Wan Ying | <a href="mailto:dong_yan@moe.edu.sg">Mdm Dong Yan </a><br>(董老师) |
+	
+|  **Lead Teachers**|  | 
+| -------- | -------- | 
+| <a href="mailto:dong_yan@moe.edu.sg">Mdm Dong Yan</a>  (董老师）<br>(Chinese Language) | <a href="mailto:tan_ying_fong@moe.edu.sg">Mdm Tan Ying Fong Irene</a> <br>(Science) | 
+
+
+|  **Senior Teachers**|  | 
+| -------- | -------- | 
+| <a href="mailto:low_tin_hock@moe.edu.sg">Mr Low Tin Hock</a> (刘老师）<br>(Chinese Language) | <a href="mailto:sun_xueying@moe.edu.sg">Mdm Sun Xueying</a>  (孙老师）<br>(Chinese Language) |
+|<a href="mailto:helena_baldwin@moe.edu.sg">Mrs Helena Baldwin</a> <br>(English Language)||
+
 
