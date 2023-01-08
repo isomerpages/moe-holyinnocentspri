@@ -85,8 +85,7 @@ description: ""
 | 6 Resilience 7 | <a href="mailto:zhong_wan_ying@moe.edu.sg">Mdm Zhong Wan Ying | <a href="mailto:dong_yan@moe.edu.sg">Mdm Dong Yan </a><br>(董老师) |
 
 
-
-<table>
+<Table>
 <thead>
 	</th>
     <th>Lead Teachers</th>
