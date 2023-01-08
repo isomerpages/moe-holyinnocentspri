@@ -3,8 +3,7 @@ title: Rich Chinese Culture
 permalink: /rich-chinese-culture/SAP-Chinese-Culture/
 description: ""
 ---
-
-## SAP - Chinese Culture
+## SAP - Rich Chinese Culture
 
 #### Department Vision
 
