@@ -84,33 +84,3 @@ description: ""
 | 6 Resilience 6 | <a href="mailto:tay_kai_yi_kathy@moe.edu.sg">Mdm Tay Kai Yi Kathy| <a href="mailto:li_shu_lan@moe.edu.sg">Mdm Li Shu Lan </a><br>(李老师）|
 | 6 Resilience 7 | <a href="mailto:zhong_wan_ying@moe.edu.sg">Mdm Zhong Wan Ying | <a href="mailto:dong_yan@moe.edu.sg">Mdm Dong Yan </a><br>(董老师) |
 
-
-<Table>
-<thead>
-	</th>
-    <th>Lead Teachers</th>
-      <th></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><a href="mailto:dong_yan@moe.edu.sg">Mdm Dong Yan</a>  (董老师）<br>(Chinese Language)</td></td><td><a href="mailto:tan_ying_fong@moe.edu.sg">Mdm Tan Ying Fong Irene</a> <br>(Science)</td>
-  </tr>
-</tbody>
-</table>
-<br>
-<table>
-<thead>
-    <th>Senior Teachers</th>
-    <th></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-	<td><a href="mailto:low_tin_hock@moe.edu.sg">Mr Low Tin Hock</a> (刘老师）<br>(Chinese Language) </td>
-    <td><a href="mailto:sun_xueying@moe.edu.sg">Mdm Sun Xueying</a>  (孙老师）<br>(Chinese Language)</td>
-  </tr>
-    <td><a href="mailto:helena_baldwin@moe.edu.sg">Mrs Helena Baldwin</a> <br>(English Language</td>
-  </tr>   
-</tbody>
-</table>
