@@ -45,7 +45,7 @@ Our logo symbolizes the link between the school and the parents working together
 
 | Commitee Members |  | 
 | -------- | -------- | 
-| Mr Roger Quek </a><br> Ms Jasmine Chew </a><br> Ms Jaslynn  | Mr Joachim Goh  </a><br> Ms Cheryl Loh </a><br>Ms Christina Wang  |   
+| Mr Roger Quek <br> Ms Jasmine Chew <br> Ms Jaslynn  | Mr Joachim Goh  <br> Ms Cheryl Loh <br>Ms Christina Wang  |   
 
 
 
