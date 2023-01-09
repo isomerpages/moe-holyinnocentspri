@@ -9,9 +9,8 @@ third_nav_title: Info for students and parents
 #### Parent Volunteer (PV) Scheme
 
 <font size="+1">Parent Volunteer Registration for **2024 Primary 1** admission is now **CLOSED.**
-<br>
-<br>
-<font size="+1">TERMS AND CONDITIONS
+
+TERMS AND CONDITIONS
 
 1. Child must be a Singapore Citizen or a Singapore Permanent Resident.
 
