@@ -4,10 +4,7 @@ permalink: /hips-family/HIPS-Partners/HIPS-Partners/
 description: ""
 third_nav_title: Info for students and parents
 ---
-
-## HIPS Partners
-
-#### E-Open House 
+## E-open House
 
 
 **Dear Parents/Guardians,**
