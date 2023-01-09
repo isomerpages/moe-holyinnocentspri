@@ -22,8 +22,8 @@ To encourage more parents to be involved in their children's education at school
 
 #### Logo
 
+<img style="width: 40%;" src="/images/HIPS%20PSG%20Logo%20V2022.jpg" align = "center" /> 
 
-![](/images/HIPS%20PSG%20Logo%20V2022.jpg)
 
 Our logo is the brainchild of the first executive committee. It symbolizes the link between the school and the parents working together to provide quality education, love and care for our children. 
 
@@ -57,6 +57,7 @@ Our logo is the brainchild of the first executive committee. It symbolizes the l
 
 **GIFT - Growing in Faith Together**  
 Led by our Chaplain, the GIFT volunteers and teachers have developed programmes for students at the different levels. Topics such as the lives of Saints and the Gift of the Holy Spirit are shared during these sessions.  The GIFT programme is not a substitute for the Catechism programme conducted in the parishes.   
+
 Since the pandemic, GIFT lessons are online via the Student Learning Space, and are interactive using videos, activities and songs.  Regular prayers such as the daily Guardian Angel Prayer and student-led Rosary prayer in May and October anchor our students in faith.  
   
 
