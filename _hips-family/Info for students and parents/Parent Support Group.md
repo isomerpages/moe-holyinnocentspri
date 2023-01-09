@@ -24,8 +24,7 @@ To encourage more parents to be involved in their children's education at school
 
 <img style="width: 40%;" src="/images/HIPS%20PSG%20Logo%20V2022.jpg" align = "center" /> 
 
-
-Our logo is the brainchild of the first executive committee. It symbolizes the link between the school and the parents working together to provide quality education, love and care for our children. 
+Our logo symbolizes the link between the school and the parents working together to provide quality education, love and care for our children.
 
 #### Advisory and Committee Members
 
