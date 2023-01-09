@@ -31,7 +31,7 @@ Our logo symbolizes the link between the school and the parents working together
 
 | **Advisors**|  |  
 | -------- | -------- | 
-|Ms Lena Seet </a><br> Principal | Mr John Ng </a><br> Vice Principal (Administration)|
+|Ms Lena Seet <br> Principal | Mr John Ng <br> Vice Principal (Administration)|
 
 
 |  |  | 
