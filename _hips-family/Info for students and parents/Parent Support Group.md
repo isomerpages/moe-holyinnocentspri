@@ -32,22 +32,21 @@ Our logo is the brainchild of the first executive committee. It symbolizes the l
 
 | **Advisors**|  |  
 | -------- | -------- | 
-|Ms Lena Seet   | Mr John Ng |
+|Ms Lena Seet </a><br> Principal | Mr John Ng </a><br> Vice Principal (Administration)|
 
 
 |  |  | 
 | -------- | -------- | 
 | **Chairperson**   |Ms Luwen Loo     | 
-|**Vice- Chairperson**| Ms Kory Joesman |
+|**Vice- Chairperson**|Ms Kory Joesman |
 |**Secretary** |Ms Karen Law|
-|**Assistant Secretary**| Ms Adeline Chang|
-|**Treasurer**| Ms Yang Yan |
-|**Assistant Treasurer**| Ms Adeline Chang|
-
+|**Assistant Secretary**|Ms Candice Yang|
+|**Treasurer**|Ms Yang Yan |
+|**Assistant Treasurer**|Ms Adeline Chang|
 
 | Commitee Members |  | 
 | -------- | -------- | 
-| Mr Roger Quek   | Mr Joachim Goh    |   
+| Mr Roger Quek </a><br> Ms Jasmine Chew </a><br> Ms Jaslynn  | Mr Joachim Goh  </a><br> Ms Cheryl Loh </a><br>Ms Christina Wang  |   
 
 
 
