@@ -38,7 +38,7 @@ For a child who is a Permanent Resident, parents must provide a copy of:
 
 ALL PVs will be subject to balloting should the number of applicants be greater than the available vacancies during Phase 2B registration. In the event of balloting, Singapore Citizens will be given priority over Permanent Residents.
 
-<font size="+1"> **Timeline**
+ **Timeline**
 
 | YEAR OF CHILD'S BIRTH                   | 2017                      | 2018                      |
 |-----------------------------------------|----------------------------|----------------------------|
