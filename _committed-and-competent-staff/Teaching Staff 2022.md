@@ -5,7 +5,7 @@ description: ""
 ---
 ## Teaching Staff 2022
 
-**<center>**Primary 1 Form Teachers**</center>**
+**<center>Primary 1 Form Teachers</center>**
 
 | CLASS  | FORM TEACHERS ||
 | -------- | -------- | -------- |
@@ -74,6 +74,7 @@ description: ""
 
 
 **<center>**Primary 6 Form Teachers**</center>**
+	
 | CLASS  | FORM TEACHERS ||
 | -------- | -------- | -------- |
 | 6 Resilience 1 | <a href="mailto:tang_di_ya@moe.edu.sg">Mdm Tang Di Ya| <a href="mailto:goh_lee_chuan@moe.edu.sg">Miss Goh Lee Chuan |
