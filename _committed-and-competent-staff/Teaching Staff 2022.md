@@ -18,7 +18,7 @@ description: ""
 | 1 Sincerity 7 | <a href="mailto:booi_mo_lian@moe.edu.sg">Mdm Booi Mo Lian Sheryl | <a href="mailto:tneo_yan_peng@moe.edu.sg">Miss Tneo Yan Peng </a><br>(张老师) |
 | 1 Sincerity 8 | <a href="mailto:ow_ai_khim@moe.edu.sg">Ms Ow Ai Khim </a><br>(欧老师) | <a href="mailto:chan_gan_siu@moe.edu.sg">Mrs Chan Gan Siu Betty|
 | 1 Sincerity 9 | <a href="mailto:xu_jie@moe.edu.sg">Mdm Xu Jie</a><br>(胥老师) | <a href="mailto: neo_wei_lin_gwendolyn@moe.edu.sg">Mdm Neo Wei Lin Gwendolyn|
-<br>
+
 
 **<center>Primary 2 Form Teachers</center>**
 
@@ -33,7 +33,7 @@ description: ""
 | 2 Charity 7 | <a href="mailto:ng_hui_san@moe.edu.sg">Mdm Ng Hui San </a><br>(黄老师)| <a href="mailto:tneo_yan_peng@moe.edu.sg">Miss Tneo Yan Peng </a><br>(张老师) |
 | 2 Charity 8 | <a href="mailto:teh_chin_han@moe.edu.sg">Mr Teh Chin Han </a><br>(林老师) <br> <a href="mailto:chua_sze_yi@moe.edu.sg"> Mdm Kerin Chua | <a href="mailto:nur_farhana_arzami@moe.edu.sg">Mdm Nur Farhana Binti Arzami </a><br><br> <a href="mailto:nur_ashkin@moe.edu.sg">Mdm Nur Ashkin|
 | 2 Charity 9 | <a href="mailto:ye_peishan@moe.edu.sg">Mdm Ye PeiShan (Mrs Shen) | <a href="mailto: hou_yin_fatt@moe.edu.sg">Mrs Hou Yin Fatt Linda|
-<br>
+
 	
 
 **<center>Primary 3 Form Teachers</center>**
@@ -47,7 +47,7 @@ description: ""
 | 3 Graciousness 5 | <a href="mailto:helena_baldwin@moe.edu.sg">Mrs Helena Baldwin| <a href="mailto:png_yong_han@moe.edu.sg">Mr Png Yong Han|
 | 3 Graciousness 6 | <a href="mailto:ashwary_technamoorthy@moe.edu.sg">Ms Ashwary Technamoorthy| <a href="mailto:lim_soo_ngee_martina@moe.edu.sg">Miss Lim Soo Ngee, Martina |
 | 3 Graciousness 7 | <a href="mailto:chia_hui_tian@moe.edu.sg">Mrs Seet-Chia Hui Tian | <a href="mailto:mohamad_zaki_ali@moe.edu.sg">Mr Mohamad Zaki bin Ali |
-<br>
+
 
 
 **<center>Primary 4 Form Teachers</center>**
@@ -61,7 +61,7 @@ description: ""
 | 4 Integrity 5 | <a href="mailto:he_haiyang@moe.edu.sg">Mr Mohammad Aizal bin Zainol| <a href="mailto:ho_siew_leng_2@moe.edu.sg">Mdm Ho Siew Leng|
 | 4 Integrity 6 | <a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan| <a href="mailto:karyn_gunawan@moe.edu.sg">Miss Karyn Gunawan|
 | 4 Integrity 7 | <a href="mailto:kwang_yu_fung@moe.edu.sg">Mr Kwang Yu Fung </a><br>(关老师)| <a href="mailto:muhammad_khairi_hanafi@moe.edu.sg">Mr Muhammad Khairi bin Hanafi |
-<br>
+
 
 **<center>Primary 5 Form Teachers</center>**
 
@@ -74,7 +74,7 @@ description: ""
 | 5 Self-Discipline 5 | <a href="mailto:yunus_b_yusif@moe.edu.sg">Mr Yunus Bin Yusof| <a href="mailto:tan_hwee_sung@moe.edu.sg">Mdm Tan Hwee Sung|
 | 5 Self-Discipline 6 | <a href="mailto:lim_sheng@moe.edu.sg">Mr Lim Sheng| <a href="mailto:lim_soo_ee@moe.edu.sg">Miss Lim Soo Ee|
 | 5 Self-Discipline 7 | <a href="mailto:low_tin_hock@moe.edu.sg"> Mr Low Tin Hock </a><br>(刘老师)| <a href="mailto:ng_ting_ting_2@moe.edu.sg">Ms Ng Ting Ting|
-<br>
+
 
 
 **<center>Primary 6 Form Teachers</center>**
@@ -88,14 +88,14 @@ description: ""
 | 6 Resilience 5 | <a href="mailto:samantha_s_tan@moe.edu.sg">Miss Tan Sin Guan Samantha| <a href="mailto:foong_wenfang@moe.edu.sg">Ms Foong Wenfang </a><br>(冯老师)|
 | 6 Resilience 6 | <a href="mailto:tay_kai_yi_kathy@moe.edu.sg">Mdm Tay Kai Yi Kathy| <a href="mailto:li_shu_lan@moe.edu.sg">Mdm Li Shu Lan </a><br>(李老师）|
 | 6 Resilience 7 | <a href="mailto:zhong_wan_ying@moe.edu.sg">Mdm Zhong Wan Ying | <a href="mailto:dong_yan@moe.edu.sg">Mdm Dong Yan </a><br>(董老师) |
-<br>
+
 
 	
 |  **Lead Teachers**|  | 
 | -------- | -------- | 
 | <a href="mailto:dong_yan@moe.edu.sg">Mdm Dong Yan</a>  (董老师）<br>(Chinese Language) | <a href="mailto:tan_ying_fong@moe.edu.sg">Mdm Tan Ying Fong Irene</a> <br>(Science) | 
 
-<br>
+
 <br>
 
 |  **Senior Teachers**|  | 
