@@ -2,19 +2,19 @@ collections:
   hips-family:
     output: true
     order:
-      - School Rules.md
       - School Crest.md
       - School History.md
       - Vision Mission Core Values.md
       - School Song.md
       - Strategic Thrusts.md
       - School Management Committee.md
-      - Info for students and parents/Vendors.md
       - Info for students and parents/.keep
+      - Info for students and parents/Vendors.md
       - Info for students and parents/Open house.md
       - Info for students and parents/Parent Volunteer (PV) Scheme.md
       - Info for students and parents/Parent Support Group.md
       - Info for students and parents/Useful Links.md
+      - School Rules.md
       - General School Information.md
       - Contact Us.md
       - Enquiry.md
