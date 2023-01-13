@@ -15,5 +15,5 @@ sections:
   - infobar:
       title: HIPS E-Open House
       button: Click
-      url: https://staging.d2b4at95lsu703.amplifyapp.com/hips-family/HIPS-Partners/HIPS-Partners/
+      url: https://staging.d2b4at95lsu703.amplifyapp.com/hips-family/HIPS-Partners/E-Openhouse/
 ---
