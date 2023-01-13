@@ -6,6 +6,3 @@ description: ""
 # Principal's Message
 
 **Principal's Foreword 2023**
-
-
-
