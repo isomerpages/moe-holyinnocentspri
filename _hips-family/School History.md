@@ -50,14 +50,12 @@ As Education enters the 21st century, Holy Innocents’ Primary School is focus-
 As with the school’s mission to being “committed to nurture the potential in each child to the fullest and develop his character in a God-centred environment so as to prepare him for the challenges of the future and to serve the nation”, the HIPS community will continue to function as one family to be a beacon of light and hope to the community and to the country.
 
 #### Our Principals
+|  |  | 
+| -------- | -------- |  
+|Miss Goh Boon How  | 1985 to 1997     | 
+|Mr Jimmy Tan|    1998 to 2001|
+|Mrs Doris Sum    | 2002 to 2009|
+|Mdm Quek Seok Noi| 2010 to 2020|
+|Miss Lena Seet |  2021 -|
+|||
 
-
-**Miss Goh Boon How       1985 to 1997**
-
-**Mr Jimmy Tan                  1998 to 2001**
-
-**Mrs Doris Sum                 2002 to 2009**
-
-**Mdm Quek Seok Noi        2010 to 2020**
-
-**Miss Lena Seet                 2021 -**
