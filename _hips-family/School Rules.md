@@ -7,12 +7,10 @@ description: ""
 
 Students must adhere to the following school rules at all times.
 
-The 3Rs Rule
+<center> **The 3Rs Rule**
 
-
-
-**R**espect yourself
-**R**espect others
+**R**espect yourself</br>
+**R**espect others</br>
 **R**espect the environment
 
 
