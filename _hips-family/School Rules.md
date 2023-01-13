@@ -3,8 +3,19 @@ title: School Rules
 permalink: /hips-family/school-rules/
 description: ""
 ---
-
 # School Rules
+
+Students must adhere to the following school rules at all times.
+
+**The 3Rs Rule**
+
+Respect yourself
+
+Respect others
+
+Respect the environment
+
+
 
 ## Attire
 
