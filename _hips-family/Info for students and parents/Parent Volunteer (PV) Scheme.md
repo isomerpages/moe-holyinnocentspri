@@ -8,7 +8,7 @@ third_nav_title: Info for students and parents
 
 #### Parent Volunteer (PV) Scheme
 
-<font size="+1">Parent Volunteer Registration for **2024 Primary 1** admission is now **CLOSED.**
+Parent Volunteer Registration for **2024 Primary 1** admission is now **CLOSED.**
 
 TERMS AND CONDITIONS
 <br>
