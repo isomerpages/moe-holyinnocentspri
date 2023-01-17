@@ -45,7 +45,7 @@ Students must adhere to the following school rules at all times.
 *  Students must stand at attention throughout the flag-raising ceremony.
 *  Students must sing the National Anthem and School Song with pride.
 
-### Attire</br>
+### Attire
 
 
 Students are to wear the prescribed school uniform and modifications to the uniform are not allowed.
