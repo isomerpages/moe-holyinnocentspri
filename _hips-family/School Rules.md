@@ -7,15 +7,15 @@ description: ""
 
 Students must adhere to the following school rules at all times.
 
-<center> **The 3Rs Rule**
+<center> **The 3Rs Rule**<center>
 
 **R**espect yourself</br>
 **R**espect others</br>
 **R**espect the environment
+</br>
 
+## Attire</br>
 
-
-## Attire
 
 Students are to wear the prescribed school uniform and modifications to the uniform are not allowed.
 
