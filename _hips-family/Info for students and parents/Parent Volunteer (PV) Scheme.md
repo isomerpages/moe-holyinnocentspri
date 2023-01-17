@@ -57,7 +57,7 @@ Unsuccessful applicants will be notified via email by the **end of May**.
 
 Do complete the application form, during the PV application period, via this FormSG&nbsp;[link](https://go.gov.sg/parent-volunteer-scheme-2022)&nbsp;or the QR code below if you are keen to apply.
 
-<img align="centre" src="/images/pvQR.png" style="width: 30%;">
+<img style="width: 30%;" src="/images/pvQR.png" align="centre">
 
 For any queries, you may email&nbsp;[holyinnocentspri@moe.edu.sg](mailto:holyinnocentspri@moe.edu.sg).  
 
