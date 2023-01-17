@@ -12,7 +12,7 @@ Parent Volunteer Registration for&nbsp;**2024 Primary 1**&nbsp;admission is now&
 
 #### TERMS AND CONDITIONS
 <br>
-1.  Child must be a Singapore Citizen or a Singapore Permanent Resident.
+1. Child must be a Singapore Citizen or a Singapore Permanent Resident.
 <br>
 2. Parents may begin their registration one year prior to the year of the Primary One Registration Exercise. 
 <br>
@@ -24,7 +24,7 @@ PVs who wish to terminate their involvement while they are in the scheme, have t
 <br>
 For a child who is a Singapore Citizen, parents must provide a copy of the following:
 <br>
-*  Child’s Birth Certificate or Singapore Citizenship Certificate (if child is not Singapore Citizen by birth)
+* Child’s Birth Certificate or Singapore Citizenship Certificate (if child is not Singapore Citizen by birth)
 <br>
 * Parents’ Singapore NRIC or Entry / Re-Entry Permit (if parents do not possess Singapore NRIC)
 
@@ -57,7 +57,7 @@ Unsuccessful applicants will be notified via email by the **end of May**.
 
 Do complete the application form, during the PV application period, via this FormSG&nbsp;[link](https://go.gov.sg/parent-volunteer-scheme-2022)&nbsp;or the QR code below if you are keen to apply.
 
-<img style="width: 30%;" src="/images/pvQR.png" align="centre">
+<img align="centre" src="/images/pvQR.png" style="width: 30%;">
 
 For any queries, you may email&nbsp;[holyinnocentspri@moe.edu.sg](mailto:holyinnocentspri@moe.edu.sg).  
 
