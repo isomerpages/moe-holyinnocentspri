@@ -29,7 +29,7 @@ third_nav_title: Info for students and parents
 
 |||
 | -------- | -------- |
-|  Company Name: <br> Contact Person:<br>  Tel: <br>|Anna Catering <br> Mdm Anna Yeo <br>97234865  |
+|  Company Name: <br> Contact Person:<br> Tel: <br>|Anna Catering <br> Mdm Anna Yeo <br>97234865  |
 |||
 
 5. **Name Tags**
