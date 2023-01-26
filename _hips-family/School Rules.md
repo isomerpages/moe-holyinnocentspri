@@ -12,8 +12,9 @@ Students must adhere to the following school rules at all times.
 <Center> **R**espect yourself </Center>
 <Center> **R**espect others <Center>
 <Center> **R**espect the environment</Center>
+</b>
 
-
+	
 ### Conduct
 
 #### Personal conduct
