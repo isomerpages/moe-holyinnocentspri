@@ -9,10 +9,12 @@ Students must adhere to the following school rules at all times.
 
 <Center>The 3Rs Rule</center>
 	
- **R**espect yourself 
- **R**espect others
- **R**espect the environment
-
+<Center>
+	
+ **R**espect yourself ~
+ **R**espect others ~
+ **R**espect the environment 
+</Center>
 
 	
 ### Conduct
