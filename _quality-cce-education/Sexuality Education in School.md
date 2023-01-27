@@ -27,7 +27,7 @@ The subjects that incorporate topics on sexuality include:
 1. Science 
 2. Character and Citizenship Education (CCE)
 
-<u>**Sexuality Education Lessons:**</u> 
+### Sexuality Education Lessons:
 
 The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources. 
 
@@ -42,3 +42,11 @@ Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 
 
 Please Note:<b>
 ***For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.***</b>
+
+### INFORMATION FOR PARENTS
+
+Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+
+Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form which is in the attachment. The opt-out form is to be submitted by **31/01/2023**.
+
+Parents can contact the school at holyinnocentspri@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
