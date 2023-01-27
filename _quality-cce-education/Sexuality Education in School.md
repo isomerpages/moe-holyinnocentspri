@@ -36,3 +36,9 @@ Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 
 
 **At Holy Innocents’ Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
+![](/images/Sexualtiy%20education%20lesson/P5_lesson%20overview.jpg)
+
+![](/images/Sexualtiy%20education%20lesson/P6_lesson%20overview.jpg)
+
+Please Note:<b>
+***For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.***</b>
