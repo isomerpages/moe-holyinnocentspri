@@ -18,5 +18,6 @@ sections:
       url: https://staging.d2b4at95lsu703.amplifyapp.com/hips-family/HIPS-Partners/E-Openhouse/
   - infobar:
       title: School Calendar
-      button: Button Text
+      button: CLICK
+      url: /hips-family/schoolCalendar/
 ---
