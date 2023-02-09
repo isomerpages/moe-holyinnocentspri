@@ -2,6 +2,7 @@ collections:
   hips-family:
     output: true
     order:
+      - School Calendar.md
       - Principal's Message.md
       - School Crest.md
       - School History.md
