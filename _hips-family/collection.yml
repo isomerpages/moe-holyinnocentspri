@@ -2,7 +2,6 @@ collections:
   hips-family:
     output: true
     order:
-      - School Calendar.md
       - Principal's Message.md
       - School Crest.md
       - School History.md
@@ -17,6 +16,7 @@ collections:
       - Info for students and parents/Parent Support Group.md
       - Info for students and parents/Useful Links.md
       - School Rules.md
+      - School Calendar.md
       - General School Information.md
       - Contact Us.md
       - Enquiry.md
