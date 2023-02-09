@@ -16,4 +16,7 @@ sections:
       title: HIPS E-Open House
       button: Click
       url: https://staging.d2b4at95lsu703.amplifyapp.com/hips-family/HIPS-Partners/E-Openhouse/
+  - infobar:
+      title: School Calendar
+      button: Button Text
 ---
