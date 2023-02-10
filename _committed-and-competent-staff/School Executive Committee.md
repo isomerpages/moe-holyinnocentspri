@@ -122,9 +122,7 @@ description: ""
     <td><a href="mailto:sarah_koh_hui_khoon@moe.edu.sg">Mrs Sarah Lee</a><br>Head of Department</td>
     <td><a href="mailto:foong_wenfang@moe.edu.sg">Ms Foong Wenfan</a>g<br>Head of Department<br></td>
   </tr>
-  <tr>
-    <td><a href="mailto:lee_siew_kian_joyce@moe.edu.sg">Mdm Lee Siew Kian Joyce</a><br>Subject Head (PE)</td>
-    <td></td>
+ <td></td>
     <td></td>
   </tr>
 </tbody>
