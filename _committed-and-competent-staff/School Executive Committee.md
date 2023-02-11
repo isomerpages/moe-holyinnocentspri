@@ -108,9 +108,9 @@ description: ""
   </tr>
   <tr>
     <td><a href="mailto:lim_lily_a@moe.edu.sg">Mdm Lily Lim</a><br>Subject Head (Student Well-being)<br></td>
-  </tr>
  <td></td>
 <td></td>
+</tr>
 </tbody>
 </table>
 
