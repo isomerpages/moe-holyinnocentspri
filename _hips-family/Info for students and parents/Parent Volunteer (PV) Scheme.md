@@ -63,7 +63,7 @@ Unsuccessful applicants will be notified via email by the **end of May**.
 Do complete the application form, during the PV application period, via this FormSG&nbsp;[link](https://go.gov.sg/hips-parent-volunteer-scheme-2023)&nbsp;or the QR code below if you are keen to apply.
 
 [](/images/PVS2023.jpg)
-<img align="center" src="/images/PVS2023.jpg" style="width: 50%;">
+<img style="width: 40%;" src="/images/PVS2023.jpg" align="center">
 
 For any queries, you may email&nbsp;[holyinnocentspri@moe.edu.sg](mailto:holyinnocentspri@moe.edu.sg).  
 
