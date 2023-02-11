@@ -19,8 +19,8 @@ description: ""
 <thead>
   <tr>
     <td class="tg-yfep"><a href="mailto:holyinnocentspri@moe.edu.sg"><span style="text-decoration:none;color:#B00010">Mrs Theresa Chua</span></a><br><span style="background-color:#FFF">VP (Academic)</span></td>
-    <td class="tg-yfep"><a href="mailto:holyinnocentspri@moe.edu.sg"><span style="text-decoration:none;color:#B00010">Mrs Theresa Chua</span></a><br><span style="background-color:#FFF">VP (Academic)</span></td>
-    <td class="tg-yfep"><a href="mailto:holyinnocentspri@moe.edu.sg"><span style="text-decoration:none;color:#B00010">Mrs Sharon Tobias</span></a><br>           VP( Academic) <span style="color:#000">   </span>    </td>
+    <td class="tg-yfep"><a href="mailto:holyinnocentspri@moe.edu.sg"><span style="text-decoration:none;color:#B00010">Mrs Joyce Cheong</span></a><br><span style="background-color:#FFF">VP (Academic)</span></td>
+    <td class="tg-yfep"><a href="mailto:holyinnocentspri@moe.edu.sg"><span style="text-decoration:none;color:#B00010">Mr John Ng</span></a><br>           VP (Administration) <span style="color:#000">   </span>    </td>
   </tr>
 </thead>
 </table>
