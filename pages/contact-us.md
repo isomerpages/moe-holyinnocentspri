@@ -11,7 +11,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 7.30am - 5.00pm
-        description: Closed on Public Holidays
+        description: Closed on Sat and Public Holidays
     maps_link: ""
     title: General Office
 contacts:
