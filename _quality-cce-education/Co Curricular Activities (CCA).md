@@ -20,7 +20,7 @@ Through participation of CCA, students are provided with varied and authentic op
  **CCA Schedule 2023** <br>
 Click [here](files/CCA%20Schedule%202023.pdf) to download the updated schedule.
 
-
+<br>
 
 <img style="width: 90%;" src="/images/CCA1.png" align = "center" />
 
