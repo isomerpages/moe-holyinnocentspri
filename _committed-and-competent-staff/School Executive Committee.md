@@ -5,7 +5,7 @@ description: ""
 ---
 ## SCHOOL EXECUTIVE COMMITTEE
 
-**<center><a href="mailto:chu_sing_ee@moe.edu.sg">Miss Lena Seet</a><br>Principal</center>**
+**<center><a href="mailto:holyinnocentspri@moe.edu.sg">Miss Lena Seet</a><br>Principal</center>**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -13,19 +13,17 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yfep{background-color:#FFF;border-color:inherit;color:#B00010;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-yfep{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-yfep"><a href="mailto:holyinnocentspri@moe.edu.sg"><span style="text-decoration:none;color:#B00010">Mrs Theresa Chua</span></a><br><span style="background-color:#FFF">VP (Academic)</span></td>
-    <td class="tg-yfep"><a href="mailto:holyinnocentspri@moe.edu.sg"><span style="text-decoration:none;color:#B00010">Mrs Sharon Tobias</span></a><br>           VP( Academic) <span style="color:#000">   </span>    </td>
+    <td class="tg-yfep"><a href="mailto:holyinnocentspri@moe.edu.sg">Mrs Theresa Chua</span></a><br>VP (Academic)</span></td>
+    <td class="tg-yfep"><a href="mailto:holyinnocentspri@moe.edu.sg">Mrs Joyce Cheong</span></a><br>           VP (Academic)</span></td><td class="tg-yfep"><a href="mailto:holyinnocentspri@moe.edu.sg">Mr John Ng</span></a><br>           VP (Administration)</span>
   </tr>
 </thead>
 </table>
-
 <br>
-
 <table>
 <thead>
   <tr>
@@ -55,7 +53,9 @@ description: ""
   </tr>
   <tr>
     <td><a href="mailto:koh_rui_en_sabrina@moe.edu.sg">Mrs Sabrina Neo</a> <br>Level Head</td>
-    <td><a href="mailto:ma_ah_yin@moe.edu.sg">Mdm Ah Yin </a><br>Level Head </td>
+    <td><a href="mailto:ma_ah_yin@moe.edu.sg">Mdm Ah Yin </a><br>Level Head </td><tr>
+    <td><a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan</a><br>Level Head</td>
+    <td></td>
   </tr>
 </tbody>
 </table>
@@ -76,7 +76,7 @@ description: ""
   </tr>
   <tr>
     <td><a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg">Mdm Farah Nurhuda Mohmad Isa </a><br>Level Head<br></td>
-    <td><a href="mailto:chua_sze_yi@moe.edu.sg">Mr</a>s Chan Zhenying<br>Level Head<br></td>
+    <td><a href="mailto:chua_sze_yi@moe.edu.sg">Mrs Chan Zhenying</a><br>Level Head<br></td>
   </tr>
   <tr>
     <td><a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan</a><br>Level Head</td>
