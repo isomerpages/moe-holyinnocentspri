@@ -55,14 +55,13 @@ description: ""
   <tr>
     <td><a href="mailto:koh_rui_en_sabrina@moe.edu.sg">Mrs Sabrina Neo</a> <br>Level Head</td>
     <td><a href="mailto:ma_ah_yin@moe.edu.sg">Mdm Ah Yin </a><br>Level Head </td><tr>
-    <td><a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan</a><br>Level Head</td>
+    <td></td>
+	<td><a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan</a><br>Level Head</td>
     <td></td>
   </tr>
 </tbody>
 </table>
-
 <br>
-
 <table>
 <thead>
   <tr>
