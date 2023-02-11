@@ -20,4 +20,9 @@ contacts:
       - email: holyinnocentspri@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
+  - content:
+      - phone: +65 6287 6393
+      - email: ""
+      - other: ""
+    title: Fax
 ---
