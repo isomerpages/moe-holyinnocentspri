@@ -25,45 +25,31 @@ description: ""
 </thead>
 </table>
 
-<br>
-<br>
+|STAFF DEVELOPMENT |
+| -------- |
+|<a href="mailto:eng_li_yun_felicia@moe.edu.sg">Mdm Felicia Eng</a> (Covering)<br>School Staff Developer|
+|
 
-|STAFF DEVELOPMENT |  |  |
-| -------- | -------- | -------- |
-|<a href="mailto:eng_li_yun_felicia@moe.edu.sg">Mdm Felicia Eng</a> (Covering)<br>School Staff Developer|||
-|||
-
-<br>
-<br>
-
-| ENGLISH LANGUAGE | CHINESE LANGUAGE DEPARTMENT |
+| ENGLISH LANGUAGE|CHINESE LANGUAGE DEPARTMENT|
 | -------- | -------- | 
-| <a href="mailto:neo_kim_sian_pansy@moe.edu.sg">Mrs Pansy Ong</a>(Covering)<br>Head of Department| <a href="mailto:chu_sing_ee@moe.edu.sg">Mdm Chu Sing Ee</a><br>Head of Department |
+| <a href="mailto:neo_kim_sian_pansy@moe.edu.sg">Mrs Pansy Ong</a> (Covering)<br>Head of Department|<a href="mailto:chu_sing_ee@moe.edu.sg">Mdm Chu Sing Ee</a><br>Head of Department |
 |<a href="mailto:koh_rui_en_sabrina@moe.edu.sg">Mrs Sabrina Neo</a> <br>Level Head|<a href="mailto:ma_ah_yin@moe.edu.sg">Mdm Ah Yin </a><br>Level Head|
 ||<a href="mailto:tan_hwee_sang@moe.edu.sg">Ms Tan Hwee Sang</a><br>Level Head|
 |||
 
-<br>
-<br>
-
 | MATHEMATICS DEPARTMENT | SCIENCE DEPARTMENT |
 | -------- | -------- |
 |<a href="mailto:neo_kim_sian_pansy@moe.edu.sg">Mrs Pansy Ong</a><br>Head of Department| <a href="mailto:chua_sze_yi@moe.edu.sg">Mdm Kerin Chua</a><br>Head of Department|
-|<a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg">Mdm Farah Nurhuda Mohmad Isa|<a href="mailto:chua_sze_yi@moe.edu.sg">Mrs Chan Zhenying</a><br>Level Head|
+|<a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg">Mdm Farah Nurhuda Mohmad Isa</a><br>Level Head|<a href="mailto:chua_sze_yi@moe.edu.sg">Mrs Chan Zhenying</a><br>Level Head|
 |<a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan</a><br>Level Head||
 |||
 
-<br>
-<br>
 
 | CHARACTER &amp; CITIZENSHIP<br>EDUCATION (CCE)| STUDENT MANAGEMENT|
 | -------- | -------- |
 |<a href="mailto:wang-lim_ai_lian@moe.edu.sg">Mrs Wang-Lim Ai Lian</a><br>Head of Department|<a href="mailto:ng_cher_hwa@moe.edu.sg">Mr Ng Cher Hwa</a><br>Head of Department|
-|<a href="mailto:lim_lily_a@moe.edu.sg">Mdm Lily Lim</a><br>Subject Head (Student Well-being)||
+|<a href="mailto:lim_lily_a@moe.edu.sg">Mdm Lily Lim</a><br>Subject Head<br> (Student Well-being)||
 |||
-
-<br>
-<br>
 
 <table>
 <thead>
