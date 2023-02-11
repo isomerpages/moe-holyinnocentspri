@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Holy Innocents' Primary School
 locations:
   - address:
-      - 5 Lorong Low Koon
+      - 5 Lor Low Koon
       - Singapore 536451
       - ""
     operating_hours:
