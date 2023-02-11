@@ -54,7 +54,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><a href="mailto:waheeda_mohamed_ismail@moe.edu.sg">Ms Waheeda Mohd Ismail</a><br>Head of Department</td>
+    <td><a href="mailto:neo_kim_sian_pansy@moe.edu.sg">Mrs Pansy Ong</a>(Covering)<br>Head of Department</td>
     <td><a href="mailto:chu_sing_ee@moe.edu.sg">Mdm Chu Sing Ee</a><br>Head of Department </td>
   </tr>
   <tr>
