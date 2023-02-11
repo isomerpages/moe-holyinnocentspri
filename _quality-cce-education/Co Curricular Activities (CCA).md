@@ -17,7 +17,7 @@ Through participation of CCA, students are provided with varied and authentic op
 
 #### Co-Curriculum Activities Programme
 
-CCA Schedule 2022  
+CCA Schedule 2023  
 
 [CCA Schedule 2022.xlsx](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/2022/FOR%20WEBSITE/CCA%20Schedule%202022.xlsx)
 
@@ -30,4 +30,3 @@ CCA Schedule 2022
 <br>
 
 <img style="width: 80%;" src="/images/CCA3.png" align = "center" />
-
