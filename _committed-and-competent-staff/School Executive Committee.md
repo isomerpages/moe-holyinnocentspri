@@ -47,7 +47,7 @@ description: ""
 | <a href="mailto:lim_sheng@moe.edu.sg">Mr Lim Sheng</a><br>Head of Department|
 ||
 
-| YEAR HEADS| | |
+| YEAR HEADS|||
 | -------- | -------- | -------- |
 |<a href="mailto:eng_li_yun_felicia@moe.edu.sg">Mdm Felicia Eng</a><br>P1/2|<a href="mailto:lim_soo_ngee_martina@moe.edu.sg">Ms Martina Lim</a><br>P3/4|<a href="mailto:chu_yunfeng_alex@moe.edu.sg">Mr Alex Chu</a><br>P5/6|
 |||
