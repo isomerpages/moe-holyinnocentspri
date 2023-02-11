@@ -29,8 +29,7 @@ description: ""
 
 <table>
 <thead>
-  <tr>
-    <th>STAFF DEVELOPMENT</th>
+  <tr> STAFF DEVELOPMENT</th>
   </tr>
 </thead>
 <tbody>
