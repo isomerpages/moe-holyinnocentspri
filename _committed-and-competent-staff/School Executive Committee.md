@@ -35,7 +35,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><a href="mailto:chu_sing_ee@moe.edu.sg">Mdm Chu Sing Ee</a> (Covering)<br>School Staff Developer</td>
+    <td><a href="mailto:eng_li_yun_felicia@moe.edu.sg">Mdm Felicia Eng</a> (Covering)<br>School Staff Developer</td>
   </tr>
 </tbody>
 </table>
