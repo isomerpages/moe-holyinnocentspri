@@ -88,7 +88,7 @@ description: ""
     <td><a href="mailto:chua_sze_yi@moe.edu.sg">Mrs Chan Zhenying</a><br>Level Head<br></td>
   </tr>
   <tr>
-    <td><a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan</a><br>Level Head<br></td>
+    <td><a href="mailto:tan_hwee_sang@moe.edu.sg">Ms Tan Hwee Sang</a><br>Level Head<br></td>
   </tr>
  <td></td>
     <td></td>
