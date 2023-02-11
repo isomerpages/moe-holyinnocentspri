@@ -20,7 +20,7 @@ description: ""
   <tr>
     <td class="tg-yfep"><a href="mailto:holyinnocentspri@moe.edu.sg">Mrs Theresa Chua</a><br><span style="background-color:#FFF">VP (Academic)</span></td>
     <td class="tg-yfep"><a href="mailto:holyinnocentspri@moe.edu.sg">Mrs Joyce Cheong</a><br><span style="background-color:#FFF">VP (Academic)</span></td>
-    <td class="tg-yfep"><a href="mailto:holyinnocentspri@moe.edu.sg">Mr John Ng</a><br>           VP (Administration) <span style="color:#000">   </span>    </td>
+    <td class="tg-yfep"><a href="mailto:holyinnocentspri@moe.edu.sg">Mr John Ng</a><br>           VP (Administration) <span style="color:#000">   </span>    <td></td>
   </tr>
 </thead>
 </table>
