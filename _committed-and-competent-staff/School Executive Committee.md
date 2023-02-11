@@ -61,7 +61,7 @@ description: ""
     <td><a href="mailto:koh_rui_en_sabrina@moe.edu.sg">Mrs Sabrina Neo</a> <br>Level Head</td>
     <td><a href="mailto:ma_ah_yin@moe.edu.sg">Mdm Ah Yin </a><br>Level Head </td><tr>
     <td></td>
-	<td><a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan</a><br>Level Head<br></td>
+	<td><a href="mailto:tan_hwee_sang@moe.edu.sg">Ms Tan Hwee Sang</a><br>Level Head<br></td>
   </tr>
  <td></td>
     <td></td>
@@ -88,7 +88,7 @@ description: ""
     <td><a href="mailto:chua_sze_yi@moe.edu.sg">Mrs Chan Zhenying</a><br>Level Head<br></td>
   </tr>
   <tr>
-    <td><a href="mailto:tan_hwee_sang@moe.edu.sg">Ms Tan Hwee Sang</a><br>Level Head<br></td>
+    <td><a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan</a><br>Level Head<br></td>
   </tr>
  <td></td>
     <td></td>
@@ -114,7 +114,7 @@ description: ""
     <td><a href="mailto:lim_lily_a@moe.edu.sg">Mdm Lily Lim</a><br>Subject Head (Student Well-being)<br></td>
   </tr>
  <td></td>
-    <td></td>
+<td></td>
   </tr>
 </tbody>
 </table>
