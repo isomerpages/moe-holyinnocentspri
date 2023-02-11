@@ -15,7 +15,9 @@ description: ""
 |STAFF DEVELOPMENT |
 | -------- |
 |<a href="mailto:eng_li_yun_felicia@moe.edu.sg">Mdm Felicia Eng</a> (Covering)<br>School Staff Developer|
-|
+||
+
+<br>
 
 | ENGLISH LANGUAGE|CHINESE LANGUAGE DEPARTMENT|
 | -------- | -------- | 
@@ -24,6 +26,8 @@ description: ""
 ||<a href="mailto:tan_hwee_sang@moe.edu.sg">Ms Tan Hwee Sang</a><br>Level Head|
 |||
 
+<br>
+
 | MATHEMATICS DEPARTMENT | SCIENCE DEPARTMENT |
 | -------- | -------- |
 |<a href="mailto:neo_kim_sian_pansy@moe.edu.sg">Mrs Pansy Ong</a><br>Head of Department| <a href="mailto:chua_sze_yi@moe.edu.sg">Mdm Kerin Chua</a><br>Head of Department|
@@ -31,6 +35,7 @@ description: ""
 |<a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan</a><br>Level Head||
 |||
 
+<br>
 
 | CHARACTER &amp; CITIZENSHIP<br>EDUCATION (CCE)| STUDENT MANAGEMENT|
 | -------- | -------- |
@@ -38,18 +43,24 @@ description: ""
 |<a href="mailto:lim_lily_a@moe.edu.sg">Mdm Lily Lim</a><br>Subject Head<br> (Student Well-being)||
 |||
 
+<br>
 
 | PE / CCA | AESTHETICS| Special Assistance Plan<br> (SAP) |
 | -------- | -------- | -------- |
 |<a href="mailto:goh_lee_chuan@moe.edu.sg">Ms Goh Lee Chuan</a><br>Head of Department |<a href="mailto:sarah_koh_hui_khoon@moe.edu.sg">Mrs Sarah Lee</a><br>Head of Department| <a href="mailto:foong_wenfang@moe.edu.sg">Ms Foong Wenfan</a>g<br>Head of Department|
 |||
 
+<br>
+
 | Information &amp; Communications Technology<br>(ICT)| 
 | -------- | 
 | <a href="mailto:lim_sheng@moe.edu.sg">Mr Lim Sheng</a><br>Head of Department|
 ||
 
+<br>
+
 | YEAR HEADS| | |
 | -------- | -------- | -------- |
 | <a href="mailto:eng_li_yun_felicia@moe.edu.sg">Mdm Felicia Eng</a><br>P1/2|<a href="mailto:lim_soo_ngee_martina@moe.edu.sg">Ms Martina Lim</a><br>P3/4|<a href="mailto:chu_yunfeng_alex@moe.edu.sg">Mr Alex Chu</a><br>P5/6 |
 |||
+<br>
