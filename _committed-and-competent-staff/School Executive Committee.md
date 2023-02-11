@@ -7,9 +7,11 @@ description: ""
 
 **<center><a href="mailto:holyinnocentspri@moe.edu.sg">Miss Lena Seet</a><br>Principal</center>**
 
-
-|<center><a href="mailto:holyinnocentspri@moe.edu.sg">Mrs Theresa Chua</a><br>VP (Academic)</center>|<center><a href="mailto:holyinnocentspri@moe.edu.sg">Mrs Joyce Cheong</a><br>VP (Academic)</center>|<center><a href="mailto:holyinnocentspri@moe.edu.sg">MrJohn Ng</a><br>VP (Administration)</center>|
+<br>
+	
+|<a href="mailto:holyinnocentspri@moe.edu.sg">Mrs Theresa Chua</a><br>VP (Academic)|<a href="mailto:holyinnocentspri@moe.edu.sg">Mrs Joyce Cheong</a><br>VP (Academic)|<a href="mailto:holyinnocentspri@moe.edu.sg">MrJohn Ng</a><br>VP (Administration)|
 | -------- | -------- | -------- |
+
 <br>
 
 |STAFF DEVELOPMENT |
