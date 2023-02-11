@@ -8,7 +8,7 @@ third_nav_title: Info for students and parents
 
 #### Parent Volunteer (PV) Scheme
 
-Parent Volunteer Registration for&nbsp;**2024 Primary 1**&nbsp;admission is now&nbsp;**CLOSED.**
+Parent Volunteer Registration for&nbsp;**2024 Primary 1**&nbsp;admission is now&nbsp;**OPEN.**
 
 #### TERMS AND CONDITIONS
 <br>
@@ -60,9 +60,9 @@ Note: Selection is **NOT** on a first-come, first-served basis.
 
 Unsuccessful applicants will be notified via email by the **end of May**.
 
-Do complete the application form, during the PV application period, via this FormSG&nbsp;[link](https://go.gov.sg/parent-volunteer-scheme-2022)&nbsp;or the QR code below if you are keen to apply.
+Do complete the application form, during the PV application period, via this FormSG&nbsp;[link](https://go.gov.sg/parent-volunteer-scheme-2023)&nbsp;or the QR code below if you are keen to apply.
 
-<img align="centre" src="/images/pvQR.png" style="width: 30%;">
+<img style="width: 30%;" src="/images/pvQR.png" align="centre">
 
 For any queries, you may email&nbsp;[holyinnocentspri@moe.edu.sg](mailto:holyinnocentspri@moe.edu.sg).  
 
