@@ -103,10 +103,10 @@ description: ""
     <td><a href="mailto:ng_cher_hwa@moe.edu.sg">Mr Ng Cher Hwa</a><br>Head of Department</td>
   </tr>
   <tr>
-    <td><a href="mailto:lim_lily_a@moe.edu.sg">Mdm Lily Lim</a><br>Subject Head (Student Well-being)<br></td>
- <td></td>
-    <td></td>
-  </tr>
+    <td><a href="mailto:lim_lily_a@moe.edu.sg">Mdm Lily Lim</a><br>Subject Head (Student Well-being)<br></td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -114,7 +114,7 @@ description: ""
 
 <table>
 <thead>
-  <tr>
+  <tr></tr>
     <th>PE / CCA</th>
     <th>AESTHETICS</th>
     <th>Special Assistance Plan (SAP)</th>
