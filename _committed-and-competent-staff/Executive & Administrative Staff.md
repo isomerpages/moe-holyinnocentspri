@@ -13,7 +13,6 @@ description: ""
 |Corporate Support Officer|Mdm K Paruvathi <br>Ms Ang Sio Lan<br>Ms Toh Sally|
 |||
 
-<br>
 
 | OPERATIONS|  | 
 | -------- | -------- |
