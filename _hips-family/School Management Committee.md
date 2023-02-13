@@ -20,7 +20,7 @@ Secretary
 Principal - Holy Innocents' Primary School  
   
 **Ms Cindy Cheah Pi Nyan**
-  Treasurer
+ <br>Treasurer
   
 **Mr Raphael Teo Hock Chuan**  
 Committee Member  
