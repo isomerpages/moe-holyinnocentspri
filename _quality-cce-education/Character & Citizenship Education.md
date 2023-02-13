@@ -28,7 +28,7 @@ To nurture our students into caring individuals with a strong moral compass 
 #### Approach
 
 
-The school adopts the Live it, Act on it, Pass it on (L.A.P) approach to realise the CCE outcomes. Explicit teaching of the values and competencies is woven into the formal and informal curriculum and integrated into every aspect of the pupils’ school experience. Authentic learning platforms and opportunities are created for students to internalise the learning through application and reflection on what has been taught. We want our student to progress from personal mastery (Live it) to application (Act on it) of these life skills and eventually impacting the wider community (Pass it on).
+The school adopts the Live it, Act on it, Pass it on (L.A.P) approach to realise the CCE outcomes. Explicit teaching of the values and competencies is woven into the formal and informal curriculum and integrated into every aspect of the students’ school experience. Authentic learning platforms and opportunities are created for students to internalise the learning through application and reflection on what has been taught. We want our student to progress from personal mastery (Live it) to application (Act on it) of these life skills and eventually impacting the wider community (Pass it on).
 
 #### Department Programmes
 
