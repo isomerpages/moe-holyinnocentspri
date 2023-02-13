@@ -5,4 +5,4 @@ description: ""
 ---
 ## General School Information
 
-![](/images/School%20Hours%20(3).jpeg)
+![](/images/School%20gates.jpg)
