@@ -30,4 +30,5 @@ Click [here](/files/CCA%20Schedule%202023.pdf) to download the updated schedule.
 
 <br>
 
-<img style="width: 80%;" src="/images/CCA3.png" align = "center" />
+<img style="width: 80%;" src="/images/Football1.jpeg" align = "center" />
+
