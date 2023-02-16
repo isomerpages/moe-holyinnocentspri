@@ -20,6 +20,7 @@ third_nav_title: Awards & Achievements
 |   8 |    Rope Skipping (Junior Girls)  | NSG Rope Skipping Championships Junior Division Girls (South Zone): Team Speed Relay: 5th position                       |
 |  9  |    Rope Skipping (Junior Girls)   |    NSG Rope Skipping Championships Junior Division Girls (South Zone): Team Freestyle Even: 5th position    |
 |  10 |    Gymnastics    |   ARISSA ANG LE XUAN(P3) <b>  NSG Gymnastics Championships Artistic Junior 1 Division Girls: All Around: Bronze   <br> Bars: Gold <br> Floor: 19th Position and and Achievement Pin <br> Beam: 13th position and an Achievement Pin   |
+|11|Brownies| Chief Commissioner’s Award <br> 1. Valencia Chen Yuwen (P6) <br> 2. Shelin Teng Kai Lin (P6) <br> 3. Shanel Lim Oon Suan (P6) <br> 4. Charlene Choo Yanxuan(P6) <br> 5. Kenise Go Yue Xuan (P5) <br> 6. Shen En Ting Laura  (P5)<br> 7. Lee Li Ya (P5)  |
 
 #### 2021
 
