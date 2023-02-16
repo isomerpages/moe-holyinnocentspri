@@ -10,17 +10,17 @@ third_nav_title: Awards & Achievements
 
 | S/N |       CCA       |                                                                                       Achievement                                                                                      |
 |:---:|:---------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  1  |   Football (Senior Boys)  |NSG Football Championships Senior Division Boys (South Zone): 4th Position |
-|  2  |     Football (Junior Boys)     |  NSG Football Championships Junior Division Boys  (South Zone): Tier 4: 2nd position                                                                                          |
-|  3  |    Badminton (Senior Girls)    |    NSG Badminton Championships Senior Division Girls (South Zone): represented school   |
-|  4  |    Badminton (Senior Boys)   |  NSG Badminton Championships Senior Division Boys (South Zone): achieved 4th position                |
-|  5  |     Badminton (Junior Boys)   |    NSG Badminton Championships Junior Division Boys (South Zone): Tiered 4: achieved 1st position         |
-|  6  |  Rope Skipping (Senior Girls) | NSG Rope Skipping Championships Senior Division Girls (South Zone): Team Freestyle Event: 5th position |
-|  7  |      Rope Skipping (Senior Boys)   |    NSG Rope Skipping Championships Senior Division Boys (South Zone): Individual Freestyle Event: 7th position   |
-|   8 |    Rope Skipping (Junior Girls)  | NSG Rope Skipping Championships Junior Division Girls (South Zone): Team Speed Relay: 5th position                       |
-|  9  |    Rope Skipping (Junior Girls)   |    NSG Rope Skipping Championships Junior Division Girls (South Zone): Team Freestyle Even: 5th position    |
-|  10 |    Gymnastics    |   ARISSA ANG LE XUAN(P3) <b>  NSG Gymnastics Championships Artistic Junior 1 Division Girls: All Around: Bronze   <br> Bars: Gold <br> Floor: 19th Position and and Achievement Pin <br> Beam: 13th position and an Achievement Pin   |
-|11|Brownies| Chief Commissioner’s Award <br> 1. Valencia Chen Yuwen (P6) <br> 2. Shelin Teng Kai Lin (P6) <br> 3. Shanel Lim Oon Suan (P6) <br> 4. Charlene Choo Yanxuan(P6) <br> 5. Kenise Go Yue Xuan (P5) <br> 6. Shen En Ting Laura  (P5)<br> 7. Lee Li Ya (P5)  |
+|  1  |   Football <br> (Senior Boys)  |NSG Football Championships Senior Division Boys (South Zone): 4th Position |
+|  2  |     Football <br> (Junior Boys)     |  NSG Football Championships Junior Division Boys  (South Zone): Tier 4: 2nd position                                                                                          |
+|  3  |    Badminton <br> (Senior Girls)    |    NSG Badminton Championships Senior Division Girls (South Zone): represented school   |
+|  4  |    Badminton<br>  (Senior Boys)   |  NSG Badminton Championships Senior Division Boys (South Zone): achieved 4th position                |
+|  5  |     Badminton <br> (Junior Boys)   |    NSG Badminton Championships Junior Division Boys<br>  (South Zone): Tiered 4: achieved 1st position         |
+|  6  |  Rope Skipping (Senior Girls) | NSG Rope Skipping Championships Senior Division Girls<br>  (South Zone): Team Freestyle Event: 5th position |
+|  7  |      Rope Skipping <br> (Senior Boys)   |    NSG Rope Skipping Championships Senior Division Boys (South Zone): Individual Freestyle Event: 7th position   |
+|   8 |    Rope Skipping <br> (Junior Girls)  | NSG Rope Skipping Championships Junior Division Girls (South Zone): Team Speed Relay: 5th position                       |
+|  9  |    Rope Skipping <br>  (Junior Girls)   |    NSG Rope Skipping Championships Junior Division Girls <br>  (South Zone): Team Freestyle Even: 5th position    |
+|  10 |    Gymnastics    |   ARISSA ANG LE XUAN(P3) <br> NSG Gymnastics Championships Artistic Junior 1 Division Girls: All Around: Bronze  <br> Bars: Gold <br> Floor: 19th Position and and Achievement Pin <br> Beam: 13th position and an Achievement Pin   |
+|11|Brownies| **Chief Commissioner’s Award** <br> <br> 1. Valencia Chen Yuwen (P6) <br> 2. Shelin Teng Kai Lin (P6) <br> 3. Shanel Lim Oon Suan (P6) <br> 4. Charlene Choo Yanxuan(P6) <br> 5. Kenise Go Yue Xuan (P5) <br> 6. Shen En Ting Laura  (P5)<br> 7. Lee Li Ya (P5)  |
 
 #### 2021
 
