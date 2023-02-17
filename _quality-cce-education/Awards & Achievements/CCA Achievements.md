@@ -8,6 +8,21 @@ third_nav_title: Awards & Achievements
 
 #### 2022
 
+
+
+|  | CCA | Achivement |
+| -------- | -------- | -------- |
+|1   | Football <br> (Senior Boys)     |**NSG Football Championships Senior Division Boys (South Zone)** <br> 4th Position |
+|2   | Football <br> (Junior Boys)   |  NSG Football Championships Junior Division Boys  (South Zone) <br>Tier 4: 2nd position   |
+|3   | Text     | Text     |
+|4  | Text     | Text     |
+|5  | Text     | Text     |
+|6  | Text     | Text     |
+|7  | Text     | Text     |
+
+
+
+
 | S/N |       CCA       |                                                                                       Achievement                                                                                      |
 |:---:|:---------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  1  |   Football <br> (Senior Boys)  |NSG Football Championships Senior Division Boys (South Zone): 4th Position |
