@@ -2,5 +2,6 @@ collections:
   for-students-and-parents:
     output: true
     order:
+      - Parent Volunteer (PV) Scheme.md
       - Open house.md
       - Vendors.md
