@@ -1,4 +1,5 @@
 collections:
   for-students-and-parents:
     output: true
-    order: []
+    order:
+      - Vendors.md
