@@ -30,8 +30,8 @@ third_nav_title: Awards & Achievements
 | | Non-School CCA | Achivement|
 | -------- | -------- | -------- |
 | 1| Gymnastics | ARISSA ANG LE XUAN <br><br> **NSG Gymnastics Championships Artistic Junior 1 Division Girls**  <br>All Around: Bronze|
-| 2| Swimming |**NSG Swimming Championships Senior 1 Division** <br><br> 1. JONAZ NG (P6) <br> ~ 100m Breaststroke: 4th position <br> ~ 100m - 50m Butterfly / 50m Breaststroke: 2nd position <br> ~ 100m - 50m Breaststroke / 50m Freestyle: 4th position <br> 2. MATHIAS KUEK WEN ZHE (P6) <br>~ 50 meter Backstroke: 5th position <br>~ 50 meter Freestyle: 8th position |
-| 3| Swimming |**NSG Swimming Championships Junior 2 Division Girls** <br><br> 1. |
+| 2| Swimming |**NSG Swimming Championships Senior 1 Division** <br><br> 1. JONAZ NG (P6) <br> ~ 100m Breaststroke: 4th position <br> ~ 100m - 50m Butterfly / 50m Breaststroke: 2nd position <br> ~ 100m - 50m Breaststroke / 50m Freestyle: 4th position <br><br>  2. MATHIAS KUEK WEN ZHE (P6) <br>~ 50 meter Backstroke: 5th position <br>~ 50 meter Freestyle: 8th position |
+| 3| Swimming |**NSG Swimming Championships Junior 2 Division Girls** <br><br> 1. TEE KAI TONG (P5)<br> ~ 200 Meters Individual Medley: 8th position<br>~ 100 Meters Breaststroke: 7th position <br>~ 100 Meters Backstroke: 7th position<br><br>  2. CHIA RUI RU EVANGELINE <br> ~ 200 Meters Individual Medley: 12th position<br><br> 3. BIRDIE GAN LE<br>~ 100 Meters Butterfly: 2nd position<br>~ 50 Meters Butterfly: 3rd position<br>~ 100m - 50m Breaststroke / 50m Butterfly: 4th position <br>~<br>|
 | 3| Text     | Text     |
                                                                   
 
