@@ -34,6 +34,7 @@ third_nav_title: Awards & Achievements
 | 3| Swimming |**NSG Swimming Championships Junior 2 Division Girls** <br><br> 1. TEE KAI TONG (P5)<br> ~ 200 Meters Individual Medley: 8th position<br>~ 100 Meters Breaststroke: 7th position <br>~ 100 Meters Backstroke: 7th position<br><br>  2. CHIA RUI RU EVANGELINE <br> ~ 200 Meters Individual Medley: 12th position<br><br> 3. BIRDIE GAN LE<br>~ 100 Meters Butterfly: 2nd position<br>~ 50 Meters Butterfly: 3rd position<br>~ 100m - 50m Breaststroke / 50m Butterfly: 4th position <br>~ 100m - 50m Freestyle / 50m Butterfly: 4th position<br>|
 | 4| Table Tennis | LEE YUN YU MACY (P2) <br><br>**NSG Table Tennis Junior Division Championships Girls Singles Pool A Group 1**<br> 2nd position |
 | 5| Tennis  | LEE ZI XUAN SARAH (P3) <br><br>**NSG Tennis Championships Junior Division Girls Green Ball Singles Classification Tier 3** <br>2nd position|
+|||
                                                                   
 
 #### 2021
