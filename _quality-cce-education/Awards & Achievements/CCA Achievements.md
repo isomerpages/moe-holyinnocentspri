@@ -13,22 +13,18 @@ third_nav_title: Awards & Achievements
 |  | CCA | Achivement |
 | -------- | -------- | -------- |
 |1   | Football <br> (Senior Boys)     |**NSG Football Championships Senior Division Boys (South Zone)** <br> 4th Position |
-|2   | Football <br> (Junior Boys)   |  NSG Football Championships Junior Division Boys  (South Zone) <br>Tier 4: 2nd position   |
-|3   | Text     | Text     |
-|4  | Text     | Text     |
-|5  | Text     | Text     |
+|2   | Football <br> (Junior Boys)   | **NSG Football Championships Junior Division Boys  (South Zone)** <br>Tier 4: 2nd position   |
+|3   |Badminton <br> (Senior Girls)|  **NSG Badminton Championships Senior Division Girls (South Zone**)<br>Represented school    |
+|4  | Badminton<br>  (Senior Boys) |**NSG Badminton Championships Senior Division Boys (South Zone)** <br> 4th position|
+|5  | Badminton <br> (Junior Boys) | **NSG Badminton Championships Junior Division Boys(South Zone)** <br>  Tier 4:  1st position |
 |6  | Text     | Text     |
 |7  | Text     | Text     |
-
-
+|7  | Text     | Text     |
+|7  | Text     | Text     |
 
 
 | S/N |       CCA       |                                                                                       Achievement                                                                                      |
 |:---:|:---------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  1  |   Football <br> (Senior Boys)  |NSG Football Championships Senior Division Boys (South Zone): 4th Position |
-|  2  |     Football <br> (Junior Boys)     |  NSG Football Championships Junior Division Boys  (South Zone): Tier 4: 2nd position                                                                                          |
-|  3  |    Badminton <br> (Senior Girls)    |    NSG Badminton Championships Senior Division Girls (South Zone): represented school   |
-|  4  |    Badminton<br>  (Senior Boys)   |  NSG Badminton Championships Senior Division Boys (South Zone): achieved 4th position                |
 |  5  |     Badminton <br> (Junior Boys)   |    NSG Badminton Championships Junior Division Boys<br>  (South Zone): Tiered 4: achieved 1st position         |
 |  6  |  Rope Skipping (Senior Girls) | NSG Rope Skipping Championships Senior Division Girls<br>  (South Zone): Team Freestyle Event: 5th position |
 |  7  |      Rope Skipping <br> (Senior Boys)   |    NSG Rope Skipping Championships Senior Division Boys (South Zone): Individual Freestyle Event: 7th position   |
