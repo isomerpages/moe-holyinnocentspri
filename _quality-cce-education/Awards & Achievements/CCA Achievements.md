@@ -19,17 +19,20 @@ third_nav_title: Awards & Achievements
 |5  | Badminton <br> (Junior Boys) | **NSG Badminton Championships Junior Division Boys(South Zone)** <br>  Tier 4:  1st position |
 |6  |Rope Skipping <br> (Senior Girls)| **NSG Rope Skipping Championships Senior Division Girls (South Zone)** <br> Team Freestyle Event: 5th position|
 |7  | Rope Skipping <br> (Senior Boys)|**NSG Rope Skipping Championships Senior Division Boys (South Zone)** <br>Individual Freestyle Event: 7th position|
-|7  | Text     | Text     |
-|7  | Text     | Text     |
+|8  |Rope Skipping <br> (Junior Girls)| **NSG Rope Skipping Championships Junior Division Girls (South Zone)** <br>Team Speed Relay: 5th position |
+|9  | Rope Skipping <br>  (Junior Girls) |  **NSG Rope Skipping Championships Junior Division Girls  (South Zone)**  <br> Team Freestyle Even: 5th position|
+|9  | Brownies|**Chief Commissioner’s Award** <br> <br> 1. Valencia Chen Yuwen (P6) <br> 2. Shelin Teng Kai Lin (P6) <br> 3. Shanel Lim Oon Suan (P6) <br> 4. Charlene Choo Yanxuan(P6) <br> 5. Kenise Go Yue Xuan (P5) <br> 6. Shen En Ting Laura  (P5)<br> 7. Lee Li Ya (P5)|
+|||
+
+<br>
 
 
-| S/N |       CCA       |                                                                                       Achievement                                                                                      |
-|:---:|:---------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  7  |      Rope Skipping <br> (Senior Boys)   |    NSG Rope Skipping Championships Senior Division Boys (South Zone): Individual Freestyle Event: 7th position   |
-|   8 |    Rope Skipping <br> (Junior Girls)  | NSG Rope Skipping Championships Junior Division Girls (South Zone): Team Speed Relay: 5th position                       |
-|  9  |    Rope Skipping <br>  (Junior Girls)   |    NSG Rope Skipping Championships Junior Division Girls <br>  (South Zone): Team Freestyle Even: 5th position    |
-|  10 |    Gymnastics    |   ARISSA ANG LE XUAN(P3) <br> NSG Gymnastics Championships Artistic Junior 1 Division Girls: All Around: Bronze  <br> Bars: Gold <br> Floor: 19th Position and and Achievement Pin <br> Beam: 13th position and an Achievement Pin   |
-|11|Brownies| **Chief Commissioner’s Award** <br> <br> 1. Valencia Chen Yuwen (P6) <br> 2. Shelin Teng Kai Lin (P6) <br> 3. Shanel Lim Oon Suan (P6) <br> 4. Charlene Choo Yanxuan(P6) <br> 5. Kenise Go Yue Xuan (P5) <br> 6. Shen En Ting Laura  (P5)<br> 7. Lee Li Ya (P5)  |
+| | Non-School CCA | Achivement|
+| -------- | -------- | -------- |
+| 1| Gymnastics | ARISSA ANG LE XUAN <br><br> **NSG Gymnastics Championships Artistic Junior 1 Division Girls**  <br>All Around: Bronze|
+| 2| Text     | Text     |
+| 3| Text     | Text     |
+                                                                  
 
 #### 2021
 
