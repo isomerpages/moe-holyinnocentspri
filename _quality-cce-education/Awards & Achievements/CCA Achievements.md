@@ -17,16 +17,14 @@ third_nav_title: Awards & Achievements
 |3   |Badminton <br> (Senior Girls)|  **NSG Badminton Championships Senior Division Girls (South Zone**)<br>Represented school    |
 |4  | Badminton<br>  (Senior Boys) |**NSG Badminton Championships Senior Division Boys (South Zone)** <br> 4th position|
 |5  | Badminton <br> (Junior Boys) | **NSG Badminton Championships Junior Division Boys(South Zone)** <br>  Tier 4:  1st position |
-|6  | Text     | Text     |
-|7  | Text     | Text     |
+|6  |Rope Skipping <br> (Senior Girls)| **NSG Rope Skipping Championships Senior Division Girls (South Zone)** <br> Team Freestyle Event: 5th position|
+|7  | Rope Skipping <br> (Senior Boys)|**NSG Rope Skipping Championships Senior Division Boys (South Zone)** <br>Individual Freestyle Event: 7th position|
 |7  | Text     | Text     |
 |7  | Text     | Text     |
 
 
 | S/N |       CCA       |                                                                                       Achievement                                                                                      |
 |:---:|:---------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  5  |     Badminton <br> (Junior Boys)   |    NSG Badminton Championships Junior Division Boys<br>  (South Zone): Tiered 4: achieved 1st position         |
-|  6  |  Rope Skipping (Senior Girls) | NSG Rope Skipping Championships Senior Division Girls<br>  (South Zone): Team Freestyle Event: 5th position |
 |  7  |      Rope Skipping <br> (Senior Boys)   |    NSG Rope Skipping Championships Senior Division Boys (South Zone): Individual Freestyle Event: 7th position   |
 |   8 |    Rope Skipping <br> (Junior Girls)  | NSG Rope Skipping Championships Junior Division Girls (South Zone): Team Speed Relay: 5th position                       |
 |  9  |    Rope Skipping <br>  (Junior Girls)   |    NSG Rope Skipping Championships Junior Division Girls <br>  (South Zone): Team Freestyle Even: 5th position    |
