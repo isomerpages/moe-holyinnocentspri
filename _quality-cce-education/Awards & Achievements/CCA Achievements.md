@@ -25,7 +25,6 @@ third_nav_title: Awards & Achievements
 |||
 
 <br>
-<br>
 
 | | Non-School CCA | Achivement|
 | -------- | -------- | -------- |
@@ -36,7 +35,6 @@ third_nav_title: Awards & Achievements
 | 5| Tennis  | LEE ZI XUAN SARAH (P3) <br><br>**NSG Tennis Championships Junior Division Girls Green Ball Singles Classification Tier 3** <br>2nd position|
 |||
 
-<br>
 <br>
 
 #### 2021
