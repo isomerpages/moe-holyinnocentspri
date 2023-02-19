@@ -30,7 +30,8 @@ third_nav_title: Awards & Achievements
 | | Non-School CCA | Achivement|
 | -------- | -------- | -------- |
 | 1| Gymnastics | ARISSA ANG LE XUAN <br><br> **NSG Gymnastics Championships Artistic Junior 1 Division Girls**  <br>All Around: Bronze|
-| 2| Text     | Text     |
+| 2| Swimming |**NSG Swimming Championships Senior 1 Division** <br><br> 1. JONAZ NG (P6) <br> ~ 100m Breaststroke: 4th position <br> ~ 100m - 50m Butterfly / 50m Breaststroke: 2nd position <br> ~ 100m - 50m Breaststroke / 50m Freestyle: 4th position <br> |
+| 3| Text     | Text     |
 | 3| Text     | Text     |
                                                                   
 
