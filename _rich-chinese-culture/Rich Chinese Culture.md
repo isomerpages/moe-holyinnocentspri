@@ -3,8 +3,6 @@ title: Rich Chinese Culture
 permalink: /rich-Chinese-culture/SAP/
 description: ""
 ---
-
-
 ## Special Assistance Plan (SAP) 
 
 #### Department Vision
