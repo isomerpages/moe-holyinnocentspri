@@ -3,7 +3,7 @@ url: https://holyinnocentspri.moe.edu.sg
 favicon: /images/logo.png
 colors:
   primary-color: "#2a89fc"
-  secondary-color: "#589ef1"
+  secondary-color: "#2a89fc"
   media-colors:
     - title: media-color-one
       color: "#49759a"
