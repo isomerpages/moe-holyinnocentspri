@@ -3,7 +3,7 @@ title: Co Curricular Activities (CCA)
 permalink: /quality-cce-education/CCA/
 description: ""
 ---
-## CO-CURRICULAR ACTIVITIES (CCA)
+## Co-Curricular Activities (CCA)
 
 #### Co-curricular Activities
 
@@ -31,4 +31,3 @@ Click [here](/files/CCA%20Schedule%202023.pdf) to download the updated schedule.
 <br>
 
 <img style="width: 80%;" src="/images/Football1.jpeg" align = "center" />
-
