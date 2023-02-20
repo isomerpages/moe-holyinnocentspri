@@ -3,8 +3,7 @@ title: Parent Support Group
 permalink: /hips-family/HIPS-Partners/Parent-Support-Group/
 description: ""
 ---
-
-## PARENT SUPPORT GROUP
+## Parent Support Group
 
 ![](/images/HIPS%20PSG%20Group%20Photo.jpg)
 
