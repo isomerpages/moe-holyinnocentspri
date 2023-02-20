@@ -3,8 +3,7 @@ title: Support Staff
 permalink: /committed-and-competent-staff/Support-Staff/
 description: ""
 ---
-
-## Support Staff
+## <center>Support Staff</center>
 
 **<center>Allied Educators</center>**
 
