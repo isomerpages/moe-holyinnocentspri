@@ -3,7 +3,7 @@ title: School Executive Committee
 permalink: /committed-and-competent-staff/School-Executive-Committee/
 description: ""
 ---
-## School Executive Committee
+## <center>School Executive Committee</center>
 
 **<center><a href="mailto:holyinnocentspri@moe.edu.sg">Miss Lena Seet</a><br>Principal</center>** <br>
 	
