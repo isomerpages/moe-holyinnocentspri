@@ -3,7 +3,7 @@ title: Executive & Administrative Staff
 permalink: /committed-and-competent-staff/Executive-Administrative-Staff/
 description: ""
 ---
-## Executive & Administrative Staff
+## <center>Executive & Administrative Staff</center>
 
 | ADMINISTRATION | | 
 | -------- | -------- | 
