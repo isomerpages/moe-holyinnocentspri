@@ -21,7 +21,7 @@ third_nav_title: Awards & Achievements
 |7  | Rope Skipping <br> (Senior Boys)|**NSG Rope Skipping Championships Senior Division Boys (South Zone)** <br>Individual Freestyle Event: 7th position|
 |8  |Rope Skipping <br> (Junior Girls)| **NSG Rope Skipping Championships Junior Division Girls (South Zone)** <br>Team Speed Relay: 5th position |
 |9  | Rope Skipping <br>  (Junior Girls) |  **NSG Rope Skipping Championships Junior Division Girls  (South Zone)**  <br> Team Freestyle Even: 5th position|
-|9  | Brownies|**Chief Commissioner’s Award** <br> <br> 1. Valencia Chen Yuwen (P6) <br> 2. Shelin Teng Kai Lin (P6) <br> 3. Shanel Lim Oon Suan (P6) <br> 4. Charlene Choo Yanxuan(P6) <br> 5. Kenise Go Yue Xuan (P5) <br> 6. Shen En Ting Laura  (P5)<br> 7. Lee Li Ya (P5)|
+|10  | Brownies|**Chief Commissioner’s Award** <br> <br> 1. Valencia Chen Yuwen (P6) <br> 2. Shelin Teng Kai Lin (P6) <br> 3. Shanel Lim Oon Suan (P6) <br> 4. Charlene Choo Yanxuan(P6) <br> 5. Kenise Go Yue Xuan (P5) <br> 6. Shen En Ting Laura  (P5)<br> 7. Lee Li Ya (P5)|
 |||
 
 <br>
