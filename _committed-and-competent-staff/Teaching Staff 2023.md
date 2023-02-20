@@ -10,10 +10,10 @@ description: ""
 | CLASS  | FORM TEACHERS ||
 | -------- | -------- | -------- |
  | 1 Sincerity 1 | <a href="mailto:tan_kai_sin@moe.edu.sg">Mdm Tan Kai Sin </a><br>(陈老师)| <a href="mailto:soh-chan_siew_lai@moe.edu.sg">Mrs. Soh-Chan Siew Lai |
-| 1 Sincerity 2 | <a href="mailto:kan_hui_li_audrey@moe.edu.sg"> Ms Kan Hui Li Audrey | <a href="mailto:faith_leong_pui_teng@moe.edu.sg">Mdm Leong Pui Teng Faith </a><br>(陈老师)|
+| 1 Sincerity 2 | <a href="mailto:kan_hui_li_audrey@moe.edu.sg"> Mrs Lim Hui Li Audrey | <a href="mailto:faith_leong_pui_teng@moe.edu.sg">Mdm Leong Pui Teng Faith </a><br>(陈老师)|
 | 1 Sincerity 3 | <a href="mailto:qi_meng@moe.edu.sg">Mdm Qi Meng </a><br>(齐老师)| <a href="mailto:lim_jia_hui@moe.edu.sg">Mdm Lim Jia Hui Irene |
 | 1 Sincerity 4 | <a href="mailto:ang_jingyi@moe.edu.sg">Mdm Ang Jingyi </a><br>(洪老师)| <a href="mailto:asha_mukherjee_dula@moe.edu.sg">Mdm Asha d/o Mukherjee |
-| 1 Sincerity 5 | <a href="mailto:he_haiyang@moe.edu.sg">Mdm He Haiyang </a><br>(何老师)| <a href="mailto:shirley_loo_bee_leng@moe.edu.sg">Mrs.Shirley Long|
+| 1 Sincerity 5 | <a href="mailto:he_haiyang@moe.edu.sg">Mdm He Haiyang </a><br>(何老师)| <a href="mailto:shirley_loo_bee_leng@moe.edu.sg">Mrs. Shirley Long|
 | 1 Sincerity 6 | <a href="mailto:yue_chook_eng@moe.edu.sg">Mdm Yue Chook Eng | <a href="mailto:lee_wen_xin_june@moe.edu.sg">Miss Lee Wen Xin June </a><br>(李老师)|
 | 1 Sincerity 7 | <a href="mailto:booi_mo_lian@moe.edu.sg">Mdm Booi Mo Lian Sheryl | <a href="mailto:tneo_yan_peng@moe.edu.sg">Miss Tneo Yan Peng </a><br>(张老师) |
 | 1 Sincerity 8 | <a href="mailto:ow_ai_khim@moe.edu.sg">Ms Ow Ai Khim </a><br>(欧老师) | <a href="mailto:chan_gan_siu@moe.edu.sg">Mrs Chan Gan Siu Betty|
@@ -27,7 +27,7 @@ description: ""
 | -------- | -------- | -------- |
 | 2 Charity 1 | <a href="mailto:ryan_tay_en_huang@moe.edu.sg">Mr Tay En Huang Ryan | <a href="mailto:seet_ping_ping_esther@moe.edu.sg">Miss Seet Ping Ping, Esther |
 | 2 Charity 2 | <a href="mailto:soh_li_hui@moe.edu.sg"> Ms Soh Li Hui </a><br>(苏老师) | <a href="mailto:kwek_jin_foon@moe.edu.sg">Miss Kwek Jin Foon|
-| 2 Charity 3 | <a href="mailto:lou_jing@moe.edu.sg">Mdm Luo JIng </a><br>(罗老师)| <a href="mailto:koh_rui_en_sabrina@moe.edu.sg">Mdm Koh Rui En Sabrina|
+| 2 Charity 3 | <a href="mailto:lou_jing@moe.edu.sg">Mdm Luo JIng </a><br>(罗老师)| <a href="mailto:koh_rui_en_sabrina@moe.edu.sg">Mrs Neo Rui En Sabrina|
 | 2 Charity 4 | <a href="mailto:shobana_sreetharan@moe.edu.sg">Miss Shobana d/o Sreetharan| <a href="mailto:sun_xueying@moe.edu.sg">Mdm Sun Xueying </a><br> (孙老师）|
 | 2 Charity 5 | <a href="mailto:lee_song_yang@moe.edu.sg">Mr Lee Song Yang Ray | <a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg">Mdm Farah Nurhuda Binte Modmad Isa|
 | 2 Charity 6 | <a href="mailto:lin_lin@moe.edu.sg">Mdm Lin Lin </a><br>(林老师) | <a href="mailto:Siti_hajjar_hasan@moe.edu.sg">Miss Siti Hajjar Hasan|
@@ -83,7 +83,7 @@ description: ""
 | CLASS  | FORM TEACHERS ||
 | -------- | -------- | -------- |
 | 6 Resilience 1 | <a href="mailto:tang_di_ya@moe.edu.sg">Mdm Tang Di Ya| <a href="mailto:goh_lee_chuan@moe.edu.sg">Miss Goh Lee Chuan |
-| 6 Resilience 2 | <a href="mailto:song_zheng_ying@moe.edu.sg"> Mdm Song Zheng Ying| <a href="mailto:dawn_ng_li_jun@moe.edu.sg">Mdm Ng Li Jun Dawn|
+| 6 Resilience 2 | <a href="mailto:song_zheng_ying@moe.edu.sg"> Mrs Chan Zhenying| <a href="mailto:dawn_ng_li_jun@moe.edu.sg">Mdm Ng Li Jun Dawn|
 | 6 Resilience 3 | <a href="mailto:zubaidah_ahmat@moe.edu.sg">Mdm Zubaidah bte Ahmat| <a href="mailto:wu_xia@moe.edu.sg">Mdm Wu Xia |
 | 6 Resilience 4 | <a href="mailto:tan_ying_fong@moe.edu.sg">Mdm Tan Ying Fong Irene| <a href="mailto:sarah_koh_hui_khoon@moe.edu.sg">Mrs Sarah Lee|
 | 6 Resilience 5 | <a href="mailto:samantha_s_tan@moe.edu.sg">Miss Tan Sin Guan Samantha| <a href="mailto:foong_wenfang@moe.edu.sg">Ms Foong Wenfang </a><br>(冯老师)|
