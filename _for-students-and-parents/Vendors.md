@@ -3,7 +3,6 @@ title: Vendors
 permalink: /hips-family/Info-for-students-and-parents/permalink/
 description: ""
 ---
-
 1. **Bookshop &amp; PE Attire**
 
 |||
