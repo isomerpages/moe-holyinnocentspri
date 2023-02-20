@@ -1,0 +1,15 @@
+collections:
+  hips-family:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Crest.md
+      - School History.md
+      - Vision   Mission   Core Values.md
+      - School Song.md
+      - Strategic Thrusts.md
+      - School Management Committee.md
+      - School Rules.md
+      - School Calendar.md
+      - General School Information.md
+      - Contact Us.md

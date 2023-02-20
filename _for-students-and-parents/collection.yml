@@ -1,0 +1,9 @@
+collections:
+  for-students-and-parents:
+    output: true
+    order:
+      - Open house.md
+      - Parent Support Group.md
+      - Parent Volunteer (PV) Scheme.md
+      - Vendors.md
+      - Useful Links.md

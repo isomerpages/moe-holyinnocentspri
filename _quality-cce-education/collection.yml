@@ -1,0 +1,15 @@
+collections:
+  quality-cce-education:
+    output: true
+    order:
+      - Character & Citizenship Education.md
+      - Student Development.md
+      - Citizenship (National Education).md
+      - Catholic Programme.md
+      - Sexuality Education in School.md
+      - Co Curricular Activities (CCA).md
+      - Values in Action (VIA).md
+      - Awards & Achievements/.keep
+      - Awards & Achievements/CCA Achievements.md
+      - Awards & Achievements/Staff Achievements.md
+      - Awards & Achievements/HIPS in the News.md

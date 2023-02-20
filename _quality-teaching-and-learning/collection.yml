@@ -1,0 +1,11 @@
+collections:
+  quality-teaching-and-learning:
+    output: true
+    order:
+      - English Language Department.md
+      - Chinese Language Department.md
+      - Mathematics Department.md
+      - Science Department.md
+      - Physical Education Department.md
+      - Aesthetics Department.md
+      - Social Studies Department.md

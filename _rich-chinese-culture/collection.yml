@@ -1,0 +1,5 @@
+collections:
+  rich-chinese-culture:
+    output: true
+    order:
+      - Rich Chinese Culture.md

@@ -1,0 +1,8 @@
+collections:
+  committed-and-competent-staff:
+    output: true
+    order:
+      - School Executive Committee.md
+      - Teaching Staff 2023.md
+      - Support Staff.md
+      - Executive & Administrative Staff.md

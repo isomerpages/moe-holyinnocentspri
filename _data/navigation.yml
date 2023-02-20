@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: HIPS Family
+    collection: hips-family
+  - title: "Quality Teaching & Learning "
+    collection: quality-teaching-and-learning
+  - title: Committed And Competent Staff
+    collection: committed-and-competent-staff
+  - title: Quality CCE Education
+    collection: quality-cce-education
+  - title: SAP
+    collection: rich-chinese-culture
+  - title: FOR STUDENTS AND PARENTS
+    collection: for-students-and-parents
