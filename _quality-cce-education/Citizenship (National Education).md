@@ -3,7 +3,7 @@ title: Citizenship (National Education)
 permalink: /quality-cce-education/Citizenship-National-Education/
 description: ""
 ---
-## CITIZENSHIP (NATIONAL EDUCATION)
+## Citizenship (National Education)
 
 #### Vision
 
@@ -49,8 +49,4 @@ National Education will be anchored on the following citizenship dispositions, w
 
 <br>
 
-<img style="width: 70%;" src="/images/NE6.png" align = "center" /> 
-
-
-
-
+<img style="width: 70%;" src="/images/NE6.png" align = "center" />
