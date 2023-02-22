@@ -3,7 +3,6 @@ title: Parent Volunteer (PV) Scheme
 permalink: /hips-family/HIPS-Partners/PV-Scheme/
 description: ""
 ---
-
 ## Parent Volunteer (PV) Scheme 
 
 #### Parent Volunteer (PV) Scheme
@@ -67,6 +66,6 @@ Do complete the application form, during the PV application period, via this For
 
 For any queries, you may email&nbsp;[holyinnocentspri@moe.edu.sg](mailto:holyinnocentspri@moe.edu.sg).  
 
-****Thank you.****
+**Thank you.**
 
 MOE website on Primary School education:&nbsp;[https://beta.moe.gov.sg/primary/](https://beta.moe.gov.sg/primary/).
