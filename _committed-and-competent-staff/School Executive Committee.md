@@ -26,7 +26,7 @@ description: ""
 | MATHEMATICS DEPARTMENT | SCIENCE DEPARTMENT |
 | -------- | -------- |
 |<a href="mailto:neo_kim_sian_pansy@moe.edu.sg">Mrs Pansy Ong</a><br>Head of Department| <a href="mailto:chua_sze_yi@moe.edu.sg">Mdm Kerin Chua</a><br>Head of Department|
-|<a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg">Mdm Farah Nurhuda Mohmad Isa</a><br>Level Head|<a href="mailto:chua_sze_yi@moe.edu.sg">Mrs Chan Zhenying</a><br>Level Head|
+|<a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg">Mdm Farah Nurhuda Mohmad Isa</a><br>Level Head|<a href="mailto:song_zheng_ying@moe.edu.sg">Mrs Chan Zhenying</a><br>Level Head|
 |<a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan</a><br>Level Head||
 |||
 
