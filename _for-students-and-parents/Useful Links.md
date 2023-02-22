@@ -12,8 +12,8 @@ description: ""
 8.  [Singapore Kindness Movement](https://www.kindness.sg/)
 9.  [Parent Hub (healthhub.sg)](https://www.healthhub.sg/programmes/183/parent-hub)
 10.  [Promote Mandarin Campaign](https://www.languagecouncils.sg/mandarin/en)
-11.  [Student MiMS (Student iCON)](https://workspace.google.com/dashboard)
+11.  [Student MIMS (Student iCON)](https://workspace.google.com/dashboard)
 12.  [Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 13.  Password reset request support for
-			 <br> (a) MiMS click [here](https://go.gov.sg/hips-student-icon-reset)
+			 <br> (a) MIMS click [here](https://go.gov.sg/hips-student-icon-reset)
 			 <br> (b) SLS click [here](https://go.gov.sg/hips-slsunlock)
