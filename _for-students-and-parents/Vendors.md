@@ -24,23 +24,9 @@ description: ""
 | Company Name: <br> Address: <br><br>  Tel: <br> |Min Yang Trading and Transport Services Pte Ltd <br> 31 Jln Limbok <br> Singapore 548718 <br> 62888298 <br>Contact the bus vendor directly for charges. | 
 |||
 
-#### **School Canteen**
-
-|||
-| -------- | -------- |
-|  Company Name: <br> Contact Person:<br> Tel: <br>|Anna Catering <br> Mdm Anna Yeo <br>97234865  |
-|||
-
-#### **Name Tags**
-	
-|  ||  
-| -------- | -------- |
-| Company Name: <br> Contact Person:<br>  Tel: <br>| Lee Kim Yang Pte Ltd <br>Mr Lee <br>97871538 | 
-|||
-
 #### **Accident Insurance**
 	
 ||| 
 | -------- | -------- | 
-|Company Name: <br> Address:<br>  <br>  Tel: <br> Fax:  | AB Lim Pte Ltd <br>Blk 123 Bukit Merah Lane 1 <br>#04-80 Singapore 150123 <br>62722277 (Victor Lim) <br> 62727567 | 
+|Company Name: <br> Address:<br>  <br> <br>  Tel: <br> Hotline: <br> Website: | NTUC Income Insurance Co-operative Limited <br>c/o 1 Commonwealth Lane, <br>#02-13, one Commonwealth, <br>Singapore 149544 <br>96673188 (Edmund Tan) <br> 63321133 <br> www.income.com.sg | 
 |||
