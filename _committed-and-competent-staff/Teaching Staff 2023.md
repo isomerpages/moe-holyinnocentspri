@@ -13,7 +13,7 @@ description: ""
 | 1 Sincerity 2 | <a href="mailto:kan_hui_li_audrey@moe.edu.sg"> Mrs Lim Hui Li Audrey | <a href="mailto:faith_leong_pui_teng@moe.edu.sg">Mdm Leong Pui Teng Faith </a><br>(陈老师)|
 | 1 Sincerity 3 | <a href="mailto:qi_meng@moe.edu.sg">Mdm Qi Meng </a><br>(齐老师)| <a href="mailto:lim_jia_hui@moe.edu.sg">Mdm Lim Jia Hui Irene |
 | 1 Sincerity 4 | <a href="mailto:ang_jingyi@moe.edu.sg">Mdm Ang Jingyi </a><br>(洪老师)| <a href="mailto:asha_mukherjee_dula@moe.edu.sg">Mdm Asha d/o Mukherjee |
-| 1 Sincerity 5 | <a href="mailto:he_haiyang@moe.edu.sg">Mdm He Haiyang </a><br>(何老师)| <a href="mailto:shirley_loo_bee_leng@moe.edu.sg">Mrs. Shirley Long|
+| 1 Sincerity 5 | <a href="mailto:he_haiyang@moe.edu.sg">Mr He Haiyang </a><br>(何老师)| <a href="mailto:shirley_loo_bee_leng@moe.edu.sg">Mrs Shirley Long|
 | 1 Sincerity 6 | <a href="mailto:yue_chook_eng@moe.edu.sg">Mdm Yue Chook Eng | <a href="mailto:lee_wen_xin_june@moe.edu.sg">Miss Lee Wen Xin June </a><br>(李老师)|
 | 1 Sincerity 7 | <a href="mailto:booi_mo_lian@moe.edu.sg">Mdm Booi Mo Lian Sheryl | <a href="mailto:tneo_yan_peng@moe.edu.sg">Miss Tneo Yan Peng </a><br>(张老师) |
 | 1 Sincerity 8 | <a href="mailto:ow_ai_khim@moe.edu.sg">Ms Ow Ai Khim </a><br>(欧老师) | <a href="mailto:chan_gan_siu@moe.edu.sg">Mrs Chan Gan Siu Betty|
