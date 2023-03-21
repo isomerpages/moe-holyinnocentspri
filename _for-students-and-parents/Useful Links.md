@@ -6,6 +6,7 @@ description: ""
 1.   [Catholic Archdiocese of Singapore](https://www.catholic.sg/) 
 2.   [Schoolbag - The Education News Site](https://www.schoolbag.edu.sg/)
 3.  [National Library Board](https://www.nlb.gov.sg/main/home)
+4.  [HIPS School Library Online Catalogue](https://schoolibrary.moe.edu.sg/holyinnocentspri)
 5.  [Hougang Community Club](https://www.onepa.gov.sg/cc/hougang-cc)
 6.  [National Parks Board (NParks)](https://www.nparks.gov.sg/)
 7.  [The National Environment Agency (NEA)](https://www.nea.gov.sg/)
