@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Holy Innocent's Primary School
+title: Holy Innocents' Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
