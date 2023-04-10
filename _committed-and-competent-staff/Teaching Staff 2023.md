@@ -41,11 +41,11 @@ description: ""
 
 | CLASS  | FORM TEACHERS ||
 | -------- | -------- | -------- |
-| 3 Graciousness 1 | </a><a href="mailto:siti_zainab_mohamed_suaimi@moe.edu.sg">Ms Siti Zainab bte Mohamad Suaimi | </a><a href="mailto:madeline_lim_jia_min@moe.edu.sg">Mdm Madeline Lim </a><br> <a href="mailto:chu_yunfeng_alex@moe.edu.sg">Mr Alex Chu  |
+| 3 Graciousness 1 |</a><a href="mailto:siti_zainab_mohamed_suaimi@moe.edu.sg">Ms Siti Zainab bte Mohamad Suaimi | </a><a href="mailto:madeline_lim_jia_min@moe.edu.sg">Mdm Madeline Lim </a><br> <a href="mailto:chu_yunfeng_alex@moe.edu.sg">Mr Alex Chu  |
 | 3 Graciousness 2 | </a><a href="mailto:sim_ghim_hong@moe.edu.sg"> Mr Sim Ghim Hong| </a><a href="mailto:gayathri_ganesan@moe.edu.sg@moe.edu.sg">Mdm Gayathri Ganesan </a><br><br><a href="mailto:lo_choi_ha_janis@moe.edu.sg">Miss Lo Choi Ha Janis|
 | 3 Graciousness 3 | </a><a href="mailto:cheryl_yap_xinhui@moe.edu.sg">Mdm Yap Xinhui Cheryl </a><br>(叶老师）| <a href="mailto:wat_wai_fung@moe.edu.sg">Mdm Wendy Wat Wai Fung (Mrs Teo) |
 | 3 Graciousness 4 | </a><a href="mailto:toh_siew_khim@moe.edu.sg">Mdm Toh Siew Khim Linda (Mrs Poh) | </a><a href="mailto:liu_diqin@moe.edu.sg">Mr Liu Diqin </a><br>(刘老师) |
-| 3 Graciousness 5 | <a href="mailto:helena_baldwin@moe.edu.sg">Mrs Helena Baldwin| </a><a href="mailto:png_yong_han@moe.edu.sg">Mr Png Yong Han|
+| 3 Graciousness 5 | <a href="mailto:helena_baldwin@moe.edu.sg">Mrs Helena Baldwin|</a><a href="mailto:png_yong_han@moe.edu.sg">Mr Png Yong Han|
 | 3 Graciousness 6 | </a><a href="mailto:ashwary_technamoorthy@moe.edu.sg">Ms Ashwary Technamoorthy| </a><a href="mailto:lim_soo_ngee_martina@moe.edu.sg">Miss Lim Soo Ngee, Martina |
 | 3 Graciousness 7 | </a><a href="mailto:chia_hui_tian@moe.edu.sg">Mrs Seet-Chia Hui Tian | </a><a href="mailto:mohamad_zaki_ali@moe.edu.sg">Mr Mohamad Zaki bin Ali |
 |||
@@ -58,7 +58,7 @@ description: ""
 | 4 Integrity 1 | </a><a href="mailto:lau_lay_kiang@moe.edu.sg">Mdm Lau Lay Kiang| </a><a href="mailto:@moe.edu.sg">Mr Shamsudin bin Kanchili |
 | 4 Integrity 2 | </a><a href="mailto:ng_swoe_wah@moe.edu.sg"> Mr Ng Seow Wah </a><br>(黄老师)| <a href="mailto:tan_loo_peng@moe.edu.sg">Mdm Tan Loo Peng|
 | 4 Integrity 3 | </a><a href="mailto:lee_patricia@moe.edu.sg">Mrs Lee Patricia| </a><a href="mailto:kuek_teng_noi@moe.edu.sg">Mdm Kuek Teng Noi |
-| 4 Integrity 4 | </a><a href="mailto:new_lilin_lilian@moe.edu.sg">Mdm New Li Lin Lilian| </a><a href="mailto:allison_foo_wei_qian@moe.edu.sg">Mdm Foo Wei Qian Allison (Mrs Lim) |
+| 4 Integrity 4 | </a><a href="mailto:new_lilin_lilian@moe.edu.sg">Mdm New Li Lin Lilian|</a><a href="mailto:allison_foo_wei_qian@moe.edu.sg">Mdm Foo Wei Qian Allison (Mrs Lim) |
 | 4 Integrity 5 | </a><a href="mailto:he_haiyang@moe.edu.sg">Mr Mohammad Aizal bin Zainol| </a><a href="mailto:ho_siew_leng_2@moe.edu.sg">Mdm Ho Siew Leng|
 | 4 Integrity 6 | </a><a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan| </a><a href="mailto:karyn_gunawan@moe.edu.sg">Miss Karyn Gunawan|
 | 4 Integrity 7 | </a><a href="mailto:kwang_yu_fung@moe.edu.sg">Mr Kwang Yu Fung </a><br>(关老师)| <a href="mailto:muhammad_khairi_hanafi@moe.edu.sg">Mr Muhammad Khairi bin Hanafi |
@@ -71,8 +71,8 @@ description: ""
 | 5 Self-Discipline 1 | </a><a href="mailto:gayathri_selvamany@moe.edu.sg">Mdm Gayathri d/o Selvamany| </a><a href="mailto:@moe.edu.sg">Mdm Lily Lim </a><br> (林老师） |
 | 5 Self-Discipline 2 | <a href="mailto:lee_siew_kian_joyce@moe.edu.sg"> Mdm Lee Siew Kian Joyce| </a><a href="mailto:siti_rosalia_shafrudin@moe.edu.sg">Mdm Siti Rosalia Binte Shafrudin|
 | 5 Self-Discipline 3 | </a><a href="mailto:koh_siew_ping@moe.edu.sg">Mdm Koh Siew Ping </a><br>(许老师)| <a href="mailto:mohammed_aqil_mohd_mislan@moe.edu.sg">Mr Mohammed Aqil Mohd Mislan |
-| 5 Self-Discipline 4 | </a><a href="mailto:khoo_li_yi_audrey@moe.edu.sg">	Miss Khoo Li Yi Audrey| </a><a href="mailto:tan_qiu_ling@moe.edu.sg">Ms Tan Qiu Ling|
-| 5 Self-Discipline 5 | </a><a href="mailto:yunus_b_yusif@moe.edu.sg">Mr Yunus Bin Yusof| </a><a href="mailto:tan_hwee_sung@moe.edu.sg">Mdm Tan Hwee Sung|
+| 5 Self-Discipline 4 | &gt;</a><a href="mailto:khoo_li_yi_audrey@moe.edu.sg">	Miss Khoo Li Yi Audrey| </a><a href="mailto:tan_qiu_ling@moe.edu.sg">Ms Tan Qiu Ling|
+| 5 Self-Discipline 5 | </a><a href="mailto:yunus_b_yusif@moe.edu.sg">Mr Yunus Bin Yusof|</a><a href="mailto:tan_hwee_sung@moe.edu.sg">Mdm Tan Hwee Sung|
 | 5 Self-Discipline 6 | </a><a href="mailto:lim_sheng@moe.edu.sg">Mr Lim Sheng| </a><a href="mailto:lim_soo_ee@moe.edu.sg">Miss Lim Soo Ee|
 | 5 Self-Discipline 7 | </a><a href="mailto:low_tin_hock@moe.edu.sg"> Mr Low Tin Hock </a><br>(刘老师)| <a href="mailto:ng_ting_ting_a@moe.edu.sg">Ms Ng Ting Ting|
 |||
