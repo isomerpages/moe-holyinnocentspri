@@ -15,7 +15,7 @@ description: ""
 | 1 Sincerity 4 | </a><a href="mailto:ang_jingyi@moe.edu.sg">Mdm Ang Jingyi </a><br>(洪老师)| <a href="mailto:asha_mukherjee_dula@moe.edu.sg">Mdm Asha d/o Mukherjee |
 | 1 Sincerity 5 | </a><a href="mailto:he_haiyang@moe.edu.sg">Mr He Haiyang </a><br>(何老师)| <a href="mailto:shirley_loo_bee_leng@moe.edu.sg">Mrs Shirley Long|
 | 1 Sincerity 6 | </a><a href="mailto:yue_chook_eng@moe.edu.sg">Mdm Yue Chook Eng | </a><a href="mailto:lee_wen_xin_june@moe.edu.sg">Miss Lee Wen Xin June </a><br>(李老师)|
-| 1 Sincerity 7 | <a href="mailto:booi_mo_lian@moe.edu.sg">Mdm Booi Mo Lian Sheryl | </a><a href="mailto:tneo_yan_peng@moe.edu.sg">Miss Tneo Yan Peng </a><br>(张老师) |
+| 1 Sincerity 7 | <a href="mailto:booi_mo_lian@moe.edu.sg">Mdm Booi Mo Lian Sheryl |</a><a href="mailto:tneo_yan_peng@moe.edu.sg">Miss Tneo Yan Peng </a><br>(张老师) |
 | 1 Sincerity 8 | <a href="mailto:ow_ai_khim@moe.edu.sg">Ms Ow Ai Khim </a><br>(欧老师) | <a href="mailto:chan_gan_siu@moe.edu.sg">Mrs Chan Gan Siu Betty|
 | 1 Sincerity 9 | </a><a href="mailto:xu_jie@moe.edu.sg">Mdm Xu Jie</a><br>(胥老师) | <a href="mailto: neo_wei_lin_gwendolyn@moe.edu.sg">Mdm Neo Wei Lin Gwendolyn|
 |||
