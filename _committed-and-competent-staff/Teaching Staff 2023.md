@@ -56,10 +56,10 @@ description: ""
 | CLASS  | FORM TEACHERS ||
 | -------- | -------- | -------- |
 | 4 Integrity 1 | </a><a href="mailto:lau_lay_kiang@moe.edu.sg">Mdm Lau Lay Kiang| </a><a href="mailto:@moe.edu.sg">Mr Shamsudin bin Kanchili |
-| 4 Integrity 2 | </a><a href="mailto:ng_swoe_wah@moe.edu.sg"> Mr Ng Seow Wah </a><br>(黄老师)| <a href="mailto:tan_loo_peng@moe.edu.sg">Mdm Tan Loo Peng|
+| 4 Integrity 2 |</a><a href="mailto:ng_swoe_wah@moe.edu.sg"> Mr Ng Seow Wah </a><br>(黄老师)| <a href="mailto:tan_loo_peng@moe.edu.sg">Mdm Tan Loo Peng|
 | 4 Integrity 3 | </a><a href="mailto:lee_patricia@moe.edu.sg">Mrs Lee Patricia| </a><a href="mailto:kuek_teng_noi@moe.edu.sg">Mdm Kuek Teng Noi |
 | 4 Integrity 4 | </a><a href="mailto:new_lilin_lilian@moe.edu.sg">Mdm New Li Lin Lilian|</a><a href="mailto:allison_foo_wei_qian@moe.edu.sg">Mdm Foo Wei Qian Allison (Mrs Lim) |
-| 4 Integrity 5 | </a><a href="mailto:he_haiyang@moe.edu.sg">Mr Mohammad Aizal bin Zainol| </a><a href="mailto:ho_siew_leng_2@moe.edu.sg">Mdm Ho Siew Leng|
+| 4 Integrity 5 |</a><a href="mailto:he_haiyang@moe.edu.sg">Mr Mohammad Aizal bin Zainol| </a><a href="mailto:ho_siew_leng_2@moe.edu.sg">Mdm Ho Siew Leng|
 | 4 Integrity 6 | </a><a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan| </a><a href="mailto:karyn_gunawan@moe.edu.sg">Miss Karyn Gunawan|
 | 4 Integrity 7 | </a><a href="mailto:kwang_yu_fung@moe.edu.sg">Mr Kwang Yu Fung </a><br>(关老师)| <a href="mailto:muhammad_khairi_hanafi@moe.edu.sg">Mr Muhammad Khairi bin Hanafi |
 |||
