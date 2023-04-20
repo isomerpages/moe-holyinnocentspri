@@ -13,4 +13,4 @@ description: ""
 | Bus services:                       | Please refer to image       |
 | Nearest MRT Station:                | Hougang Station             |
 
-![](/images/Arrival%20by%20Public%20Bus.jpeg)
+![](/images/School%20information/Arrival%20by%20Public%20Bus.jpeg)
