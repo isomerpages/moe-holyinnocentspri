@@ -22,7 +22,8 @@ The School is located at 5 Lorong Low Koon, Singapore 536451. <br> <br>
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc<br>
 
 3. Submit the completed application form and documents by closing date via email OR to the school’s General Office.<br>
-| | |
+
+|||
 | -------- | -------- | 
 | Address | 5 Lorong Low Koon Singapore 536451 | 
 | Contact No|62886516|
