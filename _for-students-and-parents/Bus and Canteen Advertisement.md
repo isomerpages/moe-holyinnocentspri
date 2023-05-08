@@ -8,10 +8,14 @@ description: ""
 Holy Innocents’ Primary is a single-session school with an enrolment of about 1,600 pupils and 120 staff.  The canteen operating hours during the school term are Mondays to Fridays from 6.30am to 4.00pm. <br><br>
 The School is located at 5 Lorong Low Koon, Singapore 536451. <br> <br>
 
+| Type of Stall | Closing Date| Requirement |
+| -------- | -------- | -------- |
+| Malay Noodles and Rice | 30 July 2023   | Nil  |
+|||
 
 ##### **Application Procedure** 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office. <br>
-* [Application Form](https://go.gov.sg/canteenstall) <br>
+* **[Application Form](https://go.gov.sg/canteenstall)** <br>
 2. Attached the following documents together with the application form:<br>
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
