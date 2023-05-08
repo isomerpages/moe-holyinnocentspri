@@ -2,7 +2,7 @@ collections:
   for-students-and-parents:
     output: true
     order:
-      - 2024 P1 registration information.md
+      - Primary 1 (P1) registration.md
       - Open house.md
       - Parent Support Group.md
       - Parent Volunteer (PV) Scheme.md
