@@ -12,6 +12,7 @@ description: ""
 |E-mail:                           | holyinnocentspri@moe.edu.sg |
 | Bus services:                     |  51, 72, 80, 101, 119, 136, 153 <br>3 minutes walking distance      |
 | Nearest MRT Station:                | Hougang MRT (NE14 line) <br>10 minutes walking distance |
+|||
 
 
 
