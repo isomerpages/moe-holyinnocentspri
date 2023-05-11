@@ -46,7 +46,7 @@ description: ""
 | 3 Graciousness 3 | <a href="mailto:cheryl_yap_xinhui@moe.edu.sg">Mdm Yap Xinhui Cheryl </a><br>(叶老师）| <a href="mailto:wat_wai_fung@moe.edu.sg">Mdm Wendy Wat Wai Fung (Mrs Teo)</a> |
 | 3 Graciousness 4 | <a href="mailto:toh_siew_khim@moe.edu.sg">Mdm Toh Siew Khim Linda (Mrs Poh)</a> | <a href="mailto:liu_diqin@moe.edu.sg">Mr Liu Diqin </a><br>(刘老师) |
 | 3 Graciousness 5 | <a href="mailto:helena_baldwin@moe.edu.sg">Mrs Helena Baldwin</a>|<a href="mailto:png_yong_han@moe.edu.sg">Mr Png Yong Han</a>|
-| 3 Graciousness 6 | <a href="mailto:ashwary_technamoorthy@moe.edu.sg">Ms Ashwary Technamoorthy</a>|<a href="mailto:lim_soo_ngee_martina@moe.edu.sg">Miss Lim Soo Ngee, Martina </a>|
+| 3 Graciousness 6 | <a href="mailto:technamoorthy_ashwary@moe.edu.sg">Ms Ashwary Technamoorthy</a>|<a href="mailto:lim_soo_ngee_martina@moe.edu.sg">Miss Lim Soo Ngee, Martina </a>|
 | 3 Graciousness 7 | <a href="mailto:chia_hui_tian@moe.edu.sg">Mrs Seet-Chia Hui Tian</a> | <a href="mailto:mohamad_zaki_ali@moe.edu.sg">Mr Mohamad Zaki bin Ali </a>|
 |||
 
@@ -59,7 +59,7 @@ description: ""
 | 4 Integrity 2 |<a href="mailto:ng_swoe_wah@moe.edu.sg"> Mr Ng Seow Wah </a><br>(黄老师)| <a href="mailto:tan_loo_peng@moe.edu.sg">Mdm Tan Loo Peng</a>|
 | 4 Integrity 3 | <a href="mailto:lee_patricia@moe.edu.sg">Mrs Lee Patricia</a>| <a href="mailto:kuek_teng_noi@moe.edu.sg">Mdm Kuek Teng Noi</a> |
 | 4 Integrity 4 | <a href="mailto:new_lilin_lilian@moe.edu.sg">Mdm New Li Lin Lilian</a>|<a href="mailto:allison_foo_wei_qian@moe.edu.sg">Mdm Foo Wei Qian Allison (Mrs Lim) </a>|
-| 4 Integrity 5 |<a href="mailto:he_haiyang@moe.edu.sg">Mr Mohammad Aizal bin Zainol</a>| <a href="mailto:ho_siew_leng_2@moe.edu.sg">Mdm Ho Siew Leng</a>|
+| 4 Integrity 5 |<a href="mailto:he_haiyang@moe.edu.sg">Mr Mohammad Aizal bin Zainol</a>| <a href="mailto:ho_siew_leng_1@moe.edu.sg">Mdm Ho Siew Leng</a>|
 | 4 Integrity 6 | <a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan</a>| <a href="mailto:karyn_gunawan@moe.edu.sg">Miss Karyn Gunawan</a>|
 | 4 Integrity 7 | <a href="mailto:kwang_yu_fung@moe.edu.sg">Mr Kwang Yu Fung </a><br>(关老师)| <a href="mailto:muhammad_khairi_hanafi@moe.edu.sg">Mr Muhammad Khairi bin Hanafi</a> |
 |||
