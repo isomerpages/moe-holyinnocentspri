@@ -55,7 +55,7 @@ description: ""
 
 | CLASS  | FORM TEACHERS ||
 | -------- | -------- | -------- |
-| 4 Integrity 1 | <a href="mailto:lau_lay_kiang@moe.edu.sg">Mdm Lau Lay Kiang</a>| <a href="mailto:@moe.edu.sg">Mr Shamsudin bin Kanchili</a> |
+| 4 Integrity 1 | <a href="mailto:lau_lay_kiang@moe.edu.sg">Mdm Lau Lay Kiang</a>| <a href="mailto:shamsudin_kanchil@moe.edu.sg">Mr Shamsudin bin Kanchili</a> |
 | 4 Integrity 2 |<a href="mailto:ng_swoe_wah@moe.edu.sg"> Mr Ng Seow Wah </a><br>(黄老师)| <a href="mailto:tan_loo_peng@moe.edu.sg">Mdm Tan Loo Peng</a>|
 | 4 Integrity 3 | <a href="mailto:lee_patricia@moe.edu.sg">Mrs Lee Patricia</a>| <a href="mailto:kuek_teng_noi@moe.edu.sg">Mdm Kuek Teng Noi</a> |
 | 4 Integrity 4 | <a href="mailto:new_lilin_lilian@moe.edu.sg">Mdm New Li Lin Lilian</a>|<a href="mailto:allison_foo_wei_qian@moe.edu.sg">Mdm Foo Wei Qian Allison (Mrs Lim) </a>|
@@ -72,7 +72,7 @@ description: ""
 | 5 Self-Discipline 2 | <a href="mailto:lee_siew_kian_joyce@moe.edu.sg"> Mdm Lee Siew Kian Joyce</a>| <a href="mailto:siti_rosalia_shafrudin@moe.edu.sg">Mdm Siti Rosalia Binte Shafrudin</a>|
 | 5 Self-Discipline 3 | <a href="mailto:koh_siew_ping@moe.edu.sg">Mdm Koh Siew Ping </a><br>(许老师)| <a href="mailto:mohammed_aqil_mohd_mislan@moe.edu.sg">Mr Mohammed Aqil Mohd Mislan</a> |
 | 5 Self-Discipline 4 |<a href="mailto:khoo_li_yi_audrey@moe.edu.sg">	Miss Khoo Li Yi Audrey</a>| <a href="mailto:tan_qiu_ling@moe.edu.sg">Ms Tan Qiu Ling</a>|
-| 5 Self-Discipline 5 | <a href="mailto:yunus_b_yusif@moe.edu.sg">Mr Yunus Bin Yusof</a>|<a href="mailto:tan_hwee_sung@moe.edu.sg">Mdm Tan Hwee Sung</a>|
+| 5 Self-Discipline 5 | <a href="mailto:yunus_b_yusof@moe.edu.sg">Mr Yunus Bin Yusof</a>|<a href="mailto:tan_hwee_sang@moe.edu.sg">Mdm Tan Hwee Sang</a>|
 | 5 Self-Discipline 6 | <a href="mailto:lim_sheng@moe.edu.sg">Mr Lim Sheng</a>| <a href="mailto:lim_soo_ee@moe.edu.sg">Miss Lim Soo Ee</a>|
 | 5 Self-Discipline 7 | <a href="mailto:low_tin_hock@moe.edu.sg"> Mr Low Tin Hock </a><br>(刘老师)| <a href="mailto:ng_ting_ting_a@moe.edu.sg">Ms Ng Ting Ting</a>|
 |||
