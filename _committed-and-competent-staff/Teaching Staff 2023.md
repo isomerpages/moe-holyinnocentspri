@@ -31,7 +31,7 @@ description: ""
 | 2 Charity 4 | <a href="mailto:shobana_sreetharan@moe.edu.sg">Miss Shobana d/o Sreetharan</a>| <a href="mailto:sun_xueying@moe.edu.sg">Mdm Sun Xueying </a><br> (孙老师）|
 | 2 Charity 5 | <a href="mailto:lee_song_yang@moe.edu.sg">Mr Lee Song Yang Ray</a> |<a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg">Mdm Farah Nurhuda Binte Modmad Isa</a>|
 | 2 Charity 6 | <a href="mailto:lin_lin@moe.edu.sg">Mdm Lin Lin </a><br>(林老师) | <a href="mailto:Siti_hajjar_hasan@moe.edu.sg">Miss Siti Hajjar Hasan</a>|
-| 2 Charity 7 | <a href="mailto:ng_hui_san@moe.edu.sg">Mdm Ng Hui San </a><br>(黄老师)| <a href="mailto:tneo_yan_peng@moe.edu.sg">Miss Tneo Yan Peng </a><br>(张老师) |
+| 2 Charity 7 | <a href="mailto:ng_hui_san@moe.edu.sg">Mdm Ng Hui San </a><br>(黄老师)| <a href="mailto:soh_siok_lin_carolina@moe.edu.sg">Mdm Soh Siok Lin Carolina </a>|
 | 2 Charity 8 | <a href="mailto:teh_chin_han@moe.edu.sg">Mr Teh Chin Han </a><br>(林老师) <br> <a href="mailto:chua_sze_yi@moe.edu.sg"> Mdm Kerin Chua</a> |<a href="mailto:nur_farhana_arzami@moe.edu.sg">Mdm Nur Farhana Binti Arzami </a><br><br> <a href="mailto:nur_ashikin_abdull_aziz@moe.edu.sg">Mdm Nur Ashkin</a>|
 | 2 Charity 9 |<a href="mailto:ye_peishan@moe.edu.sg">Mdm Ye PeiShan (Mrs Shen)</a> |<a href="mailto: hou_yin_fatt@moe.edu.sg">Mrs Hou Yin Fatt Linda</a>|
 |||
