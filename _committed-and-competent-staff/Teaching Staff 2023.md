@@ -27,7 +27,7 @@ description: ""
 | -------- | -------- | -------- |
 | 2 Charity 1 | <a href="mailto:ryan_tay_en_huang@moe.edu.sg">Mr Tay En Huang Ryan </a>| <a href="mailto:seet_ping_ping_esther@moe.edu.sg">Miss Seet Ping Ping, Esther</a> |
 | 2 Charity 2 | <a href="mailto:soh_li_hui@moe.edu.sg"> Ms Soh Li Hui </a><br>(苏老师) | <a href="mailto:kwek_jin_foon@moe.edu.sg">Miss Kwek Jin Foon</a>|
-| 2 Charity 3 | <a href="mailto:lou_jing@moe.edu.sg">Mdm Luo JIng </a><br>(罗老师)| <a href="mailto:koh_rui_en_sabrina@moe.edu.sg">Mrs Neo Rui En Sabrina</a>|
+| 2 Charity 3 | <a href="mailto:lou_jing@moe.edu.sg">Mdm Luo JIng </a><br>(罗老师)| |
 | 2 Charity 4 | <a href="mailto:shobana_sreetharan@moe.edu.sg">Miss Shobana d/o Sreetharan</a>| <a href="mailto:sun_xueying@moe.edu.sg">Mdm Sun Xueying </a><br> (孙老师）|
 | 2 Charity 5 | <a href="mailto:lee_song_yang@moe.edu.sg">Mr Lee Song Yang Ray</a> |<a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg">Mdm Farah Nurhuda Binte Modmad Isa</a>|
 | 2 Charity 6 | <a href="mailto:lin_lin@moe.edu.sg">Mdm Lin Lin </a><br>(林老师) | <a href="mailto:Siti_hajjar_hasan@moe.edu.sg">Miss Siti Hajjar Hasan</a>|
@@ -42,7 +42,7 @@ description: ""
 | CLASS  | FORM TEACHERS ||
 | -------- | -------- | -------- |
 | 3 Graciousness 1 |<a href="mailto:siti_zainab_mohamed_suaimi@moe.edu.sg">Ms Siti Zainab bte Mohamad Suaimi </a>| <a href="mailto:madeline_lim_jia_min@moe.edu.sg">Mdm Madeline Lim </a><br> <a href="mailto:chu_yunfeng_alex@moe.edu.sg">Mr Alex Chu</a>  |
-| 3 Graciousness 2 |<a href="mailto:sim_ghim_hong@moe.edu.sg"> Mr Sim Ghim Hong</a>| <a href="mailto:gayathri_ganesan@moe.edu.sg@moe.edu.sg">Mdm Gayathri Ganesan </a><br><br><a href="mailto:lo_choi_ha_janis@moe.edu.sg">Miss Lo Choi Ha Janis</a>|
+| 3 Graciousness 2 |<a href="mailto:sim_ghim_hong@moe.edu.sg"> Mr Sim Ghim Hong</a>| <a href="mailto:gayathri_ganesan@moe.edu.sg@moe.edu.sg">Mdm Gayathri Ganesan </a><br>|
 | 3 Graciousness 3 | <a href="mailto:cheryl_yap_xinhui@moe.edu.sg">Mdm Yap Xinhui Cheryl </a><br>(叶老师）| <a href="mailto:wat_wai_fung@moe.edu.sg">Mdm Wendy Wat Wai Fung (Mrs Teo)</a> |
 | 3 Graciousness 4 | <a href="mailto:toh_siew_khim@moe.edu.sg">Mdm Toh Siew Khim Linda (Mrs Poh)</a> | <a href="mailto:liu_diqin@moe.edu.sg">Mr Liu Diqin </a><br>(刘老师) |
 | 3 Graciousness 5 | <a href="mailto:helena_baldwin@moe.edu.sg">Mrs Helena Baldwin</a>|<a href="mailto:png_yong_han@moe.edu.sg">Mr Png Yong Han</a>|
