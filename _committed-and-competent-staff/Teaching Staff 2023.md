@@ -87,7 +87,7 @@ description: ""
 | 6 Resilience 3 |<a href="mailto:zubaidah_ahmat@moe.edu.sg">Mdm Zubaidah bte Ahmat</a>| <a href="mailto:wu_xia@moe.edu.sg">Mdm Wu Xia</a> |
 | 6 Resilience 4 | <a href="mailto:tan_ying_fong@moe.edu.sg">Mdm Tan Ying Fong Irene</a>| <a href="mailto:sarah_koh_hui_khoon@moe.edu.sg">Mrs Sarah Lee</a>|
 | 6 Resilience 5 | <a href="mailto:samantha_s_tan@moe.edu.sg">Miss Tan Sin Guan Samantha</a>|<a href="mailto:chua_sze_yi@moe.edu.sg">Mdm Kerin Chua Sze Yi </a>|
-| 6 Resilience 6 | <a href="mailto:tay_kai_yi_kathy@moe.edu.sg">Mdm Tay Kai Yi Kathy</a>|<a href="mailto:li_shu_lan@moe.edu.sg">Mdm Li Shu Lan </a><br>(李老师）|
+| 6 Resilience 6 | <a href="mailto:tay_kai_yi_kathy@moe.edu.sg">Mdm Tay Kai Yi Kathy</a>|<a href="mailto:li_shu_lan_a@moe.edu.sg">Mdm Li Shu Lan </a><br>(李老师）|
 | 6 Resilience 7 | <a href="mailto:zhong_wan_ying@moe.edu.sg">Mdm Zhong Wan Ying</a> | <a href="mailto:dong_yan@moe.edu.sg">Mdm Dong Yan </a><br>(董老师) |
 |||
 
