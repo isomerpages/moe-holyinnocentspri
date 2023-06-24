@@ -42,7 +42,7 @@ description: ""
 | CLASS  | FORM TEACHERS ||
 | -------- | -------- | -------- |
 | 3 Graciousness 1 |<a href="mailto:siti_zainab_mohamed_suaimi@moe.edu.sg">Ms Siti Zainab bte Mohamad Suaimi </a>| <a href="mailto:madeline_lim_jia_min@moe.edu.sg">Mdm Madeline Lim </a>  |
-| 3 Graciousness 2 |<a href="mailto:sim_ghim_hong@moe.edu.sg"> Mr Sim Ghim Hong</a>| <a href="mailto:gayathri_ganesan@moe.edu.sg@moe.edu.sg">Mdm Gayathri Ganesan </a><br>|
+| 3 Graciousness 2 |<a href="mailto:sim_ghim_hong@moe.edu.sg"> Mr Sim Ghim Hong</a>| <a href="mailto:chelsia_limmoe.edu.sg@moe.edu.sg">Mdm Chelsia Lim </a><br>|
 | 3 Graciousness 3 | <a href="mailto:cheryl_yap_xinhui@moe.edu.sg">Mdm Yap Xinhui Cheryl </a><br>(叶老师）| <a href="mailto:wat_wai_fung@moe.edu.sg">Mdm Wendy Wat Wai Fung (Mrs Teo)</a> |
 | 3 Graciousness 4 | <a href="mailto:toh_siew_khim@moe.edu.sg">Mdm Toh Siew Khim Linda (Mrs Poh)</a> | <a href="mailto:liu_diqin@moe.edu.sg">Mr Liu Diqin </a><br>(刘老师) |
 | 3 Graciousness 5 | <a href="mailto:helena_baldwin@moe.edu.sg">Mrs Helena Baldwin</a>|<a href="mailto:png_yong_han@moe.edu.sg">Mr Png Yong Han</a>|
