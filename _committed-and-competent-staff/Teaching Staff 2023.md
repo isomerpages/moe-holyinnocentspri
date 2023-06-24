@@ -46,7 +46,7 @@ description: ""
 | 3 Graciousness 3 | <a href="mailto:cheryl_yap_xinhui@moe.edu.sg">Mdm Yap Xinhui Cheryl </a><br>(叶老师）| <a href="mailto:wat_wai_fung@moe.edu.sg">Mdm Wendy Wat Wai Fung (Mrs Teo)</a> |
 | 3 Graciousness 4 | <a href="mailto:toh_siew_khim@moe.edu.sg">Mdm Toh Siew Khim Linda (Mrs Poh)</a> | <a href="mailto:liu_diqin@moe.edu.sg">Mr Liu Diqin </a><br>(刘老师) |
 | 3 Graciousness 5 | <a href="mailto:helena_baldwin@moe.edu.sg">Mrs Helena Baldwin</a>|<a href="mailto:png_yong_han@moe.edu.sg">Mr Png Yong Han</a>|
-| 3 Graciousness 6 | <a href="mailto:technamoorthy_ashwary@moe.edu.sg">Ms Ashwary Technamoorthy</a>|<a href="mailto:@moe.edu.sg">Mdm Tay Hui Ling </a><br><a href="mailto:lim_soo_ngee_martina@moe.edu.sg">Miss Lim Soo Ngee, Martina </a>|
+| 3 Graciousness 6 | <a href="mailto:technamoorthy_ashwary@moe.edu.sg">Ms Ashwary Technamoorthy</a>|<a href="mailto:cherlyn_renee_tay_hui@moe.edu.sg">Mdm Tay Hui Ling </a><br><a href="mailto:lim_soo_ngee_martina@moe.edu.sg">Miss Lim Soo Ngee, Martina </a>|
 | 3 Graciousness 7 | <a href="mailto:chia_hui_tian@moe.edu.sg">Mrs Seet-Chia Hui Tian</a> | <a href="mailto:mohamad_zaki_ali@moe.edu.sg">Mr Mohamad Zaki bin Ali </a>|
 |||
 
@@ -86,7 +86,7 @@ description: ""
 | 6 Resilience 2 | <a href="mailto:song_zhenying@moe.edu.sg"> Mrs Chan Zhenying</a>| <a href="mailto:dawn_ng_li_jun@moe.edu.sg">Mdm Ng Li Jun Dawn</a>|
 | 6 Resilience 3 |<a href="mailto:zubaidah_ahmat@moe.edu.sg">Mdm Zubaidah bte Ahmat</a>| <a href="mailto:wu_xia@moe.edu.sg">Mdm Wu Xia</a> |
 | 6 Resilience 4 | <a href="mailto:tan_ying_fong@moe.edu.sg">Mdm Tan Ying Fong Irene</a>| <a href="mailto:sarah_koh_hui_khoon@moe.edu.sg">Mrs Sarah Lee</a>|
-| 6 Resilience 5 | <a href="mailto:samantha_s_tan@moe.edu.sg">Miss Tan Sin Guan Samantha</a>|<a href="mailto:foong_wenfang@moe.edu.sg">Ms Foong Wenfang </a><br>(冯老师)|
+| 6 Resilience 5 | <a href="mailto:samantha_s_tan@moe.edu.sg">Miss Tan Sin Guan Samantha</a>|<a href="mailto:chua_sze_yi@moe.edu.sg">Mdm Kerin Chua Sze Yi </a>|
 | 6 Resilience 6 | <a href="mailto:tay_kai_yi_kathy@moe.edu.sg">Mdm Tay Kai Yi Kathy</a>|<a href="mailto:li_shu_lan@moe.edu.sg">Mdm Li Shu Lan </a><br>(李老师）|
 | 6 Resilience 7 | <a href="mailto:zhong_wan_ying@moe.edu.sg">Mdm Zhong Wan Ying</a> | <a href="mailto:dong_yan@moe.edu.sg">Mdm Dong Yan </a><br>(董老师) |
 |||
