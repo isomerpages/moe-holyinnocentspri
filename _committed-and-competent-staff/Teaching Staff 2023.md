@@ -28,7 +28,7 @@ description: ""
 | 2 Charity 1 | <a href="mailto:ryan_tay_en_huang@moe.edu.sg">Mr Tay En Huang Ryan </a>| <a href="mailto:seet_ping_ping_esther@moe.edu.sg">Miss Seet Ping Ping, Esther</a> |
 | 2 Charity 2 | <a href="mailto:soh_li_hui@moe.edu.sg"> Ms Soh Li Hui </a><br>(苏老师) | <a href="mailto:kwek_jin_foon@moe.edu.sg">Miss Kwek Jin Foon</a>|
 | 2 Charity 3 | <a href="mailto:lou_jing@moe.edu.sg">Mdm Luo JIng </a><br>(罗老师)| <a href="mailto:tan_cher_hui_roger@moe.edu.sg">Mr Roger Tan |
-| 2 Charity 4 | </a><a href="mailto:shobana_sreetharan@moe.edu.sg">Miss Shobana d/o Sreetharan|</a><a href="mailto:sun_xueying@moe.edu.sg">Mdm Sun Xueying </a><br> (孙老师）|
+| 2 Charity 4 |</a><a href="mailto:shobana_sreetharan@moe.edu.sg">Miss Shobana d/o Sreetharan|</a><a href="mailto:sun_xueying@moe.edu.sg">Mdm Sun Xueying </a><br> (孙老师）|
 | 2 Charity 5 | <a href="mailto:lee_song_yang@moe.edu.sg">Mr Lee Song Yang Ray</a> |<a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg">Mdm Farah Nurhuda Binte Modmad Isa</a>|
 | 2 Charity 6 | <a href="mailto:lin_lin@moe.edu.sg">Mdm Lin Lin </a><br>(林老师) | <a href="mailto:Siti_hajjar_hasan@moe.edu.sg">Miss Siti Hajjar Hasan</a>|
 | 2 Charity 7 | <a href="mailto:ng_hui_san@moe.edu.sg">Mdm Ng Hui San </a><br>(黄老师)| <a href="mailto:soh_siok_lin_carolina@moe.edu.sg">Mdm Soh Siok Lin Carolina </a>|
