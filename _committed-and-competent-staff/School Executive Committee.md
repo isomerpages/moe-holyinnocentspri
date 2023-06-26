@@ -19,7 +19,7 @@ description: ""
 | ENGLISH LANGUAGE|CHINESE LANGUAGE DEPARTMENT|
 | -------- | -------- | 
 | <a href="mailto:neo_kim_sian_pansy@moe.edu.sg">Mrs Pansy Ong</a> (Covering)<br>Head of Department|<a href="mailto:chu_sing_ee@moe.edu.sg">Mdm Chu Sing Ee</a><br>Head of Department |
-|<a href="mailto:koh_rui_en_sabrina@moe.edu.sg">Mrs Sabrina Neo</a> <br>Level Head|<a href="mailto:ma_ah_yin@moe.edu.sg">Mdm Ah Yin </a><br>Level Head|
+||<a href="mailto:li_shu_lan_a@moe.edu.sg">Mdm Li Shu Lan </a><br>Level Head|
 ||<a href="mailto:tan_hwee_sang@moe.edu.sg">Ms Tan Hwee Sang</a><br>Level Head|
 |||
 
