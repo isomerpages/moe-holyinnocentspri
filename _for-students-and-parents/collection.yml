@@ -2,6 +2,7 @@ collections:
   for-students-and-parents:
     output: true
     order:
+      - School Bus Advertisement.md
       - Open house.md
       - Parent Support Group.md
       - Parent Volunteer (PV) Scheme.md
