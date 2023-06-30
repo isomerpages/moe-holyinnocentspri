@@ -8,12 +8,12 @@ description: ""
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 #### **Service Requirements**
-1. Call for Proposal
-2. Agreement for Appointment of School Bus Operator
+1. [Call for Proposal](https://go.gov.sg/callproposal)
+2. [Agreement for Appointment for School Bus Operator](https://go.gov.sg/agreementbus)
 
 ### **Application Procedure**
-1. Complete the Call for Proposal - Annex A
-2. Submit the completed Call for Proposal - Annex A by closing date, 11 July 2023, to School's General office.
+1. Complete the [Call for Proposal - Annex A](https://go.gov.sg/proposalannex)
+2. Submit the completed [Call for Proposal - Annex A](https://go.gov.sg/proposalannex) by closing date, 11 July 2023, to School's General office.
 
 
 |  |  | 
@@ -27,5 +27,3 @@ To apply, please refer to the Service Requirements and the Application Procedure
 ### **How to get there?**
 * Nearest MRT: Hougang MRT (NE14 line) - 11 minutes walking distance
 * Bus number: 51, 72, 80, 101, 119, 136, 153 - 3 minutes walking distance
-
-
