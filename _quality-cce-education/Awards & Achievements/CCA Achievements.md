@@ -6,7 +6,22 @@ third_nav_title: Awards & Achievements
 ---
 ## CCA Achievements 
 
-#### 2022
+#### **2023**
+
+
+
+|  | CCA| Achievement |
+| -------- | -------- | -------- |
+| 1   | Football    |**NSG Football Championships Senior Division Boys (South Zone)** <br> Top 8 Placing|
+|2|Badminton |  **NSG Badminton Championships Senior Division Girls (South Zone**)<br>2nd Placing|
+|3|Basketball|  **NSG Badminton Championships Senior Division Boys (South Zone**)<br>Represented school|
+|4|Wushu|**NSG Wushu Championships Junior Division Boys**<br> <br>Individual ~   4-Duan Sword: 8th position<br>Ong Zheng Yu (P5)  <br><br>Group Quanshu: 7th position<br>1. Liu Xiuhe (P5)<br>2. Josias Matthew Soh (P4)<br>3. Tay Ruixian (P3)<br>4. OngZheng Yu (P5)<br>5.  Curtis Ho (P4)<br>6. Aaron Lee  Jun Rong (P5)<br><br>**NSG Wushu Championships Junior Division Girls**<br><br>**Sportmanship Award** <br>Ng Shi Qi Clara (P5) <br>|
+|5|Weiqi| **National Youth Weiqi Competition 2023 Six Trust Cup** <br><br>P6 Team Event : Silver Award<br>1. Koh Yi Jie Nicholas<br>2. Peh Zheng Rong Davis<br>3. Chew Kah Kei  <br><br>P6 Individual event: Bronze Award<br>Koh Yi Jie Nicholas<br><br>P5 Team Event : Silver Award <br>1. Low Diane <br> 2. Ysabel Purnomo Tan Shi Yu <br>3. Ian Tan Jun En  |
+|6|||
+
+
+
+#### **2022**
 
 
 
