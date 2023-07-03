@@ -25,11 +25,15 @@ third_nav_title: Awards & Achievements
 
 <br>
 
-| | Non-School CCA | Achivement|
+| | Non-School<br> CCA | Achivement|
 | -------- | -------- | -------- |
-| 1| Bowling| **NSG Bowling Championships Junior Division Boys Singles**<br><br>Lim rui Ze Reyes (P3) <br>6th position<br>Sportmanship Award|
-|2|Taekwondo|**NSG Taekwondo Championships Senior Division Boys** <br><br> Kyorugi Poom Belt under 42kg: 3rd position<br>Lim Jun Kang Daveon (P5)<br><br><br>**NSG Taekwondo Championships Junior Division Girls**<br><br>Poomsae Junior Division Girls Blue 4: 1st position<br>Fath Goh Min En (P5) |
-|3|Swimming||
+| 1| Bowling <br> (Junior Boys)| **NSG Bowling Championships Junior Division Boys Singles**<br><br>Lim rui Ze Reyes (P3) <br>6th position<br>Sportmanship Award|
+|2|Taekwondo <br> (Senior Boys)|**NSG Taekwondo Championships Senior Division Boys** <br>Lim Jun Kang Daveon (P5)<br> Kyorugi Poom Belt under 42kg: 3rd position |
+|3|Taekwondo <br> (Junior Girls)|**NSG Taekwondo Championships Junior Division Girls**<br>Fath Goh Min En (P5)<br>Poomsae Junior Division Girls Blue 4: 1st position|
+|4|Swimming<br>(Junior Boys)|**NSG Swimming Championships Junior 1 Division**<br><br>Lau Xiu Qi, June (P3)<br>~ 50m Backstroke : 5th position<br>~ 50m Freestyle : 11th position <br>~  Bronze Achievement Pin|
+|5|Swimming<br>(Junior Girls)|**NSG Swimming Championships Junior 1 Division**<br><br>Marissa Gh Jing Wen (P4)<br>~ 50m (25m Butterfly and 255m Freestyle) : 3rd position <br>~ 50m (25m Butterfly and 25m Breaststoke) : 4th position <br>~ Silver Achivement Pin |
+|6|Swimming<br>(Senior Girls)|**NSG Swimming Championships Senior 1 Division**<br><br>1. Tee Kai Tong (P6)<br>~ 100m Butterfly : 8th position <br>~ 4 x 50m Freestyle Relay : 4th position <br> ~ Overall  Champion : 4th position<br><br>2. Chia Rui Ru Evangeline (P6) <br>~ 100m Freestyle : 6th position <br> ~ Overall  Champion: 4th position<br><br>3. Andrea Heng Jia Eng (P6) <br> ~ 50m |
+||||
 
 #### **2022**
 
