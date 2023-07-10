@@ -15,8 +15,8 @@ third_nav_title: Awards & Achievements
 | 1   | Football <br>(Senior Boys)   |**NSG Football Championships Senior Division Boys (South Zone)** <br> Top 8 Placing|
 |2|Badminton <br>(Senior Boys)|**NSG Badminton Championships Senior Division Boys (South Zone**)<br>Top 8 Placing|
 |3|Badminton <br>(Senior Girls) |  **NSG Badminton Championships Senior Division Girls (South Zone**)<br>2nd Placing|
-|4|Basketball<br> (Senior Boys)|  **NSG Basketball Championships Senior Division Boys (South Zone**)<br>Represented school|
-|5|Wushu|**NSG Wushu Championships Junior Division Boys**<br> <br>Individual ~   4 - Duan Spear: 8th position<br>Ong Zheng Yu (P5) <br><br>Group Quanshu: 7th position<br>1. Liu Xiuhe (P5)<br>2. Josias Matthew Soh (P4)<br>3. Tay Ruixian (P3)<br>4. Ong Zheng Yu (P5)<br>5.  Curtis Ho (P4)<br>6. Aaron Lee  Jun Rong (P5)<br><br>**NSG Wushu Championships Junior Division Girls**<br><br>**Sportmanship Award** <br>Ng Shi Qi Clara (P5) <br>|
+|4|Basketball<br> (Senior Boys)|  **NSG Basketball Championships Senior Division Boys (South Zone**)<br>Represented school<br><br>**Sportsmanship Award**<br>Edward Pang Yu Rui (P6)|
+|5|Wushu|**NSG Wushu Championships Junior Division Boys**<br> <br>Individual ~   4 - Duan Spear: 8th position<br>Ong Zheng Yu (P5) <br><br>Group Quanshu: 7th position<br>1. Liu Xiuhe (P5)<br>2. Josias Matthew Soh (P4)<br>3. Tay Ruixian (P3)<br>4. Ong Zheng Yu (P5)<br>5.  Curtis Ho (P4)<br>6. Aaron Lee  Jun Rong (P5)<br><br>**NSG Wushu Championships Junior Division Girls**<br><br>**Sportsmanship Award** <br>Ng Shi Qi Clara (P5) <br>|
 |6|Weiqi| **National Youth Weiqi Competition 2023 Six Trust Cup** <br><br>P6 Team Event : Silver Award<br>1. Koh Yi Jie Nicholas<br>2. Peh Zheng Rong Davis<br>3. Chew Kah Kei  <br><br>P6 Individual event: Bronze Award<br>Koh Yi Jie Nicholas<br><br>P5 Team Event : Silver Award <br>1. Low Diane <br> 2. Ysabel Purnomo Tan Shi Yu <br>3. Ian Tan Jun En  |
 |7|Rope Skipping <br>(Senior Boys)|**NSG Rope Skipping Championships Senior Division Boys**<br><br>Sportmanship Award<br>Tyson Tan Long Yi|
 |8|Rope Skipping <br>(Senior Girls)|**NSG Rope Skipping Championships Senior Division Girls**<br><br>Sportmanship Award<br>1.  Isabelle Tan Xin Ru<br>2. Olivia Or Ning En (P6)<br><br>Team Freestyle: 3rd position<br>1.  Pek En Qi, Natasha (P6)<br>2. Emma Tay Yi Xua (P6)<br>3. Katelyn Chin Yi Lynn (P6)<br>4. Olivia Or Ning En (P6)<br>5. Tan  Si Jun (P6)|
@@ -28,9 +28,9 @@ third_nav_title: Awards & Achievements
 
 | | Non-School<br> CCA | Achivement|
 | -------- | -------- | -------- |
-| 1| Bowling <br> (Junior Boys)| **NSG Bowling Championships Junior Division Boys Singles**<br><br>Lim rui Ze Reyes (P3) <br>6th position<br>Sportmanship Award|
-|2|Taekwondo <br> (Senior Boys)|**NSG Taekwondo Championships Senior Division Boys** <br>Lim Jun Kang Daveon (P5)<br> Kyorugi Poom Belt under 42kg : 3rd position |
-|3|Taekwondo <br> (Junior Girls)|**NSG Taekwondo Championships Junior Division Girls**<br>Faith Goh Min En (P5)<br>Poomsae Junior Division Girls Individual Blue 4: 1st position|
+| 1| Bowling <br> (Junior Boys)| **NSG Bowling Championships Junior Division Boys Singles**<br><br>Lim Rui Ze Reyes (P3) <br>6th position<br>Sportsmanship Award|
+|2|Taekwondo <br> (Senior Boys)|**NSG Taekwondo Championships Senior Division Boys** <br><br>Lim Jun Kang Daveon (P5)<br> Kyorugi Poom Belt under 42kg : 3rd position |
+|3|Taekwondo <br> (Junior Girls)|**NSG Taekwondo Championships Junior Division Girls**<br><br>Faith Goh Min En (P5)<br>Poomsae Junior Division Girls Individual Blue 4: 1st position|
 |4|Swimming<br>(Junior Boys)|**NSG Swimming Championships Junior 1 Division**<br><br>Lau Xiu Qi, June (P3)<br>~ 50m Backstroke : 5th position<br>~ 50m Freestyle : 11th position <br>~  Bronze Achievement Pin|
 |5|Swimming<br>(Junior Girls)|**NSG Swimming Championships Junior 1 Division**<br><br>Marissa Goh Jing Wen (P4)<br>~ 50m (25m Butterfly and 25m Freestyle) : 3rd position <br>~ 50m (25m Butterfly and 25m Breaststroke) : 4th position <br>~ Silver Achievement Pin |
 |6|Swimming<br>(Senior Girls)|**NSG Swimming Championships Senior 1 Division**<br><br>1. Tee Kai Tong (P6)<br>~ 100m Butterfly : 8th position <br>~ 4 x 50m Freestyle Relay : 4th position <br> ~ Overall  Champion : 4th position<br><br>2. Chia Rui Ru Evangeline (P6) <br>~ 100m Freestyle : 6th position <br> ~ Overall  Champion : 4th position<br><br>3. Andrea Heng Jia En (P6) <br> ~ 50m Freestle : 8th position <br>~ 100 m Freestyle : 7th position <br>~ Overall Champion : 4th position <br><br>4. Birdie Gan Le (P6) <br>~ 100 m (50m Butterfly and 50m Breastroke) : 2nd position <br>~ 100 m Butterfly : 3rd position<br>~ 50m Butterfly : 2nd position<br> ~ Overall Champion : 4th position |
