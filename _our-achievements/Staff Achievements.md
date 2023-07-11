@@ -5,11 +5,18 @@ description: ""
 ---
 ## Staff Achievements
 
+#### 2023
+
+**Outstanding Youth in Education Award (OYEA) 2023**
+<br>
+Ms Shobana D/O Sreetharan
+<br>
+
 #### 2022
 
 
 **National Day Award 2022 - The Commendation Medal**  
-Mdm Kerin Chua Sze Yi
+Mdm Kerin Chua Sze Yi <br>
 Head of Department Science&nbsp;  
   
 
@@ -42,7 +49,7 @@ Ms Tan Chuyan
 Mdm Sun Xueying
 
 **National Day Award 2020 - The Commendation Medal**<br>
-Mrs Sarah Lee-Koh Hui Khoon
+Mrs Sarah Lee-Koh Hui Khoon <br>
 Head of Department SAP/Aesthetics  
   
 **Listening Educator for Advancement and Progress (LEAP) Award**
@@ -89,17 +96,18 @@ Head of Department SAP/Aesthetics
 Lianhe Zaobao©&nbsp;Singapore Press Holdings Limited.&nbsp;Permission required for reproduction.&nbsp;&nbsp;&nbsp;  
 [President's Award for Teachers](https://holyinnocentspri.moe.edu.sg/qql/slot/u782/2019%20Uploads/pokemon%20helps%20teacher%20win%20president.pdf)  
 \-The Straits Times, 5 September 2019  
-The Straits Times©&nbsp;Singapore Press Holdings Limited.&nbsp;Permission required for reproduction.&nbsp;&nbsp;&nbsp;**Associate of Academy of Singapore Teachers Award**  
+The Straits Times©&nbsp;Singapore Press Holdings Limited.&nbsp;Permission required for reproduction.&nbsp;&nbsp;&nbsp;<br>
+
+
+**Associate of Academy of Singapore Teachers Award**  
 
 **Mdm Kerin Chua**  
 HOD Science
 
-  
 
 **Mrs Sarah Lee-Koh Hui Khoon**<br>
 Head of Department SAP/Aesthetics
 
-  
 
 **Mdm Irene Tan**<br>
 Senior Teacher
