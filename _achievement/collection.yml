@@ -1,0 +1,4 @@
+collections:
+  achievement:
+    output: true
+    order: []
