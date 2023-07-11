@@ -1,5 +1,5 @@
 collections:
-  achievement:
+  our-achievements:
     output: true
     order:
       - CCA Achievements.md
