@@ -2,6 +2,7 @@ collections:
   our-achievements:
     output: true
     order:
+      - CCA Achievements/2022.md
       - CCA Achievements/CCA Achievements.md
       - CCA Achievements/.keep
       - Staff Achievements.md
