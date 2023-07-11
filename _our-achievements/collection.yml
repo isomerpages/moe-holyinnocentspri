@@ -2,6 +2,7 @@ collections:
   our-achievements:
     output: true
     order:
+      - CCA Achievement/CCA Achievements.md
       - CCA Achievement/.keep
       - Staff Achievements.md
       - HIPS in the News.md
