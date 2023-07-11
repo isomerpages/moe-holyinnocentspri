@@ -1,4 +1,5 @@
 collections:
   achievement:
     output: true
-    order: []
+    order:
+      - CCA Achievements.md
