@@ -2,8 +2,8 @@ collections:
   our-achievements:
     output: true
     order:
-      - CCA Achievements/2022.md
-      - CCA Achievements/2023.md
       - CCA Achievements/.keep
+      - CCA Achievements/2023.md
+      - CCA Achievements/2022.md
       - Staff Achievements.md
       - HIPS in the News.md
