@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - CCA Achievement/.keep
-      - CCA Achievements.md
       - Staff Achievements.md
       - HIPS in the News.md
