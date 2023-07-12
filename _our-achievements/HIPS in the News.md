@@ -13,10 +13,6 @@ Source:\[The Sunday Times\]&nbsp;©&nbsp;SPH Media Limited. Permission required 
 [The Straits Times 28 September 2022](/images/zubaidah%20caring%20teachers%20award%202022.png)  
 Source:\[The Straits Times\]&nbsp;©&nbsp;SPH Media Limited. Permission required for reproduction.
   
-**2021**
-
-[MyActiveSG, Circle News: NSG 2021 What Does Sport Mean to You?](https://circle.myactivesg.com/circle-news/articles/nsg-2021-what-does-sport-mean-to-you?type=all-articles)  
-**25 May 2021**
 
 **2020**
 
