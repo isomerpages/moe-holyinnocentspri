@@ -2,7 +2,7 @@ logo: /images/logo.png
 links:
   - title: HIPS Family
     collection: hips-family
-  - title: "Quality Teaching & Learning "
+  - title: Quality Teaching & Learning
     collection: quality-teaching-and-learning
   - title: Committed And Competent Staff
     collection: committed-and-competent-staff
@@ -10,5 +10,7 @@ links:
     collection: quality-cce-education
   - title: SAP
     collection: rich-chinese-culture
+  - title: OUR ACHIEVEMENTS
+    collection: our-achievements
   - title: FOR STUDENTS AND PARENTS
     collection: for-students-and-parents

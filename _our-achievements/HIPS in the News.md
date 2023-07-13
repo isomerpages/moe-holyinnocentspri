@@ -2,22 +2,17 @@
 title: HIPS in the News
 permalink: /quality-cce-education/Awards-and-Achievements/HIPS-IN-THE-NEWS/
 description: ""
-third_nav_title: Awards & Achievements
 ---
 ## HIPS IN THE NEWS
 
 **2022**
 
 [The Sunday Times 11 September 2022](/images/SPH%202022%20article.png)<br>
-Source:\[The Sunday Times\] © SPH Media Limited. Permission required for reproduction.
+Source:\[The Sunday Times\]&nbsp;©&nbsp;SPH Media Limited. Permission required for reproduction.
 
 [The Straits Times 28 September 2022](/images/zubaidah%20caring%20teachers%20award%202022.png)  
-Source:\[The Straits Times\] © SPH Media Limited. Permission required for reproduction.
+Source:\[The Straits Times\]&nbsp;©&nbsp;SPH Media Limited. Permission required for reproduction.
   
-**2021**
-
-[MyActiveSG, Circle News: NSG 2021 What Does Sport Mean to You?](https://circle.myactivesg.com/circle-news/articles/nsg-2021-what-does-sport-mean-to-you?type=all-articles)  
-**25 May 2021**
 
 **2020**
 
@@ -31,7 +26,7 @@ Source:\[The Straits Times\] © SPH Media Limited. Permission required for rep
 
 [Wanbao 5 January 2013](/files/Wanbao%20(Jan%202013).pdf)
 
-[The Straits Times 26 January 2013](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&%20Achievements/7.5%20HIPS%20in%20the%20News/Straits%20Times%20(Jan%202013).pdf)  
+[The Straits Times 26 January 2013](https://holyinnocentspri.moe.edu.sg/qql/slot/u682/7.%20Awards%20&amp;%20Achievements/7.5%20HIPS%20in%20the%20News/Straits%20Times%20(Jan%202013).pdf)  
 
 [Zaobao 26 January 2013](/files/Zaobao%20(Jan%202013).pdf)
 
