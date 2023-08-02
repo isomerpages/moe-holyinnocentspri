@@ -3,7 +3,7 @@ title: Useful Links
 permalink: /hips-family/HIPS-Partners/permalink/
 description: ""
 ---
-1.   [Catholic Archdiocese of Singapore](https://www.catholic.sg/) 
+1.   <p><a target="_blank" href="https://www.catholic.sg/">Catholic Archdiocese of Singapore</a></p>
 2.   [Schoolbag - The Education News Site](https://www.schoolbag.edu.sg/)
 3.  [National Library Board](https://www.nlb.gov.sg/main/home)
 4.  [HIPS School Library Online Catalogue](https://schoolibrary.moe.edu.sg/holyinnocentspri)
