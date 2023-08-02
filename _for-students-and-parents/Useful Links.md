@@ -4,17 +4,17 @@ permalink: /hips-family/HIPS-Partners/permalink/
 description: ""
 ---
 1.   <p><a target="_blank" href="https://www.catholic.sg/">Catholic Archdiocese of Singapore</a></p>
-2.   [Schoolbag - The Education News Site](https://www.schoolbag.edu.sg/)
-3.  [National Library Board](https://www.nlb.gov.sg/main/home)
-4.  [HIPS School Library Online Catalogue](https://schoolibrary.moe.edu.sg/holyinnocentspri)
-5.  [Hougang Community Club](https://www.onepa.gov.sg/cc/hougang-cc)
-6.  [National Parks Board (NParks)](https://www.nparks.gov.sg/)
-7.  [The National Environment Agency (NEA)](https://www.nea.gov.sg/)
-8.  [Singapore Kindness Movement](https://www.kindness.sg/)
-9.  [Parent Hub (healthhub.sg)](https://www.healthhub.sg/programmes/183/parent-hub)
-10.  [Promote Mandarin Campaign](https://www.languagecouncils.sg/mandarin/en)
-11.  [Student MIMS (Student iCON)](https://workspace.google.com/dashboard)
-12.  [Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+2. <p><a target="_blank" href="https://www.schoolbag.edu.sg/">Schoolbag - The Education News Site</a></p>
+3. <p><a target="_blank" href="https://www.nlb.gov.sg/main/home">National Library Board</a></p>
+4. <p><a target="_blank" href="https://schoolibrary.moe.edu.sg/holyinnocentspri">HIPS School Library Online Catalogue</a></p>
+5. <p><a href="https://www.onepa.gov.sg/cc/hougang-cc">Hougang Community Club</a></p>
+6. <p><a target="_blank" href="https://www.nparks.gov.sg/">National Parks Board (NParks)</a></p>
+7. <p><a target="_blank" href="https://www.nea.gov.sg/">The National Environment Agency (NEA)</a></p>
+8. <p><a target="_blank" href="https://www.kindness.sg/">Singapore Kindness Movement</a></p>
+9. <p><a href="https://www.healthhub.sg/programmes/183/parent-hub">Parent Hub (healthhub.sg)</a></p>
+10. <p><a target="_blank" href="https://www.languagecouncils.sg/mandarin/en">Promote Mandarin Campaign</a></p>
+11. <p><a target="_blank" href="https://workspace.google.com/dashboard">Student MIMS (Student iCON)</a></p>
+12. <p><a target="_blank" href="https://vle.learning.moe.edu.sg/login">Singapore Student Learning Space (SLS)</a></p>
 13.  Password reset request support for
 			 <br> (a) MIMS click [here](https://go.gov.sg/hips-student-icon-reset)
 			 <br> (b) SLS click [here](https://go.gov.sg/hips-slsunlock)
