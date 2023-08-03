@@ -4,4 +4,4 @@ permalink: /for-students-and-parents/p1-registration/
 description: ""
 ---
 **Please refer to MOE website for more information.**
-#### [Click HERE](https://www.moe.gov.sg/primary/p1-registration)
+#### <a target="_blank" href="https://www.moe.gov.sg/primary/p1-registration/">Click HERE</a>
