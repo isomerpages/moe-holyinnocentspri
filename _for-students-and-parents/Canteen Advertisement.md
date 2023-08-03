@@ -10,12 +10,13 @@ The School is located at 5 Lorong Low Koon, Singapore 536451. <br> <br>
 
 | Type of Stall | Closing Date| Requirement |
 | -------- | -------- | -------- |
-| Malay Noodles and Rice | 30 July 2023   | Nil  |
+| Malay Noodles and Rice | 29 December 2023 | Nil  |
+|Chinese Mixed Rice|29 December 2023|Nil|
 |||
 
 ##### **Application Procedure** 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office. <br>
-* **[Application Form](https://go.gov.sg/canteenstall)** <br>
+* <p><a target="_blank" href="https://go.gov.sg/canteenstall">Application Form</a></p>
 2. Attached the following documents together with the application form:<br>
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
@@ -38,7 +39,7 @@ The School is located at 5 Lorong Low Koon, Singapore 536451. <br> <br>
 ##### Interested applicants must meet the following criteria:
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 * Able to provide good service and quality food with prices determined in consultation with the school.
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see <a target="_blank" href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme">HMSP guidelines Page</a>)
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
 
