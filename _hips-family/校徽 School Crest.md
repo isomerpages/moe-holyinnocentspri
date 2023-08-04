@@ -3,7 +3,7 @@ title: 校徽 School Crest
 permalink: /hips-family/school-crest/
 description: ""
 ---
-## School Crest
+## 校徽 School Crest
 
 <img style="width: 55%;" src="/images/School%20Crest.jpeg" align="center"> 
 
