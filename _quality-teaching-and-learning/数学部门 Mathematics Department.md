@@ -5,12 +5,12 @@ description: ""
 ---
 ## 数学部门 <br>Mathematics Department
 
-#### Vision
+#### Department Vision
 
 
 To develop students to be independent and effective mathematical problem solvers and to nurture in them a spirit of collaboration and continuous learning in an enjoyable learning environment.
 
-#### Mission
+#### Department Mission
 
 
 Each child an effective and confident problem solver and a dynamic independent learner.
