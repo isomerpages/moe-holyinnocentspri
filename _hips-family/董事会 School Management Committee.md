@@ -3,7 +3,7 @@ title: 董事会 School Management Committee
 permalink: /hips-family/school-management-committee/
 description: ""
 ---
-## School Management Committee
+## 董事会 <br>School Management Committee
 
 **Rev Fr Frederick Quek Eng Wah**  
 Chairman &amp; School Chaplain  
