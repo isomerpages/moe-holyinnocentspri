@@ -92,7 +92,7 @@ _<center>Use of coding blocks to create a 3D game</center>_
  
  _<center>Collaboration between classmates to create a 3D game</center>_
  
- **2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jumble Sale (P1 &amp; P2)**
+ **2. Jumble Sale (P1 &amp; P2)**
 
 Unique learning experiences are designed to provide an opportunity for all students to apply mathematical concepts in authentic situations and help them to appreciate the relevance of Maths in everyday life. One such example is the Jumble Sale experience that all Primary 1 students go through to apply what they have learnt from the topic of Money and are introduced to financial literacy concepts such as making spending plans, comparison shopping and money responsibility.
 
