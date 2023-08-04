@@ -3,7 +3,8 @@ title: 学校执行委员会 School Executive Committee
 permalink: /committed-and-competent-staff/school-executive-committee/
 description: ""
 ---
-## <center>学校执行委员会 <br>School Executive Committee</center>
+## <center>学校执行委员会 </center>
+## <center>School Executive Committee</center>
 
 **<center><a href="mailto:holyinnocentspri@moe.edu.sg">Miss Lena Seet</a><br>Principal</center>** <br>
 	
