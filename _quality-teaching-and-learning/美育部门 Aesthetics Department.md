@@ -5,12 +5,12 @@ description: ""
 ---
 ## 美育部门<br> Aesthetics Department 
 
-#### Vision
+#### Department Vision
 
 
 A lifelong love for Arts
 
-#### Mission
+#### Department Mission
 
 
 Developing pupils with confidence in expression of Performing and Visual Arts
