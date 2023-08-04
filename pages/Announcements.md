@@ -1,6 +1,6 @@
 ---
 title: Announcements
-permalink: /Announcements/
+permalink: /announcements/
 description: ""
 ---
 ## Annoucements

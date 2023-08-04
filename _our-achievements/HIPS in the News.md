@@ -1,6 +1,6 @@
 ---
 title: HIPS in the News
-permalink: /quality-cce-education/Awards-and-Achievements/HIPS-IN-THE-NEWS/
+permalink: /our-achievements/hips-in-the-news/
 description: ""
 ---
 ## HIPS IN THE NEWS

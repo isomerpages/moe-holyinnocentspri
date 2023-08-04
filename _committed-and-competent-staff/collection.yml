@@ -2,7 +2,7 @@ collections:
   committed-and-competent-staff:
     output: true
     order:
-      - School Executive Committee.md
-      - Teaching Staff 2023.md
-      - Support Staff.md
-      - Executive & Administrative Staff.md
+      - 学校执行委员会 School Executive Committee.md
+      - 教职人员 Teaching Staff.md
+      - 技术辅助人员 Support Staff.md
+      - 执行与行政人员 Executive & Administrative Staff.md

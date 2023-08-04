@@ -2,14 +2,14 @@ collections:
   hips-family:
     output: true
     order:
-      - Principal's Message.md
-      - School Crest.md
-      - School History.md
-      - Vision   Mission   Core Values.md
-      - School Song.md
-      - Strategic Thrusts.md
-      - School Management Committee.md
-      - School Rules.md
-      - School Calendar.md
-      - General School Information.md
-      - Contact Us.md
+      - 校长献词 Principal's Message.md
+      - 校徽 School Crest.md
+      - 校史 School History.md
+      - 愿景使命和核心价值观 Vision   Mission   Core Values.md
+      - 校歌 School Song.md
+      - 办校策略重点 Strategic Thrusts.md
+      - 董事会 School Management Committee.md
+      - 校规 School Rules.md
+      - 校历 School Calendar.md
+      - 学校信息 General School Information.md
+      - 联系我们 Contact Us.md
