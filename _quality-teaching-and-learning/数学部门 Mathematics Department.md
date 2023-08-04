@@ -3,7 +3,7 @@ title: 数学部门 Mathematics Department
 permalink: /quality-teaching-and-learning/mathematics-department/
 description: ""
 ---
-## Mathematics Department
+## 数学部门 <br>Mathematics Department
 
 #### Vision
 
