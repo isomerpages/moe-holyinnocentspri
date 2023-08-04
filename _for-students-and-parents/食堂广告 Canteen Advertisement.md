@@ -3,7 +3,7 @@ title: 食堂广告 Canteen Advertisement
 permalink: /for-students-and-parents/canteen-advertisement/
 description: ""
 ---
-# School Canteen
+# 食堂广告 <br>School Canteen
 
 Holy Innocents’ Primary is a single-session school with an enrolment of about 1,600 pupils and 120 staff.  The canteen operating hours during the school term are Mondays to Fridays from 6.30am to 4.00pm. <br><br>
 The School is located at 5 Lorong Low Koon, Singapore 536451. <br> <br>
