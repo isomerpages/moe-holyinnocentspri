@@ -4,7 +4,7 @@ permalink: /committed-and-competent-staff/teaching-staff/
 description: ""
 ---
 ## <center>2023年教职人员</center>
-## <center>Teaching Staff 2023</center>
+## <center>2023 Teaching Staff</center>
 
 **<center>Primary 1 Form Teachers</center>**
 
