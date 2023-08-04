@@ -2,7 +2,7 @@ collections:
   quality-cce-education:
     output: true
     order:
-      - Character & Citizenship Education.md
+      - 品德与公民教育 Character & Citizenship Education.md
       - Student Development.md
       - Citizenship (National Education).md
       - Catholic Programme.md
