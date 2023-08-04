@@ -3,7 +3,7 @@ title: 体育部门 Physical Education Department
 permalink: /quality-teaching-and-learning/pe-department/
 description: ""
 ---
-## Physical Education Department 
+## 体育部门 <br>Physical Education Department 
 
 #### Vision
 
