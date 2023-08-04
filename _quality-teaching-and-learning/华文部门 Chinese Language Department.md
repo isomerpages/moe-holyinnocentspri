@@ -3,9 +3,9 @@ title: 华文部门 Chinese Language Department
 permalink: /quality-teaching-and-learning/chinese-language-department/
 description: ""
 ---
-## Chinese Language Department
+## 华文部门 <br>Chinese Language Department
 
-#### Department Vision 部门愿景
+#### 部门愿景 Department Vision 
 
 
 *   To nurture students’ love for Chinese Language and impart them with the knowledge of Chinese history and culture.
@@ -13,7 +13,7 @@ description: ""
 * 培养学生热爱华文，传授华族历史与文化知识
     
 
-#### Department Mission 部门使命
+#### 部门使命 Department Mission 
 
 
 *   &nbsp;To provide an enriching environment where students enjoy the learning of the Chinese Language.
@@ -21,7 +21,7 @@ description: ""
 * 营造优良的学习环境，让每个学生乐学华文华语。
 
 
-#### Our Pedagogies and Approach 教学法与教学途径
+####  教学法与教学途径 Our Pedagogies and Approach
 
 
 Innovative and creative pedagogies combined with use of ICT to engage our students.
