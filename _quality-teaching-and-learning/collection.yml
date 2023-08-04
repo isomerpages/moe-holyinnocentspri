@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - 英文部门 English Language Department.md
-      - Chinese Language Department.md
+      - 华文部门 Chinese Language Department.md
       - Mathematics Department.md
       - Science Department.md
       - Physical Education Department.md
