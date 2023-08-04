@@ -3,7 +3,7 @@ title: 品德与公民教育 Character & Citizenship Education
 permalink: /quality-cce-education/character-citizenship-education/
 description: ""
 ---
-## Character &amp; Citizenship Education
+##  品德与公民教育 <br>Character &amp; Citizenship Education
 
 #### School/Department Vision
 
