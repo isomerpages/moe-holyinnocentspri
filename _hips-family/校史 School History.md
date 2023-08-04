@@ -3,7 +3,7 @@ title: 校史 School History
 permalink: /hips-family/school-history/
 description: ""
 ---
-## School History
+## 校史 School History
 <br>
 
 <img style="width: 70%;" src="/images/History.jpeg" align="center"> 
