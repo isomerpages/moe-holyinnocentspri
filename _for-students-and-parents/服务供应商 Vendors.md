@@ -3,7 +3,7 @@ title: 服务供应商 Vendors
 permalink: /for-students-and-parents/vendors/
 description: ""
 ---
-#### **Bookshop &amp; PE Attire**
+#### **Bookshop and PE Attire**
 
 |||
 | -------- | -------- |
