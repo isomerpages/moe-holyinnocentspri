@@ -3,7 +3,7 @@ title: 联系我们 Contact Us
 permalink: /hips-family/contact-us/
 description: ""
 ---
-## Contact Us
+## 联系我们 Contact Us
 
 | |  |
 |-------------------------------------|-----------------------------|
