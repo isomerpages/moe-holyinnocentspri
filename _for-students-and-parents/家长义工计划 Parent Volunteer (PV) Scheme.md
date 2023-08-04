@@ -62,4 +62,4 @@ For any queries, you may email&nbsp;[holyinnocentspri@moe.edu.sg](mailto:holyinn
 
 **Thank you.**
 
-MOE website on Primary School education:&nbsp;[https://beta.moe.gov.sg/primary/](https://beta.moe.gov.sg/primary/).
+MOE website on Primary School education:&nbsp;[https://moe.gov.sg/primary/](https://moe.gov.sg/primary/).
