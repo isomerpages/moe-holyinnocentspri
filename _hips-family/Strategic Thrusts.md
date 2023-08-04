@@ -3,11 +3,10 @@ title: Strategic Thrusts
 permalink: /hips-family/STRATEGIC-THRUSTS/
 description: ""
 ---
+## 办校策略重点<br> Strategic Thrusts
 
-## Strategic Thrusts
-
-1.   Quality Teaching and Learning to nurture Creative Minds  
+1.  &nbsp;Quality Teaching and Learning to nurture Creative Minds  
     
-2.   Quality Character and Citizenship Education to nurture Caring Hearts  
+2.  &nbsp;Quality Character and Citizenship Education to nurture Caring Hearts  
     
-3.   Capable and Committed Staff who will lead, care and inspire everyone to realise our Vision
+3.  &nbsp;Capable and Committed Staff who will lead, care and inspire everyone to realise our Vision
