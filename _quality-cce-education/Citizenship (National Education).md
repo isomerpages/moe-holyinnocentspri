@@ -3,17 +3,17 @@ title: Citizenship (National Education)
 permalink: /quality-cce-education/Citizenship-National-Education/
 description: ""
 ---
-## Citizenship (National Education)
+## 公民教育（国民教育） <br>Citizenship (National Education)
 
 #### Vision
 
 
-       To provide students with the knowledge, skills, and values to understand Singapore’s history and appreciate our journey to nationhood; and have confidence in our nation’s future.  
+&nbsp; &nbsp; &nbsp; &nbsp;To provide students with the knowledge, skills, and values to understand Singapore’s history and appreciate our journey to nationhood; and have confidence in our nation’s future.  
 
 #### Mission
 
 
-      To ensure each child is provided with opportunities to explore and examine their identity as Singaporeans and arrive at a common set of ideals and values.  
+&nbsp; &nbsp; &nbsp; To ensure each child is provided with opportunities to explore and examine their identity as Singaporeans and arrive at a common set of ideals and values.  
 
   
 
@@ -30,23 +30,23 @@ National Education will be anchored on the following citizenship dispositions, w
 *   The Will to Act
 
 
-<img style="width: 70%;" src="/images/NE1.png" align = "center" /> 
+<img style="width: 70%;" src="/images/NE1.png" align="center"> 
 
 #### Highlight of programmes/ activities
 
-<img style="width: 70%;" src="/images/NE2.png" align = "center" /> 
+<img style="width: 70%;" src="/images/NE2.png" align="center"> 
 
 <br>
 
-<img style="width: 70%;" src="/images/NE3.png" align = "center" /> 
+<img style="width: 70%;" src="/images/NE3.png" align="center"> 
 
 <br>
 
-<img style="width: 70%;" src="/images/NE4.png" align = "center" /> 
+<img style="width: 70%;" src="/images/NE4.png" align="center"> 
 
 
-<img style="width: 70%;" src="/images/NE8.png" align = "center" /> 
+<img style="width: 70%;" src="/images/NE8.png" align="center"> 
 
 <br>
 
-<img style="width: 70%;" src="/images/NE6.png" align = "center" />
+<img style="width: 70%;" src="/images/NE6.png" align="center">
