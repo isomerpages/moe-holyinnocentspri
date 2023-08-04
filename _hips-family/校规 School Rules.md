@@ -3,7 +3,7 @@ title: 校规 School Rules
 permalink: /hips-family/school-rules/
 description: ""
 ---
-# School Rules
+# 校规 School Rules
 
 Students must adhere to the following school rules at all times.
 
