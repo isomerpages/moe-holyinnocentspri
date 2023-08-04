@@ -5,7 +5,7 @@ description: ""
 ---
 ## 英文部门 <br>English Language Department
 
-#### Vision
+#### Department Vision
 
 The English Language department strives to nurture students who are :
 
@@ -21,7 +21,7 @@ The English Language department strives to nurture students who are :
 | <img style="width: 10%;" src="/images/EL3.png" align="left">            |
 
 
-### Mission
+### Department Mission
 
 
 To empower students to be appreciative, competent and effective English Language users
