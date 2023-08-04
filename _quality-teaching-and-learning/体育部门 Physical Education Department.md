@@ -5,12 +5,12 @@ description: ""
 ---
 ## 体育部门 <br>Physical Education Department 
 
-#### Vision
+#### Department Vision
 
 
 To have physically fit and healthy students who are holistically developed with essential skills to lead a healthy and active lifestyle.
 
-#### Mission
+#### Department Mission
 
 Every physically fit student to take part in physical activity regularly and eat healthily.
 
