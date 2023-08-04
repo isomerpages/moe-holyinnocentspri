@@ -3,7 +3,7 @@ title: 英文部门 English Language Department
 permalink: /quality-teaching-and-learning/english-language-department/
 description: ""
 ---
-## English Language Department
+## 英文部门 <br>English Language Department
 
 #### Vision
 
