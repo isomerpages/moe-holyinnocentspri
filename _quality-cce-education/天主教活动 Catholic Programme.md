@@ -3,7 +3,7 @@ title: 天主教活动 Catholic Programme
 permalink: /quality-cce-education/catholic-programme/
 description: ""
 ---
-## Catholic Programme
+## 天主教活动 <br>Catholic Programme
 
 Our school Vision and Mission clearly articulate our emphasis on spiritual and character formation in students. Our strong Catholic ethos is cascaded to students, staff and stakeholders, supported by our School Chaplain, School Management Board, parent catechists and Catholic staff.
 
