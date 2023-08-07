@@ -17,4 +17,4 @@ description: ""
 12. <p><a target="_blank" href="https://vle.learning.moe.edu.sg/login">Singapore Student Learning Space (SLS)</a></p>
 13.  Password reset request support for
 			 <br> (a)<a target="_blank" href="https://go.gov.sg/hips-student-icon-reset">MIMS (Student iCON)</a>
-			 <br> (b) <a target="_blank" href="https://go.gov.sg/hips-slsunloc">SLS</a>
+			 <br> (b) <a target="_blank" href="https://go.gov.sg/hips-slsunlock">SLS</a>
