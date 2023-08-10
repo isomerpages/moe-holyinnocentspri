@@ -19,5 +19,5 @@ sections:
   - infobar:
       title: 校历 School Calendar
       button: CLICK
-      url: /hips-family/schoolCalendar/
+      url: https://holyinnocentspri.moe.edu.sg/hips-family/school-calendar/
 ---
