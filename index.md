@@ -15,9 +15,9 @@ sections:
   - infobar:
       title: 学校开放日 HIPS E-Open House
       button: Click
-      url: https://staging.d2b4at95lsu703.amplifyapp.com/hips-family/HIPS-Partners/E-Openhouse/
+      url: https://holyinnocentspri.moe.edu.sg/for-students-and-parents/e-openhouse/
   - infobar:
       title: 校历 School Calendar
       button: CLICK
-      url: /hips-family/schoolCalendar/
+      url: https://holyinnocentspri.moe.edu.sg/hips-family/school-calendar/
 ---
