@@ -6,5 +6,4 @@ description: ""
 ## Annoucements
 
 
-
-Watch CNA current affairs programme, 'A New School of Thought: Full Subject-Based Banding', which aired on 13 July and 14 July to find out more about the Full SBB through the lens of school leaders, teachers, students and their parents. [Click HERE.](https://www.mewatch.sg/show/A-New-School-of-Thought-Full-SBB-391857)
+As the school premises will be involved on Polling Day, please be informed that the school’s General Office will be closed at **1.30pm** on **31 August 2023** for the handover of the school premises to the election officials. The school student care centre (SCC) will continue to operate as arranged with parents of our students who need the service of the school SCC.

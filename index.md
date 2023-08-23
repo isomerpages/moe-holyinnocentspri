@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /Announcements/
+          url: https://holyinnocentspri.moe.edu.sg/announcements/
   - infobar:
       title: 学校开放日 HIPS E-Open House
       button: Click
