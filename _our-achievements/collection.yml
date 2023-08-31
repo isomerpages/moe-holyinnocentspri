@@ -2,9 +2,9 @@ collections:
   our-achievements:
     output: true
     order:
-      - Students Achievements/.keep
-      - Students Achievements/2023.md
-      - Students Achievements/2022.md
-      - Students Achievements/2021.md
+      - Students Achievements 学生成就/.keep
+      - Students Achievements 学生成就/2023.md
+      - Students Achievements 学生成就/2022.md
+      - Students Achievements 学生成就/2021.md
       - Staff Achievements.md
       - HIPS in the News.md
