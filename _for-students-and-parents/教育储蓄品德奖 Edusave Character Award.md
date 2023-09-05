@@ -8,7 +8,7 @@ description: ""
 <span style="font-size:18px;">The Ministry Of Education introduced the Edusave Character Award (ECHA) in 2012 to enable schools to recognise students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions. Believing in the value of strong home-school partnerships and parental involvement, the school has opened the nomination of ECHA to parents since then.</span>
 
 <br>
-	
+
 <span style="font-size:18px;">Students must satisfy the following eligibility criteria before they can be considered for the ECHA.</span>
        
 <span style="font-size:18px;"><u>Eligibility Criteria</u>:
