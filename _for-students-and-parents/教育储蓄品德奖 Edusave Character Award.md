@@ -5,13 +5,13 @@ description: ""
 ---
 ### 教育储蓄品德奖 <br>HIPS Edusave Character Award (ECHA) Nomination Form for Parents
 
- <span style="font-size:18px;">The Ministry Of Education introduced the Edusave Character Award (ECHA) in 2012 to enable schools to recognise students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions. Believing in the value of strong home-school partnerships and parental involvement, the school has opened the nomination of ECHA to parents since then.</span>
+<span style="font-size:18px;">The Ministry Of Education introduced the Edusave Character Award (ECHA) in 2012 to enable schools to recognise students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions. Believing in the value of strong home-school partnerships and parental involvement, the school has opened the nomination of ECHA to parents since then.</span>
 
 <br>
 	
- <span style="font-size:18px;">Students must satisfy the following eligibility criteria before they can be considered for the ECHA.
+<span style="font-size:18px;">Students must satisfy the following eligibility criteria before they can be considered for the ECHA.
        
- <span style="font-size:18px;"><u>Eligibility Criteria</u>:
+<span style="font-size:18px;"><u>Eligibility Criteria</u>:
 
 1. Nominee must be a Singapore Citizen. 
 2. He/she must have a conduct grade of “very-good” or better for both semester.
@@ -21,10 +21,10 @@ description: ""
 
 <br>
 
- <span style="font-size:18px;">Parents who wish to nominate their child for ECHA are invited to download the file and submit their physical nominations to the school or email the school at [holyinnocentspri@moe.edu.sg](mailto:holyinnocentspri@moe.edu.sg.)</span>
+<span style="font-size:18px;">Parents who wish to nominate their child for ECHA are invited to download the file and submit their physical nominations to the school or email the school at [holyinnocentspri@moe.edu.sg](mailto:holyinnocentspri@moe.edu.sg.)</span>
 
 <br>
- <span style="font-size:18px;">To download FORM, please click <a target="_blank" href="https://go.gov.sg/hips-echa">HERE</a> or scan the QR code.
+<span style="font-size:18px;">To download FORM, please click <a target="_blank" href="https://go.gov.sg/hips-echa">HERE</a> or scan the QR code.
 <img style="width: 50%;" src="/images/QR%20code/echa%20form.png" align="centre"></span>
 
 	
