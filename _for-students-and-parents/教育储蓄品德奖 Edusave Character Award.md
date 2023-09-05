@@ -21,7 +21,7 @@ description: ""
 
 <br>
 
- <span style="font-size:18px;">Parents who wish to nominate their child for ECHA are invited to download the file and submit their physical nominations to the school or email the school at [holyinnocentspri@moe.edu.sg](mailto:holyinnocentspri@moe.edu.sg.</span>
+ <span style="font-size:18px;">Parents who wish to nominate their child for ECHA are invited to download the file and submit their physical nominations to the school or email the school at [holyinnocentspri@moe.edu.sg](mailto:holyinnocentspri@moe.edu.sg.)</span>
 
 <br>
  <span style="font-size:18px;">To download FORM, please click <p><a target="_blank" href="https://go.gov.sg/hips-echa">HERE</a></p> or scan the QR code.
