@@ -2,6 +2,7 @@ collections:
   for-students-and-parents:
     output: true
     order:
+      - Edusave Character Award.md
       - 学校开放日 Open house.md
       - 家长志工团队 Parent Support Group.md
       - 家长义工计划 Parent Volunteer (PV) Scheme.md
