@@ -12,7 +12,6 @@ description: ""
 <span style="font-size:18px;">Students must satisfy the following eligibility criteria before they can be considered for the ECHA.</span>
        
 <span style="font-size:18px;"><u>Eligibility Criteria</u>:
-
 1. Nominee must be a Singapore Citizen. 
 2. He/she must have a conduct grade of “very-good” or better for both semester.
 3. He/she must have at least 1 CCA (for **P4 - P6** students).
