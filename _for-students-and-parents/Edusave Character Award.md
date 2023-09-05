@@ -24,9 +24,7 @@ description: ""
  <span style="font-size:18px;">Parents who wish to nominate their child for ECHA are invited to download the file and submit their physical nominations to the school or email the school at holyinnocentspri@moe.edu.sg. 
 
 <br>
-To download FORM, please click [HERE](https://go.gov.sg/hips-echa)
-	 
- or scan the QR code.
+To download FORM, please click [HERE](https://go.gov.sg/hips-echa) or scan the QR code.
 <img style="width: 50%;" src="/images/QR%20code/echa%20form.png" align="centre">
 
-</span></span></span></span>
+<span style="font-size:24px;">The deadline for submission is Friday, **15 September 2023**.</span></span></span></span></span>
