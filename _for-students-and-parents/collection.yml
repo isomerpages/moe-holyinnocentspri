@@ -2,11 +2,11 @@ collections:
   for-students-and-parents:
     output: true
     order:
-      - Edusave Character Award.md
       - 学校开放日 Open house.md
       - 家长志工团队 Parent Support Group.md
       - 家长义工计划 Parent Volunteer (PV) Scheme.md
       - 小一新生报名 Primary 1 (P1) registration.md
+      - Edusave Character Award.md
       - 服务供应商 Vendors.md
       - 食堂广告 Canteen Advertisement.md
       - 其他链接 Useful Links.md
