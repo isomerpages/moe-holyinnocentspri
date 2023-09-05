@@ -3,7 +3,7 @@ title: 教育储蓄品德奖 Edusave Character Award
 permalink: /for-students-and-parents/eca/
 description: ""
 ---
-### HIPS Edusave Character Award (ECHA) Nomination Form for Parents
+### 教育储蓄品德奖 <br>HIPS Edusave Character Award (ECHA) Nomination Form for Parents
 
  <span style="font-size:18px;">The Ministry Of Education introduced the Edusave Character Award (ECHA) in 2012 to enable schools to recognise students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions. Believing in the value of strong home-school partnerships and parental involvement, the school has opened the nomination of ECHA to parents since then.</span>
 
@@ -26,8 +26,6 @@ description: ""
 <br>
  <span style="font-size:18px;">To download FORM, please click <p><a target="_blank" href="https://go.gov.sg/hips-echa">HERE</a></p> or scan the QR code.
 <img style="width: 50%;" src="/images/QR%20code/echa%20form.png" align="centre"></span>
-
-	
 
 	
 <span style="font-size:24px;">The deadline for submission is Friday, **15 September 2023**.</span></span>
