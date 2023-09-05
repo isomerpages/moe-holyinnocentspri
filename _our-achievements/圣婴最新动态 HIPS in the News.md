@@ -1,5 +1,5 @@
 ---
-title: HIPS in the News
+title: 圣婴最新动态 HIPS in the News
 permalink: /our-achievements/hips-in-the-news/
 description: ""
 ---

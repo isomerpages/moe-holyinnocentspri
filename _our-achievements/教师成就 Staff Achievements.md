@@ -1,5 +1,5 @@
 ---
-title: Staff Achievements
+title: 教师成就 Staff Achievements
 permalink: /our-achievements/staff-achievements/
 description: ""
 ---
