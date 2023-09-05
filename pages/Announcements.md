@@ -6,4 +6,8 @@ description: ""
 ## Annoucements
 
 
-As the school premises will be involved on Polling Day, please be informed that the school’s General Office will be closed at **1.30pm** on **31 August 2023** for the handover of the school premises to the election officials. The school student care centre (SCC) will continue to operate as arranged with parents of our students who need the service of the school SCC.
+Please be reminded that the September holidays are from **02 to 10 September 2023**. School will resume in Term 3 commencing **11 September 2023**, Monday.
+
+We would like to wish all our students and teachers a restful term break ahead!
+
+Please refer to the PG letter for more information.
