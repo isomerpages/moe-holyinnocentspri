@@ -3,7 +3,7 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-## Annoucements
+## Announcements
 
 
 September holidays are from **02 to 11 September 2023**. 
