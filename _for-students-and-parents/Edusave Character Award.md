@@ -9,7 +9,7 @@ description: ""
 
 <br>
 	
- <span style="font-size:18px;">Students must satisfy the following eligibility criteria before they can be considered for the ECHA. </span>
+ <span style="font-size:18px;">Students must satisfy the following eligibility criteria before they can be considered for the ECHA.
        
  <span style="font-size:18px;"><u>Eligibility Criteria</u>:
 
@@ -27,4 +27,4 @@ description: ""
  <span style="font-size:18px;">To download FORM, please click [HERE](https://go.gov.sg/hips-echa) or scan the QR code.
 <img style="width: 50%;" src="/images/QR%20code/echa%20form.png" align="centre"></span>
 
-<span style="font-size:24px;">The deadline for submission is Friday, **15 September 2023**.</span>
+<span style="font-size:24px;">The deadline for submission is Friday, **15 September 2023**.</span></span>
