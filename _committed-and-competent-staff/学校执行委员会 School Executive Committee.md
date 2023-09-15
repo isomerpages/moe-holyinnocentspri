@@ -7,10 +7,10 @@ description: ""
 ## <center>School Executive Committee</center>
 
 **<center><a href="mailto:holyinnocentspri@moe.edu.sg">Miss Lena Seet</a><br>Principal</center>** <br>
-	
-|<a href="mailto:holyinnocentspri@moe.edu.sg">Mrs Theresa Chua</a><br>VP (Academic)|<a href="mailto:holyinnocentspri@moe.edu.sg">Mrs Joyce Cheong</a><br>VP (Academic)|<a href="mailto:holyinnocentspri@moe.edu.sg">Mr John Ng</a><br>VP (Administration)|
-| -------- | -------- | -------- |
-|||
+| |  |
+| -------- | -------- |
+|<center><a href="mailto:holyinnocentspri@moe.edu.sg">Mrs Joyce Cheong</a><br>**VP (Academic)** </center>    | <center><a href="mailto:holyinnocentspri@moe.edu.sg">Mr John Ng</a><br>**VP (Administration)**</center>     |
+| |  |
 
 |STAFF DEVELOPMENT |
 | -------- |
