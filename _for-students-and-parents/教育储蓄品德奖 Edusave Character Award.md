@@ -26,4 +26,4 @@ description: ""
 <span style="font-size:18px;">To download FORM, please click <a target="_blank" href="https://go.gov.sg/hips-echa">HERE</a> or scan the QR code.<img style="width: 50%;" src="/images/QR%20code/echa%20form.png" align="centre"></span>
 
 	
-<span style="font-size:24px;">The deadline for submission is Friday, **15 September 2023**.</span>
+<span style="font-size:24px;">Submission of ECHA for 2023 is closed.</span>
