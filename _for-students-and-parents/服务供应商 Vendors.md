@@ -22,7 +22,7 @@ description: ""
 ||| 
 | -------- | -------- |
 | Company Name: <br> Address: <br><br>  Tel: <br> |Min Yang Trading and Transport Services Pte Ltd <br> 31 Jln Limbok <br> Singapore 548718 <br> 62888298  | 
-|Information|https://for.edu.sg/hips-bus-information|
+|Information|<p><a target="_blank" href="https://for.edu.sg/hips-bus-information"> Bus fare information </a></p>|
 |||
 
 
@@ -30,5 +30,6 @@ description: ""
 	
 ||| 
 | -------- | -------- | 
-|Company Name: <br> Address:<br>  <br> <br>  Tel: <br> Hotline: <br> Website: | NTUC Income Insurance Co-operative Limited <br>c/o 1 Commonwealth Lane, <br>#02-13, one Commonwealth, <br>Singapore 149544 <br>96673188 (Edmund Tan) <br> 63321133 <br> www.income.com.sg | 
+|Company Name: <br> Address:<br>  <br> <br>  Tel: <br> Hotline: <br> Website: | NTUC Income Insurance Co-operative Limited <br>c/o 1 Commonwealth Lane, <br>#02-13, one Commonwealth, <br>Singapore 149544 <br>96673188 (Edmund Tan) <br> 63321133
+|Website|<p> <a target="_blank" href="https://www.income.com.sg">Income</a></p> | 
 |||
