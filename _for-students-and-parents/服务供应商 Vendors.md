@@ -14,7 +14,8 @@ description: ""
 
 |||
 | -------- | -------- |
-| Company Name: <br> Address  <br> <br> <br>Tel/Fax: <br>Website   | Magdalene Sewing Centre Pte Ltd<br> 5000 Ang Mo Kio Avenue 5 Techplace 2 <br>#05-09<br> Singapore 569870 <br> 62935840 <br> http://www.magdalene.com.sg| 
+| Company Name: <br> Address  <br> <br> <br>Tel/Fax:   | Magdalene Sewing Centre Pte Ltd<br> 5000 Ang Mo Kio Avenue 5 Techplace 2 <br>#05-09<br> Singapore 569870 <br> 62935840| 
+|Website |<p><a target="_blank" href="http://www.magdalene.com.sg"> Magdalene Sewing website </a></p>|
 |||
  
 #### **School Bus Services**
@@ -30,6 +31,6 @@ description: ""
 	
 ||| 
 | -------- | -------- | 
-|Company Name: <br> Address:<br>  <br> <br>  Tel: <br> Hotline: <br> Website: | NTUC Income Insurance Co-operative Limited <br>c/o 1 Commonwealth Lane, <br>#02-13, one Commonwealth, <br>Singapore 149544 <br>96673188 (Edmund Tan) <br> 63321133
+|Company Name: <br> Address:<br>  <br> <br>  Tel: <br> Hotline: | NTUC Income Insurance Co-operative Limited <br>c/o 1 Commonwealth Lane, <br>#02-13, one Commonwealth, <br>Singapore 149544 <br>96673188 (Edmund Tan) <br> 63321133
 |Website|<p> <a target="_blank" href="https://www.income.com.sg">Income</a></p> | 
 |||
