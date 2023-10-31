@@ -22,6 +22,7 @@ description: ""
 ||| 
 | -------- | -------- |
 | Company Name: <br> Address: <br><br>  Tel: <br> |Min Yang Trading and Transport Services Pte Ltd <br> 31 Jln Limbok <br> Singapore 548718 <br> 62888298  | 
+|Information|https://for.edu.sg/hips-bus-information|
 |||
 
 
