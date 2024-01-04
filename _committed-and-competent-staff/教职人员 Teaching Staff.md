@@ -2,6 +2,7 @@
 title: 教职人员 Teaching Staff
 permalink: /committed-and-competent-staff/teaching-staff/
 description: ""
+variant: markdown
 ---
 ## <center>2023年教职人员</center>
 ## <center>2023 Teaching Staff</center>
@@ -10,33 +11,32 @@ description: ""
 
 | CLASS  | FORM TEACHERS ||
 | -------- | -------- | -------- |
- | 1 Sincerity 1 | <a href="mailto:tan_kai_sin@moe.edu.sg">Mdm Tan Kai Sin </a><br>(陈老师)| <a href="mailto:soh-chan_siew_lai@moe.edu.sg">Mrs. Soh-Chan Siew Lai</a> |
-| 1 Sincerity 2 | <a href="mailto:kan_hui_li_audrey@moe.edu.sg"> Mrs Lim Hui Li Audrey</a> | <a href="mailto:faith_leong_pui_teng@moe.edu.sg">Mdm Leong Pui Teng Faith </a><br>(陈老师)|
-| 1 Sincerity 3 | <a href="mailto:qi_meng@moe.edu.sg">Mdm Qi Meng </a><br>(齐老师)| <a href="mailto:lim_jia_hui@moe.edu.sg">Mdm Lim Jia Hui Irene</a> |
-| 1 Sincerity 4 | <a href="mailto:ang_jingyi@moe.edu.sg">Mdm Ang Jingyi </a><br>(洪老师)| <a href="mailto:asha_mukherjee_dula@moe.edu.sg">Mdm Asha d/o Mukherjee</a> |
-| 1 Sincerity 5 | <a href="mailto:he_haiyang@moe.edu.sg">Mr He Haiyang </a><br>(何老师)| <a href="mailto:shirley_long_a@moe.edu.sg">Mrs Shirley Long</a>|
-| 1 Sincerity 6 | <a href="mailto:yue_chook_eng@moe.edu.sg">Mdm Yue Chook Eng</a> | <a href="mailto:vanessa_chiam_yunn_shyuan@moe.edu.sg">Mdm Vanessa Chiam </a><br>(詹老师)|
-| 1 Sincerity 7 | <a href="mailto:booi_mo_lian@moe.edu.sg">Mdm Booi Mo Lian Sheryl</a> |<a href="mailto:tneo_yan_peng@moe.edu.sg">Miss Tneo Yan Peng </a><br>(张老师) |
-| 1 Sincerity 8 | <a href="mailto:ow_ai_khim@moe.edu.sg">Ms Ow Ai Khim </a><br>(欧老师) | <a href="mailto:chan_gan_siu@moe.edu.sg">Mrs Chan Gan Siu Betty</a>|
-| 1 Sincerity 9 | <a href="mailto:xu_jie@moe.edu.sg">Mdm Xu Jie</a><br>(胥老师) | <a href="mailto: neo_wei_lin_gwendolyn@moe.edu.sg">Mdm Neo Wei Lin Gwendolyn</a>|
-|||
-
-
-**<center>Primary 2 Form Teachers</center>**
-
-| CLASS  | FORM TEACHERS ||
-| -------- | -------- | -------- |
-| 2 Charity 1 | <a href="mailto:ryan_tay_en_huang@moe.edu.sg">Mr Tay En Huang Ryan </a>| <a href="mailto:seet_ping_ping_esther@moe.edu.sg">Miss Seet Ping Ping, Esther</a> |
-| 2 Charity 2 | <a href="mailto:soh_li_hui@moe.edu.sg"> Ms Soh Li Hui </a><br>(苏老师) | <a href="mailto:kwek_jin_foon@moe.edu.sg">Miss Kwek Jin Foon</a>|
-| 2 Charity 3 | <a href="mailto:luo_jing@moe.edu.sg">Mdm Luo JIng </a><br>(罗老师)| <a href="mailto:tan_cher_hui_roger@moe.edu.sg">Mr Roger Tan </a>|
-| 2 Charity 4 |<a href="mailto:shobana_sreetharan@moe.edu.sg">Miss Shobana d/o Sreetharan</a>|<a href="mailto:sun_xueying@moe.edu.sg">Mdm Sun Xueying </a><br> (孙老师）|
-| 2 Charity 5 | <a href="mailto:lee_song_yang@moe.edu.sg">Mr Lee Song Yang Ray</a> |<a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg">Mdm Farah Nurhuda Binte Modmad Isa</a>|
-| 2 Charity 6 | <a href="mailto:lin_lin@moe.edu.sg">Mdm Lin Lin </a><br>(林老师) | <a href="mailto:Siti_hajjar_hasan@moe.edu.sg">Miss Siti Hajjar Hasan</a>|
-| 2 Charity 7 | <a href="mailto:ng_hui_san@moe.edu.sg">Mdm Ng Hui San </a><br>(黄老师)| <a href="mailto:soh_siok_lin_carolina@moe.edu.sg">Mdm Soh Siok Lin Carolina </a>|
-| 2 Charity 8 | <a href="mailto:teh_chin_han@moe.edu.sg">Mr Teh Chin Han </a><br>(林老师) <br> |<a href="mailto:nur_farhana_arzami@moe.edu.sg">Mdm Nur Farhana Binti Arzami </a>|
-| 2 Charity 9 |<a href="mailto:ye_peishan@moe.edu.sg">Mdm Ye PeiShan (Mrs Shen)</a> |<a href="mailto: hou_yin_fatt@moe.edu.sg">Mrs Hou Yin Fatt Linda</a>|
+|1 Sincerity 1 | <a href="mailto:ryan_tay_en_huang@moe.edu.sg">Mdm Neo Wei Lin Gwendolyn </a>| <a href="mailto:seet_ping_ping_esther@moe.edu.sg">Mdm Wu Xia</a> |
+| 1 Sincerity 2 | <a href="mailto:soh_li_hui@moe.edu.sg"> Mdm Siti Hajjar Hasan </a> | <a href="mailto:kwek_jin_foon@moe.edu.sg">Mdm He Lu</a>|
+| 1 Sincerity 3 | <a href="mailto:luo_jing@moe.edu.sg">Mdm Soh Siok Lin Carolina</a>| <a href="mailto:tan_cher_hui_roger@moe.edu.sg">Mdm Sun Xueying </a>|
+| 1 Sincerity 4 |<a href="mailto:ryan_tay_en_huang">Mr Ray Tay</a>|<a href="mailto:sun_xueying@moe.edu.sg">Miss Kwek Jin Foon </a>|
+| 1 Sincerity 5 | <a href="mailto:lee_song_yang@moe.edu.sg">Miss Seet Ping Ping, Esther</a> |<a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg">Mdm Siti Rosalia</a>|
+| 1 Sincerity 6  | <a href="mailto:lin_lin@moe.edu.sg">Mdm Lin Lin </a><br>(林老师) | <a href="mailto:Siti_hajjar_hasan@moe.edu.sg">Miss Siti Hajjar Hasan</a>|
+|1 Sincerity 7  | <a href="mailto:ng_hui_san@moe.edu.sg">Mdm Ng Hui San </a><br>(黄老师)| <a href="mailto:soh_siok_lin_carolina@moe.edu.sg">Mdm Soh Siok Lin Carolina </a>|
+| 1 Sincerity 8 | <a href="mailto:teh_chin_han@moe.edu.sg">Mr Teh Chin Han </a><br>(林老师) <br> |<a href="mailto:nur_farhana_arzami@moe.edu.sg">Mdm Nur Farhana Binti Arzami </a>|
+| 1 Sincerity 9 |<a href="mailto:ye_peishan@moe.edu.sg">Mdm Ye PeiShan (Mrs Shen)</a> |<a href="mailto: hou_yin_fatt@moe.edu.sg">Mrs Hou Yin Fatt Linda</a>|
 |||
 	
+**<center>Primary 2 Form Teachers</center>**	
+| CLASS  | FORM TEACHERS ||
+| -------- | -------- | -------- |
+|  2 Charity 1  | <a href="mailto:tan_kai_sin@moe.edu.sg">Mdm Tan Kai Sin </a><br>(陈老师)| <a href="mailto:soh-chan_siew_lai@moe.edu.sg">Mrs. Soh-Chan Siew Lai</a> |
+|  2 Charity 2 | <a href="mailto:kan_hui_li_audrey@moe.edu.sg"> Mrs Lim Hui Li Audrey</a> | <a href="mailto:faith_leong_pui_teng@moe.edu.sg">Mdm Leong Pui Teng Faith </a><br>(陈老师)|
+|  2 Charity 3 | <a href="mailto:qi_meng@moe.edu.sg">Mdm Qi Meng </a><br>(齐老师)| <a href="mailto:madeline_lim_jia_min@moe.edu.sg">Mdm Madeline Lim Jia Min</a> |
+|  2 Charity 4 | <a href="mailto:ang_jingyi@moe.edu.sg">Mdm Ang Jingyi </a><br>(洪老师)| <a href="mailto:asha_mukherjee_dula@moe.edu.sg">Mdm Asha d/o Mukherjee</a> |
+|  2 Charity 5| <a href="mailto:he_haiyang@moe.edu.sg">Mr He Haiyang </a><br>(何老师)| <a href="mailto:shirley_long_a@moe.edu.sg">Mrs Shirley Long</a>|
+|  2 Charity 6 | <a href="mailto:yue_chook_eng@moe.edu.sg">Mdm Yue Chook Eng</a> | <a href="mailto:vanessa_chiam_yunn_shyuan@moe.edu.sg">Mdm Vanessa Chiam </a><br>(詹老师)|
+|  2 Charity 7| <a href="mailto:booi_mo_lian@moe.edu.sg">Mdm Booi Mo Lian Sheryl</a> |<a href="mailto:tneo_yan_peng@moe.edu.sg">Miss Tneo Yan Peng </a><br>(张老师) |
+|  2 Charity 8 | <a href="mailto:ow_ai_khim@moe.edu.sg">Ms Ow Ai Khim </a><br>(欧老师) | <a href="mailto:dawn_ng_li_jun@moe.edu.sg">Mdm Ng Li Jun Dawn Janner</a>|
+|  2 Charity 9| <a href="mailto:xu_jie@moe.edu.sg">Miss Karyn Gunawan</a>| <a href="mailto: chen_qianhui@moe.edu.sg">Mdm Chen Qian Hui</a>|
+|||
+
+
 
 **<center>Primary 3 Form Teachers</center>**
 
