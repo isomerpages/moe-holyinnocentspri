@@ -25,8 +25,8 @@ variant: markdown
 | ENGLISH LANGUAGE|CHINESE LANGUAGE DEPARTMENT|
 | -------- | -------- | 
 | <a href="mailto:neo_kim_sian_pansy@moe.edu.sg">Mrs Pansy Ong</a> (Covering)<br>Head of Department|<a href="mailto:foong_wenfang@moe.edu.sg">Ms Foong Wenfang </a>(Covering)<br>Head of Department |
-|<a href="mailto:ng_kuan_hwa@moe.edu.sg">Ms Ng Kuan Hwa</a><br>Level Head|<a href="mailto:li_shu_lan_a@moe.edu.sg">Mdm Li Shu Lan </a><br>Level Head|
-||<a href="mailto:tan_hwee_sang@moe.edu.sg">Ms Tan Hwee Sang</a><br>Level Head|
+|<a href="mailto:ng_kuan_hwa@moe.edu.sg">Ms Ng Kuan Hwa</a><br>Level Head|<a href="mailto:li_shu_lan_a@moe.edu.sg">Mdm Li Shu Lan </a>(李老师）<br>Level Head|
+||<a href="mailto:tan_hwee_sang@moe.edu.sg">Ms Tan Hwee Sang</a> (陈老师)<br>Level Head|
 |||
 
 | MATHEMATICS DEPARTMENT | SCIENCE DEPARTMENT |
@@ -38,8 +38,8 @@ variant: markdown
 
 | CHARACTER &amp; CITIZENSHIP<br>EDUCATION (CCE)| STUDENT MANAGEMENT|
 | -------- | -------- |
-|<a href="mailto:wang-lim_ai_lian@moe.edu.sg">Mrs Wang-Lim Ai Lian</a><br>Head of Department|<a href="mailto:ng_cher_hwa@moe.edu.sg">Mr Ng Cher Hwa</a><br>Head of Department|
-|<a href="mailto:lim_lily_a@moe.edu.sg">Mdm Lily Lim</a><br>Subject Head<br> (Student Well-being)|<a href="mailto:chia_jin_guo@moe.edu.sg">Mr Chia Jin Gua Caleb </a><br> Subject Head <br> (Student Leadership)|
+|<a href="mailto:wang-lim_ai_lian@moe.edu.sg">Mrs Wang-Lim Ai Lian</a><br>Head of Department|<a href="mailto:ng_cher_hwa@moe.edu.sg">Mr Ng Cher Hwa</a> (黄老师)<br>Head of Department|
+|<a href="mailto:lim_lily_a@moe.edu.sg">Mdm Lily Lim</a> (林老师）<br>Subject Head<br> (Student Well-being)|<a href="mailto:chia_jin_guo@moe.edu.sg">Mr Chia Jin Gua Caleb </a><br> Subject Head <br> (Student Leadership)|
 |||
 
 | PE / CCA | AESTHETICS| Special Assistance Plan<br> (SAP) |
@@ -51,7 +51,7 @@ variant: markdown
 | Information &amp; Communications Technology<br>(ICT)| 
 | -------- | 
 | <a href="mailto:lim_sheng@moe.edu.sg">Mr Lim Sheng</a><br>Head of Department|
-|<a href="mailto:chua_qinyu@moe.edu.sg">Ms Chua Qinyu</a><br>Subject Head|
+|<a href="mailto:chua_qinyu@moe.edu.sg">Ms Chua Qinyu</a> (蔡老师)<br>Subject Head|
 ||
 
 | YEAR HEADS|||
