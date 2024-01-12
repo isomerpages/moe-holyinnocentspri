@@ -2,6 +2,7 @@
 title: 课程辅助活动 Co Curricular Activities (CCA)
 permalink: /quality-cce-education/cca/
 description: ""
+variant: markdown
 ---
 ## 课程辅助活动 <br>Co-Curricular Activities (CCA)
 
@@ -17,8 +18,8 @@ Through participation of CCA, students are provided with varied and authentic op
 
 #### Co-Curriculum Activities Programme
 
- **CCA Schedule 2023** <br>
-Click [here](/files/CCA%20Schedule%202023.pdf) to download the updated schedule.
+ **CCA Schedule 2024** <br>
+Click [here](https://for.edu.sg/hips-cca-schedule) to download the updated schedule.
 
 <br>
 
