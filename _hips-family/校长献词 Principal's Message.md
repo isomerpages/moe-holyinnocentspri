@@ -6,6 +6,6 @@ variant: markdown
 ---
 ## 校长献词<br>Principal's Message
 
-### Principal's Foreword 2023
+### Principal's Foreword 2024
 
 ![](/images/HIPS%20family/2024_Principal_message.jpg)
