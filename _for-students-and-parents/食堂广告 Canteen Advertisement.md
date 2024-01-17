@@ -2,6 +2,7 @@
 title: 食堂广告 Canteen Advertisement
 permalink: /for-students-and-parents/canteen-advertisement/
 description: ""
+variant: markdown
 ---
 # 食堂广告 <br>School Canteen
 
@@ -10,8 +11,8 @@ The School is located at 5 Lorong Low Koon, Singapore 536451. <br> <br>
 
 | Type of Stall | Closing Date| Requirement |
 | -------- | -------- | -------- |
-| Malay Noodles and Rice | 29 December 2023 | Nil  |
-|Chinese Mixed Rice|29 December 2023|Nil|
+| Malay Noodles and Rice | 30 June 2024 | Nil  |
+|Chinese Mixed Rice|30 June 2024|Nil|
 |||
 
 ##### **Application Procedure** 
