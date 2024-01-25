@@ -1,0 +1,10 @@
+collections:
+  our-achievements:
+    output: true
+    order:
+      - 学生成就 Students Achievements/.keep
+      - 学生成就 Students Achievements/2023.md
+      - 学生成就 Students Achievements/2022.md
+      - 学生成就 Students Achievements/2021.md
+      - 教师成就 Staff Achievements.md
+      - 圣婴最新动态 HIPS in the News.md

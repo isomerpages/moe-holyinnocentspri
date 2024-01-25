@@ -1,0 +1,5 @@
+collections:
+  rich-chinese-culture:
+    output: true
+    order:
+      - 多元华族文化 Rich Chinese Culture.md
