@@ -2,6 +2,7 @@
 title: 家长志工团队 Parent Support Group
 permalink: /for-students-and-parents/parent-support-group/
 description: ""
+variant: markdown
 ---
 ## 家长志工团队<br> Parent Support Group
 
@@ -35,16 +36,18 @@ Our logo symbolizes the link between the school and the parents working together
 
 |  |  | 
 | -------- | -------- | 
-| **Chairperson**&nbsp;  |Ms&nbsp;Luwen Loo     | 
-|**Vice- Chairperson**|Ms Kory Joesman |
+| **Chairperson**&nbsp;  |Ms Candice Yang     | 
+|**Vice- Chairperson**|Ms Cheryl Loh |
+|**Vice- Chairperson**|Ms Jasmine Chew |
 |**Secretary**&nbsp;|Ms Karen Law|
-|**Assistant Secretary**|Ms Candice Yang|
-|**Treasurer**|Ms Yang Yan |
-|**Assistant Treasurer**|Ms Adeline Chang|
+|**Assistant Secretary**|Ms Jaslynn Sim|
+|**Procurement Head**|Ms Yang Yan |
+|**Treasurer**|Ms Adeline Chang |
+
 
 | Commitee Members |  | 
 | -------- | -------- | 
-| Mr Roger Quek <br> Ms Jasmine Chew <br> Ms Jaslynn  | Mr Joachim Goh  <br> Ms Cheryl Loh <br>Ms Christina Wang  |   
+| Ms Shernese Goh <br> Ms Adeline Low | Mr Joachim Goh  <br> Ms Cheryl Loh  |   
 
 
 
