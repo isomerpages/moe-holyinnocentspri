@@ -2,6 +2,7 @@
 title: 性教育课程 Sexuality Education in School
 permalink: /quality-cce-education/sexuality-education-in-school/
 description: ""
+variant: markdown
 ---
 ## 性教育课程 <br>MOE Sexuality Education In School
 
@@ -34,7 +35,7 @@ The upper primary years mark the onset of puberty. With better nutrition and imp
 
 Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
-**At Holy Innocents’ Primary School, the following Sexuality Education lessons will be taught in 2023:**
+**At Holy Innocents’ Primary School, the following Sexuality Education lessons will be taught in 2024:**
 
 ### <center>Primary 5</center>
 
@@ -110,13 +111,11 @@ This lesson focuses on helping students to know what pornography is and how it c
   </tbody>
 </table>
 
-Please Note:<b> *
-***For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.***</b>
 
 ### INFORMATION FOR PARENTS
 
 Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form which is in the attachment. The opt-out form is to be submitted by **31/01/2023**.
+P5 Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form which is in the attachment. The opt-out form is to be submitted by **05/02/2024**.
 
 Parents can contact the school at holyinnocentspri@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
