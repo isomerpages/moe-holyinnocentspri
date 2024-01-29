@@ -98,17 +98,7 @@ Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 
       <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
       <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Term 3 Week 10</td>
     </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">
-      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Did You Know? *<br>
-      (60 min)</td>
-      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">
-This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’.</b><br>
-      <br>
-      This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.			
-			</td>
-      <td width="540" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Term 4 Week 7</td>
-    </tr>
-  </tbody>
+   </tbody>
 </table>
 
 
