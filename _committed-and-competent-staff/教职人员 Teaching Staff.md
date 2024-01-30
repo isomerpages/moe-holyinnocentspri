@@ -338,7 +338,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_siew_leng_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ho Siew Leng Gayle</a>
+<p><a href="mailto:ho_siew_leng_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ho Siew Leng Gayle</a> 
 <br>
 </p>
 </td>
@@ -855,21 +855,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_siew_kian_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Siew Kian Joyce</a>
+<p><a href="mailto:lee_siew_kian_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Siew Kian Joyce</a> 
 <br>(Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lorraine_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lorraine Leong</a>
+<p><a href="mailto:lorraine_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lorraine Leong</a> 
 <br>(English Language)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_ghim_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sim Ghim Hong</a>
+<p><a href="mailto:sim_ghim_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sim Ghim Hong</a> 
 <br>(Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samantha_s_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Samantha Tan</a>
+<p><a href="mailto:samantha_s_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Samantha Tan</a> 
 <br>(Special Educational Needs)</p>
 </td>
 </tr>
