@@ -2,12 +2,13 @@
 title: 家长义工计划 Parent Volunteer (PV) Scheme
 permalink: /for-students-and-parents/pv-scheme/
 description: ""
+variant: markdown
 ---
 ## 家长志工团队 <br> Parent Volunteer (PV) Scheme 
 
 ####  Parent Volunteer (PV) Scheme
 
-Parent Volunteer Registration for&nbsp;**2024 Primary 1**&nbsp;admission is now&nbsp;**CLOSE.**
+Parent Volunteer Registration for&nbsp;**2025 Primary 1**&nbsp;admission is open from 1 Feb 2024.
 
 #### TERMS AND CONDITIONS
 <br>
@@ -46,14 +47,14 @@ ALL PVs will be subject to balloting should the number of applicants be greater 
 
 #### Timeline
 
-| YEAR OF CHILD'S BIRTH| 2017| 2018 |
+| YEAR OF CHILD'S BIRTH| 2019| 2018 |
 |---|---|---|
-| P1 Registration Year| Jul 2023 | Jul 2024|
-| P1 Admission Year | Jan 2023  | Jan 2025|
-| PV Application Period | 1 Feb 2022 - 5 March 2022|1 Feb 2023 – 15 March 2023|
-| Selection Period | April to May 2022 |April to May 2023|
-| Commencement Date For Volunteering Work |July 2022 0nwards| July 2023 Onwards|
-| Completion Date | By 31 May 2023| By 31 May 2024|
+| P1 Registration Year| Jul 2025 | Jul 2024|
+| P1 Admission Year | Jan 2026  | Jan 2025|
+| PV Application Period | 1 Feb 2024 - 5 March 2024|1 Feb 2023 – 15 March 2023|
+| Selection Period | April to May 2024 |April to May 2023|
+| Commencement Date For Volunteering Work |July 2024 0nwards| July 2023 Onwards|
+| Completion Date | By 31 May 2025| By 31 May 2024|
 
 Note: Selection is **NOT** on a first-come, first-served basis.
 
