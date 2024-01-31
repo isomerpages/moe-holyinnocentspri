@@ -10,6 +10,8 @@ variant: markdown
 
 Parent Volunteer Registration for&nbsp;**2025 Primary 1**&nbsp;admission is open from 1 Feb 2024.
 
+Registration via online [FORM](https://go.gov.sg/hips-parent-volunteer-scheme)
+
 #### TERMS AND CONDITIONS
 <br>
 1. Child must be a Singapore Citizen or a Singapore Permanent Resident.
