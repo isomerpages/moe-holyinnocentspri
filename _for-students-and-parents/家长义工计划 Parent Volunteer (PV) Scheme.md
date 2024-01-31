@@ -53,7 +53,7 @@ ALL PVs will be subject to balloting should the number of applicants be greater 
 |---|---|---|
 | P1 Registration Year| Jul 2025 | Jul 2024|
 | P1 Admission Year | Jan 2026  | Jan 2025|
-| PV Application Period | 1 Feb 2024 - 5 March 2024|1 Feb 2023 – 15 March 2023|
+| PV Application Period | 1 Feb 2024 - 15 March 2024|1 Feb 2023 – 15 March 2023|
 | Selection Period | April to May 2024 |April to May 2023|
 | Commencement Date For Volunteering Work |July 2024 0nwards| July 2023 Onwards|
 | Completion Date | By 31 May 2025| By 31 May 2024|
