@@ -22,9 +22,7 @@ variant: markdown
     <tr><td><a href="mailto:daniel_a@moe.edu.sg">Mr Daniel</a></td>
     <td><a href="mailto:mainthini_m_harivalagan@moe.edu.sg">Mdm Mainthini</a></td>
   </tr>
-  <tr>
-    <td></td>
-    <td><a href="mailto:sng_hsueh_ching@moe.edu.sg">Ms Elaine Sng Hsueh Ching</a><br></td>
+    <tr><td><a href="mailto:sng_hsueh_ching@moe.edu.sg">Ms Elaine Sng Hsueh Ching</a><br></td>
     <td></td>
   </tr>
 </tbody>
