@@ -12,6 +12,12 @@ sections:
         - title: Announcements
           description: ""
           url: https://holyinnocentspri.moe.edu.sg/announcements/
+        - title: 学校开放日 HIPS E-Open House
+          description: ""
+          url: https://holyinnocentspri.moe.edu.sg/for-students-and-parents/e-openhouse/
+        - title: 校历 School Calendar
+          description: ""
+          url: https://holyinnocentspri.moe.edu.sg/hips-family/school-calendar/
       variant: image
   - infobar:
       title: 学校开放日 HIPS E-Open House
