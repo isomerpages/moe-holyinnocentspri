@@ -2,7 +2,6 @@ collections:
   quality-teaching-and-learning:
     output: true
     order:
-      - 科学部门 Science Department.md
       - 体育部门 Physical Education Department.md
       - 美育部门 Aesthetics Department.md
       - 社会知识部门 Social Studies Department.md
