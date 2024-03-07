@@ -2,6 +2,5 @@ collections:
   quality-cce-education:
     output: true
     order:
-      - 课程辅助活动 Co Curricular Activities (CCA).md
       - 德育在于行动 Values in Action (VIA).md
       - Awards & Achievements/.keep
