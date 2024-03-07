@@ -1,5 +1,5 @@
 collections:
-  hips-family:
+  about-us:
     output: true
     order:
       - 校长献词 Principal's Message.md
