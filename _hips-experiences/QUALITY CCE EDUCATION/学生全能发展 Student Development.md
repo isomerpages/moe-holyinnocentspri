@@ -2,6 +2,7 @@
 title: 学生全能发展 Student Development
 permalink: /quality-cce-education/student-development/
 description: ""
+third_nav_title: QUALITY CCE EDUCATION
 ---
 ## 学生全能发展 <br>Student Development
 

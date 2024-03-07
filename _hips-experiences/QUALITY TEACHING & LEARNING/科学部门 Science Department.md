@@ -2,6 +2,7 @@
 title: 科学部门 Science Department
 permalink: /quality-teaching-and-learning/science-department/
 description: ""
+third_nav_title: QUALITY TEACHING & LEARNING
 ---
 ## 科学部门 <br>Science Department 
 

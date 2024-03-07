@@ -2,6 +2,7 @@
 title: 华文部门 Chinese Language Department
 permalink: /quality-teaching-and-learning/chinese-language-department/
 description: ""
+third_nav_title: QUALITY TEACHING & LEARNING
 ---
 ## 华文部门 <br>Chinese Language Department
 

@@ -3,6 +3,7 @@ title: 课程辅助活动 Co Curricular Activities (CCA)
 permalink: /quality-cce-education/cca/
 description: ""
 variant: markdown
+third_nav_title: QUALITY CCE EDUCATION
 ---
 ## 课程辅助活动 <br>Co-Curricular Activities (CCA)
 

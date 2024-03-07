@@ -1,0 +1,26 @@
+collections:
+  hips-experiences:
+    output: true
+    order:
+      - QUALITY TEACHING & LEARNING/.keep
+      - QUALITY TEACHING & LEARNING/英文部门 English Language Department.md
+      - QUALITY TEACHING & LEARNING/华文部门 Chinese Language Department.md
+      - QUALITY TEACHING & LEARNING/数学部门 Mathematics Department.md
+      - QUALITY TEACHING & LEARNING/科学部门 Science Department.md
+      - QUALITY TEACHING & LEARNING/体育部门 Physical Education Department.md
+      - QUALITY TEACHING & LEARNING/美育部门 Aesthetics Department.md
+      - QUALITY TEACHING & LEARNING/社会知识部门 Social Studies Department.md
+      - QUALITY CCE EDUCATION/.keep
+      - QUALITY CCE EDUCATION/品德与公民教育 Character & Citizenship Education.md
+      - QUALITY CCE EDUCATION/学生全能发展 Student Development.md
+      - QUALITY CCE EDUCATION/公民教育（国民教育）Citizenship (National Education).md
+      - QUALITY CCE EDUCATION/天主教活动 Catholic Programme.md
+      - QUALITY CCE EDUCATION/性教育课程 Sexuality Education in School.md
+      - QUALITY CCE EDUCATION/课程辅助活动 Co Curricular Activities (CCA).md
+      - QUALITY CCE EDUCATION/德育在于行动 Values in Action (VIA).md
+      - OUR ACHIEVEMENTS/.keep
+      - OUR ACHIEVEMENTS/学生成就 Student Achievements 2023.md
+      - OUR ACHIEVEMENTS/学生成就 Student Achievements 2021.md
+      - OUR ACHIEVEMENTS/学生成就 Student Achievements 2022.md
+      - OUR ACHIEVEMENTS/教师成就 Staff Achievements.md
+      - OUR ACHIEVEMENTS/圣婴最新动态 HIPS in the News.md

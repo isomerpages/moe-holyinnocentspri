@@ -2,6 +2,7 @@
 title: 天主教活动 Catholic Programme
 permalink: /quality-cce-education/catholic-programme/
 description: ""
+third_nav_title: QUALITY CCE EDUCATION
 ---
 ## 天主教活动 <br>Catholic Programme
 

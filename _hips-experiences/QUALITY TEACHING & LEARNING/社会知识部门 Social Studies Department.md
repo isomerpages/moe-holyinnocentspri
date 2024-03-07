@@ -2,6 +2,7 @@
 title: 社会知识部门 Social Studies Department
 permalink: /quality-teaching-and-learning/social-studies-department/
 description: ""
+third_nav_title: QUALITY TEACHING & LEARNING
 ---
 ## 社会知识部门<br> Social Studies Department
 

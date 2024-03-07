@@ -2,6 +2,7 @@
 title: 美育部门 Aesthetics Department
 permalink: /quality-teaching-and-learning/aesthetics-department/
 description: ""
+third_nav_title: QUALITY TEACHING & LEARNING
 ---
 ## 美育部门<br> Aesthetics Department 
 

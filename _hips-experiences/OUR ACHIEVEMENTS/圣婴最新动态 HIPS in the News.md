@@ -2,6 +2,7 @@
 title: 圣婴最新动态 HIPS in the News
 permalink: /our-achievements/hips-in-the-news/
 description: ""
+third_nav_title: OUR ACHIEVEMENTS
 ---
 ## HIPS IN THE NEWS
 

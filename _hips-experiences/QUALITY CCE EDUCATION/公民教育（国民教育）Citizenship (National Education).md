@@ -2,6 +2,7 @@
 title: 公民教育（国民教育）Citizenship (National Education)
 permalink: /quality-cce-education/citizenship-national-education/
 description: ""
+third_nav_title: QUALITY CCE EDUCATION
 ---
 ## 公民教育（国民教育） <br>Citizenship (National Education)
 

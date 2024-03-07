@@ -1,5 +1,5 @@
 collections:
-  for-students-and-parents:
+  infohub:
     output: true
     order:
       - 学校开放日 Open house.md

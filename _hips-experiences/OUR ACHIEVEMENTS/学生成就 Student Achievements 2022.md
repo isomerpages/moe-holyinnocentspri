@@ -1,8 +1,9 @@
 ---
-title: "2022"
+title: 学生成就 Student Achievements 2022
 permalink: /our-achievements/students-achievements/2022/
 description: ""
-third_nav_title: 学生成就 Students Achievements
+third_nav_title: OUR ACHIEVEMENTS
+variant: tiptap
 ---
 ## CCA Achievements
 
