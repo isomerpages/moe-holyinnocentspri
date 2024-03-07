@@ -2,7 +2,6 @@ collections:
   quality-teaching-and-learning:
     output: true
     order:
-      - 华文部门 Chinese Language Department.md
       - 数学部门 Mathematics Department.md
       - 科学部门 Science Department.md
       - 体育部门 Physical Education Department.md
