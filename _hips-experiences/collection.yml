@@ -2,4 +2,5 @@ collections:
   hips-experiences:
     output: true
     order:
+      - QUALITY CCE EDUCATION/.keep
       - QUALITY TEACHING & LEARNING/.keep
