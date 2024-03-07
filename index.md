@@ -7,17 +7,16 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero6.gif
+      background: /images/banner.gif
       key_highlights:
         - title: Announcements
           description: ""
           url: https://holyinnocentspri.moe.edu.sg/announcements/
-  - infobar:
-      title: 学校开放日 HIPS E-Open House
-      button: Click
-      url: https://holyinnocentspri.moe.edu.sg/for-students-and-parents/e-openhouse/
-  - infobar:
-      title: 校历 School Calendar
-      button: CLICK
-      url: https://holyinnocentspri.moe.edu.sg/hips-family/school-calendar/
+        - title: 学校开放日 HIPS E-Open House
+          description: ""
+          url: https://holyinnocentspri.moe.edu.sg/for-students-and-parents/e-openhouse/
+        - title: 校历 School Calendar
+          description: ""
+          url: https://holyinnocentspri.moe.edu.sg/hips-family/school-calendar/
+      variant: image
 ---

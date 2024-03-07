@@ -44,7 +44,7 @@ variant: markdown
 
 | PE / CCA | AESTHETICS| Special Assistance Plan<br> (SAP) |
 | -------- | -------- | -------- |
-|<a href="mailto:goh_lee_chuan@moe.edu.sg">Ms Goh Lee Chuan</a><br><a href="mailto:lau_ban_hwee@moe.edu.sg">Mr Lau Ban Hwee</a><br>Head of Department |<a href="mailto:sarah_koh_hui_khoon@moe.edu.sg">Mrs Sarah Lee</a><br>Head of Department| <a href="mailto:foong_wenfang@moe.edu.sg">Ms Foong Wenfang</a> (冯老师) <br>Head of Department|
+|<a href="mailto:lau_ban_hwee@moe.edu.sg">Mr Lau Ban Hwee</a><br>Head of Department |<a href="mailto:sarah_koh_hui_khoon@moe.edu.sg">Mrs Sarah Lee</a><br>Head of Department| <a href="mailto:foong_wenfang@moe.edu.sg">Ms Foong Wenfang</a> (冯老师) <br>Head of Department|
 |||
 
 
