@@ -2,6 +2,7 @@ collections:
   hips-experiences:
     output: true
     order:
+      - QUALITY TEACHING & LEARNING/社会知识部门 Social Studies Department.md
       - QUALITY TEACHING & LEARNING/美育部门 Aesthetics Department.md
       - QUALITY TEACHING & LEARNING/体育部门 Physical Education Department.md
       - QUALITY TEACHING & LEARNING/科学部门 Science Department.md
