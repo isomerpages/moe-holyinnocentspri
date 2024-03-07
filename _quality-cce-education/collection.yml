@@ -2,7 +2,6 @@ collections:
   quality-cce-education:
     output: true
     order:
-      - 公民教育（国民教育）Citizenship (National Education).md
       - 天主教活动 Catholic Programme.md
       - 性教育课程 Sexuality Education in School.md
       - 课程辅助活动 Co Curricular Activities (CCA).md
