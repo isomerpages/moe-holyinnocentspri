@@ -2,6 +2,7 @@ collections:
   hips-experiences:
     output: true
     order:
+      - QUALITY TEACHING & LEARNING/英文部门 English Language Department.md
       - QUALITY TEACHING & LEARNING/.keep
       - QUALITY CCE EDUCATION/德育在于行动 Values in Action (VIA).md
       - QUALITY CCE EDUCATION/课程辅助活动 Co Curricular Activities (CCA).md
