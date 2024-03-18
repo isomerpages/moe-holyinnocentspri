@@ -8,7 +8,7 @@ variant: markdown
 
 ####  Parent Volunteer (PV) Scheme
 
-Parent Volunteer Registration for&nbsp;**2025 Primary 1**&nbsp;admission is open from 1 Feb 2024.
+Parent Volunteer Registration for&nbsp;**2025 Primary 1**&nbsp;admission is CLOSE.
 
 Registration via online [FORM](https://go.gov.sg/hips-parent-volunteer-scheme)
 
