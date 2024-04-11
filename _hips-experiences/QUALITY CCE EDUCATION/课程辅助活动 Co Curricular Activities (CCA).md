@@ -22,6 +22,18 @@ Through participation of CCA, students are provided with varied and authentic op
  **CCA Schedule 2024** <br>
 Click [here](https://for.edu.sg/hips-cca-schedule) to download the updated schedule.
 
+
+
+
+|  | Column 2 ||
+| -------- | -------- | -------- |
+| Badminton  <br>  | Text     | Text     |
+|||
+
+
+
+
+
 <br>
 
 <img align="center" src="/images/CCA1.png" style="width: 90%;">
