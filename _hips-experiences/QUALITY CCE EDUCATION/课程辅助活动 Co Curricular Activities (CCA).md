@@ -25,9 +25,9 @@ Click [here](https://for.edu.sg/hips-cca-schedule) to download the updated sched
 
 
 
-|  | Column 2 ||
+|  | Physcical Sport||
 | -------- | -------- | -------- |
-| Badminton  <br>  | Text     | Text     |
+| Badminton <br> <img align="center" src="/images/CCA/Badminton.jpg" style="width: 50%;"> | Badminton <br> <img align="center" src="/images/CCA/Badminton.jpg" style="width: 50%;"> |Badminton <br> <img align="center" src="/images/CCA/Badminton.jpg" style="width: 50%;">   |
 |||
 
 
