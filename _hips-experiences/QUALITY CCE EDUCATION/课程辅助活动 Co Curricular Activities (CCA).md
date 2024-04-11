@@ -24,11 +24,10 @@ Click [here](https://for.edu.sg/hips-cca-schedule) to download the updated sched
 
 
 
-
 |  | Physcical Sport||
 | -------- | -------- | -------- |
-| <center>Badminton<br><img src="/images/CCA/Badminton.jpg" style="width: 50%;"></center> |<center>Badminton<br><img align="center" src="/images/CCA/Badminton.jpg" style="width: 50%;"> </center>  |<center>Badminton <br> <img align="center" src="/images/CCA/Badminton.jpg" style="width: 50%;">  </center>   |
-|||
+| <center>**Badminton**<br>![](/images/CCA/Badminton.jpg)</center> |<center>**Basketball** <br>![](/images/CCA/Basketball.jpg)</center> |<center>**Football**<br> ![](/images/CCA/Football.jpg) </center> |
+|<center>**Rope-skipping**<br>![](/images/CCA/Badminton.jpg)</center>|<center>**Outdoor Adventure**<br>![](/images/CCA/Badminton.jpg)</center>|<center>**Wushu**<br>![](/images/CCA/Badminton.jpg)</center>|
 
 
 
