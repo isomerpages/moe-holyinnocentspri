@@ -23,28 +23,41 @@ Through participation of CCA, students are provided with varied and authentic op
 Click [here](https://for.edu.sg/hips-cca-schedule) to download the updated schedule.
 
 
+### <center>Physical Sport</center>
 
-|  | Physcical Sport||
+|  |||
 | -------- | -------- | -------- |
 | <center>**Badminton**<br>![](/images/CCA/Badminton.jpg)</center> |<center>**Basketball** <br>![](/images/CCA/Basketball.jpg)</center> |<center>**Football**<br> ![](/images/CCA/Football.jpg) </center> |
-|<center>**Rope-skipping**<br>![](/images/CCA/Badminton.jpg)</center>|<center>**Outdoor Adventure**<br>![](/images/CCA/Badminton.jpg)</center>|<center>**Wushu**<br>![](/images/CCA/Badminton.jpg)</center>|
+|<center>**Rope-skipping**<br>![](/images/CCA/Rope_Skipping.jpg)</center>|<center>**Outdoor Adventure**<br>![](/images/CCA/Outdoor_Adventure.jpg)</center>|<center>**Wushu**<br>![](/images/CCA/Wushu.jpg)</center>|
+|  |  |  |
 
 
+### <center>Uniformed Groups</center>
+
+|  |  | 
+| -------- | -------- | 
+|<center>**Girl Guides (Brownies)**<br>![](/images/CCA/Brownies.jpg)</center>| <center>**Red Cross Youth**<br>![](/images/CCA/Red_Cross_Youth.jpg)</center> | 
+|||
 
 
+### <center>Clubs and Societies</center>
 
-<br>
+|  |  |  |
+| -------- | -------- | -------- |
+|<center>**Chinese Culture and Language (Kuaibanshu)**<br>![](/images/CCA/Kuaiban.jpg)</center> |<center>**Infocomm Technology (Media Production)**<br>![](/images/CCA/Infocomm.jpg)</center> |<center>**Robotics**<br>![](/images/CCA/Robotics.jpg)</center>|
 
-<img align="center" src="/images/CCA1.png" style="width: 90%;">
+| |  | 
+| -------- | -------- | 
+| <center>**Enviornmental Science**<br>![](/images/CCA/Enviromental_Science.jpg)</center> | <center>**Chinese Weiqi**<br>![](/images/CCA/Weiqi.jpg)</center>| 
+|||
 
-<br>
+### <center>Visual &amp; Performing Arts</center>
 
-<img align="center" src="/images/CCA2.png" style="width: 80%;">
+|  |  |  |
+| -------- | -------- | -------- |
+| <center>**Art and Crafts**<br>![](/images/CCA/Art_and_Craft.jpg)</center>| <center>**Chinese Dance**<br>![](/images/CCA/Chinese_Dance.jpg)</center> | <center>**Choir**<br>![](/images/CCA/Choir.jpg)</center>  |
 
-<br>
-
-<img align="center" src="/images/Football1.jpeg" style="width: 80%;">
-
-<br>
-
-<img src="/images/Basketball%202023.jpeg" style="width:80%;">
+| |  | 
+| -------- | -------- | 
+| <center>**Chinese Orchestra**<br>![](/images/CCA/Chinese_Orch.jpg)</center> | <center>**Guzheng Ensemble**<br>![](/images/CCA/Guzheng_Ensemble.jpg)</center>| 
+|||
