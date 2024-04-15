@@ -28,9 +28,11 @@ Click [here](https://for.edu.sg/hips-cca-schedule) to download the updated sched
 
 |  |||
 | -------- | -------- | -------- |
-| <center>Badminton<br> ![](/images/CCA/Badminton.jpg) </center> |<center> Basketball <br>![](/images/CCA/Basketball.jpg) </center> |<center> Football<br> ![](/images/CCA/Football.jpg)  </center> |
+| <center>Badminton </center> <br> <img style="width: 90%;" src="/images/CCA/Badminton.jpg" align="center">  |<center> Basketball <br>![](/images/CCA/Basketball.jpg) </center> |<center> Football<br> ![](/images/CCA/Football.jpg)  </center> |
 |<center>Rope-skipping<br>![](/images/CCA/Rope_Skipping.jpg) </center>|<center>Outdoor Adventure<br>![](/images/CCA/Outdoor_Adventure.jpg) </center>|<center>Wushu<br>![](/images/CCA/Wushu.jpg) </center>|
 |  |  |  |
+
+<img style="width: 70%;" src="/images/SDT2.png" align="center"> 
 
 
 ### <center>Uniformed Groups</center>
