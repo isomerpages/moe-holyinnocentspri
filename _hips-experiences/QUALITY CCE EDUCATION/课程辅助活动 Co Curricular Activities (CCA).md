@@ -23,12 +23,13 @@ Through participation of CCA, students are provided with varied and authentic op
 Click [here](https://for.edu.sg/hips-cca-schedule) to download the updated schedule.
 
 
+
 ### <center>Physical Sport</center>
 
 |  |||
 | -------- | -------- | -------- |
-| <center>Badminton<br>![](/images/CCA/Badminton.jpg)</center> |<center>Basketball <br>![](/images/CCA/Basketball.jpg)</center> |<center>Football<br> ![](/images/CCA/Football.jpg) </center> |
-|<center>Rope-skipping<br>![](/images/CCA/Rope_Skipping.jpg)</center>|<center>Outdoor Adventure<br>![](/images/CCA/Outdoor_Adventure.jpg)</center>|<center>Wushu<br>![](/images/CCA/Wushu.jpg)</center>|
+| <center>Badminton<br> ![](/images/CCA/Badminton.jpg) </center> |<center> Basketball <br>![](/images/CCA/Basketball.jpg) </center> |<center> Football<br> ![](/images/CCA/Football.jpg)  </center> |
+|<center>Rope-skipping<br>![](/images/CCA/Rope_Skipping.jpg) </center>|<center>Outdoor Adventure<br>![](/images/CCA/Outdoor_Adventure.jpg) </center>|<center>Wushu<br>![](/images/CCA/Wushu.jpg) </center>|
 |  |  |  |
 
 
@@ -36,7 +37,7 @@ Click [here](https://for.edu.sg/hips-cca-schedule) to download the updated sched
 
 |  |  | 
 | -------- | -------- | 
-|<center>Girl Guides (Brownies)<br>![](/images/CCA/Brownies.jpg)</center>| <center>Red Cross Youth<br>![](/images/CCA/Red_Cross_Youth.jpg)</center> | 
+|<center>Girl Guides (Brownies)<br>![](/images/CCA/Brownies.jpg) </center>| <center>Red Cross Youth<br>![](/images/CCA/Red_Cross_Youth.jpg) </center> | 
 |||
 
 
@@ -44,20 +45,20 @@ Click [here](https://for.edu.sg/hips-cca-schedule) to download the updated sched
 
 |  |  |  |
 | -------- | -------- | -------- |
-|<center>Chinese Culture and Language (Kuaibanshu)<br>![](/images/CCA/Kuaiban.jpg)</center> |<center>Infocomm Technology (Media Production)<br>![](/images/CCA/Infocomm.jpg)</center> |<center>Robotics<br>![](/images/CCA/Robotics.jpg)</center>|
+|<center>Chinese Culture and Language (Kuaibanshu)<br>![](/images/CCA/Kuaiban.jpg) </center> |<center>Infocomm Technology (Media Production)<br>![](/images/CCA/Infocomm.jpg) </center> |<center>Robotics<br>![](/images/CCA/Robotics.jpg) </center>|
 
 | |  | 
 | -------- | -------- | 
-| <center>Enviornmental Science<br>![](/images/CCA/Enviromental_Science.jpg)</center> | <center>Chinese Weiqi<br>![](/images/CCA/Weiqi.jpg)</center>| 
+| <center>Enviornmental Science<br>![](/images/CCA/Enviromental_Science.jpg) </center> | <center>Chinese Weiqi<br>![](/images/CCA/Weiqi.jpg) </center>| 
 |||
 
 ### <center>Visual &amp; Performing Arts</center>
 
 |  |  |  |
 | -------- | -------- | -------- |
-| <center>Art and Crafts<br>![](/images/CCA/Art_and_Craft.jpg)</center>| <center>Chinese Dance<br>![](/images/CCA/Chinese_Dance.jpg)</center> | <center>Choir<br>![](/images/CCA/Choir.jpg)</center>  |
+| <center>Art and Crafts<br>![](/images/CCA/Art_and_Craft.jpg) </center>| <center>Chinese Dance<br>![](/images/CCA/Chinese_Dance.jpg) </center> | <center>Choir<br>![](/images/CCA/Choir.jpg) </center>  |
 
 | |  | 
 | -------- | -------- | 
-| <center>Chinese Orchestra<br>![](/images/CCA/Chinese_Orch.jpg)</center> | <center>Guzheng Ensemble<br>![](/images/CCA/Guzheng_Ensemble.jpg)</center>| 
+| <center>Chinese Orchestra<br>![](/images/CCA/Chinese_Orch.jpg) </center> | <center>Guzheng Ensemble<br>![](/images/CCA/Guzheng_Ensemble.jpg) </center>| 
 |||
