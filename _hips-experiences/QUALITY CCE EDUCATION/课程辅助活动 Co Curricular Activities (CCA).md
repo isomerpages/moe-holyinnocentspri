@@ -28,11 +28,9 @@ Click [here](https://for.edu.sg/hips-cca-schedule) to download the updated sched
 
 |  |||
 | -------- | -------- | -------- |
-| <center>Badminton </center> <br> <img style="width: 90%;" src="/images/CCA/Badminton.jpg" align="center">  |<center> Basketball </center> <br> <img style="width: 90%;" src="/images/CCA/Basketball.jpg" align="center"> |<center> Football<br> ![](/images/CCA/Football.jpg)  </center> |
-|<center>Rope-skipping<br>![](/images/CCA/Rope_Skipping.jpg) </center>|<center>Outdoor Adventure<br>![](/images/CCA/Outdoor_Adventure.jpg) </center>|<center>Wushu<br>![](/images/CCA/Wushu.jpg) </center>|
+| <center>Badminton </center> <br> <img style="width: 90%;" src="/images/CCA/Badminton.jpg" align="center">  |<center> Basketball </center> <br> <img style="width: 90%;" src="/images/CCA/Basketball.jpg" align="center"> |<center> Football</center> <br><img style="width: 90%;" src="/images/CCA/Football.jpg" align="center">|
+|<center>Rope-skipping </center><br> <img style="width: 90%;" src="/images/CCA/Rope_Skipping.jpg" align="center"> |<center>Outdoor Adventure </center><br> <img style="width: 90%;" src="/images/CCA/Outdoor_Adventure.jpg" align="center"> |<center>Wushu</center><br> <img style="width: 90%;" src="/images/CCA/Wushu.jpg" align="center">|
 |  |  |  |
-
-<img style="width: 70%;" src="/images/SDT2.png" align="center"> 
 
 
 ### <center>Uniformed Groups</center>
