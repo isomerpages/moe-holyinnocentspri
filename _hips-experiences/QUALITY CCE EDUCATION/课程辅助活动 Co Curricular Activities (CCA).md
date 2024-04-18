@@ -45,7 +45,7 @@ Click [here](https://for.edu.sg/hips-cca-schedule) to download the updated sched
 
 |  |  |  |
 | -------- | -------- | -------- |
-|<center>中文文化和语言（快板书) <br>Chinese Culture and Language (Kuaibanshu) </center><br><img style="width: 70%;" src="/images/CCA/Kuaiban.jpg" align="center">  |<center> 信息通信技术（媒体制作） <br>Infocomm Technology (Media Production)</center><br><img style="width: 80%;" src="/images/CCA/Infocomm.jpg" align="center">|<center>机器人协会 <br> Robotics </center><br><img style="width: 90%;" src="/images/CCA/Robotics.jpg" align="center"> |
+|<center>中文文化和语言（快板书) <br>Chinese Culture and Language (Kuaibanshu) </center><br><img style="width: 70%;" src="/images/CCA/Kuaiban.jpg" align="center">  |<center> 信息通信技术（媒体制作） <br>Infocomm Technology (Media Production)</center><br><img style="width: 80%;" src="/images/CCA/Infocomm.jpg" align="center">|<center>机器人协会 <br> Robotics </center><br><br><img style="width: 90%;" src="/images/CCA/Robotics.jpg" align="center"> |
 
 | |  | 
 | -------- | -------- | 
