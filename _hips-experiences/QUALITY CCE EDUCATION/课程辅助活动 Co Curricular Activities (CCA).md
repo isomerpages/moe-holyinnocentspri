@@ -24,12 +24,12 @@ Click [here](https://for.edu.sg/hips-cca-schedule) to download the updated sched
 
 
 
-### <center>Physical Sport</center>
+### <center> 体育运动 <br> Physical Sport </center>
 
 |  |||
 | -------- | -------- | -------- |
-| <center>Badminton</center> <br> <img style="width: 90%;" src="/images/CCA/Badminton.jpg" align="center">  |<center> Basketball </center> <br> <img style="width: 90%;" src="/images/CCA/Basketball.jpg" align="center"> |<center> Football</center> <br><img style="width: 90%;" src="/images/CCA/Football.jpg" align="center">|
-|<center>Rope-skipping </center><br> <img style="width: 90%;" src="/images/CCA/Rope_Skipping.jpg" align="center"> |<center>Outdoor Adventure </center><br> <img style="width: 90%;" src="/images/CCA/Outdoor_Adventure.jpg" align="center"> |<center>Wushu</center><br> <img style="width: 90%;" src="/images/CCA/Wushu.jpg" align="center">|
+| <center>  **羽毛球** <br>**Badminton**</center> <br> <img style="width: 90%;" src="/images/CCA/Badminton.jpg" align="center">  |<center>**篮球**<br> **Basketball** </center> <br> <img style="width: 90%;" src="/images/CCA/Basketball.jpg" align="center"> |<center> **足球**<br>**Football**</center> <br><img style="width: 90%;" src="/images/CCA/Football.jpg" align="center">|
+|<center>**花式跳绳**<br>**Rope-skipping** </center><br> <img style="width: 90%;" src="/images/CCA/Rope_Skipping.jpg" align="center"> |<center>**户外探险**<br>**Outdoor Adventure** </center><br> <img style="width: 90%;" src="/images/CCA/Outdoor_Adventure.jpg" align="center"> |<center>**武术**<br>**Wushu**</center><br> <img style="width: 90%;" src="/images/CCA/Wushu.jpg" align="center">|
 |  |  |  |
 
 
