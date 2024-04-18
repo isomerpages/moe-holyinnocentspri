@@ -2,6 +2,7 @@
 title: 教育储蓄品德奖 Edusave Character Award
 permalink: /for-students-and-parents/eca/
 description: ""
+variant: markdown
 ---
 ## 教育储蓄品德奖 <br>HIPS Edusave Character Award (ECHA) Nomination Form for Parents
 
@@ -20,10 +21,4 @@ description: ""
 
 <br>
 
-<span style="font-size:18px;">Parents who wish to nominate their child for ECHA are invited to download the file and submit their physical nominations to the school or email the school at [holyinnocentspri@moe.edu.sg](mailto:holyinnocentspri@moe.edu.sg.)</span>
-
-<br>
-<span style="font-size:18px;">To download FORM, please click <a target="_blank" href="https://go.gov.sg/hips-echa">HERE</a> or scan the QR code.<img style="width: 50%;" src="/images/QR%20code/echa%20form.png" align="centre"></span>
-
-	
 <span style="font-size:24px;">Submission of ECHA for 2023 is closed.</span>
