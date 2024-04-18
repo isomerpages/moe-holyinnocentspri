@@ -33,30 +33,30 @@ Click [here](https://for.edu.sg/hips-cca-schedule) to download the updated sched
 |  |  |  |
 
 
-### <center>Uniformed Groups</center>
+### <center>制服团体 <br>Uniformed Groups</center>
 
 |  |  | 
 | -------- | -------- | 
-|<center> Girl Guides (Brownies)</center><br><img style="width: 80%;" src="/images/CCA/Brownies.jpg" align="center">| <center>Red Cross Youth</center><br><img style="width: 80%;" src="/images/CCA/Red_Cross_Youth.jpg" align="center"> | 
+|<center>**女童军** <br> **Girl Guides (Brownies)**</center><br><img style="width: 80%;" src="/images/CCA/Brownies.jpg" align="center">| <center>**红十字会**<br>**Red Cross Youth**</center><br><img style="width: 80%;" src="/images/CCA/Red_Cross_Youth.jpg" align="center"> | 
 |||
 
 
-### <center>Clubs and Societies</center>
+### <center>俱乐部 <br> Clubs and Societies</center>
 
 |  |  |  |
 | -------- | -------- | -------- |
-|<center> Chinese Culture and Language (Kuaibanshu) </center><br><img style="width: 70%;" src="/images/CCA/Kuaiban.jpg" align="center">  |<center> Infocomm Technology (Media Production) </center><br><img style="width: 80%;" src="/images/CCA/Infocomm.jpg" align="center">|<center> Robotics </center><br><img style="width: 90%;" src="/images/CCA/Robotics.jpg" align="center"> |
+|<center>**中文文化和语言（快板书)** <br>**Chinese Culture and Language (Kuaibanshu)** </center><br><img style="width: 70%;" src="/images/CCA/Kuaiban.jpg" align="center">  |<center> **信息通信技术（媒体制作**） <br>**Infocomm Technology (Media Production)**</center><br><img style="width: 80%;" src="/images/CCA/Infocomm.jpg" align="center">|<center>**机器人协会** <br> **Robotics** </center><br><img style="width: 90%;" src="/images/CCA/Robotics.jpg" align="center"> |
 
 | |  | 
 | -------- | -------- | 
-| <center> Enviornmental Science</center> <br> <img style="width: 70%;" src="/images/CCA/Enviromental_Science.jpg" align="center">| <center> Chinese Weiqi</center><br> <img style="width: 70%;" src="/images/CCA/Weiqi.jpg" align="center">| 
+| <center> **环境科学** <br>**Enviornmental Science**</center> <br> <img style="width: 70%;" src="/images/CCA/Enviromental_Science.jpg" align="center">| <center> **围棋** <br>**Chinese Weiqi**</center><br> <img style="width: 70%;" src="/images/CCA/Weiqi.jpg" align="center">| 
 |||
 
-### <center>Visual &amp; Performing Arts</center>
+### <center>视觉和表演艺术 <br>Visual &amp; Performing Arts</center>
 
 |  |  |  |
 | -------- | -------- | -------- |
-| <center> Art and Crafts </center><br><img style="width: 80%;" src="/images/CCA/Art_and_Craft.jpg" align="center">| <center> Chinese Dance </center><br><img style="width: 90%;" src="/images/CCA/Chinese_Dance.jpg" align="center"> | <center> Choir </center><br> <img style="width: 90%;" src="/images/CCA/Choir.jpg" align="center">|
+| <center> **美术社** <br>**Art and Crafts** </center><br><img style="width: 80%;" src="/images/CCA/Art_and_Craft.jpg" align="center">| <center> Chinese Dance </center><br><img style="width: 90%;" src="/images/CCA/Chinese_Dance.jpg" align="center"> | <center> Choir </center><br> <img style="width: 90%;" src="/images/CCA/Choir.jpg" align="center">|
 
 | |  | 
 | -------- | -------- | 
