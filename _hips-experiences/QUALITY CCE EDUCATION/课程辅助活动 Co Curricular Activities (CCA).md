@@ -49,7 +49,7 @@ Click [here](https://for.edu.sg/hips-cca-schedule) to download the updated sched
 
 | |  | 
 | -------- | -------- | 
-| <center> 环境科学 <br>Enviornmental Science</center> <br> <img style="width: 70%;" src="/images/CCA/Enviromental_Science.jpg" align="center">| <center> 围棋 <br>Chinese Weiqi</center><br> <img style="width: 70%;" src="/images/CCA/Weiqi.jpg" align="center">| 
+| <center> 环境科学 <br>Environmental Science</center> <br> <img style="width: 70%;" src="/images/CCA/Enviromental_Science.jpg" align="center">| <center> 围棋 <br>Chinese Weiqi</center><br> <img style="width: 70%;" src="/images/CCA/Weiqi.jpg" align="center">| 
 |||
 
 ### <center>视觉和表演艺术 <br>Visual &amp; Performing Arts</center>
