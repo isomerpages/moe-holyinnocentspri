@@ -22,7 +22,7 @@ variant: markdown
 |<a href="mailto:lee_shea_li@moe.edu.sg">Mdm Lee Shea Li</a><br>School Staff Developer|
 ||
 
-| &gt;ENGLISH LANGUAGE|CHINESE LANGUAGE DEPARTMENT|
+| ENGLISH LANGUAGE|CHINESE LANGUAGE DEPARTMENT|
 | -------- | -------- | 
 |<a href="mailto:neo_kim_sian_pansy@moe.edu.sg">Mrs Pansy Ong</a> (Covering)<br>Head of Department|<a href="mailto:foong_wenfang@moe.edu.sg">Ms Foong Wenfang </a>(冯老师 )(Covering)<br>Head of Department|
 |<a href="mailto:ng_kuan_hwa@moe.edu.sg">Ms Ng Kuan Hwa</a><br>Level Head|<a href="mailto:li_shu_lan_a@moe.edu.sg">Mdm Li Shu Lan </a>(李老师）<br>Level Head<br><br><a href="mailto:tan_hwee_sang@moe.edu.sg">Ms Tan Hwee Sang</a> (陈老师)<br>Level Head|
