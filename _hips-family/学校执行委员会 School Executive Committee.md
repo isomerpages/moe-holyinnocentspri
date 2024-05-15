@@ -24,7 +24,7 @@ variant: markdown
 
 | ENGLISH LANGUAGE|CHINESE LANGUAGE DEPARTMENT|
 | -------- | -------- | 
-|<a href="mailto:neo_kim_sian_pansy@moe.edu.sg">Mrs Pansy Ong</a> (Covering)<br>Head of Department|<a href="mailto:foong_wenfang@moe.edu.sg">Ms Foong Wenfang </a>(冯老师 )(Covering)<br>Head of Department|
+|<a href="mailto:neo_kim_sian_pansy@moe.edu.sg">Mrs Pansy Ong</a> (Covering)<br>Head of Department|<a href="mailto:foong_wenfang@moe.edu.sg">Ms Foong Wenfang </a> (冯老师 )<br>Head of Department|
 |<a href="mailto:ng_kuan_hwa@moe.edu.sg">Ms Ng Kuan Hwa</a><br>Level Head|<a href="mailto:li_shu_lan_a@moe.edu.sg">Mdm Li Shu Lan </a>(李老师）<br>Level Head<br><br><a href="mailto:tan_hwee_sang@moe.edu.sg">Ms Tan Hwee Sang</a> (陈老师)<br>Level Head|
 |||
 
@@ -42,7 +42,7 @@ variant: markdown
 
 | PE / CCA | AESTHETICS| Special Assistance Plan<br> (SAP) |
 | -------- | -------- | -------- |
-|<a href="mailto:lau_ban_hwee@moe.edu.sg">Mr Lau Ban Hwee</a><br>Head of Department |<a href="mailto:sarah_koh_hui_khoon@moe.edu.sg">Mrs Sarah Lee</a><br>Head of Department| <a href="mailto:foong_wenfang@moe.edu.sg">Ms Foong Wenfang</a> (冯老师) <br>Head of Department|
+|<a href="mailto:lau_ban_hwee@moe.edu.sg">Mr Lau Ban Hwee</a><br>Head of Department |<a href="mailto:sarah_koh_hui_khoon@moe.edu.sg">Mrs Sarah Lee</a><br>Head of Department| <a href="mailto:foong_wenfang@moe.edu.sg">Ms Foong Wenfang</a> (冯老师) (Covering)<br>Head of Department|
 |||
 
 
@@ -52,7 +52,7 @@ variant: markdown
 |<a href="mailto:chua_qinyu@moe.edu.sg">Ms Chua Qinyu</a> (蔡老师)<br>Subject Head|
 ||
 
-| YEAR HEADS|||
-| -------- | -------- | -------- |
+| |YEAR HEADS||
+|:--------:| :--------: | :--------: |
 |<a href="mailto:eng_li_yun_felicia@moe.edu.sg">Mdm Felicia Eng</a><br>P1/2|<a href="mailto:lim_soo_ngee_martina@moe.edu.sg">Ms Martina Lim</a><br>P3/4|<a href="mailto:chu_yunfeng_alex@moe.edu.sg">Mr Alex Chu</a><br>P5/6|
 |||
