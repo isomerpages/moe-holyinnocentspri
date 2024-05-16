@@ -11,7 +11,7 @@ variant: markdown
 
 
 
-| No | CCA| Achievements |
+| | CCA| Achievements |
 | -------- | -------- | -------- |
 | 1     | Girl Guides (Brownies) | **South Division Day Competitions** <br><br>1.	ACTIVE BEATS: 1st Position <br>2. Division Patch Design: 3rd Position<br>3. Energy Efficient Home: 4th Position<br>4. With Bags Will Travel: 4th Position |
 | 2    | Chinese Orchestra | **2024 SYF Arts Presentation Chinese Orchestra** <br><br>Certificate of Accomplishment |
@@ -28,7 +28,7 @@ variant: markdown
 <br>
 <br>
 
-| No | Non-CCA| Achievements |
+| | Non-School CCA| Achievements |
 | -------- | -------- | -------- |
 | 1 | Bowling<br>(Junior Boys) | **NSG Bowling Championships 2024 Junior Division Boys Singles** <br>2nd Position<br><br> **NSG Bowling Championships 2024 Junior Division Boys Doubles**<br> 3rd Position<br><br>**NSG Bowling Championships 2024 Junior Division Boys Quartets** <br>3rd Position|
 | 2 | Swimming<br>(Junior Boys)| **NSG Swimming Championships D Division Boys**<br><br>1.	50m Backstroke : 5th Position <br>2.	50m Freestyle : 3rd Position |
