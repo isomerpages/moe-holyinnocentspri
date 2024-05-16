@@ -38,7 +38,3 @@ variant: markdown
 | 6 | Taekwondo<br>(Junior Boys)|**NSG Taekwondo Senior Division Boys Poomsae Individual Poom 2**<br><br>6th Position  |
 | 7 | Artistic Gymnastics| **WAG Primary Junior Girls - Junior I (Level 3)** <br><br>Achievement Pin |
 |||
-
-
-
-
