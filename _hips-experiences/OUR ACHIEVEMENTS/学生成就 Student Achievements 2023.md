@@ -3,7 +3,7 @@ title: 学生成就 Student Achievements 2023
 permalink: /our-achievements/students-achievements/2023/
 description: ""
 third_nav_title: OUR ACHIEVEMENTS
-variant: tiptap
+variant: markdown
 ---
 ## CCA Achievements 
 
@@ -19,7 +19,7 @@ variant: tiptap
 |4|Basketball<br> (Senior Boys)|  **NSG Basketball Championships Senior Division Boys (South Zone**)<br><br>Sportsmanship Award<br>|
 |5|Wushu <br> (Junior Boys)|**NSG Wushu Championships Junior Division Boys**<br><br>1. Individual   4 - Duan Spear : 8th position<br>2. Group  Quanshu : 7th position<br> |
 |6|Wushu <br> (Junior Girls)|**NSG Wushu Championships Junior Division Girls**<br><br>Sportsmanship Award|
-|7|Weiqi| **National Youth Weiqi Competition 2023 Six Trust Cup** <br><br>1. P6 Team Event : Silver Award<br>2. P6 Individual Event : Bronze Award<br>3. P5 Team Event : Silver Award <br>  |
+|7|Weiqi| **National Youth Weiqi Competition 2023 Six Trust Cup** <br><br>1. P6 Team Event : Silver Award<br>2. P6 Individual Event : Bronze Award<br>3. P5 Team Event : Silver Award <br> <br> **7th Zong Xiang Cup National Weiqi Competition 2023** <br>1.	P5/6 Team Award : Champion<br>2.	P5 Individual Award : Bronze Award<br>3.	P3 Team Award : 3rd Runner Up |
 |8|Rope Skipping <br>(Senior Boys)|**NSG Rope Skipping Championships Senior Division Boys**<br><br>Sportsmanship Award |
 |9|Rope Skipping <br>(Senior Girls)|**NSG Rope Skipping Championships Senior Division Girls**<br><br>1. Two Sportsmanship Awards<br>2. Team Freestyle : 3rd position<br>|
 |10|Rope Skipping <br>(Junior Boys)|**NSG Rope Skipping Championships Junior Division Boys** <br><br>1. Two Sportsmanship Awards<br>2. One Achievement Pin<br>3. Individual Double Dutch : 8th position<br>4. Individual Speed : 6th position<br>5. Team Double Dutch : 5th position<br>6. Team Speed Relay : 6th position<br>|
