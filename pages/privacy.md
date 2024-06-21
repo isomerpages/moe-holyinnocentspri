@@ -7,7 +7,7 @@ variant: markdown
 
 
 
-This is a Holy Innocents’ Primary School website. Thank you for examining our privacy statement. 
+This is a **Holy Innocents’ Primary School** website. Thank you for examining our privacy statement. 
  	 
 If you are only browsing this website, we do not capture data that allows us to identify you individually. 
  	 
