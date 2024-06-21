@@ -10,7 +10,7 @@ Thank you for visiting **Holy Innocents’ Primary School**. By accessing and us
 
 #### General 
 
-2.  These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes. 
+2. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes. 
 
 #### Proprietary Rights 
 3. This Web Site is maintained by Holy Innocents’ Primary School. It is owned by Holy Innocents’ Primary School.
@@ -33,7 +33,7 @@ Thank you for visiting **Holy Innocents’ Primary School**. By accessing and us
 10. Holy Innocents’ Primary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site. 
 Links from This Web Site to Other Web Sites 
 11. This Web Site contains hyperlinks to web sites which are not maintained Holy Innocents’ Primary School. Holy Innocents’ Primary School is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk. 
-12. Hyperlinks to other web sites are provided as a convenience. In no circumstances shall Holy Innocents’ Primary School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked. 
+12.  Hyperlinks to other web sites are provided as a convenience. In no circumstances shall Holy Innocents’ Primary School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked. 
 
 #### Links to This Web Site from Other Web Sites
 13. Except as set forth below, caching and links to, and the framing of this Web Site or any of the Contents are prohibited. 
