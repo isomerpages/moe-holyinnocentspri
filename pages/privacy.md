@@ -3,7 +3,7 @@ title: Privacy Statement
 permalink: /privacy/
 variant: markdown
 ---
-<center> ### Holy Innocents' Primary School Privacy Policy </center>
+### <center> Holy Innocents' Primary School Privacy Policy </center>
 
 
 
