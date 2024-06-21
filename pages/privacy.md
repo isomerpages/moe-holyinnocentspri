@@ -5,7 +5,7 @@ variant: markdown
 ---
 ### Holy Innocents' Primary School Privacy Policy 
 
-<br>
+
 
 1.	This is a Holy Innocents’ Primary School website. Thank you for examining our privacy statement. 
  	 
