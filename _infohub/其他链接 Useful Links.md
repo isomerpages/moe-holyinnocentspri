@@ -13,12 +13,9 @@ variant: markdown
       text-align: center; /* Center-align the content within the table */
     }
   </style>
-
-
-
-<table> <tbody><tr><td><a target="\_blank" href="https://www.catholic.sg/"><img src="/images/Useful%20Link/Archdiocese_coat_of_arms_tight_crop_280.png"></a><strong><br>Catholic Archdiocese of Singapore<br></strong></td> <td><a target="\_blank" href="https://www.moe.gov.sg/"><img src="/images/Useful%20Link/MOE_logo.png"></a></td> <td><a target="\_blank" href="https://www.catholic.sg/"><img src="/images/Useful%20Link/School_Bag.png"></a></td> </tr> <tr> <td>Row 2, Column 1</td> 
-	<td><a target="\_blank" href="https://example.com">Click here to open in new tab</a></td> 
-<td>Row 2, Column 3</td> </tr> <tr> <td>Row 3, Column 1</td> <td>Row 3, Column 2</td> <td>Row 3, Column 3</td> </tr> </tbody></table>
+<table> <tbody><tr><td><a target="\_blank" href="https://www.catholic.sg/"><img src="/images/Useful%20Link/Archdiocese_coat_of_arms_tight_crop_280.png"></a><strong><br><br>Catholic Archdiocese of Singapore<br></strong></td> <td><a target="\_blank" href="https://www.moe.gov.sg/"><img src="/images/Useful%20Link/MOE_logo.png"></a><strong>MOE Singapore<br></strong></td> <td><a target="\_blank" href="https://www.catholic.sg/"><img src="/images/Useful%20Link/School_Bag.png"></a><strong><br><br>SCHOOLBAG<br></strong></td> </tr>
+<tr><td><a target="\_blank" href="https://www.onepa.gov.sg/cc/hougang-cc/"><img src="/images/Useful%20Link/PA.png"></a><strong><br><br>Hougang Community Club<br></strong></td> <td><a target="\_blank" href="https://www.moe.gov.sg/"><img src="/images/Useful%20Link/MOE_logo.png"></a><strong>MOE Singapore<br></strong></td> <td><a target="\_blank" href="https://www.catholic.sg/"><img src="/images/Useful%20Link/School_Bag.png"></a><strong><br><br>SCHOOLBAG<br></strong></td> </tr>
+	<tr> <td>Row 3, Column 1</td> <td>Row 3, Column 2</td> <td>Row 3, Column 3</td> </tr> </tbody></table>
 
 
 
