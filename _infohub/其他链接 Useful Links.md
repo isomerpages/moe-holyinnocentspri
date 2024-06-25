@@ -4,10 +4,21 @@ permalink: /for-students-and-parents/user-links/
 description: ""
 variant: markdown
 ---
-Useful link for Parent
+### <center>Useful link for Parent</center> 
 
-<table> <tbody><tr><td><a target="\_blank" href="https://www.catholic.sg/"><img src="/images/Useful%20Link/Archdiocese_coat_of_arms_tight_crop_280.png"><br>Catholic Archdiocese of Singapore<br></a></td> <td><a target="\_blank" href="https://www.moe.gov.sg/"><img src="/images/Useful%20Link/MOE_logo.png"></a></td> <td><a target="\_blank" href="https://www.catholic.sg/"><img src="/images/Useful%20Link/School_Bag.png"></a></td> </tr> <tr> <td>Row 2, Column 1</td> 
-	<td><a target="\_blank" href="https://example.com">Click here to open in new tab</a></td> <td>Row 2, Column 3</td> </tr> <tr> <td>Row 3, Column 1</td> <td>Row 3, Column 2</td> <td>Row 3, Column 3</td> </tr> </tbody></table>
+
+  <style>
+    table {
+      width: 100%; /* Optional: Set the width of the table */
+      text-align: center; /* Center-align the content within the table */
+    }
+  </style>
+
+
+
+<table> <tbody><tr><td><a target="\_blank" href="https://www.catholic.sg/"><img src="/images/Useful%20Link/Archdiocese_coat_of_arms_tight_crop_280.png"></a><strong><br>Catholic Archdiocese of Singapore<br></strong></td> <td><a target="\_blank" href="https://www.moe.gov.sg/"><img src="/images/Useful%20Link/MOE_logo.png"></a></td> <td><a target="\_blank" href="https://www.catholic.sg/"><img src="/images/Useful%20Link/School_Bag.png"></a></td> </tr> <tr> <td>Row 2, Column 1</td> 
+	<td><a target="\_blank" href="https://example.com">Click here to open in new tab</a></td> 
+<td>Row 2, Column 3</td> </tr> <tr> <td>Row 3, Column 1</td> <td>Row 3, Column 2</td> <td>Row 3, Column 3</td> </tr> </tbody></table>
 
 
 
