@@ -416,9 +416,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Farah Nurhuda Bte Mohmad Isa</a>
 </p>
-<p></p>
-<p><a href="mailto:chelsia_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Chelsia Lim</a>
-</p>
 </td>
 </tr>
 <tr>
