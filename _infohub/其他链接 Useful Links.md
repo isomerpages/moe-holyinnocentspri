@@ -4,6 +4,13 @@ permalink: /for-students-and-parents/user-links/
 description: ""
 variant: markdown
 ---
+### <center>Useful link for Parents</center>
+
+<style> table { width: 100%; text-align: center; } table img { width: 100%; height: auto; } </style>  <table border="2"> <tbody><tr> <td> <a target="_blank" href="https://www.catholic.sg/#"> <img src="/images/Useful%20Link/Archdiocese_coat_of_arms_tight_crop_280.png"></a></td> <td> <a target="_blank" href="https://www.moe.gov.sg"> <img alt="Image 2" src="/images/Useful%20Link/MOE_logo.png"> </a> </td> <td> <a target="_blank" href="https://www.schoolbag.edu.sg/"> <img src="/images/Useful%20Link/School_Bag.png"></a> </td> </tr> </tbody></table> 
+
+
+
+
 ### <center>Useful link for Parent</center> 
 
 
@@ -11,7 +18,7 @@ variant: markdown
 	
 <br>
 
-1.   <p><a href="target=">Catholic Archdiocese of Singapore</a></p><p></p>
+1.   <p><a target="_blank" href="https://www.catholic.sg/#">Catholic Archdiocese of Singapore</a></p><p></p>
 2. <p><a target="_blank" href="https://www.schoolbag.edu.sg/">Schoolbag - The Education News Site</a></p>
 3. <p><a target="_blank" href="https://www.nlb.gov.sg/main/home">National Library Board</a></p>
 4. <p><a target="_blank" href="https://schoolibrary.moe.edu.sg/holyinnocentspri">HIPS School Library Online Catalogue</a></p>
