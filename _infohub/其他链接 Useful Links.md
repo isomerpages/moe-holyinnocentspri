@@ -6,6 +6,7 @@ variant: markdown
 ---
 ### <center>Useful link for Parents</center>
 
+
  <style>
         table {
             width: 100%;
