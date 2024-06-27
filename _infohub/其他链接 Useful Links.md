@@ -6,7 +6,12 @@ variant: markdown
 ---
 ### <center>Useful link for Parents</center>
 
-<style> table { width: 100%; text-align: center; } table img { width: 100%; height: auto; } </style>  <table border="2"> <tbody><tr> <td> <a target="_blank" href="https://www.catholic.sg/#"> <img src="/images/Useful%20Link/Archdiocese_coat_of_arms_tight_crop_280.png"></a></td> <td> <a target="_blank" href="https://www.moe.gov.sg"> <img alt="Image 2" src="/images/Useful%20Link/MOE_logo.png"> </a> </td> <td> <a target="_blank" href="https://www.schoolbag.edu.sg/"> <img src="/images/Useful%20Link/School_Bag.png"></a> </td> </tr> </tbody></table> 
+<style> table { width: 100%; text-align: center; } table img { width: 50%; height: 50%; } </style>  
+<table border="2"> <tbody>
+<tr> <td> <a target="_blank" href="https://www.catholic.sg/#"> <img src="/images/Useful%20Link/Archdiocese_coat_of_arms_tight_crop_280.png"></a></td> <td> <a target="_blank" href="https://www.moe.gov.sg"> <img src="/images/Useful%20Link/MOE_logo.png"> </a> </td> <td> <a target="_blank" href="https://www.schoolbag.edu.sg/"> <img src="/images/Useful%20Link/School_Bag.png"></a></td></tr>
+<tr> <td> <a target="_blank" href="https://www.onepa.gov.sg/cc/hougang-cc/"> <img src="/images/Useful%20Link/PA.png"></a><br>Hougang Community Club<br></td> <td> <a target="_blank" href="https://www.nea.gov.sg/"> <img src="/images/Useful%20Link/National_Parks_Board_Logo.png"> </a> </td> <td> <a target="_blank" href="https://www.kindness.sg/"> <img src="/images/Useful%20Link/Singapore_kindness_movement.png"></a></td> </tr> </tbody></table> 
+
+
 
 
 
