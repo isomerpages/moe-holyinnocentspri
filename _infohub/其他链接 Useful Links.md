@@ -7,21 +7,14 @@ variant: markdown
 ### <center>Useful link for Parents</center>
 
 
- <style>
-        table {
-            width: 100%;
-            text-align: center;
-        }
-        table img {
-            display: block;
-            margin: 0 auto;
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-<table border="2"> <tbody>
-<tr> <td> <a target="_blank" href="https://www.catholic.sg/#"> <img src="/images/Useful%20Link/Archdiocese_coat_of_arms_tight_crop_280.png"></a></td> <td> <a target="_blank" href="https://www.moe.gov.sg"> <img src="/images/Useful%20Link/MOE_logo.png"> </a> </td> <td> <a target="_blank" href="https://www.schoolbag.edu.sg/"> <img src="/images/Useful%20Link/School_Bag.png"></a></td></tr>
-<tr> <td> <a target="_blank" href="https://www.onepa.gov.sg/cc/hougang-cc/"> <img src="/images/Useful%20Link/PA.png"></a><br>Hougang Community Club<br></td> <td> <a target="_blank" href="https://www.nea.gov.sg/"> <img src="/images/Useful%20Link/National_Parks_Board_Logo.png"> </a> </td> <td> <a target="_blank" href="https://www.kindness.sg/"> <img src="/images/Useful%20Link/Singapore_kindness_movement.png"></a></td> </tr> </tbody></table> 
+<table> <tbody><tr> <td><br><a target="_blank" href="https://www.catholic.sg/#"><img height="100" width="100" src="/images/Useful%20Link/Archdiocese_coat_of_arms_tight_crop_280.png"></a></td>
+<td><a target="\_blank" href="https://moe.gov.sg"><img height="80" width="80" src="/images/Useful%20Link/MOE_logo.png"></a></td>
+<td><br><br><a target="_blank" href="https://www.schoolbag.edu.sg/"><img height="90" width="90" src="/images/Useful%20Link/School_Bag.png"></a></td>
+</tr> <tr> <td><a target="\_blank" href="https://example.com"><img height="100" width="100" alt="Description of the image" src="image.jpg"></a></td>
+<td><a target="\_blank" href="https://example.com"><img height="100" width="100" alt="Description of the image" src="image.jpg"></a></td> <td><a target="\_blank" href="https://example.com"><img height="100" width="100" alt="Description of the image" src="image.jpg"></a></td>
+</tr> <tr> <td><a target="\_blank" href="https://example.com"><img height="100" width="100" alt="Description of the image" src="image.jpg"></a></td>
+<td><a target="\_blank" href="https://example.com"><img height="100" width="100" alt="Description of the image" src="image.jpg"></a></td>
+<td><a target="\_blank" href="https://example.com"><img height="100" width="100" alt="Description of the image" src="image.jpg"></a></td></tr> </tbody></table>
 
 
 
@@ -30,9 +23,6 @@ variant: markdown
 
 ### <center>Useful link for Parent</center> 
 
-
-
-	
 <br>
 
 1.   <p><a target="_blank" href="https://www.catholic.sg/#">Catholic Archdiocese of Singapore</a></p><p></p>
