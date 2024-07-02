@@ -4,7 +4,11 @@ permalink: /for-students-and-parents/user-links/
 description: ""
 variant: markdown
 ---
-1.   <p><a target="_blank" href="https://www.catholic.sg/">Catholic Archdiocese of Singapore</a></p>
+### <center>Useful link for Parent</center> 
+
+<br>
+
+1.   <p><a target="_blank" href="https://www.catholic.sg/#">Catholic Archdiocese of Singapore</a></p>
 2. <p><a target="_blank" href="https://www.schoolbag.edu.sg/">Schoolbag - The Education News Site</a></p>
 3. <p><a target="_blank" href="https://www.nlb.gov.sg/main/home">National Library Board</a></p>
 4. <p><a target="_blank" href="https://schoolibrary.moe.edu.sg/holyinnocentspri">HIPS School Library Online Catalogue</a></p>
@@ -18,4 +22,3 @@ variant: markdown
 12. <p><a target="_blank" href="https://vle.learning.moe.edu.sg/login">Singapore Student Learning Space (SLS)</a></p>
 13.  Password reset request support for MIMS (Student iCON) and SLS 
 			 <br> <a target="_blank" href="https://go.gov.sg/hips-student-icon-reset">MIMS &amp; SLS password Reset request page</a>
-			
