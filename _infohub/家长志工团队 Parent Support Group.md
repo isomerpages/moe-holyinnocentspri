@@ -30,7 +30,7 @@ Our logo symbolizes the link between the school and the parents working together
 
 
 | **Advisors**|  |  
-| -------- | -------- | 
+| :--------: | :--------: | 
 |Ms Lena Seet <br> Principal | Mr John Ng <br> Vice Principal (Administration)|
 
 
@@ -44,16 +44,17 @@ Our logo symbolizes the link between the school and the parents working together
 |**Procurement Head**|Ms Yang Yan |
 |**Treasurer**|Ms Adeline Chang |
 
+<br>
 
 | Commitee Members |  | 
 | -------- | -------- | 
-| Ms Shernese Goh <br> Ms Adeline Low | Mr Joachim Goh  <br> Ms Cheryl Loh  |   
+| Ms Shernese Goh <br> Ms Adeline Low | Mr Joachim Goh  <br> Ms Christina Wang  |   
 
 
 
 #### Activities
 
-![](/images/PSG@HIPS_2.jpg)
+![](/images/PSG/PSG2024_v2.jpg)
 
 **GIFT - Growing in Faith Together**  
 Led by our Chaplain, the GIFT volunteers and teachers have developed programmes for students at the different levels. Topics such as the lives of Saints and the Gift of the Holy Spirit are shared during these sessions.&nbsp;&nbsp;The GIFT programme is not a substitute for the Catechism programme conducted in the parishes.&nbsp;  
