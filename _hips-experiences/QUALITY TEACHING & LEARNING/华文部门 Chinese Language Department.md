@@ -3,6 +3,7 @@ title: 华文部门 Chinese Language Department
 permalink: /quality-teaching-and-learning/chinese-language-department/
 description: ""
 third_nav_title: QUALITY TEACHING & LEARNING
+variant: markdown
 ---
 ## 华文部门 <br>Chinese Language Department
 
@@ -55,18 +56,12 @@ Innovative and creative pedagogies combined with use of ICT to engage our studen
 
 扎根传统文化，发扬本土华族文化
 
-<img style="width: 60%;" src="/images/CL3.jpeg" align="center">
+<img style="width: 100%;" src="/images/CL%20department/2024_School_Website.png" align="center">
 
-<center>活动作品展</center>
-
-<img style="width: 60%;" src="/images/CL4.jpeg" align="center">
-
-<center>认识四大名著 -《西游记》</center>
-
+<br>
 <img style="width: 60%;" src="/images/CL5.jpeg" align="center">
 
 <center>认识本土文化</center>
-
 
 
 |  |  |
