@@ -58,12 +58,10 @@ Innovative and creative pedagogies combined with use of ICT to engage our studen
 
 <img style="width: 100%;" src="/images/CL%20department/2024_School_Website.png" align="center">
 
+
 <br>
-<img style="width: 60%;" src="/images/CL5.jpeg" align="center">
-
-<center>认识本土文化</center>
-
 
 |  |  |
-| -------- | -------- | 
-|   ![](/images/CL6.jpeg)   |   ![](/images/CL7.jpeg)<br>ICLC国际创意写作比赛   |
+| -------- | -------- |
+|  <br> ![](/images/CL6.jpeg)  <br> |<br><br><br> <br>  ![](/images/CL7.jpeg)   |
+||ICLC国际创意写作比赛|
