@@ -21,4 +21,4 @@ variant: markdown
 
 <br>
 
-<span style="font-size:24px;">Submission of parent's nomination for ECHA for 2024 will be from **30 August to 13 September 2024**.</span>
+<span style="font-size:24px;">Submission of parent's nomination for ECHA 2024 will be from **30 August to 13 September 2024**.</span>
