@@ -11,9 +11,9 @@ The School is located at 5 Lorong Low Koon, Singapore 536451. <br> <br>
 
 | Type of Stall | Closing Date| Requirement |
 | -------- | -------- | -------- |
-| Malay Noodles and Rice | 30 June 2024 | Halal |
-|Chinese Mixed Rice|30 June 2024|Nil|
-|Japanese Food|30 June 2024|Nil|
+|Chinese Mixed Rice|31 December 2024|Nil|
+|Japanese Food|31 December 2024|Nil|
+|Chinese Noodle (soup)|31 December 2024|Nil|
 |||
 
 ##### **Application Procedure** 
