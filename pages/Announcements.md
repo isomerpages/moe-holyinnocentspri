@@ -7,17 +7,8 @@ variant: markdown
 ## Announcements
 
 
-#### 1. **Assessment Matters**
-<br>
-**PSLE Oral Exams and Listening Comprehension**
-<br>
-Please be informed that there will be **no school** for **Primary 1 to Primary 5 students** on the 
-following dates due to PSLE Oral Exams and Listening Comprehension.
-<br>
-![](/images/Annoucement/PSLE_2024.png)
-<br>
 
-#### 2. **Teachers' Day Celebration**
+#### **Teachers' Day Celebration**
 <br>
 It’s the time of the year again! We are excited to be celebrating Teachers’ Day on **29 August 2024**, 
 **Thursday**. There will be no lessons during school hours as we anticipate a meaningful time of 
