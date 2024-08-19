@@ -13,6 +13,7 @@ The School is located at 5 Lorong Low Koon, Singapore 536451. <br> <br>
 | -------- | -------- | -------- |
 |Chinese Mixed Rice|31 December 2024|Nil|
 |Japanese Food|31 December 2024|Nil|
+|Chinese Noodle (soup)|31 December 2024|Nil|
 |||
 
 ##### **Application Procedure** 
