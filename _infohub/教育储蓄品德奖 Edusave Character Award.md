@@ -20,7 +20,7 @@ variant: markdown
 5. Students who have met the above-mentioned criteria and demonstrated resilience (compulsory for **P4 - P6** students) despite facing challenging situations at home or in school should be highlighted as well.
 
 <br>
-To download FORM, please click [HERE](https://for.edu.sg/echa-hips)
+To download FORM, please click [HERE](https://go.gov.sg/hips-echa)
 <br>
 Or scan this QR code to download the form. 
 <img style="width: 20%;" src="/images/QR%20code/echa%20form.png" align="centre">
