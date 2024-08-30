@@ -20,5 +20,8 @@ variant: markdown
 5. Students who have met the above-mentioned criteria and demonstrated resilience (compulsory for **P4 - P6** students) despite facing challenging situations at home or in school should be highlighted as well.
 
 <br>
+To download FORM, please click [HERE](https://for.edu.sg/echa-hips).
+
+<br>
 
 <span style="font-size:24px;">Submission of parent's nomination for ECHA 2024 will be from **30 August to 13 September 2024**.</span>
