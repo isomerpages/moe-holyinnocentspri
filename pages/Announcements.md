@@ -5,19 +5,27 @@ description: ""
 variant: tiptap
 ---
 <h2>Announcements</h2>
-<h4><strong>Teachers' Day Celebration</strong></h4>
+<h4><strong>1. Primary 6 Study Break 2024 (23 Sep to 25 Sep)</strong></h4>
 <p>
-<br>It’s the time of the year again! We are excited to be celebrating Teachers’
-Day on <strong>29 August 2024</strong>, <strong>Thursday</strong>. There
-will be no lessons during school hours as we anticipate a meaningful time
-of celebrating the day in honour of our teachers. Please be informed of
-the early school dismissal time at <strong>10.30 am</strong>. There will
-be <strong>no school on Friday, 30 August 2024</strong>.
-<br>
-<br>This year, the theme for our Teachers’ Day celebration is, <strong><em>Planting Seeds of Change</em></strong>.
-To enhance the celebrative atmosphere at school, we wish to encourage our
-students to come to school in green t-shirts or clothes with plant prints.
+<br>The school will be implementing a three-day study break for P6 students
+from 23 Sep (Mon) to 25 Sep (Wed) 2024 to support their well-being prior
+to the PSLE. During this period, P6 students are strongly encouraged to
+remain at home and do their revision.
 <br>
 </p>
+<p>Students who require assistance from their core subject teachers may seek
+consultations with their teachers via Zoom over 2 days from 23 Sep (Mon)
+to 24 Sep (Tue). Students will follow their class timetable for the timings
+of the core subject lessons. Please note that students will refer to the
+Student Learning Space (SLS) for the zoom details of the 4 core subjects.
+The school may require selected students to return to school during the
+study break. Parents/guardians will be informed separately.
+<br>
+</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
 <p>Please refer to PG letters for any other update.</p>
 <p>Thank you.</p>
