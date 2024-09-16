@@ -12,8 +12,8 @@ Please be informed that there will be **no school** for **Primary 1 to Primary 5
 
 | Examination | Date | 
 | -------- | -------- | 
-| PSLE Oral Exams| 13 and 14 August 2024| 
 |PSLE Listening Comprehension|13 September 2024|
+|PSLE written Examination|26 September to 2 October 2024|
 |||
 
 
