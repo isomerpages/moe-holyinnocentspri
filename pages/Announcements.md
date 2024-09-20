@@ -28,6 +28,9 @@ PSLE written examination, teaching and learning for the Primary 1 to 5
 students will take the form of blended learning during the PSLE written
 examination.</p>
 <p>Please be refer to the following schedule:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucement/Blended_Learing_PSLE_2024.png">
+</div>
 <p></p>
 <p></p>
 <h4><strong>3. Arrangements on PSLE marking days 2024</strong></h4>
@@ -87,7 +90,6 @@ vibrant spirit.</p>
 reminded to pack their own snack and bring their water bottle. Students
 are also encouraged to bring a story book and some stationery in a small
 bag with them.</p>
-<p></p>
 <p>There is no school on Children’s Day, which is a scheduled school holiday,
 on 4 October 2024, Friday.</p>
 <p></p>
