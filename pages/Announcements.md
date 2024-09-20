@@ -5,12 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h2>Announcements</h2>
-<h4><strong>1. Primary 6 Study Break 2024 (23 Sep to 25 Sep)</strong></h4>
+<h4><strong>1. Primary 6 Study Break 2024 (23 Sep to 25 Sep 2024)</strong></h4>
 <p>
 <br>The school will be implementing a three-day study break for P6 students
-from 23 Sep (Mon) to 25 Sep (Wed) 2024 to support their well-being prior
-to the PSLE. During this period, P6 students are strongly encouraged to
-remain at home and do their revision.
+from <strong>23 Sep (Mon) to 25 Sep (Wed) 202</strong>4 to support their
+well-being prior to the PSLE. During this period, P6 students are strongly
+encouraged to remain at home and do their revision.
 <br>
 </p>
 <p>Students who require assistance from their core subject teachers may seek
@@ -28,6 +28,7 @@ PSLE written examination, teaching and learning for the Primary 1 to 5
 students will take the form of blended learning during the PSLE written
 examination.</p>
 <p>Please be refer to the following schedule:</p>
+<p></p>
 <p></p>
 <h4><strong>3. Arrangements on PSLE marking days 2024</strong></h4>
 <p>PSLE marking days will take place from 14 – 16 October 2024. Primary 1,
