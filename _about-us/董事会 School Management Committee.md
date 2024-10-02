@@ -2,14 +2,15 @@
 title: 董事会 School Management Committee
 permalink: /hips-family/school-management-committee/
 description: ""
+variant: markdown
 ---
 ## 董事会 <br>School Management Committee
 
 **Rev Fr Frederick Quek Eng Wah**  
 Chairman &amp; School Chaplain  
   
-**Dr Joseph Tan Sun Teck**&nbsp;  
-Vice Chairman &amp; Supervisor  
+**Mr Tan Jee Ming**&nbsp;  
+Vice Chairman &amp; Supervisor
   
 **Mrs Rebecca Chew**  
 Honorary Secretary  
@@ -19,14 +20,13 @@ Principal - Holy Innocents' High School
 Secretary  
 Principal - Holy Innocents' Primary School  
   
-**Ms Cindy Cheah Pi Nyan**
+**A/P Sylvia Chong**
 &nbsp;<br>Treasurer
-  
-**Mr Raphael Teo Hock Chuan**  
-Committee Member  
   
 **Mr Tan Heng Meng**  
 Committee Member&nbsp;  
 
-**Mr Tan Jee Ming**  
-Committee Member
+**Ms Cheah Pi Nyan Cindy**  
+Committee Member  
+  
+
