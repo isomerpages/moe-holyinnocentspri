@@ -27,6 +27,4 @@ Principal - Holy Innocents' Primary School
 Committee Member&nbsp;  
 
 **Ms Cheah Pi Nyan Cindy**  
-Committee Member  
-  
-
+Committee Member
