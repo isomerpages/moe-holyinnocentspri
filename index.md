@@ -27,4 +27,5 @@ sections:
       description: Respecting our staff
       image: /images/HOMEPAGE_HERO banner/moe engagement charter.png
       alt: moe engagement charter
+      subtitle: Holy Innocents' Primary School
 ---
