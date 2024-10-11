@@ -24,4 +24,5 @@ sections:
       id: infopic
       button: More information
       url: https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a
+      subtitle: Holy Innocents' Primary School
 ---
