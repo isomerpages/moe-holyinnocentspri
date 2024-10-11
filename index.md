@@ -26,4 +26,5 @@ sections:
       url: https://for.edu.sg/partnership-with-hips
       description: Respecting our staff
       image: /images/HOMEPAGE_HERO banner/moe engagement charter.png
+      alt: moe engagement charter
 ---
