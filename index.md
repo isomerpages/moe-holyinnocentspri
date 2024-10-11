@@ -23,7 +23,7 @@ sections:
       title: Partner with you
       id: infopic
       button: Click here
-      url: https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a
+      url: https://www.moe.gov.sg/-/media/files/news/press/2024/annex-b---engagement-charter.pdf
       subtitle: Holy Innocents' Primary School
       image: /images/HOMEPAGE_HERO banner/moe_engagement_charter.png
       alt: MOE Engagement Charter
