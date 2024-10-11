@@ -19,4 +19,13 @@ sections:
           description: ""
           url: https://holyinnocentspri.moe.edu.sg/hips-family/school-calendar/
       variant: image
+  - infopic:
+      title: School - Home Partnership
+      id: infopic
+      button: Click here
+      url: https://for.edu.sg/partnership-with-hips
+      description: Respecting our staff
+      image: /images/HOMEPAGE_HERO banner/moe engagement charter.png
+      alt: moe engagement charter
+      subtitle: Holy Innocents' Primary School
 ---
