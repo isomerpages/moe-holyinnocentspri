@@ -23,7 +23,5 @@ sections:
       title: Partner with you
       id: infopic
       button: More information
-      url: https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf
-      image: /images/HOMEPAGE_HERO banner/MOE_engagement_charter_for_website__002_.png
-      alt: Image alt text
+      url: https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a
 ---
