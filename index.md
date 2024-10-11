@@ -20,7 +20,7 @@ sections:
           url: https://holyinnocentspri.moe.edu.sg/hips-family/school-calendar/
       variant: image
   - infopic:
-      title: Partner with you
+      title: School - Home Partnership
       id: infopic
       button: Click here
       url: https://for.edu.sg/partnership-with-hips
