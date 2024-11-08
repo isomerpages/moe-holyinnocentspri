@@ -504,7 +504,7 @@ variant: tiptap
 <p>(叶老师)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wat_wai_fung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wat Wai Fung</a>
+<p><a href="mailto:wat_wai_fung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wat Wai Fung</a>
 </p>
 </td>
 </tr>
@@ -599,14 +599,14 @@ variant: tiptap
 <p>5 Self-Discipline 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_kuan_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Kuan Hwa</a>
+<p><a href="mailto:ng_kuan_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ng Kuan Hwa</a>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lee_siew_kian_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Siew Kian, Joyce</a>
 </p>
-<p><a href="mailto:goh_lee_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Goh Lee Chuan</a>
+<p><a href="mailto:goh_lee_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Goh Lee Chuan</a>
 </p>
 </td>
 </tr>
@@ -628,7 +628,7 @@ variant: tiptap
 <p>5 Self-Discipline 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_qinyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chua Qinyu</a>
+<p><a href="mailto:chua_qinyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Qinyu</a>
 </p>
 <p>(蔡老师)</p>
 </td>
@@ -684,7 +684,7 @@ variant: tiptap
 <p>5 Self-Discipline 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shobana_sreetharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Shobana d/o Sreetharan</a>
+<p><a href="mailto:shobana_sreetharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shobana d/o Sreetharan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -901,7 +901,7 @@ variant: tiptap
 <br>(Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lorraine_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lorraine Leong</a> 
+<p><a href="mailto:lorraine_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lorraine Leong</a> 
 <br>(English Language)</p>
 </td>
 </tr>
