@@ -6,17 +6,14 @@ variant: markdown
 ---
 <iframe scrolling="no" frameborder="0" height="600" width="900" style="border:solid 1px #777" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;showTz=0&amp;src=YWRtaW5faG9seWlubm9jZW50QG1vZS5lZHUuc2c&amp;color=%234285F4"></iframe>
 	
-#### **PSLE Oral Exams and Listening Comprehension**
+#### **School Year 2025**
 
-Please be informed that there will be **no school** for **Primary 1 to Primary 5 students** on the following dates due to PSLE Oral Examination and Listening Comprehension.
+Please note that the new school year will start on Thursday, **2 January 2025**. 
+<br>
+* Term 1 Week 1 2025, Thursday (**2 January 2025**): Only P1 (and one parent per child) to be in school. 
+* Term 1 Week 1 2025, Friday (**3 January 2025**) onwards: All levels to be in school.
 
-| Examination | Date | 
-| -------- | -------- | 
-|PSLE Listening Comprehension|13 September 2024|
-|PSLE written Examination|26 September to 2 October 2024|
-|||
-
-
+#### **Meet-the-Parents Session 2025**
 
 
 ***All the events are subjected to changes.***
