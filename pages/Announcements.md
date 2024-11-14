@@ -5,12 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h2>Announcements</h2>
-<h4><strong>1. Arrangements on PSLE marking days 2024</strong></h4>
-<p>PSLE marking days will take place from 14 – 16 October 2024. Primary 1,
-2 and 6 students do not attend school on these marking days. Primary 3,
-4 and 5 students will be back in school on selected days during the PSLE
-marking period as follows:</p>
 <p></p>
+<h4><strong>Award Day 2024</strong></h4>
+<p>Awards Day 2024 will be conducted on <strong>15 November 2024</strong> from <strong>8.00 a.m. to 10.30 a.m</strong>.
+All Primary 1 to 6 prize winners and Primary 6 students will be attending
+the Awards Day ceremony which will be conducted in the school hall. Primary
+1 to Primary 5 students will not need to come to school on this day</p>
+<p></p>
+<h4><strong>Release and collection of Report Books for P1 to P6</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -19,52 +21,47 @@ marking period as follows:</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Date of PSLE marking</p>
+<p>Items</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Levels coming back to school</p>
+<p>Date</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 October 2024, Monday</p>
+<p>Release of P1 to P6 report Books</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 October 2024, Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 3</p>
+<p>13 Nov 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 October 2024, Wednesday</p>
+<p>Return of P1, 2, 3, 4 &amp; 5 Report Books</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 5</p>
+<p>By 6 Jan 2025</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<h4><strong>2. Children’s Day Celebration</strong></h4>
-<p>The school will be celebrating Children’s Day on <strong>3 October 2024, Thursday</strong>.
-This year’s theme for the celebrations is, ‘<strong><em>I am a Star</em></strong>’.
-Students need not wear their school uniforms on that day and are instead,
-encouraged to come dressed in colourful attire to celebrate the day in
-vibrant spirit.</p>
-<p>Only two stalls in the school canteen will be operating so students are
-reminded to pack their own snack and bring their water bottle. Students
-are also encouraged to bring a story book and some stationery in a small
-bag with them.</p>
-<p>There is no school on Children’s Day, which is a scheduled school holiday,
-on 4 October 2024, Friday.</p>
+<h4><strong>School Hours 2025</strong></h4>
+<p>Please note that the new school year will start on <strong>Thursday, 2 January 2025</strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Term 1 Week 1 2025, Thursday (2 January 2025) </strong>: Only
+P1 (and one parent per child) to be in school.</p>
+</li>
+<li>
+<p><strong>Term 1 Week 1 2025, Friday (3 January 2025) onward </strong>:
+All levels to be in school.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
-<p>Please refer to PG letters for any other update.</p>
-<p>Thank you.</p>
+<p></p>
+<p><em>Please refer to PG letters for any other update.</em>
+</p>
+<p><em>Thank you.</em>
+</p>
