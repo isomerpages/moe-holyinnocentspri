@@ -19,9 +19,6 @@ Through participation of CCA, students are provided with varied and authentic op
 
 #### Co-Curriculum Activities Programme
 
- **CCA Schedule 2024** <br>
-Click <a target="\_blank" href="https://for.edu.sg/hips-cca-schedule"> here </a> to download the updated schedule.
-
  **CCA Schedule 2025** <br>
 Click <a target="\_blank" href="https://for.edu.sg/hips-cca-schedule"> here </a> to download the updated schedule.
 
