@@ -19,10 +19,10 @@ Please note that the new school year will start on Thursday, **2 January 2025**.
 
 | Level | Date &amp; Timing* | 
 | -------- | -------- | 
-| P1 and P2    | 18 February 2025 (Tuesday), 3.00pm to 4.30pm   | 
+| P1 and P2| 18 February 2025 (Tuesday), 3.00pm to 4.30pm   | 
 |P3 and P4| 19 February 2025 (Wednesday), 3.00pm to 4.30pm|
 |P5 and P6|20 February 2025 (Thursday), 3.00pm to 4.30pm|
- ****Timings subject to change***
+<br> ****Timings subject to change***
 
 
 
