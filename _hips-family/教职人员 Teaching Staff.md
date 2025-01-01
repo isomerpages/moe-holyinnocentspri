@@ -7,7 +7,7 @@ variant: tiptap
 <h2>2025年教职人员</h2>
 <h2>2025 Teaching Staff</h2>
 <p></p>
-<h4><strong>Primary  1  Form Teachers</strong></h4>
+<h4><strong>Primary 1 Form Teachers</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -146,7 +146,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4><strong>Primary  2  Form Teachers</strong></h4>
+<h4><strong>Primary 2 Form Teachers</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -291,7 +291,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4><strong>Primary  3  Form Teachers</strong></h4>
+<h4><strong>Primary 3 Form Teachers</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -405,7 +405,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4><strong>Primary  4  Form Teachers</strong></h4>
+<h4><strong>Primary 4 Form Teachers</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -519,7 +519,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4><strong>Primary  5  Form Teachers</strong></h4>
+<h4><strong>Primary 5 Form Teachers</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -636,7 +636,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4><strong>Primary  6  Form Teachers</strong></h4>
+<h4><strong>Primary 6 Form Teachers</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
