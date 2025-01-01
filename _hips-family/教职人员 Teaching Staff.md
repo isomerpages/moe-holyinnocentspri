@@ -44,13 +44,13 @@ variant: tiptap
 <p>2 Charity 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_hajjar_hasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Hajjar Hasan</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:he_lu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm He Lu</a>
 </p>
 <p>(何老师)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chelsia_lim@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chelsia Lim</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwek_jin_foon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Kwek Jin Foon</a>
+<p><a href="victoria_lee@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Victoria Lee</a>
 </p>
 </td>
 </tr>
@@ -163,8 +163,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>Primary 2 Form Teachers</strong>
-</p>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
