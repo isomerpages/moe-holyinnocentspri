@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>2024年教职人员</h2>
-<h2>2024 Teaching Staff</h2>
+<h2>2025 Teaching Staff</h2>
 <p></p>
-<p><strong>Primary 1 Form Teachers</strong>
+<p><strong>Primary 2 Form Teachers</strong>
 </p>
 <p></p>
 <table style="minWidth: 75px">
@@ -27,7 +27,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Sincerity 1</p>
+<p>2 Charity 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:neo_wei_lin_gwendolyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Neo Wei Lin Gwendolyn</a>
@@ -41,7 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Sincerity 2</p>
+<p>2 Charity 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_hajjar_hasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Hajjar Hasan</a>
@@ -55,7 +55,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Sincerity 3</p>
+<p>2 Charity 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soh_siok_lin_carolina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Soh Siok Lin Carolina</a>
@@ -69,7 +69,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Sincerity 4</p>
+<p>2 Charity 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ryan_tay_en_huang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tay En Huang Ryan</a>
@@ -82,7 +82,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Sincerity 5</p>
+<p>2 Charity 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seet_ping_ping_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Seet Ping Ping, Esther</a>
@@ -95,7 +95,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Sincerity 6</p>
+<p>2 Charity 6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohammad_aizal_zainol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Aizal Bin Zainol</a>
@@ -111,7 +111,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Sincerity 7</p>
+<p>2 Charity 7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lau_lay_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lau Lay Kiang</a>
@@ -125,7 +125,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Sincerity 8</p>
+<p>2 Charity 8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lin_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lin Lin </a>
@@ -138,7 +138,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Sincerity 9</p>
+<p>2 Charity 9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ye_peishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ye PeiShan (Mrs Shen)</a>
