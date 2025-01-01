@@ -42,18 +42,18 @@ variant: markdown
 
 | PE / CCA | AESTHETICS| Special Assistance Plan<br> (SAP) |
 | -------- | -------- | -------- |
-|<a href="mailto:lau_ban_hwee@moe.edu.sg">Mr Lau Ban Hwee</a><br>Head of Department |<a href="mailto:sarah_koh_hui_khoon@moe.edu.sg">Mrs Sarah Lee</a><br>Head of Department| <a href="mailto:foong_wenfang@moe.edu.sg">Miss Foong Wenfang</a> (冯老师) (Covering)<br>Head of Department|
+|<a href="mailto:lau_ban_hwee@moe.edu.sg">Mr Lau Ban Hwee</a><br>Head of Department |<a href="mailto:sarah_koh_hui_khoon@moe.edu.sg">Mrs Sarah Lee</a><br>Head of Department| <a href="mailto:ng_wan_jun@moe.edu.sg">Mdm Ng Wan Jun</a> (黄老师) <br>Head of Department|
 |||
 
 
 | Information &amp; Communications Technology<br>(ICT)| 
 | -------- | 
-| <a href="mailto:lim_sheng@moe.edu.sg">Mr Lim Sheng</a><br>Head of Department|
+| <a href="mailto:chua_sze_yi@moe.edu.sg">Mdm Kerin Chua</a><br>Head of Department (Covering) |
 |<a href="mailto:chua_qinyu@moe.edu.sg">Mdm Chua Qinyu</a> (蔡老师)<br>Subject Head|
 ||
 
 | |Year Head/ Assistance Year Head||
 |:--------:| :--------: | :--------: |
 |**Lower Primary**|**Middle Primary**|**Upper Primary**|
-|<a href="mailto:eng_li_yun_felicia@moe.edu.sg">Mdm Felicia Eng</a><br>YH<br><br>[Mdm Shobana d/o Sreetharan](mailto:shobana_sreetharan@moe.edu.sg)<br> AYH|<a href="mailto:lim_soo_ngee_martina@moe.edu.sg">Miss Martina Lim</a><br>YH<br> <br>[Mdm Yap Xinhui Cheryl](mailto:cheryl_yap_xinhui@moe.edu.sg)<br>AYH|<a href="mailto:chu_yunfeng_alex@moe.edu.sg">Mr Alex Chu</a><br>|
+|<a href="mailto:eng_li_yun_felicia@moe.edu.sg">Mdm Felicia Eng</a><br>YH|<a href="mailto:lim_soo_ngee_martina@moe.edu.sg">Miss Martina Lim</a><br>YH<br> <br>[Mdm Yap Xinhui Cheryl](mailto:cheryl_yap_xinhui@moe.edu.sg)<br>AYH|<a href="mailto:chu_yunfeng_alex@moe.edu.sg">Mr Alex Chu</a><br>|
 |||
