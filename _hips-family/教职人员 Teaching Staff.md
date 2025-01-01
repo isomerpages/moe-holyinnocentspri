@@ -770,7 +770,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_tin_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Low Tin Hock</a> 
+<p><a href="mailto:low_tin_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Low Tin Hock</a>
 </p>
 <p>(刘老师）</p>
 </td>
@@ -832,7 +832,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lim_jia_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lim Jia Hui </a>
+<p><a href="lim_jia_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lim Jia Hui</a>
 </p>
 </td>
 </tr>
@@ -841,7 +841,7 @@ variant: tiptap
 <p>6 Resilience 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mohamad_zaki_ali@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Mohamad Zaki Bin Ali </a>
+<p><a href="mohamad_zaki_ali@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Mohamad Zaki Bin Ali</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
