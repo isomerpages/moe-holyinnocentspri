@@ -4,12 +4,130 @@ permalink: /committed-and-competent-staff/teaching-staff/
 description: ""
 variant: tiptap
 ---
-<h2>2024年教职人员</h2>
+<h2>2025年教职人员</h2>
 <h2>2025 Teaching Staff</h2>
+<p></p>
+<p><strong>Primary 1 Form Teachers</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CLASS</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>FORM TEACHERS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Sincerity 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Sincerity 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Sincerity 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Sincerity 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Sincerity 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Sincerity 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Sincerity 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Sincerity 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Sincerity 9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>Primary 2 Form Teachers</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -423,25 +541,14 @@ variant: tiptap
 <p>(黄老师)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lim_soo_ee@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Lim Soo Ee </a>
+<p><a href="lim_soo_ee@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Lim Soo Ee</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p><strong>Primary 4 Form Teachers</strong>
+<p><strong>Primary 5 Form Teachers</strong>
 </p>
 <p></p>
 <table style="minWidth: 75px">
@@ -471,9 +578,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dong_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Dong Yan</a>
-</p>
-<p>(董老师)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -485,7 +590,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhong_wanying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhong Wanying</a>
+<p><a href="mailto:zhong_wanying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">M</a>
 </p>
 </td>
 </tr>
@@ -512,9 +617,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liu_diqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Diqin</a>
-</p>
-<p>(刘老师)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -573,7 +676,6 @@ variant: tiptap
 <p></p>
 <p><strong>Primary 5 Form Teachers</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -594,15 +696,13 @@ variant: tiptap
 <p>5 Self-Discipline 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_kuan_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ng Kuan Hwa</a>
+<p><a href="mailto:mohammed_aqil_mohd_mislan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammed Aqil Mohd Mislan</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lee_siew_kian_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Siew Kian, Joyce</a>
+<p><a href="mailto:tan_qiu_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Qiu Ling</a>
 </p>
-<p><a href="mailto:goh_lee_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Goh Lee Chuan</a>
-</p>
+<p>(陈老师)</p>
 </td>
 </tr>
 <tr>
@@ -610,11 +710,12 @@ variant: tiptap
 <p>5 Self-Discipline 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_ying_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Irene Tan Ying Fong</a>
+<p><a href="mailto:liu_diqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Diqin</a>
 </p>
+<p>(刘老师)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_shea_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Shea Li</a>
+<p><a href="mailto:zhong_wanying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhong Wanying</a>
 </p>
 </td>
 </tr>
@@ -623,20 +724,134 @@ variant: tiptap
 <p>5 Self-Discipline 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_qinyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Qinyu</a>
+<p><a href="gayathri_selvamany@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Gayathri d/o Selvamany</a>
 </p>
-<p>(蔡老师)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chelsia_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chelsia Lim</a>
+<p><a href="ng_wan_jun@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ng Wan Jun</a>
 </p>
+<p>(黄老师)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Self-Discipline 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:dong_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Dong Yan</a>
+</p>
+<p>(董老师)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lorraine_leong@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lorraine Leong</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Self-Discipline 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="dawn_ng_li_jun@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ng Li Jun Dawn Janner</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ng_seow_wah@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ng Seow Wah</a>
+</p>
+<p>(黄老师)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Self-Discipline 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="fok_wai_ching@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Fok Wai Ching</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_tin_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Low Tin Hock</a> 
+</p>
+<p>(刘老师）</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Self-Discipline 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_lily_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lily Lim</a>
+</p>
+<p>(林老师）</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lee_shea_li@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lee Shea Li</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Primary 6 Form Teachers</strong>
+</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CLASS</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>FORM TEACHERS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Resilience 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_kuan_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ng Kuan Hwa</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_lee_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Goh Lee Chuan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Resilience 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_ying_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Ying Fong</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lim_jia_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lim Jia Hui </a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Resilience 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mohamad_zaki_ali@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Mohamad Zaki Bin Ali </a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:tan_chuyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Chuyan</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Self-Discipline 4</p>
+<p>6 Resilience 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_khairi_hanafi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Khairi Bin Hanafi</a>
@@ -649,60 +864,47 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Self-Discipline 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:song_zhenying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Song Zhenying</a>
-</p>
+<p>6 Resilience 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_ghim_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sim Ghim Hong</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:song_zhenying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Song Zhenying</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Self-Discipline 6</p>
+<p>6 Resilience 6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zubaidah_ahmat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zubaidah Bte Ahmat</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwang_yu_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kwang Yu Fung</a>
+<p><a href="mailto:sarah_koh_hui_khoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sarah Lee - Koh Hui Khoon</a>
 </p>
-<p>(关老师)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Self-Discipline 7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shobana_sreetharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shobana d/o Sreetharan</a>
-</p>
+<p>6 Resilience 7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:samantha_s_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tan Sin Guan Samantha</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chu_yunfeng_alex@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chu Yunfeng Alex</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p><strong>Primary 6 Form Teachers</strong>
-</p>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -728,9 +930,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_lily_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lily Lim</a>
-</p>
-<p>(林老师）</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -738,8 +938,7 @@ variant: tiptap
 <p>6 Resilience 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chu_yunfeng_alex@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chu Yunfeng Alex</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_loo_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Loo Peng</a>
@@ -751,8 +950,7 @@ variant: tiptap
 <p>6 Resilience 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohammed_aqil_mohd_mislan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammed Aqil Mohd Mislan</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sarah_koh_hui_khoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sarah Lee - Koh Hui Khoon</a>
@@ -764,9 +962,7 @@ variant: tiptap
 <p>6 Resilience 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_qiu_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Qiu Ling</a>
-</p>
-<p>(陈老师)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yew_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lim Yew Hock</a>
@@ -789,15 +985,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Resilience 6</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Sheng</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_soo_ee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Lim Soo Ee</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -848,7 +1042,7 @@ variant: tiptap
 <br>(Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_ying_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Ying Fong Irene</a> 
+<p><a href="mailto:tan_ying_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Ying Fong</a>
 <br>(Science)</p>
 </td>
 </tr>
