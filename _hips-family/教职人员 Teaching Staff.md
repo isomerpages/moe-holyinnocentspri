@@ -106,9 +106,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="cheryl_yap_xinhui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Yap Xinhui Cheryl</a>
-</p>
-<p>(叶老师)</p>
+<p><a href="cheryl_yap_xinhui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Yap Xinhui Cheryl</a>(叶老师)</p>
 </td>
 </tr>
 <tr>
