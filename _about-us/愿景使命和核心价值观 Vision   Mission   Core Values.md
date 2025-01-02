@@ -2,14 +2,18 @@
 title: 愿景使命和核心价值观 Vision   Mission   Core Values
 permalink: /hips-family/vision-mission-core-values/
 description: ""
+variant: markdown
 ---
 ## 愿景使命和核心价值观 <br>VISION . MISSION . CORE VALUES
 
 
-**Vision**  
-  
-
-**C**aring He**A**rts, C**R**eativ**E**&nbsp;Minds
+**Vision**
+ 
+Adaptive Learner
+<br>
+Bilingual Leader
+<br>
+Caring contributor
 
   
 **Mission**  
