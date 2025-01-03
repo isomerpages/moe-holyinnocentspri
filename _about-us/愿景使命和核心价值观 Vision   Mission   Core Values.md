@@ -7,22 +7,26 @@ variant: markdown
 ## 愿景使命和核心价值观 <br>VISION . MISSION . CORE VALUES
 
 
-**Vision**
+**Vision      愿景**
  
 ![](/images/HIPS%20family/Vision.png)
 
-  
-**Mission**  
-We are committed to nurture the potential in each child to the fullest and develop his character in a God-centred environment so as to prepare him for the challenges of the future and to serve the nation.
 <br>
+<br>
+<br>
+  
+![](/images/HIPS%20family/Mission.png)
 
+<br>
+<br>
 
 | ![](/images/Nurture%20Potential.jpeg) | ![](/images/God-Centred%20Environment.jpeg)| ![](/images/Prepared%20for%20Challenges.jpeg) |
 | -------- | -------- | -------- |
 | **Nurture Potential**    | **God-Centred Environment**   | **Prepared for Challenges**     |
 
 <br>
-
+<br>
+<br>
 
 |  **Core Values** | |  |
 | -------- | -------- | -------- |
