@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Home Partnership.md
       - 校长献词 Principal's Message.md
       - 校徽 School Crest.md
       - 校史 School History.md
