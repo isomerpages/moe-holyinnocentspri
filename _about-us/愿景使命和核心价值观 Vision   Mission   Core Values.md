@@ -9,11 +9,7 @@ variant: markdown
 
 **Vision**
  
-Adaptive Learner
-<br>
-Bilingual Leader
-<br>
-Caring contributor
+![](/images/HIPS%20family/Vision.png)
 
   
 **Mission**  
