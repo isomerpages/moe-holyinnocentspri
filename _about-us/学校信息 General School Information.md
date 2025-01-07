@@ -5,9 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h2>学校信息 <br>General School Information</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20information/School_hour.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School information/School_hours_2025.jpg">
 </div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20information/School_gates_2024.jpg">
 </div>
