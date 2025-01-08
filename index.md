@@ -20,12 +20,9 @@ sections:
           url: https://holyinnocentspri.moe.edu.sg/hips-family/school-calendar/
       variant: image
   - infopic:
-      title: School - Home Partnership
+      title: 40 Years 40 Stories 40 圣婴 40 声音
       id: infopic
-      button: Click here
-      url: https://for.edu.sg/partnership-with-hips
-      description: Respecting our staff
-      image: /images/HOMEPAGE_HERO banner/moe engagement charter.png
-      alt: moe engagement charter
-      subtitle: Holy Innocents' Primary School
+      description: To God be the Glory  愿光荣归于主.  More information will be share soon.
+      image: /images/HOMEPAGE_HERO banner/40th_stories_40_years.jpg
+      subtitle: 40th Anniversary celebration
 ---
