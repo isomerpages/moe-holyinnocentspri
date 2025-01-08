@@ -107,6 +107,6 @@ Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 
 
 Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-P5 Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form which is in the attachment. The opt-out form is to be submitted by **05/02/2024**.
+P5 Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form which is in the attachment. The opt-out form is to be submitted by **27 Jan 2025**.
 
 Parents can contact the school at holyinnocentspri@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
