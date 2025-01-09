@@ -25,4 +25,5 @@ sections:
       description: To God be the Glory  愿光荣归于主.  More information will be share soon.
       image: /images/HOMEPAGE_HERO banner/40th_stories_40_years.jpg
       subtitle: 40th Anniversary celebration
+      alt: 40th Anniversary
 ---
