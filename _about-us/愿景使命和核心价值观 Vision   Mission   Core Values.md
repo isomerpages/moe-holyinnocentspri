@@ -7,7 +7,7 @@ variant: markdown
 ## 愿景使命和核心价值观 <br>VISION . MISSION . CORE VALUES
 
 
-**Vision      愿景**
+## **Vision      愿景**
  
 ![](/images/HIPS%20family/Vision.png)
 

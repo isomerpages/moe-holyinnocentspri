@@ -1,6 +1,6 @@
 ---
-title: School Home Partnership
-permalink: /school-home-partnership/
+title: 教育伙伴 Partnership in Education
+permalink: /partnership-in-education/
 variant: tiptap
 description: ""
 ---
