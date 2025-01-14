@@ -7,20 +7,15 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe style="border:solid 1px #777" height="600" width="900" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;showTz=0&amp;src=YWRtaW5faG9seWlubm9jZW50QG1vZS5lZHUuc2c&amp;color=%234285F4"></iframe>
 </div>
-<h4><strong>School Year 2025</strong></h4>
-<p>Please note that the new school year will start on Thursday, <strong>2 January 2025</strong>.
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Term 1 Week 1 2025, Thursday (<strong>2 January 2025</strong>): Only P1
-(and one parent per child) to be in school.</p>
-</li>
-<li>
-<p>Term 1 Week 1 2025, Friday (<strong>3 January 2025</strong>) onwards:
-All levels to be in school.</p>
-</li>
-</ul>
+<h4><strong>School Terms 2025</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School information/School_term_2025.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School information/School_holiday.png">
+</div>
+<p></p>
 <h4><strong>Meet-the-Parents Session 2025</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
