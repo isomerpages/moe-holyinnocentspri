@@ -52,7 +52,7 @@ variant: markdown
 |<a href="mailto:chua_qinyu@moe.edu.sg">Mdm Chua Qinyu</a> (蔡老师)<br>Subject Head|
 ||
 
-| |Year Head/ Assistance Year Head||
+| |Year Head/ Assistant Year Head||
 |:--------:| :--------: | :--------: |
 |**Lower Primary**|**Middle Primary**|**Upper Primary**|
 |<a href="mailto:eng_li_yun_felicia@moe.edu.sg">Mdm Felicia Eng</a><br>YH|<a href="mailto:lim_soo_ngee_martina@moe.edu.sg">Miss Martina Lim</a><br>YH<br><br>[Mdm Yap Xinhui Cheryl](mailto:cheryl_yap_xinhui@moe.edu.sg)<br>AYH|<a href="mailto:chu_yunfeng_alex@moe.edu.sg">Mr Alex Chu</a><br>YH<br><br>[Mdm Gayathri d/o Selvamany](mailto:gayathri_selvamany@moe.edu.sg)<br>AYH |
