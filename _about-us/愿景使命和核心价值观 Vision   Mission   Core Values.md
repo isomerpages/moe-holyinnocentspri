@@ -15,20 +15,9 @@ variant: markdown
 <br>
 <br>
   
-![](/images/About%20Us/Mission.png)
+![](/images/About%20Us/Mission_V2.jpg)
 
 <br>
 <br>
 
-| ![](/images/Nurture%20Potential.jpeg) | ![](/images/God-Centred%20Environment.jpeg)| ![](/images/Prepared%20for%20Challenges.jpeg) |
-| -------- | -------- | -------- |
-| **Nurture Potential**    | **God-Centred Environment**   | **Prepared for Challenges**     |
-
-<br>
-<br>
-<br>
-
-|  **Core Values** | |  |
-| -------- | -------- | -------- |
-|    ![](/images/Sincerity.jpg)  |  ![](/images/Charity.jpg)    | ![](/images/Graciousness.jpg)     |
-|    ![](/images/Integrity.jpg)  | ![](/images/Self-Discipline.jpg)     |   ![](/images/Resilience.jpg)   |
+![](/images/About%20Us/Core_value.jpg)
