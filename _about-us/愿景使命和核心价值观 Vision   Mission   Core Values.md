@@ -9,13 +9,13 @@ variant: markdown
 
 ## **Vision      愿景**
  
-![](/images/HIPS%20family/Vision.png)
+![](/images/About%20Us/Vision_V2.png)
 
 <br>
 <br>
 <br>
   
-![](/images/HIPS%20family/Mission.png)
+![](/images/About%20Us/Mission.png)
 
 <br>
 <br>
