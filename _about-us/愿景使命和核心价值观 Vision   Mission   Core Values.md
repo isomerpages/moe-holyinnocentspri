@@ -9,26 +9,15 @@ variant: markdown
 
 ## **Vision      愿景**
  
-![](/images/HIPS%20family/Vision.png)
+![](/images/About%20Us/Vision_V2.png)
 
 <br>
 <br>
 <br>
   
-![](/images/HIPS%20family/Mission.png)
+![](/images/About%20Us/Mission_V2.jpg)
 
 <br>
 <br>
 
-| ![](/images/Nurture%20Potential.jpeg) | ![](/images/God-Centred%20Environment.jpeg)| ![](/images/Prepared%20for%20Challenges.jpeg) |
-| -------- | -------- | -------- |
-| **Nurture Potential**    | **God-Centred Environment**   | **Prepared for Challenges**     |
-
-<br>
-<br>
-<br>
-
-|  **Core Values** | |  |
-| -------- | -------- | -------- |
-|    ![](/images/Sincerity.jpg)  |  ![](/images/Charity.jpg)    | ![](/images/Graciousness.jpg)     |
-|    ![](/images/Integrity.jpg)  | ![](/images/Self-Discipline.jpg)     |   ![](/images/Resilience.jpg)   |
+![](/images/About%20Us/Core_value.jpg)
