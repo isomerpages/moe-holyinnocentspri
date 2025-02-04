@@ -31,10 +31,10 @@ Innovative and creative pedagogies combined with use of ICT to engage our studen
 以创意及创新的教学法结合资讯科技，提升学生对华文的学习兴趣。
 
 教学策略：<br>
-**听说**：6何法、DRAFT<br>
-**阅读**：5读法、6何法<br>
-**写作**：6要素、FEAST写作策略
-
+听说：6何法、DRAFT<br>
+阅读：5读法、6何法<br>
+写作：6要素、FEAST写作策略
+**
 
 <img style="width: 60%;" src="/images/CL1.jpeg" align="center">
 
