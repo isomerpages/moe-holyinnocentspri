@@ -34,7 +34,7 @@ Innovative and creative pedagogies combined with use of ICT to engage our studen
 听说：6何法、DRAFT<br>
 阅读：5读法、6何法<br>
 写作：6要素、FEAST写作策略
-**
+
 
 <img style="width: 60%;" src="/images/CL1.jpeg" align="center">
 
