@@ -36,19 +36,19 @@ Our logo symbolizes the link between the school and the parents working together
 
 |  |  | 
 | -------- | -------- | 
-| **Chairperson**&nbsp;  |Ms Candice Yang     | 
-|**Vice- Chairperson**|Ms Cheryl Loh |
+| **Chairperson**&nbsp;  |Ms Cheryl Loh | 
+|**Vice- Chairperson**| Ms Adeline Chang |
 |**Vice- Chairperson**|Ms Jasmine Chew |
-|**Secretary**&nbsp;|Ms Karen Law|
-|**Assistant Secretary**|Ms Jaslynn Sim|
+|**Secretary**&nbsp;|Ms Shernese Goh |
+|**Assistant Secretary**|Mr Joachim Goh|
 |**Procurement Head**|Ms Yang Yan |
-|**Treasurer**|Ms Adeline Chang |
+|**Treasurer**| Ms Jaslynn Sim |
 
 <br>
 
 | Commitee Members |  | 
 | -------- | -------- | 
-| Ms Shernese Goh <br> Ms Adeline Low | Mr Joachim Goh  <br> Ms Christina Wang  |   
+|  <br> Ms Adeline Low <br> Ms Sandee Ng|   <br> Ms Christina Wang  <br> Ms Shirley Ng |   
 
 
 
