@@ -7,11 +7,11 @@ third_nav_title: QUALITY TEACHING & LEARNING
 ---
 <h2><strong>资讯科技部门 <br>Information Communication &amp; Technology Department</strong></h2>
 <h4></h4>
-<h3><strong>Department Vision</strong></h3>
+<h3>Department Vision</h3>
 <p>Technology-transformed learning, to prepare students for a technology-transformed
 world</p>
 <p></p>
-<h3><strong>Department Focus</strong></h3>
+<h3>Department Focus</h3>
 <p>The school’s ICT department programmes are aligned to the “Transforming
 Education through Technology” Masterplan 2030 (EdTech2030), which outlines
 how schools can better leverage technology to enhance teaching and learning
@@ -43,7 +43,7 @@ learning amongst teachers.</p>
 </li>
 </ol>
 <p></p>
-<h3><strong>Student Learning Space (SLS)</strong></h3>
+<h3>Student Learning Space (SLS)</h3>
 <p>The Singapore Student Learning Space (SLS) is an MOE learning portal that
 enhances teaching and learning by transforming learning experiences through
 purposeful use of technology. The SLS is a key enabler in supporting schools
@@ -58,7 +58,7 @@ access the SLS Login Page.</p>
 <img style="width: 100%" height="auto" width="100%" alt="SLS login Page" src="/images/ICT Department/SLS_login_page.png">
 </div>
 <p></p>
-<h3><strong>Cyberwellness</strong></h3>
+<h3>Cyberwellness</h3>
 <p>Beyond developing digitally literate learners who apply digital literacy
 and technological skills, a HIPS student would also learn to exercise cyber
 wellness to use technology in a safe and discerning manner.</p>
