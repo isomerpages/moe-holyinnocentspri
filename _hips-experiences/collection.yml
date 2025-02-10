@@ -2,6 +2,8 @@ collections:
   hips-experiences:
     output: true
     order:
+      - QUALITY TEACHING & LEARNING/资讯科技部门 Information Information &
+        Communication Technology Department.md
       - QUALITY TEACHING & LEARNING/.keep
       - QUALITY TEACHING & LEARNING/英文部门 English Language Department.md
       - QUALITY TEACHING & LEARNING/华文部门 Chinese Language Department.md
