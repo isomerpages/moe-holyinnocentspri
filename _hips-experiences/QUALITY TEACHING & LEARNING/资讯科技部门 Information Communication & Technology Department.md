@@ -62,6 +62,9 @@ access the SLS Login Page.</p>
 <p>Beyond developing digitally literate learners who apply digital literacy
 and technological skills, a HIPS student would also learn to exercise cyber
 wellness to use technology in a safe and discerning manner.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTtT9xgX5zpeXRRTAp_L_T2biTQLRftcqMGuPiqO4zWDDdkX1xVc3oPqnq2aigOvdjxQv5C9t-8AFDk/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+</div>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
