@@ -49,7 +49,7 @@ Our logo symbolizes the link between the school and the parents working together
 
 | Commitee Members |  | 
 | -------- | -------- | 
-|  <br> Ms Adeline Low <br> Ms Sandee Ng|   <br> Ms Christina Wang  <br> Ms Shirley Ng | 
+|  <br> Ms Adeline Low <br> Ms Sandee Ng <br> Ms Yong Siu Ling|   <br> Ms Christina Wang  <br> Ms Shirley Ng | 
 |||
 
 
