@@ -54,5 +54,84 @@ of the 21<sup>st</sup>&nbsp;Century Competencies (21CC), the SLS promotes
 self-directed learning and teamwork, fostering a sense of student ownership.</p>
 <p>Click&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 access the SLS Login Page.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SLS login Page" src="/images/ICT Department/SLS_login_page.png">
+</div>
 <p></p>
+<h3><strong>Cyberwellness</strong></h3>
+<p>Beyond developing digitally literate learners who apply digital literacy
+and technological skills, a HIPS student would also learn to exercise cyber
+wellness to use technology in a safe and discerning manner.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Robotic Club  &amp; ALP Programme</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Department/Robotic_Club_Picture.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sci1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Cyber Wellness recess activities</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Department/Cyber_Wellness_recess_activities.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ICT Department/Cyber_wellness_recess_activities_3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Touch Typing Programme</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/ICT Department/Touch_typing_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ICT Department/Touch_typing_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
