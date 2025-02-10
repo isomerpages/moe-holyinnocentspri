@@ -94,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18 Sept 2025</p>
+<p>16 Sept 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Listening Comprehension Examination</p>
@@ -106,7 +106,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 to 26 Sept 2025</p>
+<p>25 to 26 Sept 2025</p>
 <p>29 Sept to 1 Oct 2025</p>
 </td>
 <td rowspan="1" colspan="1">
