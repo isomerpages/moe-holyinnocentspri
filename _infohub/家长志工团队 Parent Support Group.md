@@ -31,7 +31,7 @@ Our logo symbolizes the link between the school and the parents working together
 
 | **Advisors**|  |  
 | :--------: | :--------: | 
-|Ms Lena Seet <br> Principal | Mr John Ng <br> Vice Principal (Administration)|
+|Ms Lena Seet <br> Principal | Mrs Joyce Cheong <br> Vice Principal (Academic)|
 
 
 |  |  | 
@@ -43,12 +43,14 @@ Our logo symbolizes the link between the school and the parents working together
 |**Assistant Secretary**|Mr Joachim Goh|
 |**Procurement Head**|Ms Yang Yan |
 |**Treasurer**| Ms Jaslynn Sim |
+|||
 
 <br>
 
 | Commitee Members |  | 
 | -------- | -------- | 
-|  <br> Ms Adeline Low <br> Ms Sandee Ng|   <br> Ms Christina Wang  <br> Ms Shirley Ng |   
+|  <br> Ms Adeline Low <br> Ms Sandee Ng|   <br> Ms Christina Wang  <br> Ms Shirley Ng | 
+|||
 
 
 
