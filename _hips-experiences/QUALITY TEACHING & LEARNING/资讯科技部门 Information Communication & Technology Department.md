@@ -101,7 +101,7 @@ wellness to use technology in a safe and discerning manner.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Robotic Club &amp; ALP Programme</em>
+<p><em>Robotic Club,  Infocomm Club and<br> Applied Learning Programme (ALP)</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Department/Robotic_Club_Picture.jpg">
