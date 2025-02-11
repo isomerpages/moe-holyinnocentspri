@@ -62,30 +62,12 @@ access the SLS Login Page.</p>
 <p>Beyond developing digitally literate learners who apply digital literacy
 and technological skills, a HIPS student would also learn to exercise cyber
 wellness to use technology in a safe and discerning manner.</p>
+<p>
 <br>
-
-<style>
-.iframe-wrapper {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 aspect ratio */
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-}
-.iframe-wrapper iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
-
+</p>
 <div class="iframe-wrapper">
-  <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTtT9xgX5zpeXRRTAp_L_T2biTQLRftcqMGuPiqO4zWDDdkX1xVc3oPqnq2aigOvdjxQv5C9t-8AFDk/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTtT9xgX5zpeXRRTAp_L_T2biTQLRftcqMGuPiqO4zWDDdkX1xVc3oPqnq2aigOvdjxQv5C9t-8AFDk/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 </div>
-
-
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -108,11 +90,20 @@ wellness to use technology in a safe and discerning manner.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Department/Robotic_Club_Picture.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Department/Infocomm_2.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sci1.jpeg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Department/Infocom_1.jpg">
 </div>
 </td>
 </tr>
