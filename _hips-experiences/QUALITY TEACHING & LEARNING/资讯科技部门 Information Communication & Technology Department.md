@@ -65,8 +65,24 @@ wellness to use technology in a safe and discerning manner.</p>
 <p>
 <br>
 </p>
+<style>
+.iframe-wrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.iframe-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTtT9xgX5zpeXRRTAp_L_T2biTQLRftcqMGuPiqO4zWDDdkX1xVc3oPqnq2aigOvdjxQv5C9t-8AFDk/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+  <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTtT9xgX5zpeXRRTAp_L_T2biTQLRftcqMGuPiqO4zWDDdkX1xVc3oPqnq2aigOvdjxQv5C9t-8AFDk/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 </div>
 <p></p>
 <table style="minWidth: 50px">
@@ -92,7 +108,7 @@ wellness to use technology in a safe and discerning manner.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Department/Infocomm_2.jpg">
+<img style="width: 90%" height="auto" width="90%" alt="" src="/images/ICT Department/Infocomm_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
