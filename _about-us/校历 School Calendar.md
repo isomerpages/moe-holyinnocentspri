@@ -15,50 +15,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School information/School_holiday.png">
 </div>
-<p></p>
-<h4><strong>Meet-the-Parents Session 2025</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Date &amp; Timing*</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 and P2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>18 February 2025 (Tuesday), 3.00pm to 4.30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3 and P4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>19 February 2025 (Wednesday), 3.00pm to 4.30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P5 and P6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20 February 2025 (Thursday), 3.00pm to 4.30pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>*<strong><em>Timings subject to change</em></strong>
-</p>
+<h4></h4>
 <p></p>
 <h4><strong>PSLE Important Dates</strong></h4>
 <p>Please note the following PSLE Examination and marking dates:</p>
