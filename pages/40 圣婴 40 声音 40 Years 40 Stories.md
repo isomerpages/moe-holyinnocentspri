@@ -23,3 +23,7 @@ to join us in our celebration, please register via this link:</p>
 <p>Thank you.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/40th Anniversary/HIPS_40th_Mass_e_Invite.jpg">
+</div>
+<p></p>
