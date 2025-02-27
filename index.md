@@ -20,7 +20,7 @@ sections:
           url: https://holyinnocentspri.moe.edu.sg/hips-family/school-calendar/
         - title: 40 圣婴 40 声音 40 Years 40 Stories
           description: ""
-          url: https://holyinnocentspri.moe.edu.sg/40th-anniversary-mass/
+          url: https://holyinnocentspri.moe.edu.sg/40-anniversary/
       variant: image
   - infopic:
       title: 40 圣婴 40 声音 40 Years 40 Stories
