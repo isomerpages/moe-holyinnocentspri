@@ -25,10 +25,9 @@ sections:
   - infopic:
       title: 40 Years 40 Stories 40 圣婴 40 声音
       id: infopic
-      description: Click here for more information.
       image: /images/HOMEPAGE_HERO banner/40th_stories_40_years.jpg
       subtitle: 40th Anniversary celebration
       alt: 40th Anniversary
       url: https://holyinnocentspri.moe.edu.sg/40-40-40-years-40-stories/
-      button: here
+      button: Click here
 ---
