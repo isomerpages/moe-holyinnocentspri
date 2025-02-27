@@ -18,12 +18,16 @@ sections:
         - title: 校历 School Calendar
           description: ""
           url: https://holyinnocentspri.moe.edu.sg/hips-family/school-calendar/
+        - title: 40 圣婴 40 声音 40 Years 40 Stories
+          description: ""
+          url: https://holyinnocentspri.moe.edu.sg/40-anniversary/
       variant: image
   - infopic:
-      title: 40 Years 40 Stories 40 圣婴 40 声音
+      title: 40 圣婴 40 声音 40 Years 40 Stories
       id: infopic
-      description: To God be the Glory  愿光荣归于主.  More information will be shared soon.
       image: /images/HOMEPAGE_HERO banner/40th_stories_40_years.jpg
       subtitle: 40th Anniversary celebration
       alt: 40th Anniversary
+      url: https://holyinnocentspri.moe.edu.sg/40-anniversary/
+      button: Click here
 ---
