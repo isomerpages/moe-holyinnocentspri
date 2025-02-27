@@ -28,6 +28,6 @@ sections:
       image: /images/HOMEPAGE_HERO banner/40th_stories_40_years.jpg
       subtitle: 40th Anniversary celebration
       alt: 40th Anniversary
-      url: https://holyinnocentspri.moe.edu.sg/40-40-40-years-40-stories/
+      url: https://holyinnocentspri.moe.edu.sg/40-anniversary/
       button: Click here
 ---
