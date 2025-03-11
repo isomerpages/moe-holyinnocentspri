@@ -128,6 +128,23 @@ school bus on that day.</p>
 <p>We look forward to the keenest participation of our students and wish
 everyone a great day of building school pride and unity through Sports!</p>
 <p></p>
+<h3><strong>Earth Hour</strong> - 22 March 2025, 8.30 pm to 9.30 pm</h3>
+<p>This year's Earth Hour theme, "Shine a Light on Climate Action," encourages
+us all to reduce energy consumption and advocate for stronger climate policies
+and sustainable solutions. We will be inviting our students to participate
+in this event by turning off non-essential lights at home for one hour
+and to capture their experience through photos or videos. We warmly invite
+you to join in this meaningful activity with your child/ward, demonstrating
+how small actions can contribute to a larger cause.</p>
+<p></p>
+<h3><strong>ALBA's Battery Recycling Challenge</strong>  (1 March 2025 to 28 February 2026)</h3>
+<p>Our school is proud to take part in this year-long recycling initiative.
+We have set up collection points at our school's Green Hub, where grey
+recycling bins are available for AA, AAA, AAAA, square, and button batteries.
+This programme not only helps recover valuable materials such as zinc,
+steel, and manganese but also prevents harmful substances from entering
+our environment through improper disposal. We encourage you to pass your
+child/ward the used batteries for this recycling initiative.</p>
 <p></p>
 <p><em>Please refer to PG letters for any other update.</em>
 </p>
