@@ -9,8 +9,7 @@ variant: tiptap
 <h3><strong>Sports Carnival</strong></h3>
 <p>The Sports Carnival (P4 to P6) and Blended Learning Day (P1 to P3) will
 take place on Friday,<strong> 14 March 2025</strong>. P1 to P3 students
-are not required to attend school on Blended Learning Day (BLD). Further
-details on BLD will be given in a separate letter nearer the date.</p>
+are not required to attend school on Blended Learning Day (BLD).</p>
 <p>All Primary 4, 5 and 6 students are required to be present for the Sports
 Carnival. The objectives of the Sports Carnival are to provide opportunities
 for students to</p>
@@ -137,7 +136,7 @@ and to capture their experience through photos or videos. We warmly invite
 you to join in this meaningful activity with your child/ward, demonstrating
 how small actions can contribute to a larger cause.</p>
 <p></p>
-<h3><strong>ALBA's Battery Recycling Challenge</strong>  (1 March 2025 to 28 February 2026)</h3>
+<h3><strong>ALBA's Battery Recycling Challenge</strong> (1 March 2025 to 28 February 2026)</h3>
 <p>Our school is proud to take part in this year-long recycling initiative.
 We have set up collection points at our school's Green Hub, where grey
 recycling bins are available for AA, AAA, AAAA, square, and button batteries.
