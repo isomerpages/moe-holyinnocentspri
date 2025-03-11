@@ -145,7 +145,7 @@ steel, and manganese but also prevents harmful substances from entering
 our environment through improper disposal. We encourage you to pass your
 child/ward the used batteries for this recycling initiative.</p>
 <p></p>
-<p><em>Please refer to the PG letters for more information. </em>
+<p><em>Please refer to the PG letters for more information.</em>
 </p>
 <p><em>Thank you.</em>
 </p>
