@@ -63,7 +63,7 @@ for students to</p>
 <p>Dismissal Time</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>P4: 10:20 am / P5: 10:25 am / P6: 10:30 am</p>
+<p>P4: 10:30 am / P5: 10:35 am / P6: 10:40 am</p>
 </td>
 </tr>
 <tr>
