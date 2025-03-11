@@ -7,6 +7,11 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe style="border:solid 1px #777" height="600" width="900" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;showTz=0&amp;src=YWRtaW5faG9seWlubm9jZW50QG1vZS5lZHUuc2c&amp;color=%234285F4"></iframe>
 </div>
+<p></p>
+<h4><strong>Public Holiday</strong></h4>
+<p><strong>31 March 2025  (Monday)</strong> is a Hari Raya Puasa public holiday.
+Students do not report for school on this day and the school is closed
+on public holidays. Student will report for school on 1 April 2025, Tuesday.</p>
 <h4><strong>School Terms 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School information/School_term_2025.png">
