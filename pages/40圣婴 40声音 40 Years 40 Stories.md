@@ -9,7 +9,7 @@ description: ""
 <p>为了感谢天主的恩典，我校将于2025年4月5日（星期六）举办一场感恩弥撒。若你想参加该感恩弥撒，请点击下方链接报名：</p>
 <p><a href="https://for.edu.sg/40th-anniversary-mass-booking" rel="noopener nofollow" target="_blank">Link for registration</a>
 </p>
-<p>报名截止日期：<strong>2025年3月14日（星期五</strong>）</p>
+<p>报名截止日期：<strong>2025年3月31日（星期一</strong>）</p>
 <p>名额有限，请尽早报名。</p>
 <p>谢谢。</p>
 <p></p>
@@ -19,7 +19,7 @@ commences with a 40th Anniversary Thanksgiving Mass. If you would like
 to join us in our celebration, please register via this link:</p>
 <p><a href="https://for.edu.sg/40th-anniversary-mass-booking" rel="noopener nofollow" target="_blank">Link for registration</a>
 </p>
-<p>We would appreciate that you register by <strong>14 March 2025 (Friday)</strong>.</p>
+<p>We would appreciate that you register by <strong>31 March 2025 (Monday)</strong>.</p>
 <p>Thank you.</p>
 <p></p>
 <p></p>
