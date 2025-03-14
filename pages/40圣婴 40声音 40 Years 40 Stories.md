@@ -19,7 +19,7 @@ commences with a 40th Anniversary Thanksgiving Mass. If you would like
 to join us in our celebration, please register via this link:</p>
 <p><a href="https://for.edu.sg/40th-anniversary-mass-booking" rel="noopener nofollow" target="_blank">Link for registration</a>
 </p>
-<p>We would appreciate that you register by<strong>31 March 2025 (Monday)</strong>.</p>
+<p>We would appreciate that you register by <strong>31 March 2025 (Monday)</strong>.</p>
 <p>Thank you.</p>
 <p></p>
 <p></p>
