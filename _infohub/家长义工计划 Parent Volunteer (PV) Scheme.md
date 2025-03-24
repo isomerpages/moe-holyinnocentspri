@@ -8,7 +8,7 @@ variant: markdown
 
 ####  Parent Volunteer (PV) Scheme
 
-Parent Volunteer Registration for&nbsp;**2027 Primary 1**&nbsp;admission is OPEN.
+Parent Volunteer Registration for&nbsp;**2027 Primary 1**&nbsp;admission is CLOSE.
 
 Registration via online [FORM](https://go.gov.sg/hips-parent-volunteer-scheme)
 
