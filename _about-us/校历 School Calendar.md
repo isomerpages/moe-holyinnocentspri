@@ -9,7 +9,7 @@ variant: tiptap
 </div>
 <p></p>
 <h4><strong>Public Holiday</strong></h4>
-<p><strong>31 March 2025  (Monday)</strong> is a Hari Raya Puasa public holiday.
+<p><strong>31 March 2025 (Monday)</strong> is a Hari Raya Puasa public holiday.
 Students do not report for school on this day and the school is closed
 on public holidays. Student will report for school on 1 April 2025, Tuesday.</p>
 <h4><strong>School Terms 2025</strong></h4>
