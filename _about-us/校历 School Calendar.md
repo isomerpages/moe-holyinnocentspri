@@ -46,7 +46,7 @@ variant: tiptap
 <p>Labour Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 may 2025 (Friday)</p>
+<p>2 May 2025 (Friday)</p>
 </td>
 </tr>
 <tr>
