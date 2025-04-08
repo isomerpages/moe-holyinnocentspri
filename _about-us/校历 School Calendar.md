@@ -9,9 +9,60 @@ variant: tiptap
 </div>
 <p></p>
 <h4><strong>Public Holiday</strong></h4>
-<p><strong>31 March 2025 (Monday)</strong> is a Hari Raya Puasa public holiday.
-Students do not report for school on this day and the school is closed
-on public holidays. Student will report for school on 1 April 2025, Tuesday.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Public Holiday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Student report for school on</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 April 2025 (Friday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Good Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 April 2025 (Monday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 May 2025 (Thursday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Labour Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 may 2025 (Friday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>School Terms 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School information/School_term_2025.png">

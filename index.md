@@ -29,7 +29,5 @@ sections:
       subtitle: 40th Anniversary celebration
       alt: 40th Anniversary
       url: https://holyinnocentspri.moe.edu.sg/40-anniversary/
-      button: Anniversary Mass
-      description: 40th Anniversary Thanksgiving Mass will be on 5 Apr 2025
-        (Saturday). For more information, please click the link below.
+      button: More information
 ---
