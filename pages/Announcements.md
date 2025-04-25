@@ -5,6 +5,69 @@ description: ""
 variant: tiptap
 ---
 <h2>Announcements</h2>
+<h3><strong>Home-Based Learning (HBL) and School Closure in view of General Election 2025</strong></h3>
+<p>As the school has been designated as a Polling cum Counting Station for
+the upcoming General Election, please be informed of the changes to our
+school operations as follows:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 May 2025 (Friday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students do not report to school. Students will engage in Home-Based Learning
+(HBL). A detailed HBL schedule and learning activities for 2 May 2025 will
+be sent to all parents via Parents Gateway by 25 April 2025.</p>
+<p></p>
+<p>All after school programmes will be cancelled and/or rescheduled.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 May 2025 (Monday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School will be closed. (Designated day off-in-lieu in view of Polling
+Day on 3 May 2025, Saturday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 May 2025 (Tuesday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will attend school and resume regular classes.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>For technical assistance or password reset support for MIMS or SLS account,
+support requests can be submitted</p>
+<p>through <a href="http://go.gov.sg/hips-student-icon-reset" rel="noopener nofollow" target="_blank">HIPS Student Icon helpdesk</a>
+</p>
+<p></p>
 <p></p>
 <h3><strong>Parent-Child-Teacher Conference (PCTC) (P1-6)</strong></h3>
 <p>The Parent-Child-Teacher Conference for P1 – P6 levels will be held over
