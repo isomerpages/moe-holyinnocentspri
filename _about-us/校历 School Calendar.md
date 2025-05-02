@@ -29,24 +29,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18 April 2025 (Friday)</p>
+<p>12 May 2025 (Monday)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Good Friday</p>
+<p>Vesak Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 April 2025 (Monday)</p>
+<p>13 May 2025 (Tuesday)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 May 2025 (Thursday)</p>
+<p>6 July 2025 (Monday)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Labour Day</p>
+<p>Scheduled School holiday (Youth Day - 5 July 2025)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 May 2025 (Friday)</p>
+<p>7 Jul 2025 (Tuesday)</p>
 </td>
 </tr>
 <tr>
