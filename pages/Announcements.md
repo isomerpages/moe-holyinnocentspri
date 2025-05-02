@@ -105,6 +105,21 @@ prepared for the following subjects:</p>
 </li>
 </ul>
 <p></p>
+<h3><strong>Use Your Hands Campaign (28 May 2025)</strong></h3>
+<p>In line with the Keep Singapore Clean movement, all students will be participating
+in the Use Your Hands Campaign on Wednesday, 28 May 2025. We hope to inculcate
+in our students a sense of social responsibility, graciousness and appreciation
+for their parents, domestic helpers and cleaners who help clean their home,
+school and community. Students will be assigned duties within their classrooms
+and common areas such as the Computer and Science Labs, Art, Music and
+Dance Studios etc. Students will also be assigned a holiday assignment,
+to do their part in the community to Keep Singapore Clean. More information
+will be shared via your child’s SLS.</p>
+<p></p>
+<p>Students should come to school in their PE attire on this day. The form
+teacher will inform their students what they need to bring for this exercise.
+We thank you for your support.</p>
+<p></p>
 <h3><strong>ALBA's Battery Recycling Challenge</strong> (1 March 2025 to 28 February 2026)</h3>
 <p>Our school is proud to take part in this year-long recycling initiative.
 We have set up collection points at our school's Green Hub, where grey
