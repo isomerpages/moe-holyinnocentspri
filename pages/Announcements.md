@@ -80,6 +80,31 @@ there is <strong>no lesson</strong> for your child on 29 and 30 May 2025.</p>
 <p>Details of the schedule and registration will be provided at a later date
 via PG by your child’s Form Teachers.</p>
 <p></p>
+<h3><strong>Blended Learning Days (P1 to P6 Students)</strong></h3>
+<p>Blended Learning Day will take place on Thursday, 29 May and Friday, 30
+May 2025 for Primary 1 to 6 students during these two days of Parent-Child-Teacher-Conference
+(PCTC).</p>
+<p></p>
+<p>Over the two days of blended learning, Primary 1 to 6 students do not
+need to report to school for lessons. However, learning will continue to
+take place away from school. Online via SLS and/or offline (hardcopies
+will be provided before the blended learning) lesson packages have been
+prepared for the following subjects:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese Language/Higher Chinese Language</p>
+</li>
+<li>
+<p>English Language</p>
+</li>
+<li>
+<p>Mathematics</p>
+</li>
+<li>
+<p>Science</p>
+</li>
+</ul>
+<p></p>
 <h3><strong>ALBA's Battery Recycling Challenge</strong> (1 March 2025 to 28 February 2026)</h3>
 <p>Our school is proud to take part in this year-long recycling initiative.
 We have set up collection points at our school's Green Hub, where grey
