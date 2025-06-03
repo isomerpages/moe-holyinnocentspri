@@ -251,7 +251,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="foong_wenfang@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Foong Wenfang</a> (冯老师
+)</p>
 </td>
 </tr>
 <tr>
