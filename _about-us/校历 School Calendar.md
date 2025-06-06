@@ -29,17 +29,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12 May 2025 (Monday)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vesak Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13 May 2025 (Tuesday)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>6 July 2025 (Monday)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -135,8 +124,7 @@ variant: tiptap
 </li>
 <li>
 <p>P5 students will attend camp and blended learning*</p>
-<p></p>
-<p><em>* (more details will be sent out closer to date)</em>
+<p><em>(more details will be sent out closer to date)</em>
 </p>
 </li>
 </ul>

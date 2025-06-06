@@ -247,11 +247,12 @@ variant: tiptap
 <p>2 Charity 8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Joyce_Chan_Hwee_Jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joyce Chan Hwee Jin </a>(曾老师)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:chia_jin_guo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Caleb Chia Jin Guo</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="foong_wenfang@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Foong Wenfang</a> (冯老师
+)</p>
 </td>
 </tr>
 <tr>
