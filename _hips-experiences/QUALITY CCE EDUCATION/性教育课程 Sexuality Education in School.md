@@ -36,7 +36,7 @@ The upper primary years mark the onset of puberty. With better nutrition and imp
 
 Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
-**At Holy Innocents’ Primary School, the following Sexuality Education lessons will be taught in 2024:**
+**At Holy Innocents’ Primary School, the following Sexuality Education lessons will be taught in 2025:**
 
 ### <center>Primary 5</center>
 
