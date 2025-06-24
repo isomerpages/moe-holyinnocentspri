@@ -2,12 +2,14 @@
 title: 服务供应商 Vendors
 permalink: /for-students-and-parents/vendor/
 description: ""
+variant: markdown
 ---
 #### **Bookshop and PE Attire**
 
 |||
 | -------- | -------- |
-| Company Name: <br> Tel: <br>Business Hours:   | BL Marketing Pte Ltd<br>62819274 <br> Mon-Fri 9 am to 4 pm | 
+| Company Name: <br> Address<br> <br> <br> Tel: <br>Business Hours:   | BL Marketing Pte Ltd<br>5000 Ang Mo Kio Avenue 5 Techplace 2 <br>#05-10A<br> Singapore 569870 <br>62848785 <br> Mon-Fri 9 am to 4 pm |
+|Website |<a target="_blank" href="www.blmarketing.com.sg"> BL Marketing website </a>|
 |||
 
 #### **School Uniforms**
