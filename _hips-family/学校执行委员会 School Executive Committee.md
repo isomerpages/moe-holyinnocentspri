@@ -25,7 +25,7 @@ variant: markdown
 | ENGLISH LANGUAGE|CHINESE LANGUAGE DEPARTMENT|
 | -------- | -------- | 
 |<a href="mailto:neo_kim_sian_pansy@moe.edu.sg">Mrs Pansy Ong</a> (Covering)<br>Head of Department|<a href="mailto:foong_wenfang@moe.edu.sg">Miss Foong Wenfang </a> (冯老师 )<br>Head of Department|
-|<a href="mailto:ng_kuan_hwa@moe.edu.sg">Miss Ng Kuan Hwa</a><br>Level Head|<a href="mailto:tan_hwee_sang@moe.edu.sg">Mdm Tan Hwee Sang</a>(陈老师)<br>Level Head<br><br><a href="mailto:tan_hwee_sang@moe.edu.sg">Mdm Tan Qiu Ling</a>(陈老师)<br>Level Head<br>|
+|<a href="mailto:ng_kuan_hwa@moe.edu.sg">Miss Ng Kuan Hwa</a><br>Level Head|<a href="mailto:tan_hwee_sang@moe.edu.sg">Mdm Tan Hwee Sang</a> (陈老师)<br>Level Head<br><br><a href="mailto:tan_qiu_ling@moe.edu.sg">Mdm Tan Qiu Ling</a> (陈老师)<br>Level Head<br>|
 |||
 
 | MATHEMATICS DEPARTMENT | SCIENCE DEPARTMENT |
