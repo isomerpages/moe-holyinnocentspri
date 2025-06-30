@@ -580,7 +580,7 @@ variant: tiptap
 <p><a href="mailto:lim_lily_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lily Lim </a>(林老师）</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_shea_li@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Wang - Lim Ai Lian</a>
+<p><a href="mailto:wang-lim_ai_lian@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Wang - Lim Ai Lian</a>
 </p>
 </td>
 </tr>
