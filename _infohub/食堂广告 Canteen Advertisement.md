@@ -11,7 +11,7 @@ The School is located at 5 Lorong Low Koon, Singapore 536451. <br> <br>
 
 | Type of Stall | Closing Date| Requirement |
 | -------- | -------- | -------- |
-|Chinese Mixed Rice|30 June 2025|Nil|
+|Chinese Mixed Rice|31 Dec 2025|Nil|
 |||
 
 ##### **Application Procedure** 
