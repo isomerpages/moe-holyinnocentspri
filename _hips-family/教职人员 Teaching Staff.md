@@ -358,7 +358,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Farah Nurhuda Binte Mohmad Isa</a>
+<p><a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Martina Lim</a>
 </p>
 </td>
 </tr>
@@ -541,7 +541,8 @@ variant: tiptap
 <p>5 Self-Discipline 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dong_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Dong Yan</a>(董老师)</p>
+<p><a href="mailto:chua_sze_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Sze Yi</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lorraine_leong@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lorraine Leong</a>
