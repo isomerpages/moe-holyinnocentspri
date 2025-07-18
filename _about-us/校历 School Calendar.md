@@ -90,8 +90,15 @@ variant: tiptap
 <p>Oral Examinations</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P6 students to report to school.</p>
+</li>
+<li>
 <p>P1 to 5 students do not report to school.</p>
-<p>(School Closure Days due to PSLE Oral Examinations)</p>
+</li>
+</ul>
+<p>(School Closure Day due to PSLE Listening Comprehension Examinations)</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +109,14 @@ variant: tiptap
 <p>Listening Comprehension Examination</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P6 students to report to school.</p>
+</li>
+<li>
 <p>P1 to 5 students do not report to school.</p>
+</li>
+</ul>
 <p>(School Closure Day due to PSLE Listening Comprehension Examinations)</p>
 </td>
 </tr>
