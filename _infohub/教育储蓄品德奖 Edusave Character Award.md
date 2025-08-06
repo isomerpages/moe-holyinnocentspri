@@ -10,16 +10,16 @@ variant: markdown
 
 <br>
 
-<span style="font-size:18px;">To be eligible for the award, students must satisfy the following criteria:</span>
+<span style="font-size:18px;">To be eligible for the award, students must satisfy the following criteria:
 1. Must be a Singaporean studying in government / government-aided primary / secondary schools; 
 2. Demonstrate good character and values on consistent basis in the year of the award;
 3. Conduct grade of “Very Good” or better;
 4. Show perseverance despite facing difficult circumstances;
 5. High level of civic responsibility, and 
-6. Must have at least 1 CCA (for **P4 - P6** students).
+6. Must have at least 1 CCA (for **P4 - P6** students).</span>
 <br>
 <br>
-Parents and students may download the nomination form (Click here). Your child can also obtain the form from the general office on your behalf. Please email the completed forms to [holyinnocentspri@moe.edu.sg](holyinnocentspri@moe.edu.sg)
+<span style="font-size:18px;">Parents and students may download the nomination form (Click here). Your child can also obtain the form from the general office on your behalf. Please email the completed forms to [holyinnocentspri@moe.edu.sg](holyinnocentspri@moe.edu.sg)</span>
 <br>
 <br>
 <span style="font-size:24px;">Submission of nomination for ECHA 2025 will be open from 1 September to 15 September 2025.</span>
