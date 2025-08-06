@@ -21,7 +21,7 @@ variant: tiptap
 <p>Date</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Public Holiday</p>
+<p>Public Holiday / School holiday</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Student report for school on</p>
@@ -29,13 +29,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 July 2025 (Monday)</p>
+<p>11 Aug 2025 (Monday)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Scheduled School holiday (Youth Day - 5 July 2025)</p>
+<p>Scheduled School holiday (National Day - 9 Aug 2025)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 Jul 2025 (Tuesday)</p>
+<p>12 Aug 2025 (Tuesday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Sept 2025 (Friday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers' Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not applicable</p>
 </td>
 </tr>
 <tr>
@@ -58,9 +69,8 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School information/School_holiday.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/School information/School_holiday.png">
 </div>
-<h4></h4>
 <p></p>
 <h4><strong>PSLE Important Dates</strong></h4>
 <p>Please note the following PSLE Examination and marking dates:</p>
