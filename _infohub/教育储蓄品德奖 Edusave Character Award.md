@@ -22,4 +22,4 @@ variant: markdown
 <span style="font-size:18px;">Parents and students may download the nomination form (Click here). Your child can also obtain the form from the general office on your behalf. Please email the completed forms to [holyinnocentspri@moe.edu.sg](holyinnocentspri@moe.edu.sg)</span>
 <br>
 <br>
-<span style="font-size:24px;">Submission of nomination for ECHA 2025 will be open from 1 September to 15 September 2025.</span>
+<span style="font-size:24px;">Submission of nomination for ECHA 2025 will be open from **1 September to 15 September 2025.**</span>
