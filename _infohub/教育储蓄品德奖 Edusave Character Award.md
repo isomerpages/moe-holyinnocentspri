@@ -10,13 +10,17 @@ variant: markdown
 
 <br>
 
-<span style="font-size:18px;">To be eligible for the award, students must satisfy the following criteria:
-1. Must be a Singaporean studying in government / government-aided primary / secondary schools; 
-2. Demonstrate good character and values on consistent basis in the year of the award;
-3. Conduct grade of “Very Good” or better;
-4. Show perseverance despite facing difficult circumstances;
-5. High level of civic responsibility, and 
-6. Must have at least 1 CCA (for **P4 - P6** students).</span>
+<div style="font-size:18px;">
+    <p>To be eligible for the award, students must satisfy the following criteria:</p>
+    <ol>
+        <li>Must be a Singaporean studying in government / government-aided primary / secondary schools;</li>
+        <li>Demonstrate good character and values on consistent basis in the year of the award;</li>
+        <li>Conduct grade of "Very Good" or better;</li>
+        <li>Show perseverance despite facing difficult circumstances;</li>
+        <li>High level of civic responsibility; and</li>
+        <li>Must have at least 1 CCA (for <strong>P4 - P6</strong> students).</li>
+    </ol>
+</div>
 <br>
 <br>
 <span style="font-size:18px;">Parents and students may download the nomination form (Click here). Your child can also obtain the form from the general office on your behalf. Please email the completed forms to [holyinnocentspri@moe.edu.sg](holyinnocentspri@moe.edu.sg)</span>
