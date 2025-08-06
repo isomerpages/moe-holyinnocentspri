@@ -74,7 +74,7 @@ bag.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Teachers’ Day Celebration </strong></h3>
+<h3><strong>Teachers’ Day Celebration</strong></h3>
 <p>It’s the time of the year again! We are excited to be celebrating Teachers’
 Day on 4<strong> September 2025, Thursday</strong>. There will be no lessons
 during school hours as we anticipate a meaningful time of celebrating the
@@ -136,7 +136,9 @@ levels will be as follows:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>You may also encourage your child/ward to put up an appreciation post
+to their teachers at the following link: <a href="https://go.gov.sg/hipsteachersday2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hipsteachersday2025</a> or
+scan the QR code below to access the site:</p><a class="isomer-image-wrapper" href="https://go.gov.sg/hipsteachersday2025"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Annoucement/HIPS_teachers_day_2025_message.jpg"></a>
 <h3><strong>HIPS Staff Award</strong></h3>
 <p>We would like to invite all parents and guardians to join us in showing
 appreciation to our teaching and non-teaching staff (Teachers, Special
@@ -144,12 +146,22 @@ Needs Officers, Executive and Administration Staff) by penning down a note
 of appreciation for them.</p>
 <p>We would also like to encourage you to nominate any deserving teaching
 and non-teaching staff for the HIPS Staff Award, which include:</p>
-<p>•The Inspiring Educator Award</p>
-<p>•The Caring Staff Award</p>
-<p>•The Service Excellence Award</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Inspiring Educator Award</p>
+</li>
+<li>
+<p>The Caring Staff Award</p>
+</li>
+<li>
+<p>The Service Excellence Award</p>
 <p>Please do so at the following link: <a href="https://go.gov.sg/hipsstaffawards-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hipsstaffawards-2025</a> or
 scan the QR code below to access the site:</p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/hipsstaffawards-2025"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Annoucement/HIPS_staff_award_2025.jpg"></a>
+</li>
+</ul>
+<p>We look forward to receiving your notes of appreciation and nominations
+by <strong>20 August 2025, </strong>Wednesday.</p>
 <h3><strong>ALBA's Battery Recycling Challenge</strong> (1 March 2025 to 28 February 2026)</h3>
 <p>Our school is proud to take part in this year-long recycling initiative.
 We have set up collection points at our school's Green Hub, where grey
