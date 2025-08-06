@@ -5,29 +5,150 @@ description: ""
 variant: tiptap
 ---
 <h2>Announcements</h2>
-<h3><strong>Racial Harmony Celebration</strong></h3>
-<p>The school will be commemorating Racial Harmony Day (RHD) on Monday, 21
-July 2025. This meaningful occasion invites our students to reflect on
-and celebrate Singapore’s success as a harmonious society, built upon the
-rich tapestry of our cultural diversity.</p>
-<p>This year’s RHD theme, <strong><em>Our People, Our Tapestry</em></strong>,
-encourages appreciation of the diverse and unique communities that shape
-our multicultural identity, and highlights the importance of building a
-cohesive Singapore through mutual respect in our everyday interactions.</p>
-<p>Through such commemorative events, we hope to inspire our students to
-forge strong relationships across different cultures and communities, strengthening
-the shared identity we all hold as Singaporeans.</p>
-<p>As part of the celebration, students are encouraged to come dressed in
-traditional ethnic attire representing the Malay, Indian, or Eurasian communities
-on Monday, 21 July 2025.</p>
+<h3><strong>National Day Celebration </strong>-<strong> </strong>Building Our Singapore Together</h3>
+<p>Our school will be celebrating National Day on <strong>8 August 2025, Friday</strong> from
+7.30 am to 10.30 am. Please note the attire on that day is a <strong>red T-shirt</strong>, <strong>school PE shorts</strong>,
+white socks and school shoes for all levels. The timetable will be suspended
+as we celebrate this significant occasion in nation-building.</p>
+<p>Our lower primary students will be participating in a series of exciting
+and purposeful activities, designed not only for fun, but also to allow
+them to apply essential Physical Education skills in a vibrant, real-world
+setting. Through friendly relay competition, teamwork, and encouragement,
+our young learners will exemplify the spirit of sportsmanship and resilience.</p>
+<p>Meanwhile, our upper primary students will experience a vibrant event
+that blends traditional and modern National Education (NE) games. This
+immersive experience allows them to connect with Singapore’s rich heritage
+while embracing innovation and progress. Through these meaningful interactions,
+our students will deepen their appreciation of Singapore’s journey and
+the contributions of generations past and present.</p>
+<p>As school will end at 10.30 am, only the drink stall will be open. Students
+are encouraged to have breakfast before coming to school and bring their
+water bottles. They are also encouraged to bring some stationery in a small
+bag.</p>
+<p>Staggered dismissal arrangements are as follows:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Dismissal</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 and P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.30am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 and P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.35 am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 and P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.40 am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<h3><strong>Student Well-being</strong></h3>
-<p>In view of the persistent hot weather, in the interest of students’ well-being,
-students are allowed to be in their Physical Education (PE) attire daily
-till further notice. The school will monitor and review the situation again.
-Please continue to ensure that your child is neatly attired for school,
-keep well, and stay hydrated by drinking plenty of water throughout the
-day.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Teachers’ Day Celebration </strong></h3>
+<p>It’s the time of the year again! We are excited to be celebrating Teachers’
+Day on 4<strong> September 2025, Thursday</strong>. There will be no lessons
+during school hours as we anticipate a meaningful time of celebrating the
+day in honour of our teachers. Please be informed of the early school dismissal
+time at 10.30 am. There will be no school on 5 September 2025, Friday.</p>
+<p>This year, the theme for our Teachers’ Day celebration is, “Stars of Our
+Lives”. To enhance the celebrative atmosphere at school, we wish to encourage
+our students to come to school in shades of blue t-shirts or clothes.</p>
+<p>In view of the early school dismissal, only two stalls in the school canteen
+will be operating. Students are reminded to pack their own snack and bring
+their water bottle. Students are also encouraged to bring a story book
+and some stationery in a small bag with them. Staggered dismissal for all
+levels will be as follows:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Dismissal</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 and P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.30am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 and P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.35 am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 and P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.40 am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3><strong>HIPS Staff Award</strong></h3>
+<p>We would like to invite all parents and guardians to join us in showing
+appreciation to our teaching and non-teaching staff (Teachers, Special
+Needs Officers, Executive and Administration Staff) by penning down a note
+of appreciation for them.</p>
+<p>We would also like to encourage you to nominate any deserving teaching
+and non-teaching staff for the HIPS Staff Award, which include:</p>
+<p>•The Inspiring Educator Award</p>
+<p>•The Caring Staff Award</p>
+<p>•The Service Excellence Award</p>
+<p>Please do so at the following link: <a href="https://go.gov.sg/hipsstaffawards-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hipsstaffawards-2025</a> or
+scan the QR code below to access the site:</p>
 <p></p>
 <h3><strong>ALBA's Battery Recycling Challenge</strong> (1 March 2025 to 28 February 2026)</h3>
 <p>Our school is proud to take part in this year-long recycling initiative.
