@@ -3,6 +3,7 @@ title: 天主教活动 Catholic Programme
 permalink: /quality-cce-education/catholic-programme/
 description: ""
 third_nav_title: QUALITY CCE EDUCATION
+variant: markdown
 ---
 ## 天主教活动 <br>Catholic Programme
 
@@ -48,8 +49,5 @@ Prior to the pandemic, the Holy Eucharist was celebrated termly and faith was de
 | ![](/images/CAT9.jpeg)     | ![](/images/CAT10.jpeg)     | 
 
 
-#### Our team of dedicated Parent Cathecists
-
-<br>
-
-<img style="width: 80%;" src="/images/CAT12.jpeg" align="center">
+#### 40th Anniversary Mass
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vROP9P4aWmLArgNFsUug5l8mNTCgS7dkzXMPFsAJHccTU6oXM4DwrQfNYw0xoLbBY_5m16k1u30TOz3/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
