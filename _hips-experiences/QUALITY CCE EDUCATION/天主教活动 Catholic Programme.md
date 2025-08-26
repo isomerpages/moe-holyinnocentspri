@@ -25,14 +25,6 @@ Prior to the pandemic, the Holy Eucharist was celebrated termly and faith was de
 
 <img style="width: 70%;" src="/images/CAT3.png" align="center"> 
 
-#### Christmas at HIPS
-
-
-
-|  |  | 
-| -------- | -------- |
-| ![](/images/CAT5.jpeg)     | ![](/images/CAT4.jpeg)    | 
-
 
 #### Lighting of candles at the Holy Family Garden for prayer intention.
 
@@ -44,10 +36,13 @@ Prior to the pandemic, the Holy Eucharist was celebrated termly and faith was de
 
 #### A visit to the Holy Innocents’ Prayer Room to give a prayer of thanks.
 
-|  | | 
-| -------- | -------- | 
-| ![](/images/CAT9.jpeg)     | ![](/images/CAT10.jpeg)     | 
 
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSiXVPbQ9e_ZL_WfxpCVa7LiKu59pNI6uf40jfAEqbbAgWWgQwhiIWmjwpoIyaqi_vqeAuxZeNdANv/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 #### 40th Anniversary Mass
+
+
+<div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vROP9P4aWmLArgNFsUug5l8mNTCgS7dkzXMPFsAJHccTU6oXM4DwrQfNYw0xoLbBY_5m16k1u30TOz3/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+
