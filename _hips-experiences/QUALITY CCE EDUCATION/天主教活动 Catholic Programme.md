@@ -45,4 +45,3 @@ Prior to the pandemic, the Holy Eucharist was celebrated termly and faith was de
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vROP9P4aWmLArgNFsUug5l8mNTCgS7dkzXMPFsAJHccTU6oXM4DwrQfNYw0xoLbBY_5m16k1u30TOz3/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-
