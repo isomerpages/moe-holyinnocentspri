@@ -26,18 +26,15 @@ Prior to the pandemic, the Holy Eucharist was celebrated termly and faith was de
 <img style="width: 70%;" src="/images/CAT3.png" align="center"> 
 
 
-#### Lighting of candles at the Holy Family Garden for prayer intention.
+## Prayer moment during school
+<br>
 
-|  | |
-| -------- | -------- |
-| ![](/images/CAT6.jpeg)     | ![](/images/CAT7.jpeg)     | 
+#### School Mass ~ Prayer Room ~ Holy Family Garden
 
-<img style="width: 70%;" src="/images/CAT8.jpeg" align="center">
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSiXVPbQ9e_ZL_WfxpCVa7LiKu59pNI6uf40jfAEqbbAgWWgQwhiIWmjwpoIyaqi_vqeAuxZeNdANv/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-#### Prayer moment during school
-
-
-<iframe allowfullscreen="true" height="749" width="1280" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSiXVPbQ9e_ZL_WfxpCVa7LiKu59pNI6uf40jfAEqbbAgWWgQwhiIWmjwpoIyaqi_vqeAuxZeNdANv/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+#### Learning Journey
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCX7H_8pphDK0fiOOOzVnJVOgjWtGLX-3GcHEAw8KnOUnVBaQRIeBPtgWmIgKySrmV2mkDrf2hF66a/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 #### 40th Anniversary Mass
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vROP9P4aWmLArgNFsUug5l8mNTCgS7dkzXMPFsAJHccTU6oXM4DwrQfNYw0xoLbBY_5m16k1u30TOz3/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
