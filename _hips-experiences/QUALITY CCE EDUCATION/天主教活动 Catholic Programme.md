@@ -50,4 +50,4 @@ Prior to the pandemic, the Holy Eucharist was celebrated termly and faith was de
 
 
 #### 40th Anniversary Mass
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vROP9P4aWmLArgNFsUug5l8mNTCgS7dkzXMPFsAJHccTU6oXM4DwrQfNYw0xoLbBY_5m16k1u30TOz3/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vROP9P4aWmLArgNFsUug5l8mNTCgS7dkzXMPFsAJHccTU6oXM4DwrQfNYw0xoLbBY_5m16k1u30TOz3/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
