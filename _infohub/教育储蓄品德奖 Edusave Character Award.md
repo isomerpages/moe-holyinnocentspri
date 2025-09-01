@@ -17,6 +17,6 @@ variant: markdown
         <li>High level of civic responsibility; and</li>
         <li>Must have at least 1 CCA (for <strong>P4 - P6</strong> students).</li>
     </ol>
-    <p>Parents and students may download the nomination form (Click here). Your child can also obtain the form from the general office on your behalf. Please email the completed forms to <a href="mailto:holyinnocentspri@moe.edu.sg">holyinnocentspri@moe.edu.sg</a></p>
+    <p>Parents and students may download the nomination form (Click [HERE](https://for.edu.sg/echa-hips)). Your child can also obtain the form from the general office on your behalf. Please email the completed forms to <a href="mailto:holyinnocentspri@moe.edu.sg">holyinnocentspri@moe.edu.sg</a></p>
     <p style="font-size:24px;">Submission of nomination for ECHA 2025 will be open from <strong>1 September to 15 September 2025.</strong></p>
 </div>
