@@ -31,7 +31,7 @@ Prior to the pandemic, the Holy Eucharist was celebrated termly and faith was de
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSiXVPbQ9e_ZL_WfxpCVa7LiKu59pNI6uf40jfAEqbbAgWWgQwhiIWmjwpoIyaqi_vqeAuxZeNdANv/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-#### Learning Journey
+#### School Catholic Activities
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCX7H_8pphDK0fiOOOzVnJVOgjWtGLX-3GcHEAw8KnOUnVBaQRIeBPtgWmIgKySrmV2mkDrf2hF66a/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 #### 40th Anniversary Mass
