@@ -10,7 +10,21 @@ description: ""
 <p>You can view more information via <a href="https://www.facebook.com/share/p/16aEPg5ini/" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p></p>
-<p></p>
+<h4><strong>Homecoming and Mid-Autumn Carnival (2 Oct 2025)</strong></h4>
+<p>The school will also continue the festivities with the Mid-Autumn Festival
+celebrated in conjunction with our 40th Anniversary Homecoming Carnival
+on <strong>2 October 2025 (Thursday)</strong> that will be taking place between <strong>4 pm to 8 pm</strong>,
+making the occasion especially meaningful as past and present members of
+our school community come together. To enhance students’ understanding
+of Chinese traditions, booths will be set up during the carnival, featuring
+fun games, hands-on activities, and cultural exhibits. Leading up to the
+day, students will also enjoy activities during lesson time from the start
+of Term 4, with cultural exhibits displayed in the canteen and library
+over the next two weeks. They are encouraged to explore these displays
+and borrow festival-themed books to deepen their appreciation of the festival.</p>
+<p>Parents and Alumni, please do mark down <strong>2 October 2025 (Thursday)</strong>,
+for this special occasion, and stay tuned for more information in the weeks
+ahead as we share details on how the celebrations will unfold.</p>
 <h4><strong>Fund Raising Campaign</strong></h4>
 <p></p>
 <p>亲爱的朋友们，</p>
