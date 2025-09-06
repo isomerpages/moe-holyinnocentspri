@@ -74,6 +74,9 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/Nov_2025.jpg">
+</div>
 <h4><strong>School Terms 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School information/School_term_2025.png">
