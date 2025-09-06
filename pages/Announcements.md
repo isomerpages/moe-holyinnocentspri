@@ -178,11 +178,13 @@ to 11.00 am.</p>
 <p><strong>There is NO school on Children’s Day, which is a scheduled school holiday, on 3 October 2025.</strong>
 </p>
 <p></p>
+<h4><strong>Homecoming and Mid-Autumn Carnival -</strong> 2 Oct 2025</h4>
+<p>Click <strong><a href="https://www.holyinnocentspri.moe.edu.sg/40-anniversary/" rel="noopener nofollow" target="_blank">here</a> </strong>for
+more information.</p>
 <h4><strong>P1 2026 Orientation Day - </strong>19 Nov 2025</h4>
 <p>The Orientation Day for P1 2026 students will be conducted on <strong>19 November 2025 (Wednesday) </strong>morning.
 As such, all P1 to P6 students are <strong>NOT</strong> required to attend
 school on that day.</p>
-<p></p>
 <p></p>
 <h4><strong>ALBA's Battery Recycling Challenge</strong> (1 March 2025 to 28 February 2026)</h4>
 <p>Our school is proud to take part in this year-long recycling initiative.
