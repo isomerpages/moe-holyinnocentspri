@@ -90,9 +90,98 @@ and punctual for their assessments.</p>
 PSLE written examination, teaching and learning for the Primary 3 to 5
 students will take the form of blended learning during the PSLE written
 examination on days specified in the following schedule.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucement/PSLE_2025.jpg">
+</div>
 <p>*Students to remain at home for blended learning.</p>
 <p></p>
+<blockquote>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Arrangements on PSLE marking days 2025</strong>
+</p>
+</li>
+</ol>
+</blockquote>
+<p>PSLE marking days will take place from 13 – 15 October 2025. Identified
+Primary 5 students will report to school for the P5 Support Programme.
+Students taking part in the school’s 40th anniversary musical will attend
+rehearsals according to the rehearsal schedule sent via PG.</p>
+<p></p>
+<h4><strong>Children’s Day Celebration - 2 Oct 2025</strong></h4>
+<p>On 2 October 2025, the school will be celebrating Children’s Day in the
+morning. This year’s theme is “<strong><em>I am a Star</em></strong>”.
+Students need not wear their school uniform; instead, they are encouraged
+to come dressed in colourful attire to mark the occasion in a vibrant spirit.</p>
+<p>As part of the celebrations, and in conjunction with our Teacup Challenge
+for the school’s 40th Anniversary, students will also be treated to a surprise
+snack. Please note that only two stalls in the canteen will be operating,
+so students are reminded to bring along their own snack and water bottle.
+They are also encouraged to carry a storybook and some stationery with
+colouring materials in a small bag. Staggered dismissal for all levels
+will follow thereafter.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Dismissal Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 and P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.30am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 and P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.35am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 and P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.40am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Please make the necessary transport arrangements for your child. For those
+taking the school bus, please check the transport arrangements with the
+bus operator. Parents who are driving and picking up your child from Gate
+A will be able to drive in to pick up your child after the school buses
+have left, at approximately 10.45 am.</p>
+<p>Gates A, F and H will be open for dismissal for walkers from 10.30 am
+to 11.00 am.</p>
+<p><strong>There is NO school on Children’s Day, which is a scheduled school holiday, on 3 October 2025.</strong>
+</p>
+<p></p>
+<h4><strong>P1 2026 Orientation Day - </strong>19 Nov 2025</h4>
+<p>The Orientation Day for P1 2026 students will be conducted on <strong>19 November 2025 (Wednesday) </strong>morning.
+As such, all P1 to P6 students are <strong>NOT</strong> required to attend
+school on that day.</p>
 <p></p>
 <p></p>
 <h4><strong>ALBA's Battery Recycling Challenge</strong> (1 March 2025 to 28 February 2026)</h4>
