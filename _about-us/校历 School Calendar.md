@@ -8,7 +8,7 @@ variant: tiptap
 <iframe style="border:solid 1px #777" height="600" width="900" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;showTz=0&amp;src=YWRtaW5faG9seWlubm9jZW50QG1vZS5lZHUuc2c&amp;color=%234285F4"></iframe>
 </div>
 <p></p>
-<h4><strong>Public Holiday</strong></h4>
+<h4><strong>Public Holiday and No school day</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -29,24 +29,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11 Aug 2025 (Monday)</p>
+<p>3 Oct 2025 (Friday)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Scheduled School holiday (National Day - 9 Aug 2025)</p>
+<p>Children's Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 Aug 2025 (Tuesday)</p>
+<p>6 Oct 2025 (Monday)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Sept 2025 (Friday)</p>
+<p>12 Nov 2025 (Wednesday)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teachers' Day</p>
+<p>Admin Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not applicable</p>
+<p>13 Nov 2025 (Thursday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Nov 2025 (Wednesday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 Orientation for 2026 P1 students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Nov 2025 (Thursday) only for identified students</p>
 </td>
 </tr>
 <tr>
@@ -63,6 +74,9 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/Nov_2025.jpg">
+</div>
 <h4><strong>School Terms 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School information/School_term_2025.png">
@@ -91,25 +105,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Remarks</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13 to 14 Aug 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Oral Examinations</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>P6 students to report to school.</p>
-</li>
-<li>
-<p>P1 to 5 students do not report to school.</p>
-</li>
-</ul>
-<p>(School Closure Day due to PSLE Listening Comprehension Examinations)</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
