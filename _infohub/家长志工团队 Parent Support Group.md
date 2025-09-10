@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## 家长志工团队<br> Parent Support Group
 
-![](/images/PSG/PSG___HIPS.jpg)[](/images/HIPS%20PSG%20Group%20Photo.jpg)
+![](/images/HIPS%20PSG%20Group%20Photo.jpg)
 
 The Parent Support Group (PSG) executive committee was first formed in 2000 with a small group of members. Since then, with the strong support and commitment from dedicated parent volunteers, the committee members, Principal, Vice-Principals and the teachers, the committee has grown from strength to strength. Currently, the PSG has 12 committee members.&nbsp;
 
@@ -56,7 +56,7 @@ Our logo symbolizes the link between the school and the parents working together
 
 #### Activities
 
-!![](/images/PSG/PSG___HIPS.jpg)[](/images/PSG/PSG2024_v2.jpg)
+![](/images/PSG/PSG___HIPS.jpg)[](/images/PSG/PSG2024_v2.jpg)
 
 **GIFT - Growing in Faith Together**  
 Led by our Chaplain, the GIFT volunteers and teachers have developed programmes for students at the different levels. Topics such as the lives of Saints and the Gift of the Holy Spirit are shared during these sessions.&nbsp;&nbsp;The GIFT programme is not a substitute for the Catechism programme conducted in the parishes.&nbsp;  
