@@ -49,14 +49,14 @@ Our logo symbolizes the link between the school and the parents working together
 
 | Commitee Members |  | 
 | -------- | -------- | 
-|  <br> Ms Adeline Low <br> Ms Sandee Ng <br> Ms Yong Siu Ling|   <br> Ms Christina Wang  <br> Ms Shirley Ng | 
+|  <br> Ms Adeline Low <br> Ms Sandee Ng <br> Ms Yoong Siu Ling|   <br> Ms Christina Wang  <br> Ms Shirley Ng | 
 |||
 
 
 
 #### Activities
 
-![](/images/PSG/PSG2024_v2.jpg)
+![](/images/PSG/PSG___HIPS.jpg)[](/images/PSG/PSG2024_v2.jpg)
 
 **GIFT - Growing in Faith Together**  
 Led by our Chaplain, the GIFT volunteers and teachers have developed programmes for students at the different levels. Topics such as the lives of Saints and the Gift of the Holy Spirit are shared during these sessions.&nbsp;&nbsp;The GIFT programme is not a substitute for the Catechism programme conducted in the parishes.&nbsp;  
