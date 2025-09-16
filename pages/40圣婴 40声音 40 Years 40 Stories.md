@@ -10,7 +10,7 @@ description: ""
 <p>You can view more information via <a href="https://www.facebook.com/share/p/16aEPg5ini/" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p></p>
-<h4><strong>Homecoming and Mid-Autumn Carnival  四十周年校庆与中秋嘉年华 (2 Oct 2025)</strong></h4>
+<h4><strong>Homecoming and Mid-Autumn Carnival 四十周年校庆与中秋嘉年华 (2 Oct 2025)</strong></h4>
 <p>我们诚挚邀请你参与我们的40周年校庆与中秋节嘉年华。我们期待与你在校园里相聚，度过一个既温馨又愉快的夜晚!当晚将设有精彩的游戏摊位、文化摊位、美食摊位（需付费）以及限量版校庆纪念品销售（需付费）。</p>
 <p>日期：<strong>10月2日, 星期四</strong>
 </p>
