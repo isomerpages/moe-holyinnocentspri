@@ -25,7 +25,7 @@ sections:
   - infopic:
       title: 40 圣婴 40 声音 40 Years 40 Stories
       id: infopic
-      image: /images/40th Anniversary/HIPS_Publicity__For_Facebook_.png
+      image: /images/40th Anniversary/FunFair2025.jpg
       subtitle: 40th Anniversary celebration
       alt: 40th Anniversary
       url: https://holyinnocentspri.moe.edu.sg/40-anniversary/
