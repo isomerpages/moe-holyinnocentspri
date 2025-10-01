@@ -40,6 +40,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>21 Oct 2025 (Tuesday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deepavali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22 Oct 2025 (Wednesday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>12 Nov 2025 (Wednesday)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,49 +116,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Remarks</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 Sept 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Listening Comprehension Examination</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>P6 students to report to school.</p>
-</li>
-<li>
-<p>P1 to 5 students do not report to school.</p>
-</li>
-</ul>
-<p>(School Closure Day due to PSLE Listening Comprehension Examinations)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25 to 26 Sept 2025</p>
-<p>29 Sept to 1 Oct 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PSLE Written Examinations</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>P1 and P2 students will report to school on all days</p>
-</li>
-<li>
-<p>P3 and P4 students will have blended learning on selected days*</p>
-</li>
-<li>
-<p>P5 students will attend camp and blended learning*</p>
-<p><em>(more details will be sent out closer to date)</em>
-</p>
-</li>
-</ul>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
