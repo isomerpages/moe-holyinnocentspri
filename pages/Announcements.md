@@ -5,108 +5,17 @@ description: ""
 variant: tiptap
 ---
 <h2>Announcements</h2>
-<h3><strong>Examination related</strong></h3>
-<blockquote>
-<p><strong>1. P3-P5 End-of-Year Oral Examination Schedule</strong>
-</p>
-</blockquote>
-<p>The End-of-Year Oral Examination for Primary 3 to Primary 5 students will
-be conducted as follows. P3 and P4 Oral Examination will take place during
-curriculum time, while P5 Oral Examination will be held after school on
-17 and 18 September. Parents of P5 students are reminded to make their
-own transport arrangements for the after-school examination schedule. Please
-see the schedule below for details:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Examination Period</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Timing</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22 - 26 Sept 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>During curriculum time</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22 and 23 Sept 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>During Curriculm time</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>17 and 18 Sept 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>After School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>We appreciate parents’ support in ensuring that students are well-prepared
-and punctual for their assessments.</p>
-<blockquote>
-<p><strong>2. Blended Learning during 2025 PSLE Written Examination Days: Primary 1 – 5</strong>
-</p>
-</blockquote>
-<p>In the interest of our P6 graduating cohort who will be sitting for the
-PSLE written examination, teaching and learning for the Primary 3 to 5
-students will take the form of blended learning during the PSLE written
-examination on days specified in the following schedule.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucement/PSLE_2025.jpg">
-</div>
-<p>*Students to remain at home for blended learning.</p>
-<p></p>
-<blockquote>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><strong>Arrangements on PSLE marking days 2025</strong>
-</p>
-</li>
-</ol>
-</blockquote>
-<p>PSLE marking days will take place from 13 – 15 October 2025. Identified
-Primary 5 students will report to school for the P5 Support Programme.
-Students taking part in the school’s 40th anniversary musical will attend
-rehearsals according to the rehearsal schedule sent via PG.</p>
+<h4><strong>Details on HIPS 40th Anniversary Homecoming and Mid-Autumn Carnival</strong></h4>
+<p>we are happy to share that the event will feature exciting game stalls,
+cultural showcases, food stalls (payment required), and exclusive school
+merchandise available for purchase. The event Admission is free, and alumni
+who join us and take part in the Bingo card activity will stand a chance
+to win a limited-edition anniversary wristband. We look forward to you
+joining us at School as we celebrate our Homecoming and Mid-Autumn Carnival
+on 2 October 2025, Thursday, 4 pm to 8 pm.</p>
+<p>Click <strong><a href="https://www.holyinnocentspri.moe.edu.sg/40-anniversary/" rel="noopener nofollow" target="_blank">here</a> </strong>for
+more information.</p>
 <p></p>
 <h4><strong>Children’s Day Celebration - 2 Oct 2025</strong></h4>
 <p>On 2 October 2025, the school will be celebrating Children’s Day in the
@@ -178,9 +87,14 @@ to 11.00 am.</p>
 <p><strong>There is NO school on Children’s Day, which is a scheduled school holiday, on 3 October 2025.</strong>
 </p>
 <p></p>
-<h4><strong>Homecoming and Mid-Autumn Carnival -</strong> 2 Oct 2025</h4>
-<p>Click <strong><a href="https://www.holyinnocentspri.moe.edu.sg/40-anniversary/" rel="noopener nofollow" target="_blank">here</a> </strong>for
-more information.</p>
+<h4><strong>Purple Parade</strong></h4>
+<p>As part of our school’s annual purple parade where we support inclusion
+and celebrate the abilities of persons with disabilities, student learning
+experiences will be designed to help develop in our students cognitive
+and emotional empathy and become more sensitive to the social environment
+and needs of others. We would like to encourage all students to come in
+purple on 10 November 2025, Monday, as we mark the day with purpose.</p>
+<p></p>
 <h4><strong>P1 2026 Orientation Day - </strong>19 Nov 2025</h4>
 <p>The Orientation Day for P1 2026 students will be conducted on <strong>19 November 2025 (Wednesday) </strong>morning.
 As such, all P1 to P6 students are <strong>NOT</strong> required to attend
