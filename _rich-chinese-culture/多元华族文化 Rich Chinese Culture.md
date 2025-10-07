@@ -40,7 +40,7 @@ learning environment for students.
 <img style="width: 75%;" height="auto" width="100%" src="/images/SAP 1.png">
 </div>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQxO7c4QWgUspy6QtQ-K49N419-RjgPNKkOACXQJKReiCSQ9khUQmz6_iYGBE2cCbZm2geoPCFpZYKJ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQxO7c4QWgUspy6QtQ-K49N419-RjgPNKkOACXQJKReiCSQ9khUQmz6_iYGBE2cCbZm2geoPCFpZYKJ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Festive Celebrations</h4>
 <div class="isomer-image-wrapper">
