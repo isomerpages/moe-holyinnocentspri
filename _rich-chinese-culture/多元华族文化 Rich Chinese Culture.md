@@ -25,11 +25,22 @@ The outward expression of the students’ language ability is supported by
 the appreciation of Chinese culture through the Cultural Arts Programme
 modules of Wushu, Weiqi, Tea Art, Chinese Calligraphy, Chinese Brush Painting
 and Traditional Chinese Medicine.</p>
-<p>
+<p></p>
+<p>为纪念学校40周年校庆，我校于10月2日举行了全新沉浸式科技学习室"文艺苑"的开幕仪式。这个创新空间结合了文化与科技，以互动体验让茶文化鲜活呈现，同时也通过其他科技辅助激发同学们对传统文化和学习华文的兴趣，为学生带来全新的学习体验。</p>
+<p>&nbsp;</p>
+<p>On the 2 October, as part of our 40<sup>th</sup> Anniversary celebration
+is the unveiling of the Cultural Learning Centre, highlighting the use
+of immersive technology for Chinese Cultural Learning and Experiences.
+This pioneering project brings Chinese culture and Chinese language learning
+to life through interactive games and immersive visuals, creating an exciting
+learning environment for students.
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" src="/images/SAP 1.png">
+</div>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQxO7c4QWgUspy6QtQ-K49N419-RjgPNKkOACXQJKReiCSQ9khUQmz6_iYGBE2cCbZm2geoPCFpZYKJ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Festive Celebrations</h4>
 <div class="isomer-image-wrapper">
@@ -53,12 +64,5 @@ and Traditional Chinese Medicine.</p>
 </div>
 <p></p>
 <p></p>
-<p>为纪念学校40周年校庆，我校于10月2日举行了全新沉浸式科技学习室"文艺苑"的开幕仪式。这个创新空间结合了文化与科技，以互动体验让茶文化鲜活呈现，同时也通过其他科技辅助激发同学们对传统文化和学习华文的兴趣，为学生带来全新的学习体验。</p>
-<p>&nbsp;</p>
-<p>On the 2 October, as part of our 40<sup>th</sup> Anniversary celebration
-is the unveiling of the Cultural Learning Centre, highlighting the use
-of immersive technology for Chinese Cultural Learning and Experiences.
-This pioneering project brings Chinese culture and Chinese language learning
-to life through interactive games and immersive visuals, creating an exciting
-learning environment for students.</p>
+<p></p>
 <p></p>
