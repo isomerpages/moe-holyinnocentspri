@@ -14,10 +14,10 @@ variant: markdown
 <p><strong>2022</strong>
 </p>
 <p><a href="/images/SPH%202022%20article.png" rel="noopener noreferrer nofollow" target="_blank">The Sunday Times 11 September 2022</a>
-<br>Source:[The Sunday Times]&nbsp;©&nbsp;SPH Media Limited. Permission required
+<br>Source:The Sunday Times&nbsp;©&nbsp;SPH Media Limited. Permission required
 for reproduction.</p>
 <p><a href="/images/zubaidah%20caring%20teachers%20award%202022.png" rel="noopener noreferrer nofollow" target="_blank">The Straits Times 28 September 2022</a>
-<br>Source:[The Straits Times]&nbsp;©&nbsp;SPH Media Limited. Permission required
+<br>Source:The Straits Times&nbsp;©&nbsp;SPH Media Limited. Permission required
 for reproduction.</p>
 <p><strong>2020</strong>
 </p>
