@@ -35,28 +35,8 @@ this possible.&nbsp; All donations above $300 will be Tax-Deductible.</p>
 </p>
 <p></p>
 <h4><strong>Homecoming and Mid-Autumn Carnival 四十周年校庆与中秋嘉年华 (2 Oct 2025)</strong></h4>
-<p>我们诚挚邀请你参与我们的40周年校庆与中秋节嘉年华。我们期待与你在校园里相聚，度过一个既温馨又愉快的夜晚!当晚将设有精彩的游戏摊位、文化摊位、美食摊位（需付费）以及限量版校庆纪念品销售（需付费）。</p>
-<p>日期：<strong>10月2日, 星期四</strong>
+<p>Thank you for attending the Homecoming and Mid-Autumn Carnival!</p>
+<p>You can view more picture via <a href="https://www.facebook.com/share/r/14K9vFewPf6/" rel="noopener nofollow" target="_blank">here</a>
 </p>
-<p>时间：<strong>4pm-8pm </strong>(免费入场!)</p>
-<p>到场的校友也有机会赢取限量版校庆手环！快联系你的老同学，一起回来参加这场盛会吧！</p>
-<p></p>
-<p>We would like to invite you back home!</p>
-<p>We will be having our 40th Anniversary Celebration and Mid-Autumn Festival
-Carnival and we can’t wait to see you back in school!</p>
-<p>There will be interesting game stalls, cultural stalls, food stalls (payment
-required) and limited-edition school merchandise on sale (payment required).
-Admission is free and alumni who visit us stand a chance to win a limited-edition
-school anniversary wristband!</p>
-<p>So, get in touch with your old pals today and join us for the carnival!</p>
-<p></p>
-<p>Date: <strong>2 October 2025, Thursday</strong>
-</p>
-<p>Time: <strong>4pm – 8pm</strong>
-</p>
-<p>Location: <strong>Holy Innocents’ Primary School</strong>
-</p>
-<p>Admission is free! All are welcome! We look forward to seeing all of you
-that day!</p>
 <p></p>
 <p></p>
