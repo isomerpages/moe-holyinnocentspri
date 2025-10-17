@@ -39,4 +39,5 @@ third_nav_title: OUR ACHIEVEMENTS
 | | Subject| Achievement |
 | -------- | -------- | -------- |
 |1|Mathematics|**Raffles Mathematical Olympiad 2025** <br>1 High Distinction<br>2 Distinction<br>3 Merit<br> |
+|2|English|**Singapore Moo-O Awards 2025**<br> Gold Award|
 ||||
