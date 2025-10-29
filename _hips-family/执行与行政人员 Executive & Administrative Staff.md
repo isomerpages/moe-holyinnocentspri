@@ -10,9 +10,10 @@ variant: markdown
 | ADMINISTRATION | | 
 | -------- | -------- | 
 | Administration Manager 1 | Mdm Chua Quee Hong| 
-|Administrative Manager 2|Mr Muhammad Raimi Bin Rawi|
+|Administration Manager 2|Mr Muhammad Raimi Bin Rawi|
 |ICT Manager|Mdm Theresa Wong Mon Yee|
-|Corporate Support Officer|Mdm K Paruvathi <br>Miss Ang Sio Lan<br>Miss Toh Sally|
+|Administrative Executive|Miss Ang Sio Lan|
+|Corporate Support Officer|Mdm K Paruvathi <br>Miss Toh Sally|
 |||
 
 
