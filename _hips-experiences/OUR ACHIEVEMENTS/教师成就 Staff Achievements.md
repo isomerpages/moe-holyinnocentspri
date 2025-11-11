@@ -3,8 +3,20 @@ title: 教师成就 Staff Achievements
 permalink: /our-achievements/staff-achievements/
 description: ""
 third_nav_title: OUR ACHIEVEMENTS
+variant: markdown
 ---
 ## Staff Achievements
+
+
+### 2025
+**MOE Outstanding Innovator Award**
+<br>Mdm Lee Siew Kian Joyce
+
+**National Day Award 2025 - Commendation Medal**
+<br> Mdm Dong Yan
+
+**Listening Educator for Advancement and Progress Award (LEAP Award)**
+<br> Mdm Ang Jingyi
 
 #### 2023
 
@@ -59,7 +71,6 @@ Mdm Toh Siew Khim
 <br><br>  
 	
 #### 2019
-<br><br>
 
 **National Day Award 2019 - The Public Administration Medal (Bronze)**<br>
 Mrs Sharon Tobias<br>
@@ -95,14 +106,12 @@ Lianhe Zaobao©&nbsp;Singapore Press Holdings Limited.&nbsp;Permission required 
 The Straits Times©&nbsp;Singapore Press Holdings Limited.&nbsp;Permission required for reproduction.&nbsp;&nbsp;&nbsp;<br>
 <br><br>
 **Associate of Academy of Singapore Teachers Award**  
-<br><br>
+<br>
 **Mdm Kerin Chua**  <br>
 HOD Science
-<br>
-
+<br><br>
 **Mrs Sarah Lee-Koh Hui Khoon**<br>
 Head of Department SAP/Aesthetics
-<br>
-
+<br><br>
 **Mdm Irene Tan**<br>
 Senior Teacher
