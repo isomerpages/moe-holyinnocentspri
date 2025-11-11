@@ -67,7 +67,7 @@ dates and timings:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>*Timings Subject to change  </em></strong>
+<p><strong><em>*Timings Subject to change</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,7 +78,7 @@ dates and timings:</p>
 </tbody>
 </table>
 <h4></h4>
-<h4><strong>2026 Orientation Programme – HIPS HURRAY! </strong></h4>
+<h4><strong>2026 Orientation Programme – HIPS HURRAY!</strong></h4>
 <p>As part of our continued emphasis on character education, the school will
 be conducting the HIPS HURRAY! Programme when school reopens. The programme
 will be held from <strong>5 to 7 January 2026 </strong>and aims to nurture
