@@ -29,7 +29,7 @@ this possible.&nbsp; All donations above $300 will be Tax-Deductible.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/40th Anniversary/HIPS_Publicity__For_Facebook_.png">
 </div>
 <p></p>
-<h4><strong>Thanksgiving Mass</strong></h4>
+<h4><strong>Thanksgiving Mass (5 April 2025)</strong></h4>
 <p>Thank you for attending the 40th Anniversary Thanksgiving Mass.</p>
 <p>You can view more information via <a href="https://www.facebook.com/share/p/16aEPg5ini/" rel="noopener nofollow" target="_blank">here</a>
 </p>
