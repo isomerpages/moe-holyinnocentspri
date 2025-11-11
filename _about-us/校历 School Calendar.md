@@ -29,28 +29,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Oct 2025 (Friday)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Children's Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 Oct 2025 (Monday)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21 Oct 2025 (Tuesday)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deepavali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22 Oct 2025 (Wednesday)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>12 Nov 2025 (Wednesday)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,45 +75,51 @@ variant: tiptap
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/School information/School_holiday.png">
 </div>
 <p></p>
-<h4><strong>PSLE Important Dates</strong></h4>
-<p>Please note the following PSLE Examination and marking dates:</p>
-<table style="minWidth: 75px">
+<h4><strong>Meet-the-parents Session 2026</strong></h4>
+<p>There will be a Meet-the-Parent Session for all levels at the following
+dates and timings:</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Dates</p>
+<p>Level 2026</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Event</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Remarks</p>
+<p>Date &amp; Timing*</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 to 15 Oct 2025</p>
+<p>P1 and P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PSLE Marking Exercise</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Only selected P5 students will return to school on 13 and 14 Oct for identified
-programmes</p>
-<p>(School Closure Days due to PSLE Marking Exercise)</p>
+<p>Tuesday, 27 January 2026, 3.00 p.m. to 4.30 p.m.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>P3 and P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Wednesday, 28 January 2026, 3.00 p.m. to 4.30 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 and P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday, 29 January 2026, 3.00 p.m. to 4.30 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>*Timing subject to change</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
