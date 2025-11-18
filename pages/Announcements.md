@@ -5,19 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h2>Announcements</h2>
-<h4><strong>Use Your Hands Campaign</strong></h4>
-<p>To encourage our students to be active contributors, all students will
-be participating in the Use Your Hands Campaign on Tuesday, <strong>18 November 2025</strong>.
-The Use Your Hands Campaign is a bi-annual school-based activity which
-aims to instill a sense of responsibility in students to maintain the cleanliness
-of their learning spaces. Through this campaign, we hope to develop empathetic
-students with an appreciation for their parents, domestic helpers and cleaners
-who help keep the spaces they use clean. Students will be assigned to clean
-areas within the school such as their classrooms, special rooms, canteen
-and hall.</p>
-<p>Students are required to come to school in their P.E. Attire and bring
-a rag with them for cleaning purposes. More information will be shared
-with students on Monday, 17 November 2025.</p>
 <p></p>
 <h4><strong>P1 2026 Orientation Day - </strong>19 Nov 2025</h4>
 <p>The Orientation Day for P1 2026 students will be conducted on <strong>19 November 2025 (Wednesday) </strong>morning.
