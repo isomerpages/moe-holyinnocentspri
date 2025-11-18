@@ -19,7 +19,7 @@ Through participation of CCA, students are provided with varied and authentic op
 
 #### Co-Curriculum Activities Programme
 
- **CCA Schedule 2026** <br>
+####  **CCA Schedule 2026** <br>
 In general, CCA sessions will run from 2.00 p.m. to 4.00 p.m. The respective CCA teachers-in-charge will inform you if there are any extensions in timing or additional sessions, particularly for school team members or those participating in the Singapore Youth Festival (SYF)
 <br><br>
 ![](/images/CCA/CCA_timetable_2026.png)
