@@ -19,9 +19,11 @@ Through participation of CCA, students are provided with varied and authentic op
 
 #### Co-Curriculum Activities Programme
 
- **CCA Schedule 2025** <br>
-Click <a target="\_blank" href="https://for.edu.sg/hips-cca-schedule"> here </a> to download the updated schedule.
-
+####  **CCA Schedule 2026** <br>
+In general, CCA sessions will run from 2.00 p.m. to 4.00 p.m. The respective CCA teachers-in-charge will inform you if there are any extensions in timing or additional sessions, particularly for school team members or those participating in the Singapore Youth Festival (SYF)
+<br><br>
+![](/images/CCA/CCA_timetable_2026.png)
+<br>
 Please note P6 students will stand down from CCAs from Term 4 onwards unless their participants is required. In the event that students are required to attend any session, the teacher in-charge will issue a letter to inform them.
 
 
