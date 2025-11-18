@@ -19,7 +19,7 @@ Through participation of CCA, students are provided with varied and authentic op
 
 #### Co-Curriculum Activities Programme
 
- **CCA Schedule 2025** <br>
+ **CCA Schedule 2026** <br>
 Click <a target="\_blank" href="https://for.edu.sg/hips-cca-schedule"> here </a> to download the updated schedule.
 
 Please note P6 students will stand down from CCAs from Term 4 onwards unless their participants is required. In the event that students are required to attend any session, the teacher in-charge will issue a letter to inform them.
