@@ -22,6 +22,10 @@ variant: markdown
 
 * 营造优良的学习环境，让每个学生乐学华文华语。
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3ejWwBnHNCI?si=CZSSsrj4OVMi2tzX" height="315" width="560"></iframe>
+<br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/I9NEI6yPsXI?si=53VynPAG38sdRCiA" height="315" width="560"></iframe>
+<br>
 
 ####  教学法与教学途径 Our Pedagogies and Approach
 
