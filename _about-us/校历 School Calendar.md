@@ -52,14 +52,8 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4><strong>School Terms 2025</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School information/School_term_2025.png">
-</div>
+<h4><strong>School Terms 2026</strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/School information/School_holiday.png">
-</div>
 <p></p>
 <h4><strong>Meet-the-parents Session 2026</strong></h4>
 <p>There will be a Meet-the-Parent Session for all levels at the following
