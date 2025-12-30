@@ -5,12 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h2>多元华族文化 <br>Special Assistance Plan (SAP) <br></h2>
-<h4>部门愿景 Department Vision</h4>
-<p>每个孩子都知书达理、充满自信
-<br>Every child a cultured and confident person&nbsp;</p>
-<h4>部门使命 Department Mission</h4>
-<p>弘扬中华文化，保留传统
-<br>Promote Chinese Culture, Preserve the Tradition&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAP/SAP_Vision_Mission.png">
+</div>
 <h4>特选课程 HIPS SAP Programme</h4>
 <p>作为特选学校，圣婴小学始终致力于培养学生中英双语兼通，中西文化并重，使学生对华文有更深的认识，对华族文化有更大的热忱。通过结构化的表演艺术旗舰课程（包括快板课程和华族戏曲，学生能够深濡其中，旨在培养他们对表演艺术的欣赏能力及其语言表达上的信心。通过武术、围棋、茶艺、书法、水墨画和传统中医等文化艺术课程模块，学生的语言表达能力得以支撑、展示及提高。
 <br>
