@@ -19,7 +19,7 @@ variant: markdown
 
 |STAFF DEVELOPMENT|
 | :--------: |
-|<a href="mailto:lee_shea_li@moe.edu.sg">Mdm Lee Shea Li</a><br>School Staff Developer|
+|<a href="mailto:eng_li_yun_felicia@moe.edu.sg">Mdm Felicia Eng</a><br>School Staff Developer (Covering)|
 ||
 
 | ENGLISH LANGUAGE|CHINESE LANGUAGE DEPARTMENT|
@@ -36,8 +36,8 @@ variant: markdown
 
 | CHARACTER &amp; CITIZENSHIP<br>EDUCATION (CCE)| STUDENT MANAGEMENT|
 | -------- | -------- |
-|<a href="mailto:wang-lim_ai_lian@moe.edu.sg">Mrs Wang-Lim Ai Lian</a><br>Head of Department|<a href="mailto:ng_cher_hwa@moe.edu.sg">Mr Ng Cher Hwa</a> (黄老师)<br>Head of Department|
-|<a href="mailto:lim_lily_a@moe.edu.sg">Mdm Lily Lim</a> (林老师）<br>Subject Head<br> (Student Well-being)<br><br><a href="mailto:mohammad_aizal_zainol@moe.edu.sg">Mr Mohammad Aizal Bin Zainol</a><br>Subject Head<br> (National Education and Social Studies) |<a href="mailto:chia_jin_guo@moe.edu.sg">Mr Chia Jin Guo Caleb </a><br> Subject Head <br> (Student Leadership)|
+|<a href="mailto:wang-lim_ai_lian@moe.edu.sg">Mrs Wang-Lim Ai Lian</a><br>Head of Department|<a href="mailto:mohammad_aizal_zainol@moe.edu.sg">Mr Mohammad Aizal Bin Zainol</a><br>Head of Department (Covering)|
+|<a href="mailto:lim_lily_a@moe.edu.sg">Mdm Lily Lim</a> (林老师）<br>Subject Head<br> (Student Well-being)<br><br><a href="mailto:mohammad_aizal_zainol@moe.edu.sg">Mr Mohammad Aizal Bin Zainol</a><br>Subject Head<br> (National Education and Social Studies) ||
 |||
 
 | PE / CCA | AESTHETICS| Special Assistance Plan<br> (SAP) |
@@ -49,11 +49,11 @@ variant: markdown
 | Information &amp; Communications Technology<br>(ICT)| 
 | -------- | 
 | <a href="mailto:chua_sze_yi@moe.edu.sg">Mdm Kerin Chua</a><br>Head of Department (Covering) |
-|<a href="mailto:chua_qinyu@moe.edu.sg">Mdm Chua Qinyu</a> (蔡老师)<br>Subject Head|
+|<a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg">Mdm Farah Nurhuda Mohmad Isa</a><br>Subject Head (Covering)|
 ||
 
 | |Year Head/ Assistant Year Head||
 |:--------:| :--------: | :--------: |
 |**Lower Primary**|**Middle Primary**|**Upper Primary**|
-|<a href="mailto:eng_li_yun_felicia@moe.edu.sg">Mdm Felicia Eng</a><br>YH|<a href="mailto:lim_soo_ngee_martina@moe.edu.sg">Miss Martina Lim</a><br>YH<br><br>[Mdm Yap Xinhui Cheryl](mailto:cheryl_yap_xinhui@moe.edu.sg)<br>AYH|<a href="mailto:chu_yunfeng_alex@moe.edu.sg">Mr Alex Chu</a><br>YH<br><br>[Mdm Gayathri d/o Selvamany](mailto:gayathri_selvamany@moe.edu.sg)<br>AYH |
+|<a href="mailto:eng_li_yun_felicia@moe.edu.sg">Mdm Felicia Eng</a><br>YH<br>|[Mdm Yap Xinhui Cheryl](mailto:cheryl_yap_xinhui@moe.edu.sg)<br>AYH|<a href="mailto:chu_yunfeng_alex@moe.edu.sg">Mr Alex Chu</a><br>YH<br><br>[Mdm Gayathri d/o Selvamany](mailto:gayathri_selvamany@moe.edu.sg)<br>AYH |
 |||
