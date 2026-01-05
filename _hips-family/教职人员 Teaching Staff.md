@@ -766,7 +766,7 @@ variant: tiptap
 <br>(Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhong_wanying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhong Wanying </a>
+<p><a href="mailto:zhong_wanying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhong Wanying</a>
 </p>
 <p>(Science)</p>
 </td>
