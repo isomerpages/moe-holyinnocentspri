@@ -8,7 +8,7 @@ variant: markdown
 
 ####  Parent Volunteer (PV) Scheme
 
-Parent Volunteer Registration for&nbsp;**2027 Primary 1**&nbsp;admission is CLOSE.
+Parent Volunteer Registration for&nbsp;**2028 Primary 1**&nbsp;admission is CLOSE.
 
 Registration via online [FORM](https://go.gov.sg/hips-parent-volunteer-scheme)
 
@@ -49,14 +49,14 @@ ALL PVs will be subject to balloting should the number of applicants be greater 
 
 #### Timeline
 
-| YEAR OF CHILD'S BIRTH| 2020 |2019|
+| YEAR OF CHILD'S BIRTH|2021| 2020 |
 |---|---|---|
-| P1 Registration Year| Jul 2026| Jul 2025 | 
-| P1 Admission Year | Jan 2027| Jan 2026  |
-| PV Application Period | 1 Feb 2025 - 15 March 2025| 1 Feb 2024 - 15 March 2024|
-| Selection Period |April to May 2025| April to May 2024 |
-| Commencement Date For Volunteering Work |End June 2025 Onwards| July 2024 0nwards|
-| Completion Date | By 31 May 2026| By 31 May 2025|
+| P1 Registration Year| Jul 2027|Jul 2026|
+| P1 Admission Year |Jan 2028| Jan 2027|
+| PV Application Period | 1Feb 2026 - 15 March 2026|1 Feb 2025 - 15 March 2025|
+| Selection Period |April to May 2026|April to May 2025|
+| Commencement Date For Volunteering Work |End June 2026 Onwards|End June 2025 Onwards|
+| Completion Date | By 31 May 2027|By 31 May 2026|
 
 Note: Selection is **NOT** on a first-come, first-served basis.
 
