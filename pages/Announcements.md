@@ -42,7 +42,7 @@ dates and timings:</p>
 <p>P1 and P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday, 27 January 2026, 3.00pm to 4.30pm</p>
+<p>Tuesday, 3 February 2026, 3.00pm to 4.30pm</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ dates and timings:</p>
 <p>P3 and P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday, 28 January 2026, 3.00pm to 4.30pm</p>
+<p>Wednesday, 4 February 2026, 3.00pm to 4.30pm</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ dates and timings:</p>
 <p>P5 and P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday, 29 January 2026, 3.00pm to 4.30pm</p>
+<p>Thursday, 5 February 2026, 3.00pm to 4.30pm</p>
 </td>
 </tr>
 <tr>
