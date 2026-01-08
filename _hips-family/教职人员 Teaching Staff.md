@@ -271,7 +271,7 @@ variant: tiptap
 <p>2 Charity 9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soh-chan_siew_lai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs. Soh-Chan Siew Lai</a>
+<p><a href="mailto:soh-chan_siew_lai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Soh-Chan Siew Lai</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
