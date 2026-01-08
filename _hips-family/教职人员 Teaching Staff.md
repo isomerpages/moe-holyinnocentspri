@@ -119,7 +119,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ma_ying_xin@moe.edu.sg" rel="noopener nofollow" target="_blank">MIss Ma Ying Xin</a> (马老师）</p>
+<p><a href="mailto:ma_ying_xin@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Ma Ying Xin</a> (马老师）</p>
 </td>
 </tr>
 <tr>
@@ -222,7 +222,8 @@ variant: tiptap
 </p>
 <p></p>
 <p></p>
-<p>Mdm Ong Si Huei</p>
+<p><a rel="noopener nofollow" target="_blank">Mdm Ong Si Huei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chin_qian_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Chin Qian Hui</a>(陈老师)</p>
