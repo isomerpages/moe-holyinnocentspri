@@ -41,7 +41,7 @@ variant: tiptap
 <p>1 Sincerity 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ryan_tay_en_huang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tay En Huang Ryan</a>
+<p><a href="mailto:ryan_tay_en_huang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ryan Tay En Huang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,7 +78,7 @@ variant: tiptap
 <p>1 Sincerity 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_wei_lin_gwendolyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Neo Wei Lin Gwendolyn</a>
+<p><a href="mailto:neo_wei_lin_gwendolyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Gwendolyn Neo Wei Lin </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,7 +91,7 @@ variant: tiptap
 <p>1 Sincerity 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soh_siok_lin_carolina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Soh Siok Lin Carolina</a>
+<p><a href="mailto:soh_siok_lin_carolina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Carolina Soh Siok Lin </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -218,7 +218,7 @@ variant: tiptap
 <p>2 Charity 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:technamoorthy_ashwary@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ashwary Technamoorthy</a>
+<p><a href="mailto:technamoorthy_ashwary@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Technamoorthy Ashwary </a>
 </p>
 <p></p>
 <p></p>
@@ -391,7 +391,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_cher_hui_roger@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Roger Tan Cher Hui</a>
+<p><a href="mailto:tan_cher_hui_roger@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Cher Hui Roger</a>
 </p>
 </td>
 </tr>
@@ -601,7 +601,7 @@ variant: tiptap
 <p>5 Self-Discipline 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samantha_s_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tan Sin Guan Samantha</a>
+<p><a href="mailto:samantha_s_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Samantha Tan Sin Guan </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
