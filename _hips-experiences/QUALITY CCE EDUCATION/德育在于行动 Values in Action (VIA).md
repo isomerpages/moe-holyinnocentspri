@@ -3,6 +3,7 @@ title: 德育在于行动 Values in Action (VIA)
 permalink: /quality-cce-education/via/
 description: ""
 third_nav_title: QUALITY CCE EDUCATION
+variant: markdown
 ---
 ## 德育在于行动 <br>Values in Action (VIA)
 
