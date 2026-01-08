@@ -119,7 +119,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ma_ying_xin@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Ma Ying Xin</a> (马老师）</p>
+<p><a href="mailto:ma_ying_xin@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Ma Yingxin</a> (马老师）</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +127,7 @@ variant: tiptap
 <p>1 Sincerity 9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ye_peishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ye PeiShan (Mrs Shen)</a>
+<p><a href="mailto:ye_peishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ye Peishan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -234,7 +234,7 @@ variant: tiptap
 <p>2 Charity 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:karyn_gunawan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Karyn Gunawan</a>
+<p><a href="mailto:karyn_gunawan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Karyn Gunawan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -338,7 +338,7 @@ variant: tiptap
 <p>3 Graciousness 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_jingyi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ang JingYi</a>(洪老师)</p>
+<p><a href="mailto:ang_jingyi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ang Jingyi</a>(洪老师)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurrul_arif_abdul_rahman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Nurrul Arif Bin Abdul Rahman</a>
@@ -593,7 +593,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_qinyu@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Chua Qinyu</a>(蔡老师)</p>
+<p><a href="mailto:chua_qinyu@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chua Qinyu</a>(蔡老师)</p>
 </td>
 </tr>
 <tr>
@@ -601,7 +601,7 @@ variant: tiptap
 <p>5 Self-Discipline 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samantha_s_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Samantha Tan Sin Guan</a>
+<p><a href="mailto:samantha_s_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Samantha Tan Sin Guan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -667,7 +667,7 @@ variant: tiptap
 <p>6 Resilience 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohammed_aqil_mohd_mislan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammed Aqil Mohd Mislan</a>
+<p><a href="mailto:mohammed_aqil_mohd_mislan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammed Aqil Bin Mohd Mislan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -691,7 +691,7 @@ variant: tiptap
 <p>6 Resilience 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gayathri_selvamany@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Gayathri d/o Selvamany</a>
+<p><a href="mailto:gayathri_selvamany@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Gayathri D/O Selvamany</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
