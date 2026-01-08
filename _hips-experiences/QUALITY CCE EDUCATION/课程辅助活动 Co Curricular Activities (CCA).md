@@ -26,6 +26,7 @@ In general, CCA sessions will run from 2.00 p.m. to 4.00 p.m. The respective CCA
 <br>
 Please note P6 students will stand down from CCAs from Term 4 onwards unless their participants is required. In the event that students are required to attend any session, the teacher in-charge will issue a letter to inform them.
 
+Link for CCA schedule : [2026 CCA schedule](https://for.edu.sg/hips-cca-schedule)
 
 ### <center> 体育运动 <br> Physical Sport </center>
 
