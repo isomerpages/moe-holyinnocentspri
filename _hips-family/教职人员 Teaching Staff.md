@@ -832,7 +832,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:dawn_ng_li_jun@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ng Li Jun Dawn Janner</a>
 </p>
-<p></p>
 <p><a href="mailto:wang-lim_ai_lian@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Wang - Lim Ai Lian</a>
 </p>
 </td>
