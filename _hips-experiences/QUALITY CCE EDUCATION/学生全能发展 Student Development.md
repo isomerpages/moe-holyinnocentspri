@@ -30,7 +30,3 @@ Based on the core department beliefs, the department strives to provide leadersh
 <br>
 
 <img style="width: 70%;" src="/images/SDT2.png" align="center"> 
-
-<br>
-
-<img style="width: 70%;" src="/images/SDT3.png" align="center">
