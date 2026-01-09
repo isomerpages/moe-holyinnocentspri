@@ -11,10 +11,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School information/School_hours.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School information/School_gates.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School information/School_gates.jpg">
 </div>
+<p></p>
 <p>For the safety of your child, please ensure that your child do not alight
 along Lorong Low Koon and Upper Serangoon Road. Adherence to the instructions
 of HIPS traffic wardens to ensure a smooth flow of traffic will be greatly
