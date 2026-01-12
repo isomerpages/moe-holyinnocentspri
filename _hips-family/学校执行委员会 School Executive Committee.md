@@ -22,16 +22,20 @@ variant: markdown
 |<a href="mailto:eng_li_yun_felicia@moe.edu.sg">Mdm Felicia Eng</a><br>School Staff Developer (Covering)|
 ||
 
+<br>
+
 | ENGLISH LANGUAGE|CHINESE LANGUAGE DEPARTMENT|
 | -------- | -------- | 
 |<a href="mailto:neo_kim_sian_pansy@moe.edu.sg">Mrs Pansy Ong</a> (Covering)<br>Head of Department|<a href="mailto:foong_wenfang@moe.edu.sg">Miss Foong Wenfang </a> (冯老师 )<br>Head of Department|
 |<a href="mailto:ng_kuan_hwa@moe.edu.sg">Miss Ng Kuan Hwa</a><br>Level Head|<a href="mailto:tan_hwee_sang@moe.edu.sg">Mdm Tan Hwee Sang</a> (陈老师)<br>Level Head<br><br><a href="mailto:tan_qiu_ling@moe.edu.sg">Mdm Tan Qiu Ling</a> (陈老师)<br>Level Head<br>|
 |||
 
+<br>
+
 | MATHEMATICS DEPARTMENT | SCIENCE DEPARTMENT |
 | -------- | -------- |
 |<a href="mailto:neo_kim_sian_pansy@moe.edu.sg">Mrs Pansy Ong</a><br>Head of Department|<a href="mailto:chua_sze_yi@moe.edu.sg">Mdm Kerin Chua</a><br>Head of Department|
-|<a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg">Mdm Farah Nurhuda Mohmad Isa</a><br>Level Head<br><br><a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan</a><br>Level Head|<a href="mailto:song_zhenying@moe.edu.sg">Mrs Chan Zhenying</a><br>Level Head|
+<a href="mailto:tan_chuyan@moe.edu.sg">Mdm Tan Chuyan</a><br>Level Head|<a href="mailto:song_zhenying@moe.edu.sg">Mrs Chan Zhenying</a><br>Level Head|
 |||
 
 | CHARACTER &amp; CITIZENSHIP<br>EDUCATION (CCE)| STUDENT MANAGEMENT|
@@ -40,17 +44,22 @@ variant: markdown
 |<a href="mailto:lim_lily_a@moe.edu.sg">Mdm Lily Lim</a> (林老师）<br>Subject Head<br> (Student Well-being)<br><br><a href="mailto:mohammad_aizal_zainol@moe.edu.sg">Mr Mohammad Aizal Bin Zainol</a><br>Subject Head<br> (National Education and Social Studies) ||
 |||
 
+<br>
+
 | PE / CCA | AESTHETICS| Special Assistance Plan<br> (SAP) |
 | -------- | -------- | -------- |
 |<a href="mailto:lau_ban_hwee@moe.edu.sg">Mr Lau Ban Hwee</a><br>Head of Department |<a href="mailto:sarah_koh_hui_khoon@moe.edu.sg">Mrs Sarah Lee</a><br>Head of Department| <a href="mailto:ng_wan_jun@moe.edu.sg">Mdm Ng Wan Jun</a> (黄老师) <br>Head of Department|
 |||
 
+<br>
 
-| Information &amp; Communications Technology<br>(ICT)| 
-| -------- | 
+|Information &amp; Communications Technology (ICT)| 
+| :--------: | 
 | <a href="mailto:chua_sze_yi@moe.edu.sg">Mdm Kerin Chua</a><br>Head of Department (Covering) |
-|<a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg">Mdm Farah Nurhuda Mohmad Isa</a><br>Subject Head (Covering)|
+|<a href="mailto:farah_nurhuda_mohmad_isa@moe.edu.sg">Mdm Farah Nurhuda Mohmad Isa</a><br>Subject Head|
 ||
+
+<br>
 
 | |Year Head/ Assistant Year Head||
 |:--------:| :--------: | :--------: |
