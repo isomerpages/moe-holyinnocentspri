@@ -787,7 +787,7 @@ variant: tiptap
 <br>(Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_ying_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Ying Fong</a>
+<p><a href="mailto:tan_ying_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Irene Tan Ying Fong</a>
 <br>(Science)</p>
 </td>
 </tr>
