@@ -8,4 +8,5 @@ variant: markdown
 
 ### Principal's Foreword 2026
 
-![](/images/HIPS%20family/P_message_2025.jpg)
+
+![](/images/Principal%20Message/P_message_2026.png)
