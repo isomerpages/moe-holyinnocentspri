@@ -6,10 +6,9 @@ variant: markdown
 ---
 ## 家长志工团队<br> Parent Support Group
 
-![](/images/HIPS%20PSG%20Group%20Photo.jpg)
 
 The Parent Support Group (PSG) executive committee was first formed in 2000 with a small group of members. Since then, with the strong support and commitment from dedicated parent volunteers, the committee members, Principal, Vice-Principals and the teachers, the committee has grown from strength to strength. Currently, the PSG has 12 committee members.&nbsp;
-
+![](/images/PSG/PSG_2__003_.jpg)
 #### Vision
 
 
@@ -46,13 +45,13 @@ Our logo symbolizes the link between the school and the parents working together
 |**Assistant Treasurer**|Ms Jaslynn Sim|
 |||
 
-<br>
 
 | Commitee Members |  | 
 | -------- | -------- | 
 |  <br> Ms Wendy Tan<br> Ms Yoong Siu Ling|   <br> Ms Christina Wang  <br> Mr Joachim Goh  | 
 |||
 
+![](/images/PSG/PSG_Members__004_.jpg)
 
 
 #### Activities
