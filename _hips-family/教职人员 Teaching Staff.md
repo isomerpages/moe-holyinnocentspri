@@ -222,7 +222,7 @@ variant: tiptap
 </p>
 <p></p>
 <p></p>
-<p><a rel="noopener nofollow" target="_blank">Mdm Ong Si Huei</a>
+<p><a href="mailto: Ong_shi_huei@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ong Si Huei</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -250,7 +250,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener nofollow" target="_blank">Mdm Zhou Mengyuan</a>（周老师)</p>
+<p><a href="mailto:zhou_mengyuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zhou Mengyuan</a>（周老师)</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +274,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shermin_chia_shi_min@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Shermaine Chua Si Min</a>
+<p><a href="mailto:Shermaine_Chua_Si_Min@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Shermaine Chua Si Min</a>
 </p>
 </td>
 </tr>
@@ -330,7 +330,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener nofollow" target="_blank">Miss Low Jing</a> (刘老师）</p>
+<p><a href="mailto:low_jing@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Low Jing</a> (刘老师）</p>
 </td>
 </tr>
 <tr>
@@ -629,7 +629,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener nofollow" target="_blank">Mdm Liu Xiwen</a> (刘老师）</p>
+<p><a href="mailto:liu_xiwen@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Liu Xiwen</a> (刘老师）</p>
 </td>
 </tr>
 <tr>
