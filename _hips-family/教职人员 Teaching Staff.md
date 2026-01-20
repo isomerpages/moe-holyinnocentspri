@@ -366,7 +366,8 @@ variant: tiptap
 <p><a href="mailto:Teh_chin_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teh Chin Han</a>(郑老师)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joanne Tay</p>
+<p><a href="mailto: tay_loo_theng_joanne_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tay Loo Theng Joanne</a>
+</p>
 </td>
 </tr>
 <tr>
