@@ -2,6 +2,7 @@ collections:
   hips-experiences:
     output: true
     order:
+      - ICT/AUP for Use of EdTech Resources.md
       - ICT/资讯科技部门 Information Communication & Technology Department.md
       - ICT/.keep
       - QUALITY TEACHING & LEARNING/.keep
