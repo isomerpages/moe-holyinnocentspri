@@ -135,17 +135,25 @@ including potential inaccuracies / fabricated responses, inherent biases
 and outdated information.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Digital Wellbeing and Balance</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>13.&nbsp; You are reminded to balance screentime with other activities
+including physical exercise and face-to-face social interactions.</p>
+<p></p>
+<p>14.&nbsp; You should avoid excessive use of your devices outside learning
+hours.</p>
+<p></p>
+<p>15.&nbsp; You should take regular breaks to rest your eyes and mind.</p>
+<p></p>
+<p>16.&nbsp; You are reminded to practice good sleep hygiene by not using
+your devices one hour before bedtime.</p>
+</div>
+</details>
 </div>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
-<p><strong>Digital Wellbeing and Balance</strong>
-</p>
-<p>13.&nbsp; You are reminded to balance screentime with other activities
-including physical exercise and face-to-face social interactions.</p>
-<p>&nbsp;</p>
-<p>14.&nbsp; You should avoid excessive use of your devices outside learning
-hours.</p>
-<p>15.&nbsp; You should take regular breaks to rest your eyes and mind.</p>
-<p>16.&nbsp; You are reminded to practice good sleep hygiene by not using
-your devices one hour before bedtime.</p>
+<p></p>
+<p></p>
