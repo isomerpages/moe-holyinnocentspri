@@ -2,9 +2,9 @@ collections:
   hips-family:
     output: true
     order:
-      - 教职人员 Teaching Staff/Primary 1 Form Teachers.md
-      - 教职人员 Teaching Staff/.keep
       - 学校执行委员会 School Executive Committee.md
       - 教职人员 Teaching Staff.md
+      - 教职人员 Teaching Staff/.keep
+      - 教职人员 Teaching Staff/Primary 1 Form Teachers.md
       - 技术辅助人员 Support Staff.md
       - 执行与行政人员 Executive & Administrative Staff.md
