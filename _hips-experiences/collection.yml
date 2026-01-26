@@ -2,6 +2,7 @@ collections:
   hips-experiences:
     output: true
     order:
+      - ICT/资讯科技部门 Information Communication & Technology Department.md
       - ICT/.keep
       - QUALITY TEACHING & LEARNING/.keep
       - QUALITY TEACHING & LEARNING/英文部门 English Language Department.md
