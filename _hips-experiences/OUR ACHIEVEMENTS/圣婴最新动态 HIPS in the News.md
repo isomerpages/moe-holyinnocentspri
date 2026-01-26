@@ -31,7 +31,7 @@ for reproduction.</p>
 </p>
 <p><a target="_blank" href="/files/Wanbao%20(Jan%202013).pdf">Wanbao 5 January 2013</a>
 </p>
-<p><a target="_blank" href="Article_on_Red_Cross_Youthf">The Straits Times 26 January 2013</a>
+<p><a target="_blank" href="/files/Article_on_Red_Cross_Youthf">The Straits Times 26 January 2013</a>
 </p>
 <p><a href="/files/Zaobao%20(Jan%202013).pdf" rel="noopener noreferrer nofollow" target="_blank">Zaobao 26 January 2013</a>
 </p>
