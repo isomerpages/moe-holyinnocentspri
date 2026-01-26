@@ -2,9 +2,6 @@ collections:
   hips-experiences:
     output: true
     order:
-      - ICT/.keep
-      - ICT/资讯科技部门 Information Communication & Technology Department.md
-      - ICT/AUP for Use of EdTech Resources.md
       - QUALITY TEACHING & LEARNING/.keep
       - QUALITY TEACHING & LEARNING/英文部门 English Language Department.md
       - QUALITY TEACHING & LEARNING/华文部门 Chinese Language Department.md
