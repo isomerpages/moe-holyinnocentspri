@@ -16,5 +16,5 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnership in Education/Cyber_wellness.jpg">
 </div>
-<p>For more information: <a href="https://drive.google.com/file/d/1Mfr0lbq_296yeNeA0rJWabTvQAbiBoAr/view?usp=sharin" rel="noopener noreferrer nofollow" target="_blank">Link of information on Cyber Wellness</a>
+<p>For more information: <a href="https://drive.google.com/file/d/1Mfr0lbq_296yeNeA0rJWabTvQAbiBoAr/view?usp=sharin" rel="noopener noreferrer nofollow" target="_blank">Parenting with confidence  - Cyber Wellness</a>
 </p>
