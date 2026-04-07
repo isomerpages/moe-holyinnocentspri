@@ -104,9 +104,6 @@ third_nav_title: 教职人员 Teaching Staff
 <p><a href="mailto:lim_lily_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lily Lim </a>(林老师）</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_magdalene@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Magdalene Tan</a>
-</p>
-<p></p>
 <p><a href="mailto:tang_di_ya@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tang Di Ya</a>
 </p>
 </td>
