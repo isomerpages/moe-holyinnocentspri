@@ -54,7 +54,7 @@ third_nav_title: 教职人员 Teaching Staff
 <p><a href="mailto:ang_jingyi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ang Jingyi</a>(洪老师)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurrul_arif_abdul_rahman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Nurrul Arif Bin Abdul Rahman</a>
+<p><a href="mailto:Ahmad_Fauzan_Mustafa@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ahmad Fauzan Mustafa</a>
 </p>
 </td>
 </tr>
