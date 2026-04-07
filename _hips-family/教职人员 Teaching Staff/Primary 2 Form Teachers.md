@@ -30,7 +30,7 @@ third_nav_title: 教职人员 Teaching Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cherlyn_renee_tay_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tay Hui Ling</a>(郑老师)</p>
+<p><a href="mailto:yang_hanli@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Yang Hanli</a>(杨老师)</p>
 </td>
 </tr>
 <tr>
