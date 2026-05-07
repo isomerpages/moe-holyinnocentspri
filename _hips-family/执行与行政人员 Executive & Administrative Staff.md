@@ -21,5 +21,5 @@ variant: markdown
 | -------- | -------- |
 | Operations Manager 1 |Mr Ang Chee Siong  |
 |Operations Manager 2| Mr Leong Yew Wah |
-|Operations Support Staff|Mr Tan Li Meng <br> Mr Gurcharan Singh <br> Mr Chia Sia Wee <br> Mdm Chan Moi Wah<br>Miss Koh Lee Joo|
+|Operations Support Staff|Mr Tan Li Meng <br> Mr Gurcharan Singh <br> Mr Chia Sia Wee <br>Mr Vincent Phua Kuay leng<br> Mdm Chan Moi Wah<br>Miss Koh Lee Joo|
 |
