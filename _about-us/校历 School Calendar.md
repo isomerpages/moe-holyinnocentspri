@@ -26,5 +26,42 @@ conversation allows parents to gain a clearer understanding of their child’s
 progress, strengths, and areas for development. More details will be shared
 closer to the date.</p>
 <p></p>
+<h4><strong>PSLE Oral Exams and Listening Comprehension 2026</strong></h4>
+<p>Please be informed that school will be closed for Primary 1 to Primary
+5 students on the following dates due to PSLE Oral Exams and Listening
+Comprehension.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Exams</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PSLE Oral Examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 and 13 August 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PSLE Listening Comprehension</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 September 2026</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong><em>All the events are subjected to changes.</em></strong>
 </p>
