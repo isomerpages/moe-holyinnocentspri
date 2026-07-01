@@ -94,6 +94,8 @@ third_nav_title: 教职人员 Teaching Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:luo_jing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Luo Jing</a>(罗老师)</p>
+<p></p>
+<p>Mrs Yun Wan Ni Alysa</p>
 </td>
 </tr>
 <tr>
