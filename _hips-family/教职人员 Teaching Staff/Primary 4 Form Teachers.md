@@ -32,6 +32,9 @@ third_nav_title: 教职人员 Teaching Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mehrunnisa_mohamed_rafi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mehrunnisa Mohammad Rafi</a>
 </p>
+<p></p>
+<p><a href="mailto:lim_yew_hock@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Lim Yew Hock</a>
+</p>
 </td>
 </tr>
 <tr>
