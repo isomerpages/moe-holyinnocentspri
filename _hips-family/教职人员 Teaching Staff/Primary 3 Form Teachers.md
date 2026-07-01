@@ -79,7 +79,7 @@ third_nav_title: 教职人员 Teaching Staff
 <p><a href="mailto:Teh_chin_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teh Chin Han</a>(郑老师)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: tay_loo_theng_joanne_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tay Loo Theng Joanne</a>
+<p><a href="mailto: Isabelle_Cheo_Wen_Ting@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Isabelle Cheo Wen Ting</a>
 </p>
 </td>
 </tr>
