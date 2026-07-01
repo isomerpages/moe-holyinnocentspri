@@ -42,7 +42,7 @@ third_nav_title: 教职人员 Teaching Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tneo_yan_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tneo Yan Peng </a>(张老师)</p>
+<p></p>
 </td>
 </tr>
 <tr>
