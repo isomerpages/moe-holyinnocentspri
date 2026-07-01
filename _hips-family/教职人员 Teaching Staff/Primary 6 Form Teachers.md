@@ -42,7 +42,8 @@ third_nav_title: 教职人员 Teaching Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chu_yunfeng_alex@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chu Yunfeng Alex</a>
+</p>
 </td>
 </tr>
 <tr>
