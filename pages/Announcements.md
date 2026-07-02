@@ -6,19 +6,6 @@ variant: tiptap
 ---
 <h2><strong>Announcements</strong></h2>
 <p></p>
-<h4><strong>Parent-Child-Teacher Conference (PCTC) [28 &amp; 29 May 2026]</strong></h4>
-<p>The Parent Child Teacher Conference (PCTC) for P1 to P6 will be held over
-two days on 28 and 29 May 2026. This session, conducted either face to
-face or online, will involve you, your child, and your child’s Form Teachers.
-During the conference, your child will share his/her learning experiences
-in school, and we seek your support in attending the session together with
-your child. Please note that while there will be no lessons on these two
-days, they will be designated as Blended Learning Days during which students
-will complete home based learning tasks assigned by their teachers. This
-conversation allows parents to gain a clearer understanding of their child’s
-progress, strengths, and areas for development. More details will be shared
-closer to the date.</p>
-<p></p>
 <h4><strong>Racial Harmony Day Celebration [20 July 2026]</strong></h4>
 <p>The school will commemorate Racial Harmony Day on <strong>Monday, 20 July 2026</strong>.
 Anchored on this year’s theme, Our People, Our Tapestry, the commemoration
