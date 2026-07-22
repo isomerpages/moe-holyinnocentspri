@@ -92,7 +92,7 @@ third_nav_title: 教职人员 Teaching Staff
 <p><a href="mailto:soh_siok_lin_carolina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Carolina Soh Siok Lin</a>
 </p>
 <p></p>
-<p><a href="mailto:YUN_WAN_NI_ALYSA@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Yu Wan Ni Alysa</a>
+<p><a href="mailto:YUN_WAN_NI_ALYSA@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Yun Wan Ni Alysa</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
