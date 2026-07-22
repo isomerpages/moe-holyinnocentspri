@@ -28,6 +28,9 @@ third_nav_title: 教职人员 Teaching Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohammad_aizal_zainol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Aizal Bin Zainol</a>
 </p>
+<p></p>
+<p><a href="mailto:leow_hong_ee@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Leow Hong Ee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hou_yin_fatt@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Hou Yin Fatt</a>
