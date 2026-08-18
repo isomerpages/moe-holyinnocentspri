@@ -43,13 +43,3 @@ for reproduction.</p>
 </p>
 <p><a target="_blank" href="/files/Zaobao%20(May%202012).pdf">Zaobao 8 May 2012</a>
 </p>
-<p><strong>2011</strong>
-</p>
-<p><a target="_blank" href="/files/Thumbs%20Up%20(Feb%202011).pdf">Thumbs Up 14 February 2011</a>
-</p>
-<p><strong>2010</strong>
-</p>
-<p><a target="_blank" href="/files/Zaobao%20(Nov%202010).pdf">Zaobao 28 November 2010</a>
-</p>
-<p><a target="_blank" href="/files/Zaobao%20(Dec%202010).pdf">Zaobao 9 December 2010</a>
-</p>

@@ -38,7 +38,7 @@ of the award;</p>
 </ol>
 <p></p>
 <p>We are pleased to inform that the nomination of students from ECHA by
-parents and students will be open from 1 September to 13 September 2026.
+parents and students will be open from 1 September to 15 September 2026.
 Parents and students may download the <a href="https://for.edu.sg/echa-hips" rel="noopener nofollow" target="_blank">nomination form</a>. Your child can
 also obtain the form from the general office on your behalf. Please email
 the completed forms to <a href="mailto:holyinnocentspri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">holyinnocentspri@moe.edu.sg</a>
